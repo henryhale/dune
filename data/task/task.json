@@ -1,0 +1,46 @@
+[
+  {
+    "input": "add task",
+    "output": "CREATE_ITEM"
+  },
+  {
+    "input": "create task",
+    "output": "CREATE_ITEM"
+  },
+  {
+    "input": "new task",
+    "output": "CREATE_ITEM"
+  },
+  {
+    "input": "add item",
+    "output": "CREATE_ITEM"
+  },
+  {
+    "input": "change task",
+    "output": "EDIT_ITEM"
+  },
+  {
+    "input": "edit this task",
+    "output": "EDIT_ITEM"
+  },
+  {
+    "input": "update task",
+    "output": "EDIT_ITEM"
+  },
+  {
+    "input": "modify item",
+    "output": "EDIT_ITEM"
+  },
+  {
+    "input": "delete task",
+    "output": "DELETE_ITEM"
+  },
+  {
+    "input": "remove this item",
+    "output": "DELETE_ITEM"
+  },
+  {
+    "input": "delete this",
+    "output": "DELETE_ITEM"
+  }
+]

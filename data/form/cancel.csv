@@ -1,0 +1,101 @@
+input_variation,output_class
+Undo form,CANCEL_FORM
+Close form,CANCEL_FORM
+Abandon form,CANCEL_FORM
+Exit form,CANCEL_FORM
+Don't save form,CANCEL_FORM
+Clear form data,CANCEL_FORM
+Reset form,CANCEL_FORM
+Discard changes,CANCEL_FORM
+Abort form,CANCEL_FORM
+Go back from form,CANCEL_FORM
+Cancel entry,CANCEL_FORM
+Do not submit,CANCEL_FORM
+Forget form,CANCEL_FORM
+Close without saving,CANCEL_FORM
+Stop form,CANCEL_FORM
+Revert changes,CANCEL_FORM
+Cancel current form,CANCEL_FORM
+Discard all,CANCEL_FORM
+Leave this form,CANCEL_FORM
+Don't proceed with form,CANCEL_FORM
+Empty form,CANCEL_FORM
+Reset all fields,CANCEL_FORM
+Discard input,CANCEL_FORM
+Exit without saving,CANCEL_FORM
+Quit form,CANCEL_FORM
+Undo all,CANCEL_FORM
+Cancel the form,CANCEL_FORM
+Discard the form,CANCEL_FORM
+Leave current form,CANCEL_FORM
+Don't complete form,CANCEL_FORM
+Clear the form,CANCEL_FORM
+Reset the form,CANCEL_FORM
+Discard this form,CANCEL_FORM
+Go back from this form,CANCEL_FORM
+Cancel form submission,CANCEL_FORM
+Do not save,CANCEL_FORM
+Ignore form,CANCEL_FORM
+Close the form,CANCEL_FORM
+Stop working on form,CANCEL_FORM
+Revert the form,CANCEL_FORM
+Cancel form and exit,CANCEL_FORM
+Discard form changes,CANCEL_FORM
+Exit form now,CANCEL_FORM
+Don't submit form,CANCEL_FORM
+Empty the form,CANCEL_FORM
+Reset all form data,CANCEL_FORM
+Discard current form,CANCEL_FORM
+Leave form unsaved,CANCEL_FORM
+Cancel operations,CANCEL_FORM
+Do not save changes,CANCEL_FORM
+Forget the form,CANCEL_FORM
+Close form without saving,CANCEL_FORM
+Stop form processing,CANCEL_FORM
+Revert form to initial state,CANCEL_FORM
+Cancel form and discard,CANCEL_FORM
+Discard all entries,CANCEL_FORM
+Leave the form,CANCEL_FORM
+Don't go through with form,CANCEL_FORM
+Clear form entirely,CANCEL_FORM
+Reset form completely,CANCEL_FORM
+Discard entry,CANCEL_FORM
+Exit and don't save,CANCEL_FORM
+Quit current form,CANCEL_FORM
+Undo form entry,CANCEL_FORM
+Cancel this form,CANCEL_FORM
+Discard current changes,CANCEL_FORM
+Leave this form now,CANCEL_FORM
+Don't finalize form,CANCEL_FORM
+Clear form content,CANCEL_FORM
+Reset form data,CANCEL_FORM
+Discard all changes,CANCEL_FORM
+Exit without submitting,CANCEL_FORM
+Quit without saving,CANCEL_FORM
+Undo form changes,CANCEL_FORM
+Cancel form and close,CANCEL_FORM
+Discard the current form,CANCEL_FORM
+Leave without saving,CANCEL_FORM
+Don't save and exit,CANCEL_FORM
+Empty current form,CANCEL_FORM
+Reset specific form,CANCEL_FORM
+Discard inputs,CANCEL_FORM
+Exit this form,CANCEL_FORM
+Stop current form,CANCEL_FORM
+Revert and close form,CANCEL_FORM
+Cancel form data,CANCEL_FORM
+Discard the input,CANCEL_FORM
+Leave form without saving changes,CANCEL_FORM
+Don't accept form,CANCEL_FORM
+Clear input form,CANCEL_FORM
+Reset the current form,CANCEL_FORM
+Discard all form data,CANCEL_FORM
+Exit the form,CANCEL_FORM
+Revert form,CANCEL_FORM
+Revert this form,CANCEL_FORM
+Cancel form,CANCEL_FORM
+Cancel this form,CANCEL_FORM
+Discard form,CANCEL_FORM
+Discard this form,CANCEL_FORM
+Leave form,CANCEL_FORM
+Leave this form,CANCEL_FORM

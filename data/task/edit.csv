@@ -1,0 +1,101 @@
+input_variation,output_class
+Alter item,EDIT_ITEM
+Edit the item,EDIT_ITEM
+Update item,EDIT_ITEM
+Modify this item,EDIT_ITEM
+Adjust item,EDIT_ITEM
+Revise item,EDIT_ITEM
+Change item,EDIT_ITEM
+Edit current item,EDIT_ITEM
+Amend item,EDIT_ITEM
+Correct item,EDIT_ITEM
+Update this item,EDIT_ITEM
+Modify the item,EDIT_ITEM
+Edit selected item,EDIT_ITEM
+Change current item,EDIT_ITEM
+Alter the item,EDIT_ITEM
+Revise the item,EDIT_ITEM
+Update current item,EDIT_ITEM
+Modify this item,EDIT_ITEM
+Adjust the item,EDIT_ITEM
+Correct the item,EDIT_ITEM
+Edit this item,EDIT_ITEM
+Change the item,EDIT_ITEM
+Amend the item,EDIT_ITEM
+Update selected item,EDIT_ITEM
+Modify the item,EDIT_ITEM
+Edit the item,EDIT_ITEM
+Change specific item,EDIT_ITEM
+Alter selected item,EDIT_ITEM
+Revise selected item,EDIT_ITEM
+Update specific item,EDIT_ITEM
+Modify the current item,EDIT_ITEM
+Adjust this item,EDIT_ITEM
+Correct this item,EDIT_ITEM
+Edit a item,EDIT_ITEM
+Change this item,EDIT_ITEM
+Amend the item,EDIT_ITEM
+Update the item,EDIT_ITEM
+Modify selected item,EDIT_ITEM
+Adjust selected item,EDIT_ITEM
+Correct selected item,EDIT_ITEM
+Edit current item,EDIT_ITEM
+Change the item,EDIT_ITEM
+Alter specific item,EDIT_ITEM
+Revise the current item,EDIT_ITEM
+Update specific item,EDIT_ITEM
+Modify the displayed item,EDIT_ITEM
+Adjust the current item,EDIT_ITEM
+Correct the current item,EDIT_ITEM
+Edit selected item,EDIT_ITEM
+Change the current item,EDIT_ITEM
+Amend selected item,EDIT_ITEM
+Update the item,EDIT_ITEM
+Modify a item,EDIT_ITEM
+Adjust current item,EDIT_ITEM
+Correct current item,EDIT_ITEM
+Edit the active item,EDIT_ITEM
+Change the selected item,EDIT_ITEM
+Alter the current item,EDIT_ITEM
+Revise current item,EDIT_ITEM
+Update the current item,EDIT_ITEM
+Modify the active item,EDIT_ITEM
+Adjust selected item,EDIT_ITEM
+Correct the selected item,EDIT_ITEM
+Edit the current item,EDIT_ITEM
+Change the active item,EDIT_ITEM
+Amend current item,EDIT_ITEM
+Update the selected item,EDIT_ITEM
+Modify the current item,EDIT_ITEM
+Adjust the active item,EDIT_ITEM
+Correct the active item,EDIT_ITEM
+Edit active item,EDIT_ITEM
+Change the displayed item,EDIT_ITEM
+Alter the selected item,EDIT_ITEM
+Revise specific item,EDIT_ITEM
+Update active item,EDIT_ITEM
+Modify specific item,EDIT_ITEM
+Adjust the displayed item,EDIT_ITEM
+Correct specific item,EDIT_ITEM
+Edit the highlighted item,EDIT_ITEM
+Change the active item,EDIT_ITEM
+Amend the selected item,EDIT_ITEM
+Update the active item,EDIT_ITEM
+Modify the highlighted item,EDIT_ITEM
+Adjust specific item,EDIT_ITEM
+Correct the displayed item,EDIT_ITEM
+Edit the displayed item,EDIT_ITEM
+Change the specific item,EDIT_ITEM
+Alter the active item,EDIT_ITEM
+Revise the displayed item,EDIT_ITEM
+Update highlighted item,EDIT_ITEM
+Modify the current entry,EDIT_ITEM
+Adjust the highlighted item,EDIT_ITEM
+Correct active item,EDIT_ITEM
+Edit the currently open item,EDIT_ITEM
+Change this entry,EDIT_ITEM
+Change item,EDIT_ITEM
+Edit this item,EDIT_ITEM
+Update item,EDIT_ITEM
+Modify item,EDIT_ITEM
+Modify that item,EDIT_ITEM

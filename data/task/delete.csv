@@ -1,0 +1,101 @@
+input_variation,output_class
+Erase item,DELETE_ITEM
+Remove item,DELETE_ITEM
+Delete the item,DELETE_ITEM
+Clear item,DELETE_ITEM
+Discard item,DELETE_ITEM
+Take out item,DELETE_ITEM
+Delete current item,DELETE_ITEM
+Remove this item,DELETE_ITEM
+Eliminate item,DELETE_ITEM
+Wipe item,DELETE_ITEM
+Delete selected item,DELETE_ITEM
+Remove current item,DELETE_ITEM
+Get rid of item,DELETE_ITEM
+Delete this entry,DELETE_ITEM
+Erase item,DELETE_ITEM
+Remove the item,DELETE_ITEM
+Delete the item,DELETE_ITEM
+Clear item,DELETE_ITEM
+Discard item,DELETE_ITEM
+Take out item,DELETE_ITEM
+Delete specified item,DELETE_ITEM
+Remove specified item,DELETE_ITEM
+Eliminate item,DELETE_ITEM
+Wipe item,DELETE_ITEM
+Delete selected item,DELETE_ITEM
+Remove the item,DELETE_ITEM
+Get rid of item,DELETE_ITEM
+Delete entry,DELETE_ITEM
+Erase current item,DELETE_ITEM
+Remove current item,DELETE_ITEM
+Delete the current item,DELETE_ITEM
+Clear current item,DELETE_ITEM
+Discard current item,DELETE_ITEM
+Take out current item,DELETE_ITEM
+Delete specific item,DELETE_ITEM
+Remove selected item,DELETE_ITEM
+Eliminate current item,DELETE_ITEM
+Wipe current item,DELETE_ITEM
+Delete active item,DELETE_ITEM
+Remove selected item,DELETE_ITEM
+Get rid of current item,DELETE_ITEM
+Delete the entry,DELETE_ITEM
+Erase selected item,DELETE_ITEM
+Remove this entry,DELETE_ITEM
+Delete current entry,DELETE_ITEM
+Clear selected item,DELETE_ITEM
+Discard selected item,DELETE_ITEM
+Take out this item,DELETE_ITEM
+Delete this specific item,DELETE_ITEM
+Remove the specific item,DELETE_ITEM
+Eliminate selected item,DELETE_ITEM
+Wipe selected item,DELETE_ITEM
+Delete active item,DELETE_ITEM
+Remove the active item,DELETE_ITEM
+Get rid of selected item,DELETE_ITEM
+Delete the current record,DELETE_ITEM
+Erase current entry,DELETE_ITEM
+Remove this record,DELETE_ITEM
+Delete this record,DELETE_ITEM
+Clear selected item,DELETE_ITEM
+Discard the specific item,DELETE_ITEM
+Take out selected item,DELETE_ITEM
+Delete specific item,DELETE_ITEM
+Remove the chosen item,DELETE_ITEM
+Eliminate current item,DELETE_ITEM
+Wipe this item,DELETE_ITEM
+Delete the displayed item,DELETE_ITEM
+Remove the highlighted item,DELETE_ITEM
+Get rid of this item,DELETE_ITEM
+Delete this item now,DELETE_ITEM
+Erase the item,DELETE_ITEM
+Remove that item,DELETE_ITEM
+Delete the highlighted item,DELETE_ITEM
+Clear the item,DELETE_ITEM
+Discard the current item,DELETE_ITEM
+Take out this item,DELETE_ITEM
+Delete current entry please,DELETE_ITEM
+Remove the displayed item,DELETE_ITEM
+Eliminate this item,DELETE_ITEM
+Wipe the item,DELETE_ITEM
+Delete this selected item,DELETE_ITEM
+Remove this specific item,DELETE_ITEM
+Get rid of the item,DELETE_ITEM
+Delete entry now,DELETE_ITEM
+Erase the item,DELETE_ITEM
+Remove the active item,DELETE_ITEM
+Delete the currently displayed item,DELETE_ITEM
+Clear the item,DELETE_ITEM
+Discard the highlighted item,DELETE_ITEM
+Take out the specific item,DELETE_ITEM
+Delete this item forever,DELETE_ITEM
+Remove the entry,DELETE_ITEM
+Eliminate the item,DELETE_ITEM
+Wipe out this item,DELETE_ITEM
+Delete the highlighted item,DELETE_ITEM
+Remove the particular item,DELETE_ITEM
+Get rid of this entry,DELETE_ITEM
+Delete the instance,DELETE_ITEM
+Remove this item,DELETE_ITEM
+Delete,DELETE_ITEM

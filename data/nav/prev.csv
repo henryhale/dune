@@ -1,0 +1,101 @@
+input_variation,output_class
+Show previous,PREVIOUS_ITEM
+Go back one item,PREVIOUS_ITEM
+Move up,PREVIOUS_ITEM
+Display previous item,PREVIOUS_ITEM
+Navigate to previous,PREVIOUS_ITEM
+Last one,PREVIOUS_ITEM
+Return to previous item,PREVIOUS_ITEM
+Scroll up,PREVIOUS_ITEM
+Go to the one before,PREVIOUS_ITEM
+Backward,PREVIOUS_ITEM
+Show me the previous item,PREVIOUS_ITEM
+Move to previous,PREVIOUS_ITEM
+Prior,PREVIOUS_ITEM
+Back,PREVIOUS_ITEM
+Previous entry,PREVIOUS_ITEM
+Go back a step,PREVIOUS_ITEM
+Up one,PREVIOUS_ITEM
+Go to the last item,PREVIOUS_ITEM
+Former item,PREVIOUS_ITEM
+Back one,PREVIOUS_ITEM
+Show the item before,PREVIOUS_ITEM
+Move to the item above,PREVIOUS_ITEM
+Prev,PREVIOUS_ITEM
+Go to the prior item,PREVIOUS_ITEM
+Preceding item,PREVIOUS_ITEM
+Display the last item,PREVIOUS_ITEM
+Take me to the previous,PREVIOUS_ITEM
+Move up one,PREVIOUS_ITEM
+Before,PREVIOUS_ITEM
+One back,PREVIOUS_ITEM
+Previous record,PREVIOUS_ITEM
+Go to prior,PREVIOUS_ITEM
+Show the item preceding this,PREVIOUS_ITEM
+Move to the item that came before,PREVIOUS_ITEM
+Get previous,PREVIOUS_ITEM
+Show me the one before,PREVIOUS_ITEM
+Earlier item,PREVIOUS_ITEM
+Backwards,PREVIOUS_ITEM
+Go to the item just before,PREVIOUS_ITEM
+Previous selection,PREVIOUS_ITEM
+Show the last,PREVIOUS_ITEM
+Move up a notch,PREVIOUS_ITEM
+The one before,PREVIOUS_ITEM
+Go back an item,PREVIOUS_ITEM
+Previous page,PREVIOUS_ITEM
+Display the preceding,PREVIOUS_ITEM
+Navigate backward,PREVIOUS_ITEM
+Up a level,PREVIOUS_ITEM
+Prior record,PREVIOUS_ITEM
+Step back,PREVIOUS_ITEM
+Show prior item,PREVIOUS_ITEM
+Move to the earlier item,PREVIOUS_ITEM
+Go back to the last one,PREVIOUS_ITEM
+Previous choice,PREVIOUS_ITEM
+Display the previous entry,PREVIOUS_ITEM
+Take me back to the previous,PREVIOUS_ITEM
+Scroll back,PREVIOUS_ITEM
+Go up,PREVIOUS_ITEM
+Show me the previous selection,PREVIOUS_ITEM
+The item before this one,PREVIOUS_ITEM
+Go to the last displayed item,PREVIOUS_ITEM
+Move backward,PREVIOUS_ITEM
+Previous element,PREVIOUS_ITEM
+Back to the previous,PREVIOUS_ITEM
+Show the item that was before,PREVIOUS_ITEM
+Move to the former item,PREVIOUS_ITEM
+Go back to previous item,PREVIOUS_ITEM
+Up arrow,PREVIOUS_ITEM
+Previous context,PREVIOUS_ITEM
+Display the last viewed item,PREVIOUS_ITEM
+Go to the earlier one,PREVIOUS_ITEM
+Show previous record,PREVIOUS_ITEM
+Move to the item immediately before,PREVIOUS_ITEM
+Preceding element,PREVIOUS_ITEM
+Go back to a prior item,PREVIOUS_ITEM
+One item up,PREVIOUS_ITEM
+Previous instance,PREVIOUS_ITEM
+Show the item prior,PREVIOUS_ITEM
+Move to the preceding item,PREVIOUS_ITEM
+Jump to previous,PREVIOUS_ITEM
+Go to the previous entry,PREVIOUS_ITEM
+Back a slide,PREVIOUS_ITEM
+Show the element before,PREVIOUS_ITEM
+Move to the older item,PREVIOUS_ITEM
+Go to last,PREVIOUS_ITEM
+Back arrow,PREVIOUS_ITEM
+Previous entry in the list,PREVIOUS_ITEM
+Display the previous instance,PREVIOUS_ITEM
+Go to the item before this,PREVIOUS_ITEM
+Show previous view,PREVIOUS_ITEM
+Move up in the list,PREVIOUS_ITEM
+Prior one,PREVIOUS_ITEM
+Previous object,PREVIOUS_ITEM
+Go to the preceding,PREVIOUS_ITEM
+Show the object before,PREVIOUS_ITEM
+Previous,ITEM_PREV
+Previous item,ITEM_PREV
+Previous record,ITEM_PREV
+Up,ITEM_PREV
+Go to previous item,ITEM_PREV

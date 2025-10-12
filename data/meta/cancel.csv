@@ -1,0 +1,101 @@
+input_variation,output_class
+Negative,CANCEL
+Don't do that,CANCEL
+Cancel that,CANCEL
+Hold on,CANCEL
+Not really,CANCEL
+Undo,CANCEL
+No thank you,CANCEL
+Forget it,CANCEL
+Cease,CANCEL
+Disregard,CANCEL
+I've changed my mind,CANCEL
+Back out,CANCEL
+No stop,CANCEL
+Abort,CANCEL
+Withdraw,CANCEL
+Decline,CANCEL
+I don't want that,CANCEL
+Hold off,CANCEL
+Don't proceed,CANCEL
+Nullify,CANCEL
+Reverse that,CANCEL
+No more,CANCEL
+Cut it out,CANCEL
+Retract,CANCEL
+Invalidate,CANCEL
+I'm not interested,CANCEL
+Hold everything,CANCEL
+Stop that action,CANCEL
+Scrap that,CANCEL
+Countermand,CANCEL
+Take it back,CANCEL
+Not doing it,CANCEL
+Halt,CANCEL
+Cancel the operation,CANCEL
+Forget about it,CANCEL
+Recant,CANCEL
+I disagree,CANCEL
+Stand by,CANCEL
+Terminate,CANCEL
+Call it off,CANCEL
+Set aside,CANCEL
+Don't bother,CANCEL
+No wait,CANCEL
+Cancel command,CANCEL
+Give up,CANCEL
+Reject,CANCEL
+I'll pass,CANCEL
+Wait,CANCEL
+End,CANCEL
+Put a stop to it,CANCEL
+Dismiss,CANCEL
+I'm not going forward,CANCEL
+Cancel the request,CANCEL
+Freeze,CANCEL
+No that's wrong,CANCEL
+Quit,CANCEL
+Revoke,CANCEL
+Don't continue,CANCEL
+Pause,CANCEL
+Stop everything,CANCEL
+Overturn,CANCEL
+I'm pulling back,CANCEL
+Cancel this,CANCEL
+Deactivate,CANCEL
+I don't approve,CANCEL
+Hold it,CANCEL
+Discontinue,CANCEL
+Annul,CANCEL
+I changed my mind,CANCEL
+Cancel the action,CANCEL
+Don't execute,CANCEL
+Block,CANCEL
+Refuse,CANCEL
+Not now,CANCEL
+Put a halt to it,CANCEL
+Veto,CANCEL
+I don't want to proceed,CANCEL
+Cancel current action,CANCEL
+Cut,CANCEL
+Pull the plug,CANCEL
+I don't think so,CANCEL
+Hold the line,CANCEL
+Desist,CANCEL
+Rescind,CANCEL
+No abort,CANCEL
+Ignore that,CANCEL
+Do not proceed,CANCEL
+Cancel transaction,CANCEL
+Cease and desist,CANCEL
+I'm backing out,CANCEL
+Don't run that,CANCEL
+Cancel this operation,CANCEL
+I don't want this,CANCEL
+Stop what you're doing,CANCEL
+Forget the last thing,CANCEL
+No,CANCEL
+Nope,CANCEL
+Never mind,CANCEL
+Stop,CANCEL
+Stop it,CANCEL
