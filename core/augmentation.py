@@ -1,13 +1,14 @@
 import random
 import pandas
+import nltk
 from nltk.corpus import wordnet
 
-# download wordnet
-# >> import nltk
-# >> nltk.download('wordnet')
-
-
 def synonym_augment(text_str, num_replacements=2):
+    try:
+        nltk.data.find('corpora/wordnet')
+    except LookupError:
+        nltk.download('wordnet')
+
     words = text_str.split()
     for _ in range(num_replacements):
         idx = random.randint(0, len(words) - 1)
@@ -21,12 +22,11 @@ def synonym_augment(text_str, num_replacements=2):
 
 def augment_data(df: pandas.DataFrame, variations=4):
     augmented = []
-    for i in range(len(df["input_variation"])):
-        text = df["input_variation"][i]
-        label = df["output_class"][i]
+    for i in range(len(df["text"])):
+        text = df["text"][i]
+        label = df["label"][i]
         augmented.append((text, label))
         for _ in range(variations):  # generate n variations per sample
             augmented.append((synonym_augment(text), label))
-    ndf = pandas.DataFrame(augmented)
-    ndf.columns = ['text', 'label']
+    ndf = pandas.DataFrame(augmented, columns=['text', 'label'])
     return ndf

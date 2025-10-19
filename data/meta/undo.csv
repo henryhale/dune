@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Go back,UNDO
 Reverse,UNDO
 Un-do that,UNDO

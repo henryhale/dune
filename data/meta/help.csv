@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 I need assistance,HELP
 Can you provide some guidance?,HELP
 What are your functionalities?,HELP

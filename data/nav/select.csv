@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Pick this,SELECT_ITEM
 Choose task,SELECT_ITEM
 Select the item,SELECT_ITEM
@@ -95,7 +95,7 @@ Click on the highlighted item,SELECT_ITEM
 Select this option to activate,SELECT_ITEM
 Toggle the data,SELECT_ITEM
 Choose this one,SELECT_ITEM
-Click this item,ITEM_SELECT
-Select item,ITEM_SELECT
-Toggle,ITEM_SELECT
-Select,ITEM_SELECT
+Click this item,SELECT_ITEM
+Select item,SELECT_ITEM
+Toggle,SELECT_ITEM
+Select,SELECT_ITEM

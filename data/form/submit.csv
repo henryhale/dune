@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Send data,SUBMIT_FORM
 Send form,SUBMIT_FORM
 Finished,SUBMIT_FORM

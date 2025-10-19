@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Input text,FILL_FIELD
 Put text in,FILL_FIELD
 Enter data,FILL_FIELD

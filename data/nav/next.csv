@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Show next,NEXT_ITEM
 Go forward one item,NEXT_ITEM
 Move down,NEXT_ITEM
@@ -94,8 +94,8 @@ Next one please,NEXT_ITEM
 Next object,NEXT_ITEM
 Go to the following,NEXT_ITEM
 Show the object after,NEXT_ITEM
-Next,ITEM_NEXT
-Next item,ITEM_NEXT
-Down,ITEM_NEXT
-Go next,ITEM_NEXT
-Proced to the next,ITEM_NEXT
+Next,NEXT_ITEM
+Next item,NEXT_ITEM
+Down,NEXT_ITEM
+Go next,NEXT_ITEM
+Proced to the next,NEXT_ITEM

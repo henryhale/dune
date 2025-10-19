@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Say again,REPEAT
 Execute again,REPEAT
 Run it back,REPEAT

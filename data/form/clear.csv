@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Empty input,CLEAR_FIELD
 Clear text,CLEAR_FIELD
 Reset field,CLEAR_FIELD

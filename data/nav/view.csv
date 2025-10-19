@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Display details,VIEW_ITEM
 Show me item information,VIEW_ITEM
 Look at item,VIEW_ITEM
@@ -93,9 +93,9 @@ Show me the details of this item,VIEW_ITEM
 Open the item view,VIEW_ITEM
 Give details about this task,VIEW_ITEM
 Show properties of item,VIEW_ITEM
-View details,ITEM_VIEW
-Show item details,ITEM_VIEW
-View item,ITEM_VIEW
-Display item,ITEM_VIEW
-View this task,ITEM_VIEW
-View more details,ITEM_VIEW
+View details,VIEW_ITEM
+Show item details,VIEW_ITEM
+View item,VIEW_ITEM
+Display item,VIEW_ITEM
+View this task,VIEW_ITEM
+View more details,VIEW_ITEM

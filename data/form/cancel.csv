@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Undo form,CANCEL_FORM
 Close form,CANCEL_FORM
 Abandon form,CANCEL_FORM

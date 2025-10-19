@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Negative,CANCEL
 Don't do that,CANCEL
 Cancel that,CANCEL

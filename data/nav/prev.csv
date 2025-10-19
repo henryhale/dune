@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Show previous,PREVIOUS_ITEM
 Go back one item,PREVIOUS_ITEM
 Move up,PREVIOUS_ITEM
@@ -94,8 +94,8 @@ Prior one,PREVIOUS_ITEM
 Previous object,PREVIOUS_ITEM
 Go to the preceding,PREVIOUS_ITEM
 Show the object before,PREVIOUS_ITEM
-Previous,ITEM_PREV
-Previous item,ITEM_PREV
-Previous record,ITEM_PREV
-Up,ITEM_PREV
-Go to previous item,ITEM_PREV
+Previous,PREVIOUS_ITEM
+Previous item,PREVIOUS_ITEM
+Previous record,PREVIOUS_ITEM
+Up,PREVIOUS_ITEM
+Go to previous item,PREVIOUS_ITEM

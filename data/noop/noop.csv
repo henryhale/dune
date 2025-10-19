@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 What's the forecast?,NOOP
 Sing me a song,NOOP
 Good morning,NOOP

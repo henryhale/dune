@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Elaborate on the item,EXPLAIN
 What's the function of this?,EXPLAIN
 Clarify this command,EXPLAIN

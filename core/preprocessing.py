@@ -19,7 +19,7 @@ def validate_samples(data_dir, sample_size=100):
                 filepath = os.path.join(root, file)
                 # print(f"found: {filepath}")
                 tmp_df = pandas.read_csv(filepath)
-                lines = len(tmp_df.input_variation)
+                lines = len(tmp_df.text)
                 if lines != sample_size:
                     size_dict.append((filepath, lines))
                 # print(f"merging... lines: {lines}")

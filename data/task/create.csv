@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Make item,CREATE_ITEM
 Generate item,CREATE_ITEM
 Form new item,CREATE_ITEM

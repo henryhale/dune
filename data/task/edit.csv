@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Alter item,EDIT_ITEM
 Edit the item,EDIT_ITEM
 Update item,EDIT_ITEM

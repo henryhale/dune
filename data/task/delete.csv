@@ -1,4 +1,4 @@
-input_variation,output_class
+text,label
 Erase item,DELETE_ITEM
 Remove item,DELETE_ITEM
 Delete the item,DELETE_ITEM
