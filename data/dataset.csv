@@ -694,11 +694,11 @@ Next one please,NEXT_ITEM
 Next object,NEXT_ITEM
 Go to the following,NEXT_ITEM
 Show the object after,NEXT_ITEM
-Next,ITEM_NEXT
-Next item,ITEM_NEXT
-Down,ITEM_NEXT
-Go next,ITEM_NEXT
-Proced to the next,ITEM_NEXT
+Next,NEXT_ITEM
+Next item,NEXT_ITEM
+Down,NEXT_ITEM
+Go next,NEXT_ITEM
+Proced to the next,NEXT_ITEM
 Show previous,PREVIOUS_ITEM
 Go back one item,PREVIOUS_ITEM
 Move up,PREVIOUS_ITEM
@@ -794,11 +794,11 @@ Prior one,PREVIOUS_ITEM
 Previous object,PREVIOUS_ITEM
 Go to the preceding,PREVIOUS_ITEM
 Show the object before,PREVIOUS_ITEM
-Previous,ITEM_PREV
-Previous item,ITEM_PREV
-Previous record,ITEM_PREV
-Up,ITEM_PREV
-Go to previous item,ITEM_PREV
+Previous,PREVIOUS_ITEM
+Previous item,PREVIOUS_ITEM
+Previous record,PREVIOUS_ITEM
+Up,PREVIOUS_ITEM
+Go to previous item,PREVIOUS_ITEM
 Display details,VIEW_ITEM
 Show me item information,VIEW_ITEM
 Look at item,VIEW_ITEM
@@ -893,12 +893,12 @@ Show me the details of this item,VIEW_ITEM
 Open the item view,VIEW_ITEM
 Give details about this task,VIEW_ITEM
 Show properties of item,VIEW_ITEM
-View details,ITEM_VIEW
-Show item details,ITEM_VIEW
-View item,ITEM_VIEW
-Display item,ITEM_VIEW
-View this task,ITEM_VIEW
-View more details,ITEM_VIEW
+View details,VIEW_ITEM
+Show item details,VIEW_ITEM
+View item,VIEW_ITEM
+Display item,VIEW_ITEM
+View this task,VIEW_ITEM
+View more details,VIEW_ITEM
 Access,GO_TO
 Change page,GO_TO
 Open new tab,GO_TO
@@ -1095,10 +1095,10 @@ Click on the highlighted item,SELECT_ITEM
 Select this option to activate,SELECT_ITEM
 Toggle the data,SELECT_ITEM
 Choose this one,SELECT_ITEM
-Click this item,ITEM_SELECT
-Select item,ITEM_SELECT
-Toggle,ITEM_SELECT
-Select,ITEM_SELECT
+Click this item,SELECT_ITEM
+Select item,SELECT_ITEM
+Toggle,SELECT_ITEM
+Select,SELECT_ITEM
 Return,GO_BACK
 Navigate back,GO_BACK
 Go to previous screen,GO_BACK
