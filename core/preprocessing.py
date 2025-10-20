@@ -2,6 +2,9 @@ from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 import os
 import re
 import pandas
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from nltk.tokenize import word_tokenize
 
 
 def validate_samples(data_dir, sample_size=100):
@@ -33,21 +36,28 @@ def validate_samples(data_dir, sample_size=100):
             print(f"> {f[0]} - {f[1]}")
     else:
         print("All classes are valid.")
-        # df.rename(columns={"input_variation": "text", "output_class": "label"})
         df.to_csv(os.path.join(data_dir, "dataset.csv"), index=None)
 
+stop_words = set(stopwords.words("english"))
+lemmatizer = WordNetLemmatizer()
 
-def clean_text(text):
+def preprocess_text(text):
     """
     Clean text input - preparing it for vectorization & reduce noise
     - tokenization
     - lowercasing
     - stopword removal
     """
-    # change to lowercase
+    # convert all text to lowercase
     text = text.lower()
-    # remove punctuation, symbols and numbers
+    # remove special characters and numbers to simplify vocabulary
     text = re.sub(r"[^a-z\s]", "", text)
-    # remove stop words
-    tokens = [word for word in text.split() if word not in ENGLISH_STOP_WORDS]
+    # break down text into individual words
+    tokens = word_tokenize(text)
+    # remove stopwords(irrelevant words like 'is', 'the', 'a')
+    tokens = [word for word in tokens if word not in stop_words]
+    # reduce words to their base or root form like 'running' to 'run'
+    # this reduces vocabulary size and treat different inflections of a word as the same
+    tokens = [lemmatizer.lemmatize(word) for word in tokens]
+
     return " ".join(tokens)
