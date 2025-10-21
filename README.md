@@ -1,3 +1,9 @@
+<div align=center>
+
+# dune
+🏜️ Navigate the landscape of user intent by shifting language into action. 
+
+</div>
 
 ### Context
 I am building an AI driven application that consists of;
@@ -32,15 +38,17 @@ Generated 4 samples per class manually. Then used Google Gemini to generate more
 
 ### Augmentation
 
-- Current dataset: ~4-5 samples per class (120 total samples / 25 classes).
+- Current dataset: 5 samples per class (120 total samples / 25 classes).
 - To improve: Apply augmentation 60-100x per original sample to get to ~300-500 per class. 
-This ensures your scikit-learn model has enough diverse examples to learn robust patterns for each command.
+This ensures the model has enough diverse examples to learn robust patterns for each command.
 
-Use data augmentation techniques (synonyms, paraphrasing) to expand this to 300-500 samples per class.
+TODO: Use data augmentation techniques (synonyms, paraphrasing) to expand this to 300-500 samples per class.
 
 ### Training
-
-- Train with TF-IDF + Logistic Regression in scikit-learn.
+The following are some of the approaches to building a classification model entirely using scikit-learn;
+1. TF-IDF + Multinomial Naive Bayes
+2. TF-IDF + LinearSVC(Support Vector Classifier)
+>Currently using option 1
 
 ### NOOP
 
