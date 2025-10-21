@@ -5,6 +5,8 @@
 
 </div>
 
+>:warning: this project is under development.
+
 ### Context
 I am building an AI driven application that consists of;
 - Text to command model (receives user input and outputs a predefined command to execute)
@@ -20,6 +22,8 @@ the server. The app receives a response, sends it to the command execution engin
 
 For the MVP demo, consider a multi tab TODO app; `home`, `settings`, `new item form`, `items list`.
 Meta conversation commands like `help`, `confirm`, `repeat`, and `explain` are included.
+
+>More details can be found in the [notebooks](./notebooks/) folder.
 
 ### Commands
 
