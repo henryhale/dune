@@ -1858,7 +1858,7 @@ Run the command again after undoing,REDO
 Redo the action that was reverted,REDO
 Bring back the last action,REDO
 Redo the command I just undid,REDO
-"Revert the ""undo""",REDO
+Revert the undo,REDO
 Redo last action,REDO
 Bring back the last input,REDO
 Redo the input,REDO
