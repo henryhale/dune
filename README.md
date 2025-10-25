@@ -9,6 +9,7 @@
 
 ### Context
 I am building an AI driven application that consists of;
+
 - Text to command model (receives user input and outputs a predefined command to execute)
 - Basic TODO App (a simple web app in which input is obtained and the commands will be executed)
 - Command Execution Engine (a client side tool to manage model execution and state like intent, confirmation and client side needs like navigation that a user would otherwise do themselves)

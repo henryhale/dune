@@ -2199,3 +2199,2203 @@ Explain item,EXPLAIN
 What does it do,EXPLAIN
 Explain that command,EXPLAIN
 How do i do that?,EXPLAIN
+show me options,HELP
+i need some assistance,HELP
+what should i do,HELP
+guide me here,HELP
+can you assist,HELP
+tell me how to,HELP
+what commands are there,HELP
+help with this,HELP
+explain my choices,HELP
+how can i proceed,HELP
+i require help,HELP
+give me instructions,HELP
+what are the steps,HELP
+show general help,HELP
+provide guidance,HELP
+need directions,HELP
+where do i go,HELP
+what now,HELP
+clarify the usage,HELP
+teach me this,HELP
+need support please,HELP
+show me the way,HELP
+what's next for me,HELP
+can someone help,HELP
+how does this work,HELP
+what are functions,HELP
+list all actions,HELP
+help me understand,HELP
+assist me please,HELP
+i'm confused help,HELP
+show me available,HELP
+what are my tools,HELP
+help with program,HELP
+how to operate,HELP
+tell me about usage,HELP
+give me a hand,HELP
+what are controls,HELP
+explain controls,HELP
+user help please,HELP
+where to begin,HELP
+show general features,HELP
+what can this app do,HELP
+teach me functions,HELP
+show system help,HELP
+guide my interaction,HELP
+help navigate,HELP
+show me functions,HELP
+i am lost help,HELP
+whats possible,HELP
+general help section,HELP
+please help me out,HELP
+show me commands now,HELP
+how this works,HELP
+give me the manual,HELP
+whats the purpose,HELP
+assist with task,HELP
+help with input,HELP
+show available options,HELP
+where to click,HELP
+show all help,HELP
+need general assistance,HELP
+how do i use,HELP
+explain application,HELP
+tell me features,HELP
+show user guide,HELP
+what do i choose,HELP
+how does it function,HELP
+help me with this task,HELP
+show me all functions,HELP
+what does it do,HELP
+i need directions,HELP
+show current help,HELP
+general usage guide,HELP
+help with program usage,HELP
+show me actions,HELP
+what are all the things,HELP
+please tell me what,HELP
+show me the way around,HELP
+help with application,HELP
+what can i interact with,HELP
+i need guidance,HELP
+show me instructions,HELP
+what can i explore,HELP
+how do i manage,HELP
+show me possibilities,HELP
+give me context,HELP
+help with operations,HELP
+show general usage,HELP
+tell me commands,HELP
+how do i proceed,HELP
+what can i achieve,HELP
+help to learn,HELP
+show me basic help,HELP
+where can i learn,HELP
+help for new user,HELP
+yes please,CONFIRM
+confirm the action,CONFIRM
+proceed with this,CONFIRM
+go ahead now,CONFIRM
+i agree to that,CONFIRM
+confirm my choice,CONFIRM
+affirm this decision,CONFIRM
+okay do it,CONFIRM
+execute this now,CONFIRM
+confirm this process,CONFIRM
+yes do that,CONFIRM
+i confirm now,CONFIRM
+confirm the input,CONFIRM
+proceed as planned,CONFIRM
+accept this action,CONFIRM
+apply changes,CONFIRM
+save my work,CONFIRM
+commit this action,CONFIRM
+make it so,CONFIRM
+finalize this,CONFIRM
+agree to terms,CONFIRM
+validate my choice,CONFIRM
+authorize this,CONFIRM
+confirm selection,CONFIRM
+yes that is right,CONFIRM
+continue forward,CONFIRM
+accept this proposal,CONFIRM
+initiate now,CONFIRM
+start the process,CONFIRM
+approve this,CONFIRM
+i accept it,CONFIRM
+confirm operation,CONFIRM
+proceed with task,CONFIRM
+confirm entry,CONFIRM
+yes i want to,CONFIRM
+validate current,CONFIRM
+confirm data,CONFIRM
+confirm the entry,CONFIRM
+go for it,CONFIRM
+this is correct,CONFIRM
+confirm my request,CONFIRM
+apply the update,CONFIRM
+yes do proceed,CONFIRM
+confirm this choice,CONFIRM
+i am sure,CONFIRM
+accept current,CONFIRM
+proceed with plan,CONFIRM
+confirm action,CONFIRM
+yes continue,CONFIRM
+validate action,CONFIRM
+i confirm my choice,CONFIRM
+accept the data,CONFIRM
+confirm the task,CONFIRM
+yes run it,CONFIRM
+confirm the options,CONFIRM
+proceed with details,CONFIRM
+save the item,CONFIRM
+i confirm that,CONFIRM
+accept my decision,CONFIRM
+confirm this setting,CONFIRM
+go ahead with it,CONFIRM
+yes move forward,CONFIRM
+confirm the details,CONFIRM
+ok to proceed,CONFIRM
+i confirm current,CONFIRM
+confirm my input,CONFIRM
+yes proceed with,CONFIRM
+validate my action,CONFIRM
+confirm this step,CONFIRM
+do as i say,CONFIRM
+confirm my choice now,CONFIRM
+accept the changes,CONFIRM
+yes please run,CONFIRM
+confirm current choice,CONFIRM
+agree to continue,CONFIRM
+confirm my changes,CONFIRM
+proceed with plan,CONFIRM
+yes do it,CONFIRM
+confirm the process,CONFIRM
+accept this input,CONFIRM
+confirm this step,CONFIRM
+yes execute,CONFIRM
+confirm the option,CONFIRM
+proceed with current,CONFIRM
+accept current changes,CONFIRM
+confirm this data,CONFIRM
+yes lets go,CONFIRM
+confirm the plan,CONFIRM
+agree to this,CONFIRM
+confirm current action,CONFIRM
+yes that's fine,CONFIRM
+no cancel that,CANCEL
+cancel this operation,CANCEL
+stop the process,CANCEL
+abort this action,CANCEL
+never mind forget,CANCEL
+discard all changes,CANCEL
+do not proceed,CANCEL
+cancel everything,CANCEL
+withdraw my request,CANCEL
+halt current task,CANCEL
+no stop it,CANCEL
+cancel the current,CANCEL
+abandon this plan,CANCEL
+revert my input,CANCEL
+cancel this step,CANCEL
+do not save,CANCEL
+close without saving,CANCEL
+exit without changes,CANCEL
+cancel the current action,CANCEL
+back out now,CANCEL
+no cancel now,CANCEL
+cancel this process,CANCEL
+discard this work,CANCEL
+abort current,CANCEL
+stop that task,CANCEL
+cancel all changes,CANCEL
+undo the operation,CANCEL
+reverse this,CANCEL
+do not go on,CANCEL
+cancel my action,CANCEL
+no thank you,CANCEL
+cancel this entry,CANCEL
+stop the current,CANCEL
+halt all operations,CANCEL
+discard the entry,CANCEL
+cancel my input,CANCEL
+cancel this request,CANCEL
+do not continue,CANCEL
+no stop right there,CANCEL
+cancel my selections,CANCEL
+cancel the current task,CANCEL
+discard the current,CANCEL
+abort the current process,CANCEL
+stop now please,CANCEL
+cancel my previous,CANCEL
+do not accept,CANCEL
+cancel my submission,CANCEL
+cancel the current work,CANCEL
+discard this operation,CANCEL
+stop everything,CANCEL
+cancel my choice,CANCEL
+do not apply,CANCEL
+cancel my current,CANCEL
+stop this operation,CANCEL
+abort this request,CANCEL
+discard everything,CANCEL
+cancel this entry now,CANCEL
+do not save changes,CANCEL
+cancel this step now,CANCEL
+stop current process,CANCEL
+cancel the input,CANCEL
+no do not,CANCEL
+cancel my last,CANCEL
+stop the input,CANCEL
+cancel the task,CANCEL
+discard my input,CANCEL
+cancel this data,CANCEL
+do not save this,CANCEL
+cancel the current action now,CANCEL
+stop this command,CANCEL
+cancel current choice,CANCEL
+do not run this,CANCEL
+cancel my command,CANCEL
+stop my action,CANCEL
+discard my action,CANCEL
+cancel this process now,CANCEL
+no do not proceed,CANCEL
+cancel my selections now,CANCEL
+stop the current input,CANCEL
+cancel my current action,CANCEL
+discard the form,CANCEL
+cancel this interaction,CANCEL
+do not continue with this,CANCEL
+cancel the entered data,CANCEL
+stop the current command,CANCEL
+cancel my plan,CANCEL
+do not apply changes,CANCEL
+cancel my choice please,CANCEL
+stop this immediately,CANCEL
+cancel the transaction,CANCEL
+repeat last command,REPEAT
+do that again,REPEAT
+repeat please,REPEAT
+can you repeat,REPEAT
+run the last action,REPEAT
+execute previous command,REPEAT
+repeat the task,REPEAT
+once more,REPEAT
+reiterate the action,REPEAT
+perform again,REPEAT
+do it again,REPEAT
+repeat this process,REPEAT
+run that again,REPEAT
+do the last one,REPEAT
+repeat what i said,REPEAT
+repeat the operation,REPEAT
+perform that again,REPEAT
+execute that again,REPEAT
+repeat the instruction,REPEAT
+do the previous command,REPEAT
+repeat current,REPEAT
+repeat the procedure,REPEAT
+do that one more,REPEAT
+run the last process,REPEAT
+repeat my last,REPEAT
+repeat the function,REPEAT
+do it once more,REPEAT
+repeat the task again,REPEAT
+run last command,REPEAT
+repeat this step,REPEAT
+do the previous,REPEAT
+repeat my instruction,REPEAT
+perform the last,REPEAT
+repeat current action,REPEAT
+do it one more time,REPEAT
+repeat the last action,REPEAT
+run the prior command,REPEAT
+repeat this now,REPEAT
+do the exact same,REPEAT
+repeat the command again,REPEAT
+run the last operation,REPEAT
+repeat the exact,REPEAT
+do the last action,REPEAT
+repeat the entry,REPEAT
+run previous command,REPEAT
+repeat this command,REPEAT
+do this again,REPEAT
+repeat my previous,REPEAT
+run the earlier,REPEAT
+repeat current process,REPEAT
+do my last action,REPEAT
+repeat the interaction,REPEAT
+run the last thing,REPEAT
+repeat my last input,REPEAT
+do that again for me,REPEAT
+repeat what you did,REPEAT
+run the last step,REPEAT
+repeat the final action,REPEAT
+do my last entry,REPEAT
+repeat my command,REPEAT
+run the last task,REPEAT
+repeat this command for me,REPEAT
+do the last one again,REPEAT
+repeat my operation,REPEAT
+run the last command again,REPEAT
+repeat this input,REPEAT
+do the same again,REPEAT
+repeat my actions,REPEAT
+run the previous task,REPEAT
+repeat my words,REPEAT
+do my last command,REPEAT
+repeat this sequence,REPEAT
+run the last function,REPEAT
+repeat my last move,REPEAT
+do this one more time,REPEAT
+repeat my words now,REPEAT
+run previous action,REPEAT
+repeat my input,REPEAT
+do it just like that,REPEAT
+repeat my previous action,REPEAT
+run the prior task,REPEAT
+repeat my phrase,REPEAT
+do my previous command,REPEAT
+repeat this whole thing,REPEAT
+run the very last,REPEAT
+repeat the entire command,REPEAT
+do my last command again,REPEAT
+repeat the last phrase,REPEAT
+run the earlier action,REPEAT
+repeat my entire input,REPEAT
+do my prior action,REPEAT
+repeat the last step,REPEAT
+run the very last command,REPEAT
+repeat my entire action,REPEAT
+do that whole thing again,REPEAT
+undo my last change,UNDO
+revert the last action,UNDO
+go back one step,UNDO
+undo that operation,UNDO
+take back my last move,UNDO
+reverse the previous,UNDO
+roll back current,UNDO
+un do this,UNDO
+previous step now,UNDO
+cancel last edit,UNDO
+undo current,UNDO
+revert the change,UNDO
+go back one stage,UNDO
+undo the action,UNDO
+take back my changes,UNDO
+reverse my last,UNDO
+roll back this,UNDO
+un do the last,UNDO
+previous action please,UNDO
+cancel previous,UNDO
+undo this action,UNDO
+revert to previous,UNDO
+go back the step,UNDO
+undo current action,UNDO
+take back my last input,UNDO
+reverse the last command,UNDO
+roll back to before,UNDO
+un do everything,UNDO
+previous state please,UNDO
+cancel the last,UNDO
+undo my last action,UNDO
+revert this action,UNDO
+go back one position,UNDO
+undo the last move,UNDO
+take back my entry,UNDO
+reverse previous,UNDO
+roll back the update,UNDO
+un do the current,UNDO
+previous change please,UNDO
+cancel my last edit,UNDO
+undo this change,UNDO
+revert the last one,UNDO
+go back one level,UNDO
+undo my last step,UNDO
+take back this,UNDO
+reverse my action,UNDO
+roll back the command,UNDO
+un do the action,UNDO
+previous input please,UNDO
+cancel the prior,UNDO
+undo this process,UNDO
+revert to old,UNDO
+go back a step,UNDO
+undo my last command,UNDO
+take back my last action,UNDO
+reverse the current,UNDO
+roll back my changes,UNDO
+un do that operation,UNDO
+previous option please,UNDO
+cancel my previous action,UNDO
+undo this entry,UNDO
+revert the last input,UNDO
+go back a move,UNDO
+undo my last choice,UNDO
+take back my last selection,UNDO
+reverse the last input,UNDO
+roll back the current,UNDO
+un do my last action,UNDO
+previous process please,UNDO
+cancel the most recent,UNDO
+undo this task,UNDO
+revert to earlier,UNDO
+go back one stage,UNDO
+undo my last entry,UNDO
+take back my current,UNDO
+reverse the last step,UNDO
+roll back my entry,UNDO
+un do this input,UNDO
+previous selection please,UNDO
+cancel last operation,UNDO
+undo this command,UNDO
+revert to previous state,UNDO
+go back a choice,UNDO
+undo my last input,UNDO
+take back my words,UNDO
+reverse the current step,UNDO
+roll back the choice,UNDO
+un do my last input now,UNDO
+previous command please,UNDO
+cancel recent action,UNDO
+undo this work,UNDO
+revert to past,UNDO
+go back one decision,UNDO
+undo my last plan,UNDO
+take back my action,UNDO
+reverse the previous step,UNDO
+roll back the action,UNDO
+redo the undo,REDO
+re apply the undone step,REDO
+bring it back now,REDO
+redo that change,REDO
+execute the redo command,REDO
+put it back as before,REDO
+apply the undone action,REDO
+forward step please,REDO
+un revert this,REDO
+re instantiate last,REDO
+redo this,REDO
+re apply the action,REDO
+bring it back again,REDO
+redo my last,REDO
+execute the last redo,REDO
+put it back to how,REDO
+apply the prior,REDO
+forward current,REDO
+un revert my last,REDO
+re instantiate prior,REDO
+redo my choice,REDO
+re apply the previous,REDO
+bring it back now please,REDO
+redo the step,REDO
+execute the redo now,REDO
+put it back once,REDO
+apply the last action,REDO
+forward move please,REDO
+un revert the previous,REDO
+re instantiate current,REDO
+redo this operation,REDO
+re apply the previous action,REDO
+bring it back to me,REDO
+redo that option,REDO
+execute the redo command now,REDO
+put it back into,REDO
+apply the prior action,REDO
+forward action please,REDO
+un revert this now,REDO
+re instantiate prior state,REDO
+redo my last undo,REDO
+re apply the previous step,REDO
+bring back the last,REDO
+redo the prior,REDO
+execute the redo operation,REDO
+put it back the way,REDO
+apply the undone step,REDO
+forward process please,REDO
+un revert the action,REDO
+re instantiate the last,REDO
+redo the current,REDO
+re apply the action now,REDO
+bring back my last,REDO
+redo the current change,REDO
+execute the redo for,REDO
+put it back to what,REDO
+apply the previous step,REDO
+forward command please,REDO
+un revert my action,REDO
+re instantiate previous,REDO
+redo this step,REDO
+re apply my last,REDO
+bring back the operation,REDO
+redo the action once,REDO
+execute the redo task,REDO
+put it back the initial,REDO
+apply the current action,REDO
+forward action now,REDO
+un revert my input,REDO
+re instantiate the command,REDO
+redo my last action,REDO
+re apply my previous action,REDO
+bring back the previous,REDO
+redo this command,REDO
+execute the redo for me,REDO
+put it back at start,REDO
+apply the current step,REDO
+forward process now,REDO
+un revert the command,REDO
+re instantiate the action,REDO
+redo my last move,REDO
+re apply my last step,REDO
+bring back what i undid,REDO
+redo that one,REDO
+execute the redo command for me,REDO
+put it back as before now,REDO
+apply the undone command,REDO
+view details of this,VIEW_ITEM
+show me more about it,VIEW_ITEM
+display item information,VIEW_ITEM
+tell me about the item,VIEW_ITEM
+open item view,VIEW_ITEM
+inspect the selected record,VIEW_ITEM
+details please now,VIEW_ITEM
+show item properties,VIEW_ITEM
+what is this item,VIEW_ITEM
+get item info,VIEW_ITEM
+view more details,VIEW_ITEM
+show detailed info,VIEW_ITEM
+display the details,VIEW_ITEM
+tell me about this,VIEW_ITEM
+open the item,VIEW_ITEM
+inspect this item,VIEW_ITEM
+details of selection,VIEW_ITEM
+show object properties,VIEW_ITEM
+what's in this,VIEW_ITEM
+get info now,VIEW_ITEM
+view selected,VIEW_ITEM
+show full details,VIEW_ITEM
+display all info,VIEW_ITEM
+tell me about current,VIEW_ITEM
+open current item,VIEW_ITEM
+inspect the current,VIEW_ITEM
+details of current,VIEW_ITEM
+show the properties,VIEW_ITEM
+what is here,VIEW_ITEM
+get the info,VIEW_ITEM
+view more here,VIEW_ITEM
+show detailed view,VIEW_ITEM
+display the selection,VIEW_ITEM
+tell me about my choice,VIEW_ITEM
+open the record,VIEW_ITEM
+inspect the selection,VIEW_ITEM
+details about this,VIEW_ITEM
+show more properties,VIEW_ITEM
+what information,VIEW_ITEM
+get more info,VIEW_ITEM
+view the selection,VIEW_ITEM
+show a detailed,VIEW_ITEM
+display the current,VIEW_ITEM
+tell me about selection,VIEW_ITEM
+open this item,VIEW_ITEM
+inspect my choice,VIEW_ITEM
+details of this,VIEW_ITEM
+show selection properties,VIEW_ITEM
+what data is here,VIEW_ITEM
+get full info,VIEW_ITEM
+view this item,VIEW_ITEM
+show item data,VIEW_ITEM
+display the record,VIEW_ITEM
+tell me about selected,VIEW_ITEM
+open selected item,VIEW_ITEM
+inspect the record,VIEW_ITEM
+details on this,VIEW_ITEM
+show the item properties,VIEW_ITEM
+what are details,VIEW_ITEM
+get item details,VIEW_ITEM
+view item details,VIEW_ITEM
+show the item,VIEW_ITEM
+display selected,VIEW_ITEM
+tell me about object,VIEW_ITEM
+open selected,VIEW_ITEM
+inspect selected item,VIEW_ITEM
+details of the item,VIEW_ITEM
+show object data,VIEW_ITEM
+what does it show,VIEW_ITEM
+get the data,VIEW_ITEM
+view item data now,VIEW_ITEM
+show item details now,VIEW_ITEM
+display the object,VIEW_ITEM
+tell me about the record,VIEW_ITEM
+open the selection,VIEW_ITEM
+inspect the object,VIEW_ITEM
+details about selected,VIEW_ITEM
+show record properties,VIEW_ITEM
+what is this about,VIEW_ITEM
+get all info,VIEW_ITEM
+view all details,VIEW_ITEM
+show object info,VIEW_ITEM
+display item content,VIEW_ITEM
+tell me about the object,VIEW_ITEM
+open the object,VIEW_ITEM
+inspect the current item,VIEW_ITEM
+details for item,VIEW_ITEM
+show item content,VIEW_ITEM
+what data for this,VIEW_ITEM
+get full details,VIEW_ITEM
+view current item,VIEW_ITEM
+show general item info,VIEW_ITEM
+display more details,VIEW_ITEM
+show previous item,PREVIOUS_ITEM
+navigate to previous,PREVIOUS_ITEM
+go to the prior record,PREVIOUS_ITEM
+move to the last item,PREVIOUS_ITEM
+previous one please,PREVIOUS_ITEM
+back an item now,PREVIOUS_ITEM
+show item before this,PREVIOUS_ITEM
+go back to previous,PREVIOUS_ITEM
+previous page item,PREVIOUS_ITEM
+prior entry please,PREVIOUS_ITEM
+show last item,PREVIOUS_ITEM
+navigate to prior,PREVIOUS_ITEM
+go to the last record,PREVIOUS_ITEM
+move back one,PREVIOUS_ITEM
+previous item show,PREVIOUS_ITEM
+back to previous,PREVIOUS_ITEM
+show prior item,PREVIOUS_ITEM
+go to the before,PREVIOUS_ITEM
+previous entry please,PREVIOUS_ITEM
+prior one now,PREVIOUS_ITEM
+show the last,PREVIOUS_ITEM
+navigate prior,PREVIOUS_ITEM
+go to last entry,PREVIOUS_ITEM
+move to previous,PREVIOUS_ITEM
+previous item back,PREVIOUS_ITEM
+back one item,PREVIOUS_ITEM
+show old item,PREVIOUS_ITEM
+go to the past,PREVIOUS_ITEM
+previous record now,PREVIOUS_ITEM
+prior data please,PREVIOUS_ITEM
+show the one before,PREVIOUS_ITEM
+navigate to earlier,PREVIOUS_ITEM
+go to previous entry,PREVIOUS_ITEM
+move previous,PREVIOUS_ITEM
+show the item before,PREVIOUS_ITEM
+back to the last,PREVIOUS_ITEM
+show the one prior,PREVIOUS_ITEM
+go back an entry,PREVIOUS_ITEM
+previous item again,PREVIOUS_ITEM
+prior item show,PREVIOUS_ITEM
+show prior one,PREVIOUS_ITEM
+navigate earlier,PREVIOUS_ITEM
+go to before,PREVIOUS_ITEM
+move backwards,PREVIOUS_ITEM
+show the earlier,PREVIOUS_ITEM
+back to prior,PREVIOUS_ITEM
+show the previous one,PREVIOUS_ITEM
+go back to prior,PREVIOUS_ITEM
+previous element now,PREVIOUS_ITEM
+prior data show,PREVIOUS_ITEM
+show old one,PREVIOUS_ITEM
+navigate to old,PREVIOUS_ITEM
+go to previous item,PREVIOUS_ITEM
+move to the prior,PREVIOUS_ITEM
+previous item again please,PREVIOUS_ITEM
+back a record,PREVIOUS_ITEM
+show earlier item,PREVIOUS_ITEM
+go to the last one,PREVIOUS_ITEM
+previous position,PREVIOUS_ITEM
+prior element please,PREVIOUS_ITEM
+show prior record,PREVIOUS_ITEM
+navigate to a prior,PREVIOUS_ITEM
+go to the previous,PREVIOUS_ITEM
+move to the element,PREVIOUS_ITEM
+show the prior record,PREVIOUS_ITEM
+back to the past,PREVIOUS_ITEM
+show previous element,PREVIOUS_ITEM
+go to prior element,PREVIOUS_ITEM
+previous data please,PREVIOUS_ITEM
+prior position now,PREVIOUS_ITEM
+show previous item now,PREVIOUS_ITEM
+navigate to last,PREVIOUS_ITEM
+go to the preceding,PREVIOUS_ITEM
+move to the previous element,PREVIOUS_ITEM
+previous step item,PREVIOUS_ITEM
+back to prior record,PREVIOUS_ITEM
+show old record,PREVIOUS_ITEM
+go to the last record now,PREVIOUS_ITEM
+previous entry show,PREVIOUS_ITEM
+prior selection please,PREVIOUS_ITEM
+show old entry,PREVIOUS_ITEM
+navigate prior entry,PREVIOUS_ITEM
+go to the older,PREVIOUS_ITEM
+move to the prior entry,PREVIOUS_ITEM
+previous data entry,PREVIOUS_ITEM
+back to earlier,PREVIOUS_ITEM
+show the prior selection,PREVIOUS_ITEM
+go to the earlier entry,PREVIOUS_ITEM
+previous object now,PREVIOUS_ITEM
+prior item selection,PREVIOUS_ITEM
+show the last entry,PREVIOUS_ITEM
+navigate to the past,PREVIOUS_ITEM
+go to the previous object,PREVIOUS_ITEM
+move to the earlier entry,PREVIOUS_ITEM
+previous position please,PREVIOUS_ITEM
+back to the previous object,PREVIOUS_ITEM
+show prior data,PREVIOUS_ITEM
+go to the prior object,PREVIOUS_ITEM
+show next item,NEXT_ITEM
+navigate to next entry,NEXT_ITEM
+go to the subsequent record,NEXT_ITEM
+move to the following item,NEXT_ITEM
+next one please,NEXT_ITEM
+forward an item now,NEXT_ITEM
+show item after this,NEXT_ITEM
+go forward to next,NEXT_ITEM
+next page item,NEXT_ITEM
+subsequent entry please,NEXT_ITEM
+show following item,NEXT_ITEM
+navigate to subsequent,NEXT_ITEM
+go to the next record,NEXT_ITEM
+move forward one,NEXT_ITEM
+next item show,NEXT_ITEM
+forward to next,NEXT_ITEM
+show subsequent item,NEXT_ITEM
+go to the after,NEXT_ITEM
+next entry please,NEXT_ITEM
+following one now,NEXT_ITEM
+show the following,NEXT_ITEM
+navigate subsequent,NEXT_ITEM
+go to next entry,NEXT_ITEM
+move to next,NEXT_ITEM
+next item ahead,NEXT_ITEM
+forward one item,NEXT_ITEM
+show new item,NEXT_ITEM
+go to the future,NEXT_ITEM
+next record now,NEXT_ITEM
+subsequent data please,NEXT_ITEM
+show the one after,NEXT_ITEM
+navigate to later,NEXT_ITEM
+go to next entry,NEXT_ITEM
+move next,NEXT_ITEM
+show the item after,NEXT_ITEM
+forward to the next,NEXT_ITEM
+show the one subsequent,NEXT_ITEM
+go next entry,NEXT_ITEM
+next item again,NEXT_ITEM
+following item show,NEXT_ITEM
+show following one,NEXT_ITEM
+navigate later,NEXT_ITEM
+go to after,NEXT_ITEM
+move forwards,NEXT_ITEM
+show the later,NEXT_ITEM
+forward to subsequent,NEXT_ITEM
+show the next one,NEXT_ITEM
+go forward to subsequent,NEXT_ITEM
+next element now,NEXT_ITEM
+subsequent data show,NEXT_ITEM
+show next record,NEXT_ITEM
+navigate to a next,NEXT_ITEM
+go to the following,NEXT_ITEM
+move to the element,NEXT_ITEM
+show the following record,NEXT_ITEM
+forward to the future,NEXT_ITEM
+show next element,NEXT_ITEM
+go to next element,NEXT_ITEM
+next data please,NEXT_ITEM
+subsequent position now,NEXT_ITEM
+show next item now,NEXT_ITEM
+navigate to later entry,NEXT_ITEM
+go to the succeeding,NEXT_ITEM
+move to the next element,NEXT_ITEM
+next step item,NEXT_ITEM
+forward to next record,NEXT_ITEM
+show new record,NEXT_ITEM
+go to the next record now,NEXT_ITEM
+next entry show,NEXT_ITEM
+subsequent selection please,NEXT_ITEM
+show new entry,NEXT_ITEM
+navigate next entry,NEXT_ITEM
+go to the newer,NEXT_ITEM
+move to the next entry,NEXT_ITEM
+next data entry,NEXT_ITEM
+forward to later,NEXT_ITEM
+show the next selection,NEXT_ITEM
+go to the later entry,NEXT_ITEM
+next object now,NEXT_ITEM
+subsequent item selection,NEXT_ITEM
+show the next entry,NEXT_ITEM
+navigate to the future,NEXT_ITEM
+go to the next object,NEXT_ITEM
+move to the later entry,NEXT_ITEM
+next position please,NEXT_ITEM
+forward to the next object,NEXT_ITEM
+show subsequent data,NEXT_ITEM
+go to the next object,NEXT_ITEM
+show the following data,NEXT_ITEM
+navigate to later action,NEXT_ITEM
+go to the subsequent object,NEXT_ITEM
+move to the next action,NEXT_ITEM
+next position next,NEXT_ITEM
+forward to next action,NEXT_ITEM
+show next action,NEXT_ITEM
+go to the following action,NEXT_ITEM
+select item three,SELECT_ITEM
+choose this particular one,SELECT_ITEM
+toggle selection for task,SELECT_ITEM
+mark this as selected,SELECT_ITEM
+select the highlighted item,SELECT_ITEM
+pick that one now,SELECT_ITEM
+select current item,SELECT_ITEM
+make this active,SELECT_ITEM
+enable selection,SELECT_ITEM
+highlight this item,SELECT_ITEM
+select this,SELECT_ITEM
+choose this item,SELECT_ITEM
+toggle the selection,SELECT_ITEM
+mark as chosen,SELECT_ITEM
+select the entry,SELECT_ITEM
+pick this item,SELECT_ITEM
+select the current,SELECT_ITEM
+make this chosen,SELECT_ITEM
+enable the selection,SELECT_ITEM
+highlight current,SELECT_ITEM
+select an item,SELECT_ITEM
+choose an item,SELECT_ITEM
+toggle the current,SELECT_ITEM
+mark this item,SELECT_ITEM
+select the current item,SELECT_ITEM
+pick the item,SELECT_ITEM
+select it,SELECT_ITEM
+make it active,SELECT_ITEM
+enable this,SELECT_ITEM
+highlight the selection,SELECT_ITEM
+select the choice,SELECT_ITEM
+choose the one,SELECT_ITEM
+toggle the selection now,SELECT_ITEM
+mark as selected now,SELECT_ITEM
+select the displayed,SELECT_ITEM
+pick the highlighted,SELECT_ITEM
+select the option,SELECT_ITEM
+make this the one,SELECT_ITEM
+enable option,SELECT_ITEM
+highlight chosen,SELECT_ITEM
+select this option,SELECT_ITEM
+choose the displayed,SELECT_ITEM
+toggle this,SELECT_ITEM
+mark current as selected,SELECT_ITEM
+select the single item,SELECT_ITEM
+pick the current,SELECT_ITEM
+select the current choice,SELECT_ITEM
+make this the focus,SELECT_ITEM
+enable the option,SELECT_ITEM
+highlight the option,SELECT_ITEM
+select the element,SELECT_ITEM
+choose the element,SELECT_ITEM
+toggle current selection,SELECT_ITEM
+mark this current,SELECT_ITEM
+select the displayed item,SELECT_ITEM
+pick the single item,SELECT_ITEM
+select this one,SELECT_ITEM
+make this item active,SELECT_ITEM
+enable the current,SELECT_ITEM
+highlight the active,SELECT_ITEM
+select my choice,SELECT_ITEM
+choose my option,SELECT_ITEM
+toggle the choice,SELECT_ITEM
+mark my choice,SELECT_ITEM
+select my current,SELECT_ITEM
+pick my choice,SELECT_ITEM
+select my current item,SELECT_ITEM
+make my choice active,SELECT_ITEM
+enable my selection,SELECT_ITEM
+highlight my item,SELECT_ITEM
+select the entry now,SELECT_ITEM
+choose the entry now,SELECT_ITEM
+toggle entry,SELECT_ITEM
+mark entry as selected,SELECT_ITEM
+select the current entry,SELECT_ITEM
+pick the entry,SELECT_ITEM
+select the entry item,SELECT_ITEM
+make entry active,SELECT_ITEM
+enable entry selection,SELECT_ITEM
+highlight the entry,SELECT_ITEM
+select a single item,SELECT_ITEM
+choose a single item,SELECT_ITEM
+toggle an item,SELECT_ITEM
+mark an item,SELECT_ITEM
+select an item now,SELECT_ITEM
+pick an item,SELECT_ITEM
+select an active item,SELECT_ITEM
+make an item chosen,SELECT_ITEM
+enable an item,SELECT_ITEM
+highlight an item,SELECT_ITEM
+go back to previous screen,GO_BACK
+return to last page,GO_BACK
+navigate back now,GO_BACK
+take me to prior view,GO_BACK
+back a page please,GO_BACK
+go to previous location,GO_BACK
+back to previous,GO_BACK
+return to previous,GO_BACK
+go back now,GO_BACK
+previous screen please,GO_BACK
+go back a step,GO_BACK
+return to prior,GO_BACK
+navigate backward,GO_BACK
+take me back,GO_BACK
+back one screen,GO_BACK
+go to last position,GO_BACK
+back to the prior,GO_BACK
+return to the last,GO_BACK
+go back to last,GO_BACK
+previous view please,GO_BACK
+go back one,GO_BACK
+return to last,GO_BACK
+navigate past,GO_BACK
+take me to last,GO_BACK
+back a level,GO_BACK
+go to previous view,GO_BACK
+back to an old,GO_BACK
+return to an earlier,GO_BACK
+go back to prior,GO_BACK
+previous step please,GO_BACK
+go back home,GO_BACK
+return to home,GO_BACK
+navigate to home,GO_BACK
+take me to home,GO_BACK
+back to start,GO_BACK
+go to main,GO_BACK
+back to the main,GO_BACK
+return to the main,GO_BACK
+go back to main,GO_BACK
+main screen please,GO_BACK
+go back to the start,GO_BACK
+return to the beginning,GO_BACK
+navigate to the start,GO_BACK
+take me to the beginning,GO_BACK
+back to the initial,GO_BACK
+go to initial,GO_BACK
+back to the initial screen,GO_BACK
+return to initial,GO_BACK
+go back to initial,GO_BACK
+initial screen please,GO_BACK
+go back the screen,GO_BACK
+return the page,GO_BACK
+navigate the back,GO_BACK
+take me the view,GO_BACK
+back the page,GO_BACK
+go to the previous,GO_BACK
+back to the previous screen,GO_BACK
+return to the last page now,GO_BACK
+go back the last,GO_BACK
+previous location please,GO_BACK
+go back to my previous,GO_BACK
+return to my last,GO_BACK
+navigate my back,GO_BACK
+take me my prior,GO_BACK
+back my page,GO_BACK
+go to my previous,GO_BACK
+back my previous,GO_BACK
+return my previous,GO_BACK
+go back my back,GO_BACK
+my previous screen,GO_BACK
+go back in the app,GO_BACK
+return in the app,GO_BACK
+navigate in the app,GO_BACK
+take me in the app,GO_BACK
+back in the app,GO_BACK
+go to in the app,GO_BACK
+back in the application,GO_BACK
+return in the application,GO_BACK
+go back in the application,GO_BACK
+in the app please,GO_BACK
+go back a view,GO_BACK
+return a view,GO_BACK
+navigate a view,GO_BACK
+take me a view,GO_BACK
+back a view,GO_BACK
+go to a view,GO_BACK
+back the view,GO_BACK
+return the view,GO_BACK
+go back the view,GO_BACK
+a view please,GO_BACK
+go to settings page,GO_TO
+navigate to profile tab,GO_TO
+open dashboard view,GO_TO
+take me to home section,GO_TO
+go to users list,GO_TO
+visit the admin panel,GO_TO
+move to reports tab,GO_TO
+switch to billing page,GO_TO
+open help section,GO_TO
+access settings,GO_TO
+go to the main,GO_TO
+navigate to main,GO_TO
+open main view,GO_TO
+take me to main,GO_TO
+go to main list,GO_TO
+visit the main panel,GO_TO
+move to main tab,GO_TO
+switch to main page,GO_TO
+open main section,GO_TO
+access main,GO_TO
+go to the options,GO_TO
+navigate to options,GO_TO
+open options view,GO_TO
+take me to options,GO_TO
+go to options list,GO_TO
+visit the options panel,GO_TO
+move to options tab,GO_TO
+switch to options page,GO_TO
+open options section,GO_TO
+access options,GO_TO
+go to the current,GO_TO
+navigate to current,GO_TO
+change current view,GO_TO
+take me to current,GO_TO
+go to current list,GO_TO
+visit the current panel,GO_TO
+move to current tab,GO_TO
+switch to current page,GO_TO
+open current section,GO_TO
+access current,GO_TO
+go to the active,GO_TO
+navigate to active,GO_TO
+open active view,GO_TO
+take me to active,GO_TO
+go to active list,GO_TO
+visit the active panel,GO_TO
+move to active tab,GO_TO
+switch to active page,GO_TO
+open active section,GO_TO
+access active,GO_TO
+go to the selected,GO_TO
+navigate to selected,GO_TO
+open selected view,GO_TO
+take me to selected,GO_TO
+go to selected list,GO_TO
+visit the selected panel,GO_TO
+move to selected tab,GO_TO
+switch to selected page,GO_TO
+open selected section,GO_TO
+access selected,GO_TO
+go to the item,GO_TO
+navigate to item,GO_TO
+open item view,GO_TO
+take me to item,GO_TO
+go to item list,GO_TO
+visit the item panel,GO_TO
+move to item tab,GO_TO
+switch to item page,GO_TO
+open item section,GO_TO
+access item,GO_TO
+go to the record,GO_TO
+navigate to record,GO_TO
+open record view,GO_TO
+take me to record,GO_TO
+go to record list,GO_TO
+visit the record panel,GO_TO
+move to record tab,GO_TO
+switch to record page,GO_TO
+open record section,GO_TO
+access record,GO_TO
+go to the object,GO_TO
+navigate to object,GO_TO
+open object view,GO_TO
+take me to object,GO_TO
+go to object list,GO_TO
+visit the object panel,GO_TO
+move to object tab,GO_TO
+switch to object page,GO_TO
+open object section,GO_TO
+access object,GO_TO
+go to the entry,GO_TO
+navigate to entry,GO_TO
+open entry view,GO_TO
+take me to entry,GO_TO
+go to entry list,GO_TO
+visit the entry panel,GO_TO
+move to entry tab,GO_TO
+switch to entry page,GO_TO
+open entry section,GO_TO
+access entry,GO_TO
+fill the name field with john,FILL_FIELD
+enter email user email,FILL_FIELD
+type report into description,FILL_FIELD
+put in quantity,FILL_FIELD
+input high into priority,FILL_FIELD
+set value to true in active,FILL_FIELD
+write my message in comment,FILL_FIELD
+populate field with text,FILL_FIELD
+add text to the box,FILL_FIELD
+set the amount to,FILL_FIELD
+fill field with data,FILL_FIELD
+enter text now,FILL_FIELD
+type in the content,FILL_FIELD
+put some value,FILL_FIELD
+input the data,FILL_FIELD
+set the status,FILL_FIELD
+write some words,FILL_FIELD
+populate this field,FILL_FIELD
+add some text,FILL_FIELD
+set the number,FILL_FIELD
+fill the box,FILL_FIELD
+enter current text,FILL_FIELD
+type the entry,FILL_FIELD
+put a value,FILL_FIELD
+input the value,FILL_FIELD
+set the parameter,FILL_FIELD
+write the entry,FILL_FIELD
+populate with data,FILL_FIELD
+add content now,FILL_FIELD
+set the quantity,FILL_FIELD
+fill out the field,FILL_FIELD
+enter details,FILL_FIELD
+type my content,FILL_FIELD
+put a new value,FILL_FIELD
+input my data,FILL_FIELD
+set the option,FILL_FIELD
+write in the field,FILL_FIELD
+populate this input,FILL_FIELD
+add more text,FILL_FIELD
+set the current,FILL_FIELD
+fill the text field,FILL_FIELD
+enter current value,FILL_FIELD
+type specific content,FILL_FIELD
+put number value,FILL_FIELD
+input parameter value,FILL_FIELD
+set option value,FILL_FIELD
+write custom text,FILL_FIELD
+populate form field,FILL_FIELD
+add text to field,FILL_FIELD
+set quantity value,FILL_FIELD
+fill in the blanks,FILL_FIELD
+enter the information,FILL_FIELD
+type into box,FILL_FIELD
+put the number,FILL_FIELD
+input new data,FILL_FIELD
+set status to active,FILL_FIELD
+write some notes,FILL_FIELD
+populate text box,FILL_FIELD
+add entry data,FILL_FIELD
+set value to new,FILL_FIELD
+fill text here,FILL_FIELD
+enter the data,FILL_FIELD
+type the details,FILL_FIELD
+put a number,FILL_FIELD
+input new value,FILL_FIELD
+set a value,FILL_FIELD
+write new text,FILL_FIELD
+populate with new,FILL_FIELD
+add more content,FILL_FIELD
+set the property,FILL_FIELD
+fill the form,FILL_FIELD
+enter the data now,FILL_FIELD
+type into the field,FILL_FIELD
+put the entry,FILL_FIELD
+input the details,FILL_FIELD
+set the new value,FILL_FIELD
+write the content,FILL_FIELD
+populate the field,FILL_FIELD
+add data to field,FILL_FIELD
+set the specific value,FILL_FIELD
+fill the input,FILL_FIELD
+enter the details now,FILL_FIELD
+type the new text,FILL_FIELD
+put the input,FILL_FIELD
+input my new data,FILL_FIELD
+set the status now,FILL_FIELD
+write the details,FILL_FIELD
+populate the input,FILL_FIELD
+add text for field,FILL_FIELD
+set the quantity now,FILL_FIELD
+fill current field,FILL_FIELD
+enter input data,FILL_FIELD
+type text content,FILL_FIELD
+put a value in,FILL_FIELD
+input new information,FILL_FIELD
+set the option now,FILL_FIELD
+write my content,FILL_FIELD
+populate this box,FILL_FIELD
+add more entry,FILL_FIELD
+set the property now,FILL_FIELD
+clear the input field,CLEAR_FIELD
+empty the text box,CLEAR_FIELD
+remove content from search,CLEAR_FIELD
+clear all text in field,CLEAR_FIELD
+erase the entry,CLEAR_FIELD
+wipe the field,CLEAR_FIELD
+reset the input,CLEAR_FIELD
+clear form field,CLEAR_FIELD
+delete field content,CLEAR_FIELD
+blank the field,CLEAR_FIELD
+clear this field,CLEAR_FIELD
+empty this box,CLEAR_FIELD
+remove all content,CLEAR_FIELD
+clear text in box,CLEAR_FIELD
+erase current entry,CLEAR_FIELD
+wipe this field,CLEAR_FIELD
+reset this input,CLEAR_FIELD
+clear this form,CLEAR_FIELD
+delete this content,CLEAR_FIELD
+blank this area,CLEAR_FIELD
+clear current,CLEAR_FIELD
+empty current,CLEAR_FIELD
+remove current,CLEAR_FIELD
+clear input,CLEAR_FIELD
+erase current,CLEAR_FIELD
+wipe current,CLEAR_FIELD
+reset current,CLEAR_FIELD
+clear form,CLEAR_FIELD
+delete content,CLEAR_FIELD
+blank current,CLEAR_FIELD
+clear the entry,CLEAR_FIELD
+empty the entry,CLEAR_FIELD
+remove the entry,CLEAR_FIELD
+clear the entry field,CLEAR_FIELD
+erase the input,CLEAR_FIELD
+wipe the input,CLEAR_FIELD
+reset the entry,CLEAR_FIELD
+clear the form,CLEAR_FIELD
+delete the content,CLEAR_FIELD
+blank the entry,CLEAR_FIELD
+clear the input now,CLEAR_FIELD
+empty the text now,CLEAR_FIELD
+remove content now,CLEAR_FIELD
+clear all text now,CLEAR_FIELD
+erase the input now,CLEAR_FIELD
+wipe the field now,CLEAR_FIELD
+reset the input now,CLEAR_FIELD
+clear form now,CLEAR_FIELD
+delete field now,CLEAR_FIELD
+blank the field now,CLEAR_FIELD
+clear my field,CLEAR_FIELD
+empty my text,CLEAR_FIELD
+remove my content,CLEAR_FIELD
+clear my text,CLEAR_FIELD
+erase my entry,CLEAR_FIELD
+wipe my field,CLEAR_FIELD
+reset my input,CLEAR_FIELD
+clear my form,CLEAR_FIELD
+delete my content,CLEAR_FIELD
+blank my field,CLEAR_FIELD
+clear this input,CLEAR_FIELD
+empty this input,CLEAR_FIELD
+remove this input,CLEAR_FIELD
+clear this text,CLEAR_FIELD
+erase this input,CLEAR_FIELD
+wipe this input,CLEAR_FIELD
+reset this input,CLEAR_FIELD
+clear this form field,CLEAR_FIELD
+delete this field content,CLEAR_FIELD
+blank this field,CLEAR_FIELD
+clear the box,CLEAR_FIELD
+empty the box,CLEAR_FIELD
+remove the box,CLEAR_FIELD
+clear the text,CLEAR_FIELD
+erase the box,CLEAR_FIELD
+wipe the box,CLEAR_FIELD
+reset the box,CLEAR_FIELD
+clear the text box,CLEAR_FIELD
+delete the box,CLEAR_FIELD
+blank the box,CLEAR_FIELD
+clear my input,CLEAR_FIELD
+empty my input,CLEAR_FIELD
+remove my input,CLEAR_FIELD
+clear my text input,CLEAR_FIELD
+erase my input now,CLEAR_FIELD
+wipe my input now,CLEAR_FIELD
+reset my input now,CLEAR_FIELD
+clear my form now,CLEAR_FIELD
+delete my content now,CLEAR_FIELD
+blank my field now,CLEAR_FIELD
+clear current input,CLEAR_FIELD
+empty current input,CLEAR_FIELD
+remove current input,CLEAR_FIELD
+clear current text,CLEAR_FIELD
+erase current input,CLEAR_FIELD
+wipe current input,CLEAR_FIELD
+reset current input,CLEAR_FIELD
+clear current form,CLEAR_FIELD
+delete current content,CLEAR_FIELD
+blank current input,CLEAR_FIELD
+submit the form,SUBMIT_FORM
+send the data,SUBMIT_FORM
+save and submit,SUBMIT_FORM
+finalize this form,SUBMIT_FORM
+click submit,SUBMIT_FORM
+process the form,SUBMIT_FORM
+send off the entries,SUBMIT_FORM
+submit my details,SUBMIT_FORM
+submit for review,SUBMIT_FORM
+confirm and submit,SUBMIT_FORM
+submit now,SUBMIT_FORM
+send now,SUBMIT_FORM
+save now,SUBMIT_FORM
+finalize now,SUBMIT_FORM
+submit this,SUBMIT_FORM
+process now,SUBMIT_FORM
+send entries,SUBMIT_FORM
+submit this data,SUBMIT_FORM
+submit the current,SUBMIT_FORM
+confirm and send,SUBMIT_FORM
+submit my form,SUBMIT_FORM
+send my data,SUBMIT_FORM
+save my form,SUBMIT_FORM
+finalize my form,SUBMIT_FORM
+click submit now,SUBMIT_FORM
+process my form,SUBMIT_FORM
+send my entries,SUBMIT_FORM
+submit current details,SUBMIT_FORM
+submit for approval,SUBMIT_FORM
+confirm my submission,SUBMIT_FORM
+submit the current form,SUBMIT_FORM
+send the current data,SUBMIT_FORM
+save the current,SUBMIT_FORM
+finalize the current,SUBMIT_FORM
+click submit button,SUBMIT_FORM
+process the current,SUBMIT_FORM
+send the current entries,SUBMIT_FORM
+submit my current details,SUBMIT_FORM
+submit for final,SUBMIT_FORM
+confirm the submission,SUBMIT_FORM
+submit all,SUBMIT_FORM
+send all,SUBMIT_FORM
+save all,SUBMIT_FORM
+finalize all,SUBMIT_FORM
+click submit all,SUBMIT_FORM
+process all,SUBMIT_FORM
+send all entries,SUBMIT_FORM
+submit all details,SUBMIT_FORM
+submit for processing,SUBMIT_FORM
+confirm all,SUBMIT_FORM
+submit this form,SUBMIT_FORM
+send this data,SUBMIT_FORM
+save this,SUBMIT_FORM
+finalize this,SUBMIT_FORM
+click submit on form,SUBMIT_FORM
+process this,SUBMIT_FORM
+send these entries,SUBMIT_FORM
+submit these details,SUBMIT_FORM
+submit for validation,SUBMIT_FORM
+confirm this form,SUBMIT_FORM
+submit the input,SUBMIT_FORM
+send the input,SUBMIT_FORM
+save the input,SUBMIT_FORM
+finalize the input,SUBMIT_FORM
+click submit input,SUBMIT_FORM
+process the input,SUBMIT_FORM
+send the input entries,SUBMIT_FORM
+submit my input,SUBMIT_FORM
+submit for acceptance,SUBMIT_FORM
+confirm the input,SUBMIT_FORM
+submit data,SUBMIT_FORM
+send data now,SUBMIT_FORM
+save data,SUBMIT_FORM
+finalize data,SUBMIT_FORM
+click submit data,SUBMIT_FORM
+process data,SUBMIT_FORM
+send data entries,SUBMIT_FORM
+submit details,SUBMIT_FORM
+submit for review now,SUBMIT_FORM
+confirm data submit,SUBMIT_FORM
+submit form input,SUBMIT_FORM
+send form data,SUBMIT_FORM
+save form data,SUBMIT_FORM
+finalize form data,SUBMIT_FORM
+click submit form,SUBMIT_FORM
+process form data,SUBMIT_FORM
+send form entries,SUBMIT_FORM
+submit form details,SUBMIT_FORM
+submit for action,SUBMIT_FORM
+confirm form submission,SUBMIT_FORM
+cancel the form,CANCEL_FORM
+discard changes in form,CANCEL_FORM
+dont save the form,CANCEL_FORM
+close form without saving,CANCEL_FORM
+exit form,CANCEL_FORM
+abandon form changes,CANCEL_FORM
+cancel form entry,CANCEL_FORM
+close without saving,CANCEL_FORM
+do not submit,CANCEL_FORM
+forget this form,CANCEL_FORM
+cancel now,CANCEL_FORM
+discard now,CANCEL_FORM
+dont save now,CANCEL_FORM
+close now,CANCEL_FORM
+exit now,CANCEL_FORM
+abandon now,CANCEL_FORM
+cancel entry,CANCEL_FORM
+close without now,CANCEL_FORM
+do not submit now,CANCEL_FORM
+forget now,CANCEL_FORM
+cancel my form,CANCEL_FORM
+discard my changes,CANCEL_FORM
+dont save my form,CANCEL_FORM
+close my form,CANCEL_FORM
+exit my form,CANCEL_FORM
+abandon my changes,CANCEL_FORM
+cancel my entry,CANCEL_FORM
+close my form now,CANCEL_FORM
+do not submit my,CANCEL_FORM
+forget my form,CANCEL_FORM
+cancel current form,CANCEL_FORM
+discard current changes,CANCEL_FORM
+dont save current form,CANCEL_FORM
+close current form,CANCEL_FORM
+exit current form,CANCEL_FORM
+abandon current changes,CANCEL_FORM
+cancel current entry,CANCEL_FORM
+close current form now,CANCEL_FORM
+do not submit current,CANCEL_FORM
+forget current form,CANCEL_FORM
+cancel this form,CANCEL_FORM
+discard these changes,CANCEL_FORM
+dont save this form,CANCEL_FORM
+close this form,CANCEL_FORM
+exit this form,CANCEL_FORM
+abandon these changes,CANCEL_FORM
+cancel this entry,CANCEL_FORM
+close this form now,CANCEL_FORM
+do not submit this,CANCEL_FORM
+forget this data,CANCEL_FORM
+cancel the input,CANCEL_FORM
+discard input changes,CANCEL_FORM
+dont save input,CANCEL_FORM
+close input form,CANCEL_FORM
+exit input,CANCEL_FORM
+abandon input changes,CANCEL_FORM
+cancel input entry,CANCEL_FORM
+close input now,CANCEL_FORM
+do not submit input,CANCEL_FORM
+forget input,CANCEL_FORM
+cancel my input,CANCEL_FORM
+discard my input,CANCEL_FORM
+dont save my input,CANCEL_FORM
+close my input,CANCEL_FORM
+exit my input,CANCEL_FORM
+abandon my input,CANCEL_FORM
+cancel my input entry,CANCEL_FORM
+close my input now,CANCEL_FORM
+do not submit my input,CANCEL_FORM
+forget my input,CANCEL_FORM
+cancel the submission,CANCEL_FORM
+discard the submission,CANCEL_FORM
+dont save submission,CANCEL_FORM
+close submission,CANCEL_FORM
+exit submission,CANCEL_FORM
+abandon submission,CANCEL_FORM
+cancel submission entry,CANCEL_FORM
+close submission now,CANCEL_FORM
+do not submit submission,CANCEL_FORM
+forget submission,CANCEL_FORM
+cancel current input,CANCEL_FORM
+discard current input,CANCEL_FORM
+dont save current input,CANCEL_FORM
+close current input,CANCEL_FORM
+exit current input,CANCEL_FORM
+abandon current input,CANCEL_FORM
+cancel current input entry,CANCEL_FORM
+close current input now,CANCEL_FORM
+do not submit current input,CANCEL_FORM
+forget current input,CANCEL_FORM
+search for project,SEARCH
+find all users,SEARCH
+look up documents by date,SEARCH
+search by item name,SEARCH
+perform a query for tasks,SEARCH
+search the database for keywords,SEARCH
+find results for clients,SEARCH
+look for pending invoices,SEARCH
+search everything for marketing,SEARCH
+query inventory status,SEARCH
+search now,SEARCH
+find now,SEARCH
+look up now,SEARCH
+search this,SEARCH
+perform query,SEARCH
+search the system,SEARCH
+find results,SEARCH
+look for entries,SEARCH
+search all,SEARCH
+query now,SEARCH
+search my items,SEARCH
+find my users,SEARCH
+look up my documents,SEARCH
+search my data,SEARCH
+perform my query,SEARCH
+search my system,SEARCH
+find my results,SEARCH
+look for my entries,SEARCH
+search my application,SEARCH
+query my data,SEARCH
+search the current,SEARCH
+find the current,SEARCH
+look up the current,SEARCH
+search the current data,SEARCH
+perform the current query,SEARCH
+search the current system,SEARCH
+find the current results,SEARCH
+look for the current entries,SEARCH
+search the current application,SEARCH
+query the current data,SEARCH
+search for data,SEARCH
+find for data,SEARCH
+look up for data,SEARCH
+search data,SEARCH
+perform query for data,SEARCH
+search the data,SEARCH
+find results for data,SEARCH
+look for data entries,SEARCH
+search data records,SEARCH
+query data,SEARCH
+search for items,SEARCH
+find for items,SEARCH
+look up for items,SEARCH
+search items,SEARCH
+perform query for items,SEARCH
+search the items,SEARCH
+find results for items,SEARCH
+look for item entries,SEARCH
+search item records,SEARCH
+query items,SEARCH
+search for records,SEARCH
+find for records,SEARCH
+look up for records,SEARCH
+search records,SEARCH
+perform query for records,SEARCH
+search the records,SEARCH
+find results for records,SEARCH
+look for record entries,SEARCH
+search record data,SEARCH
+query records,SEARCH
+search for objects,SEARCH
+find for objects,SEARCH
+look up for objects,SEARCH
+search objects,SEARCH
+perform query for objects,SEARCH
+search the objects,SEARCH
+find results for objects,SEARCH
+look for object entries,SEARCH
+search object data,SEARCH
+query objects,SEARCH
+search for content,SEARCH
+find for content,SEARCH
+look up for content,SEARCH
+search content,SEARCH
+perform query for content,SEARCH
+search the content,SEARCH
+find results for content,SEARCH
+look for content entries,SEARCH
+search content data,SEARCH
+query content,SEARCH
+create a new task,CREATE_ITEM
+make a new record,CREATE_ITEM
+add a new item,CREATE_ITEM
+generate a new report,CREATE_ITEM
+create user account,CREATE_ITEM
+new entry now,CREATE_ITEM
+add new document,CREATE_ITEM
+form a new item,CREATE_ITEM
+initiate a new record,CREATE_ITEM
+start a new task,CREATE_ITEM
+create now,CREATE_ITEM
+make now,CREATE_ITEM
+add now,CREATE_ITEM
+generate now,CREATE_ITEM
+create item,CREATE_ITEM
+new item,CREATE_ITEM
+add item,CREATE_ITEM
+form item,CREATE_ITEM
+initiate record,CREATE_ITEM
+start task,CREATE_ITEM
+create new,CREATE_ITEM
+make new,CREATE_ITEM
+add new,CREATE_ITEM
+generate new,CREATE_ITEM
+create new entry,CREATE_ITEM
+new record,CREATE_ITEM
+add new task,CREATE_ITEM
+form new item,CREATE_ITEM
+initiate new,CREATE_ITEM
+start new,CREATE_ITEM
+create a new,CREATE_ITEM
+make a new,CREATE_ITEM
+add a new,CREATE_ITEM
+generate a new item,CREATE_ITEM
+create a new record,CREATE_ITEM
+new task now,CREATE_ITEM
+add a new task,CREATE_ITEM
+form a new record,CREATE_ITEM
+initiate a new item,CREATE_ITEM
+start a new record,CREATE_ITEM
+create an item,CREATE_ITEM
+make an item,CREATE_ITEM
+add an item,CREATE_ITEM
+generate an item,CREATE_ITEM
+create an entry,CREATE_ITEM
+an item now,CREATE_ITEM
+add an entry,CREATE_ITEM
+form an item,CREATE_ITEM
+initiate an item,CREATE_ITEM
+start an item,CREATE_ITEM
+create the item,CREATE_ITEM
+make the item,CREATE_ITEM
+add the item,CREATE_ITEM
+generate the item,CREATE_ITEM
+create the entry,CREATE_ITEM
+the item now,CREATE_ITEM
+add the entry,CREATE_ITEM
+form the item,CREATE_ITEM
+initiate the item,CREATE_ITEM
+start the item,CREATE_ITEM
+create a task,CREATE_ITEM
+make a task,CREATE_ITEM
+add a task,CREATE_ITEM
+generate a task,CREATE_ITEM
+create a record,CREATE_ITEM
+a task now,CREATE_ITEM
+add a record,CREATE_ITEM
+form a task,CREATE_ITEM
+initiate a task,CREATE_ITEM
+start a new task now,CREATE_ITEM
+create a new entry,CREATE_ITEM
+make a new entry,CREATE_ITEM
+add a new entry,CREATE_ITEM
+generate a new entry,CREATE_ITEM
+create a new document,CREATE_ITEM
+new entry new,CREATE_ITEM
+add a new document now,CREATE_ITEM
+form a new document,CREATE_ITEM
+initiate a new document,CREATE_ITEM
+start a new document,CREATE_ITEM
+create a document,CREATE_ITEM
+make a document,CREATE_ITEM
+add a document,CREATE_ITEM
+generate a document,CREATE_ITEM
+create a file,CREATE_ITEM
+a document now,CREATE_ITEM
+add a file,CREATE_ITEM
+form a document,CREATE_ITEM
+initiate a document,CREATE_ITEM
+start a document,CREATE_ITEM
+edit the selected item,EDIT_ITEM
+modify this task details,EDIT_ITEM
+update the record,EDIT_ITEM
+change the item properties,EDIT_ITEM
+edit user profile,EDIT_ITEM
+alter this entry,EDIT_ITEM
+make changes to selected,EDIT_ITEM
+revise the details,EDIT_ITEM
+adjust settings of item,EDIT_ITEM
+modify task now,EDIT_ITEM
+edit this,EDIT_ITEM
+modify this,EDIT_ITEM
+update this,EDIT_ITEM
+change this,EDIT_ITEM
+edit current,EDIT_ITEM
+alter current,EDIT_ITEM
+make changes,EDIT_ITEM
+revise now,EDIT_ITEM
+adjust settings,EDIT_ITEM
+modify current,EDIT_ITEM
+edit my item,EDIT_ITEM
+modify my item,EDIT_ITEM
+update my item,EDIT_ITEM
+change my item,EDIT_ITEM
+edit my data,EDIT_ITEM
+alter my data,EDIT_ITEM
+make changes to my item,EDIT_ITEM
+revise my details,EDIT_ITEM
+adjust my settings,EDIT_ITEM
+modify my data,EDIT_ITEM
+edit the current,EDIT_ITEM
+modify the current,EDIT_ITEM
+update the current,EDIT_ITEM
+change the current,EDIT_ITEM
+edit the current item,EDIT_ITEM
+alter the current item,EDIT_ITEM
+make changes to current,EDIT_ITEM
+revise the current,EDIT_ITEM
+adjust the current,EDIT_ITEM
+modify the current item,EDIT_ITEM
+edit data,EDIT_ITEM
+modify data,EDIT_ITEM
+update data,EDIT_ITEM
+change data,EDIT_ITEM
+edit details,EDIT_ITEM
+alter details,EDIT_ITEM
+make changes to data,EDIT_ITEM
+revise data,EDIT_ITEM
+adjust data,EDIT_ITEM
+modify details,EDIT_ITEM
+edit content,EDIT_ITEM
+modify content,EDIT_ITEM
+update content,EDIT_ITEM
+change content,EDIT_ITEM
+edit text,EDIT_ITEM
+alter text,EDIT_ITEM
+make changes to content,EDIT_ITEM
+revise content,EDIT_ITEM
+adjust content,EDIT_ITEM
+modify text,EDIT_ITEM
+edit properties,EDIT_ITEM
+modify properties,EDIT_ITEM
+update properties,EDIT_ITEM
+change properties,EDIT_ITEM
+edit settings,EDIT_ITEM
+alter settings,EDIT_ITEM
+make changes to properties,EDIT_ITEM
+revise properties,EDIT_ITEM
+adjust properties,EDIT_ITEM
+modify settings,EDIT_ITEM
+edit this entry,EDIT_ITEM
+modify this entry,EDIT_ITEM
+update this entry,EDIT_ITEM
+change this entry,EDIT_ITEM
+edit this record,EDIT_ITEM
+alter this record,EDIT_ITEM
+make changes to this entry,EDIT_ITEM
+revise this entry,EDIT_ITEM
+adjust this entry,EDIT_ITEM
+modify this entry,EDIT_ITEM
+edit my entry,EDIT_ITEM
+modify my entry,EDIT_ITEM
+update my entry,EDIT_ITEM
+change my entry,EDIT_ITEM
+edit my record,EDIT_ITEM
+alter my record,EDIT_ITEM
+make changes to my entry,EDIT_ITEM
+revise my entry,EDIT_ITEM
+adjust my entry,EDIT_ITEM
+modify my entry,EDIT_ITEM
+edit the entry,EDIT_ITEM
+modify the entry,EDIT_ITEM
+update the entry,EDIT_ITEM
+change the entry,EDIT_ITEM
+edit the record,EDIT_ITEM
+alter the record,EDIT_ITEM
+make changes to the entry,EDIT_ITEM
+revise the entry,EDIT_ITEM
+adjust the entry,EDIT_ITEM
+modify the entry,EDIT_ITEM
+delete the selected item,DELETE_ITEM
+remove this task,DELETE_ITEM
+delete the record,DELETE_ITEM
+remove the entry,DELETE_ITEM
+erase this item,DELETE_ITEM
+delete current selection,DELETE_ITEM
+permanently delete,DELETE_ITEM
+remove from list,DELETE_ITEM
+clear this item,DELETE_ITEM
+discard item now,DELETE_ITEM
+delete now,DELETE_ITEM
+remove now,DELETE_ITEM
+delete this,DELETE_ITEM
+remove this,DELETE_ITEM
+erase this,DELETE_ITEM
+delete current,DELETE_ITEM
+permanently remove,DELETE_ITEM
+remove item,DELETE_ITEM
+clear this,DELETE_ITEM
+discard now,DELETE_ITEM
+delete my item,DELETE_ITEM
+remove my task,DELETE_ITEM
+delete my record,DELETE_ITEM
+remove my entry,DELETE_ITEM
+erase my item,DELETE_ITEM
+delete my selection,DELETE_ITEM
+permanently delete my,DELETE_ITEM
+remove my item,DELETE_ITEM
+clear my item,DELETE_ITEM
+discard my item,DELETE_ITEM
+delete the current,DELETE_ITEM
+remove the current,DELETE_ITEM
+delete the current record,DELETE_ITEM
+remove the current entry,DELETE_ITEM
+erase the current item,DELETE_ITEM
+delete the current selection,DELETE_ITEM
+permanently delete current,DELETE_ITEM
+remove the current item,DELETE_ITEM
+clear the current item,DELETE_ITEM
+discard the current item,DELETE_ITEM
+delete data,DELETE_ITEM
+remove data,DELETE_ITEM
+delete details,DELETE_ITEM
+remove details,DELETE_ITEM
+erase data,DELETE_ITEM
+delete content,DELETE_ITEM
+permanently remove data,DELETE_ITEM
+remove content,DELETE_ITEM
+clear data,DELETE_ITEM
+discard data,DELETE_ITEM
+delete content now,DELETE_ITEM
+remove content now,DELETE_ITEM
+delete text,DELETE_ITEM
+remove text,DELETE_ITEM
+erase text,DELETE_ITEM
+delete text content,DELETE_ITEM
+permanently delete text,DELETE_ITEM
+remove text content,DELETE_ITEM
+clear text,DELETE_ITEM
+discard text,DELETE_ITEM
+delete entry,DELETE_ITEM
+remove entry,DELETE_ITEM
+delete this entry,DELETE_ITEM
+remove this entry,DELETE_ITEM
+erase this entry,DELETE_ITEM
+delete current entry,DELETE_ITEM
+permanently delete entry,DELETE_ITEM
+remove current entry,DELETE_ITEM
+clear current entry,DELETE_ITEM
+discard current entry,DELETE_ITEM
+delete a record,DELETE_ITEM
+remove a record,DELETE_ITEM
+delete a item,DELETE_ITEM
+remove a item,DELETE_ITEM
+erase a item,DELETE_ITEM
+delete a selection,DELETE_ITEM
+permanently delete a,DELETE_ITEM
+remove a item from,DELETE_ITEM
+clear a item,DELETE_ITEM
+discard a item,DELETE_ITEM
+delete my entry,DELETE_ITEM
+remove my entry,DELETE_ITEM
+delete my record now,DELETE_ITEM
+remove my record now,DELETE_ITEM
+erase my entry now,DELETE_ITEM
+delete my selection now,DELETE_ITEM
+permanently delete my record,DELETE_ITEM
+remove my item from list,DELETE_ITEM
+clear my item now,DELETE_ITEM
+discard my item now,DELETE_ITEM
+delete this record,DELETE_ITEM
+remove this record,DELETE_ITEM
+delete this item,DELETE_ITEM
+remove this item,DELETE_ITEM
+erase this record,DELETE_ITEM
+delete this selection,DELETE_ITEM
+permanently delete this record,DELETE_ITEM
+remove this item from list,DELETE_ITEM
+clear this item now,DELETE_ITEM
+discard this item now,DELETE_ITEM
+this input is not a command,NOOP
+i dont understand that,NOOP
+what are you saying,NOOP
+please rephrase,NOOP
+thats not a valid command,NOOP
+this doesnt make sense,NOOP
+cant recognize that,NOOP
+not a command,NOOP
+undefined input,NOOP
+irrelevant phrase,NOOP
+just some random text,NOOP
+hello there,NOOP
+how is the weather,NOOP
+tell me a joke,NOOP
+what time is it,NOOP
+i need coffee,NOOP
+are you an ai,NOOP
+good morning,NOOP
+whats your name,NOOP
+this is just a sentence,NOOP
+random input here,NOOP
+some unrelated text,NOOP
+this is not a command,NOOP
+i cant follow that,NOOP
+what do you mean,NOOP
+can you say again,NOOP
+not a recognized command,NOOP
+this is gibberish,NOOP
+i am confused,NOOP
+some other phrase,NOOP
+another random string,NOOP
+not applicable here,NOOP
+this has no meaning,NOOP
+what is that,NOOP
+please clarify,NOOP
+thats incomprehensible,NOOP
+not a valid action,NOOP
+i dont know what that is,NOOP
+its not clear,NOOP
+unrelated sentence,NOOP
+just talking,NOOP
+this is a question,NOOP
+can you hear me,NOOP
+i need food,NOOP
+whats on tv,NOOP
+are you human,NOOP
+good evening,NOOP
+what do you prefer,NOOP
+this is a statement,NOOP
+talk to me,NOOP
+this is a sentence,NOOP
+i like apples,NOOP
+tell me something new,NOOP
+are you working,NOOP
+i am bored,NOOP
+whats up,NOOP
+how are you,NOOP
+what can you do,NOOP
+this is nonsense,NOOP
+random text input,NOOP
+not relevant,NOOP
+i just typed this,NOOP
+what is happening,NOOP
+please be clearer,NOOP
+that makes no sense,NOOP
+not an operation,NOOP
+i cannot understand,NOOP
+not sure what this is,NOOP
+gibberish here,NOOP
+just a few words,NOOP
+can we chat,NOOP
+whats for dinner,NOOP
+do you sleep,NOOP
+i need a break,NOOP
+how can i help you,NOOP
+i am well,NOOP
+what is fun,NOOP
+this is a test,NOOP
+random words,NOOP
+not a command at all,NOOP
+i do not get it,NOOP
+what information,NOOP
+say that again,NOOP
+not a command input,NOOP
+this is not helpful,NOOP
+i do not understand,NOOP
+gibberish input,NOOP
+random phrase,NOOP
+this is not what i asked,NOOP
+tell me about yourself,NOOP
+can you think,NOOP
+i want to relax,NOOP
+what are your limits,NOOP
+i feel good,NOOP
+what is important,NOOP
+this is a sentence now,NOOP
+random text here,NOOP
+not a command sentence,NOOP
+explain this,EXPLAIN
+what does this mean,EXPLAIN
+how does it work,EXPLAIN
+tell me about item x,EXPLAIN
+explain the function,EXPLAIN
+what is this for,EXPLAIN
+clarify this please,EXPLAIN
+describe this,EXPLAIN
+show me purpose,EXPLAIN
+give me details,EXPLAIN
+explain current,EXPLAIN
+what is the reason,EXPLAIN
+how is this done,EXPLAIN
+tell me its use,EXPLAIN
+explain that option,EXPLAIN
+what does this feature do,EXPLAIN
+clarify the process,EXPLAIN
+describe the item,EXPLAIN
+show me its function,EXPLAIN
+give me explanation,EXPLAIN
+explain the term,EXPLAIN
+what is its purpose,EXPLAIN
+how does this happen,EXPLAIN
+tell me how this works,EXPLAIN
+explain this concept,EXPLAIN
+what is its role,EXPLAIN
+clarify the action,EXPLAIN
+describe the function,EXPLAIN
+show me the meaning,EXPLAIN
+give me clarification,EXPLAIN
+explain the process,EXPLAIN
+what does it represent,EXPLAIN
+how can this be,EXPLAIN
+tell me the meaning,EXPLAIN
+explain this feature,EXPLAIN
+what is the use,EXPLAIN
+clarify the usage,EXPLAIN
+describe the concept,EXPLAIN
+show me its purpose,EXPLAIN
+give me some insight,EXPLAIN
+explain the item,EXPLAIN
+what does it symbolize,EXPLAIN
+how does this operate,EXPLAIN
+tell me its purpose,EXPLAIN
+explain this action,EXPLAIN
+what is the function,EXPLAIN
+clarify the term,EXPLAIN
+describe the feature,EXPLAIN
+show me its use,EXPLAIN
+give me understanding,EXPLAIN
+explain the object,EXPLAIN
+what is it about,EXPLAIN
+how does this perform,EXPLAIN
+tell me the operation,EXPLAIN
+explain this setting,EXPLAIN
+what is the role,EXPLAIN
+clarify the function,EXPLAIN
+describe the action,EXPLAIN
+show me its role,EXPLAIN
+give me further details,EXPLAIN
+explain the selection,EXPLAIN
+what does this signify,EXPLAIN
+how is this utilized,EXPLAIN
+tell me its importance,EXPLAIN
+explain this component,EXPLAIN
+what is its significance,EXPLAIN
+clarify the object,EXPLAIN
+describe the item,EXPLAIN
+show me its meaning now,EXPLAIN
+give me more info,EXPLAIN
+explain the current,EXPLAIN
+what is the point,EXPLAIN
+how does this work now,EXPLAIN
+tell me its purpose now,EXPLAIN
+explain the highlighted,EXPLAIN
+what does the feature,EXPLAIN
+clarify the highlighted,EXPLAIN
+describe the selected,EXPLAIN
+show me the details,EXPLAIN
+give me full explanation,EXPLAIN
+explain this section,EXPLAIN
+what is this element,EXPLAIN
+how does this system,EXPLAIN
+tell me about the object,EXPLAIN
+explain this part,EXPLAIN
+what is the detail,EXPLAIN
+clarify the element,EXPLAIN
+describe the section,EXPLAIN
+show me the specifics,EXPLAIN
+give me a brief,EXPLAIN
+explain the current view,EXPLAIN
+what is this thing,EXPLAIN
+how does this module,EXPLAIN
+tell me about it,EXPLAIN
+explain what this is,EXPLAIN
+what is its function now,EXPLAIN
+clarify this element,EXPLAIN
+describe this object,EXPLAIN
+show me the meaning of this,EXPLAIN
+give me the lowdown,EXPLAIN
+reapply previous undo,REDO
+bring back the undone,REDO
+redo the last step,REDO
+reexecute undone action,REDO
+put back the last,REDO
+apply the reverted,REDO
+step forward again,REDO
+reverse the undo,REDO
+revert the previous revert,REDO
+reestablish the state,REDO
+bring back the prior,REDO
+redo the prior action,REDO
+reapply the action now,REDO
+find specific data,SEARCH
+look up my query,SEARCH
+search current entries,SEARCH
+find new records,SEARCH
+perform a quick search,SEARCH
+search for relevant,SEARCH
+find matching items,SEARCH
+look for saved data,SEARCH
+search the system for,SEARCH
+query the database,SEARCH
+make a new item,CREATE_ITEM
+add an entry,CREATE_ITEM
+create a new document,CREATE_ITEM
+form a new record,CREATE_ITEM
+initiate a new task,CREATE_ITEM
+start a new session,CREATE_ITEM
+make new record,CREATE_ITEM
+add fresh item,CREATE_ITEM
+create new object,CREATE_ITEM
+form new entry,CREATE_ITEM
+return to prior page,GO_BACK
+navigate to home screen,GO_BACK
+go back a page,GO_BACK
+return to main view,GO_BACK
+take me to last view,GO_BACK
+back to previous state,GO_BACK
+go to the start,GO_BACK
+return to the dashboard,GO_BACK
+navigate back in app,GO_BACK
+back to the main menu,GO_BACK
+select the current option,SELECT_ITEM
+choose this item now,SELECT_ITEM
+toggle the chosen item,SELECT_ITEM
+mark this entry,SELECT_ITEM
+select the active element,SELECT_ITEM
+pick the desired item,SELECT_ITEM
+select this single,SELECT_ITEM
+make this selection,SELECT_ITEM
+enable the current choice,SELECT_ITEM
+highlight the active item,SELECT_ITEM
+discard form changes,CANCEL_FORM
+close form without saving,CANCEL_FORM
+abandon form process,CANCEL_FORM
+do not save the form,CANCEL_FORM
+cancel this form now,CANCEL_FORM
+exit form without saving,CANCEL_FORM
+forget this data entry,CANCEL_FORM
+cancel the form submission,CANCEL_FORM
+discard current form,CANCEL_FORM
+close current form,CANCEL_FORM
+no do not continue,CANCEL
+stop this operation,CANCEL
+abort the current process,CANCEL
+never proceed,CANCEL
+discard my input,CANCEL
+do not accept this,CANCEL
+cancel my action now,CANCEL
+stop current task,CANCEL
+abort this action now,CANCEL
+discard the entries,CANCEL
+send the form,SUBMIT_FORM
+submit current data,SUBMIT_FORM
+save and send,SUBMIT_FORM
+finalize the input,SUBMIT_FORM
+process the entries,SUBMIT_FORM
+send the form now,SUBMIT_FORM
+submit my input,SUBMIT_FORM
+submit for review now,SUBMIT_FORM
+confirm and send now,SUBMIT_FORM
+process current form,SUBMIT_FORM
+yes proceed with,CONFIRM
+confirm my choice,CONFIRM
+agree and continue,CONFIRM
+execute the action,CONFIRM
+approve this step,CONFIRM
+confirm the current,CONFIRM
+go ahead with action,CONFIRM
+yes do that now,CONFIRM
+accept the changes,CONFIRM
+show details of object,VIEW_ITEM
+view more info,VIEW_ITEM
+display current item,VIEW_ITEM
+tell me about current,VIEW_ITEM
+open item details,VIEW_ITEM
+inspect the object,VIEW_ITEM
+details of current item,VIEW_ITEM
+do that command again,REPEAT
+repeat my last action,REPEAT
+run the last instruction,REPEAT
+do it one more time,REPEAT
+repeat the last action now,REPEAT
+what can i do here,HELP
+show me my options,HELP
+give me help,HELP
+tell me how it works,HELP
+i need application help,HELP
+go to the next item,NEXT_ITEM
+move to the following,NEXT_ITEM
+show the next record,NEXT_ITEM
+next item in list,NEXT_ITEM
+undo previous action,UNDO
+revert the last step,UNDO
+go back one move,UNDO
+this is not a valid request,NOOP
+i cannot understand that,NOOP
+show the previous item,PREVIOUS_ITEM
+go to prior item,PREVIOUS_ITEM

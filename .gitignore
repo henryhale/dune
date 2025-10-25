@@ -1,5 +1,48 @@
-__pycache__
-.ipynb*
-venv
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+.egg-info/
+
+# models and data
+*.pkl
+*.joblib
+data/augmented/
+data/processed/
+
+# ide
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# env
+.env
+.env.local
+
+# logs
+.log
+logs/
+
+# testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# misc
+*.zip
+*.tar.gz
 todo
 old

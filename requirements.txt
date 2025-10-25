@@ -1,9 +1,18 @@
-pandas
-numpy
-seaborn
-nltk
-matplotlib
-scikit-learn
-jupyterlab
-scipy
-notebook
+# core ml
+scikit-learn==1.7.2
+numpy==2.3.3
+pandas==2.3.3
+
+# nlp
+nltk==3.9.2
+
+# utilities
+joblib==1.5.2
+
+# api
+flask
+
+# notebook
+jupyterlab==4.4.9
+matplotlib==3.10.7
+seaborn==0.13.2
