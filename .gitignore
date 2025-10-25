@@ -14,8 +14,7 @@ dist/
 # models and data
 *.pkl
 *.joblib
-data/augmented/
-data/processed/
+*.augmented.csv
 
 # ide
 .vscode/
