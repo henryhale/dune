@@ -5,9 +5,13 @@
 
 </div>
 
->:warning: this project is under development.
+## Overview
+Most AI voice agents or assitants have an underlying text-to-command model that infers the user's intent from their voice transcript or prompt. Such applications(like Google Assistant or Apple's Siri) help the end user to run a sequence of operations that they would otherwise have to do ~manually~ themselves - swiping through screen to complete a task. More use cases for text-to-command models include AI agents like Anthropic's Claude Code or OpenAI's Codex - they infer intent from user's prompt and execute commands on confirmation.
 
-### Context
+The motivating idea for this project is rooted from the ability to infer intent and expand on it in a way that enables end users to operate any form of application - primarily the web space for now.
+
+## Context
+
 I am building an AI driven application that consists of;
 
 - Text to command model (receives user input and outputs a predefined command to execute)
