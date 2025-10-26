@@ -93,7 +93,7 @@ _predictor = None
 
 def predict_command(
     text,
-    pipeline_path="models/dune.pipeline.joblib",
+    pipeline_path="models/dune.pipeline.joblib.gz",
     confidence_threshold=0.1,
     quiet=True
 ):
