@@ -4,7 +4,7 @@
 
 🏜️ Navigate the landscape of user intent by shifting language into action.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/henryhale/dune/blob/dev/notebooks/collab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/henryhale/dune/blob/master/notebooks/collab.ipynb)
 
 </div>
 
