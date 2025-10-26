@@ -12,9 +12,11 @@ dist/
 .egg-info/
 
 # models and data
-*.pkl
-*.joblib
-*.augmented.csv
+*.pkl*
+*.joblib*
+*.augmented.*
+*.testing.*
+*.training.*
 
 # ide
 .vscode/
