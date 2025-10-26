@@ -6,6 +6,14 @@ import pandas
 import joblib
 import pathlib
 import nltk
+import numpy
+import random
+import os
+
+# added these for reproducibility on different machines
+numpy.random.seed(42)
+random.seed(42)
+os.environ['PYTHONHASHSEED'] = '0'
 
 
 def check_nltk_data():
@@ -38,7 +46,8 @@ def load_dataset(filepath):
     Returns:
         list: List of (text, label) tuples
     """
-    df = pandas.read_csv(filepath)
+    df = pandas.read_csv(filepath, encoding='utf-8')
+    df =  df.sort_values('label').reset_index(drop=True)
 
     return list(zip(df["text"], df["label"]))
 
@@ -57,18 +66,19 @@ def save_dataset(dataset, filepath):
     df.to_csv(filepath, index=False)
 
 
-def save_model(model, filepath):
+def save_model(model, filepath, compress=True):
     """
     Save model to disk using joblib
 
     Args:
         model: Model object to save
-        filepath (str): Output path for model file
+        filepath (str): Output path for model file. The compression method corresponding to one of the supported filename extensions ('.z', '.gz', '.bz2', '.xz' or '.lzma') will be used automatically.
+        compress: If compress is a 2-tuple, the first element must correspond to a string between supported compressors (e.g 'zlib', 'gzip', 'bz2', 'lzma' 'xz'), the second element must be an integer from 0 to 9, corresponding to the compression level.
     """
     pathlib.Path(filepath).parent.mkdir(parents=True, exist_ok=True)
 
     with open(filepath, "wb") as file:
-        joblib.dump(model, file)
+        joblib.dump(model, file, compress)
 
 
 def load_model(filepath):

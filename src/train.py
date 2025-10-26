@@ -2,40 +2,37 @@ import argparse
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import LinearSVC
-from sklearn.preprocessing import LabelEncoder
+from sklearn.pipeline import Pipeline
 from sklearn.metrics import (
     accuracy_score,
     classification_report,
 )
-from utils import load_dataset, save_model
-from preprocess import clean_text
+from src.utils import load_dataset, save_model
+from src.preprocess import clean_text
 
 
-def split_data(x, y, val_test_size=0.3, random_state=42):
+def split_data(x, y, test_size=0.25, random_state=42):
     """
-    Split the data into training and temp sets.
-    The temp set is then split by half to create validation and testing sets.
+    Split the data into training and testing sets.
 
     Args:
         x (list): List of input text data
         y (list): List of corresponding labels
-        val_test_size (int): Percentage of validation and test set from entire dataset
+        test_size (int): Percentage of test set from entire dataset
 
     Returns:
         splitting: List containing train-val-test split of inputs.
     """
-
-    # first split: train, temp (for validation/test)
-    x_train, x_temp, y_train, y_temp = train_test_split(
-        x, y, test_size=val_test_size, random_state=random_state, stratify=y
+    x_train, x_test, y_train, y_test = train_test_split(
+        x,
+        y,
+        test_size=test_size,
+        random_state=random_state,
+        stratify=y,
+        shuffle=True,
     )
 
-    # second split: validation & test as 50/50 of temp
-    x_val, x_test, y_val, y_test = train_test_split(
-        x_temp, y_temp, test_size=0.5, random_state=random_state, stratify=y_temp
-    )
-
-    return x_train, x_val, x_test, y_train, y_val, y_test
+    return x_train, x_test, y_train, y_test
 
 
 def evaluate_set(y_true, y_pred, labels=None):
@@ -63,8 +60,9 @@ def evaluate_set(y_true, y_pred, labels=None):
 
 def train_model(
     dataset_path,
+    pipeline_path="models/dune.pipeline.joblib.gz",
     random_state=42,
-    val_test_size=0.3,
+    test_size=0.15,
     max_features=5000,
     ngram_range=(1, 3),
 ):
@@ -73,9 +71,11 @@ def train_model(
 
     Args:
         dataset_path (str): Path to dataset (CSV) file
+        pipeline_path (str): Path to which the model file will be saved
         random_state (int): Random seed for reproducibility
         max_features (int): Maximum number of TF-IDF features
         ngram_range (tuple): Range of n-grams to extract
+        test_size (int): Percentage of test set from entire dataset
 
     Returns:
         tuple: (model, vectorizer, metrics)
@@ -92,52 +92,59 @@ def train_model(
     # preprocess texts
     texts_cleaned = [clean_text(text) for text in texts]
 
-    # encode labels
-    encoder = LabelEncoder()
-    labels_encoded = encoder.fit_transform(labels)
+    # encode labels - nope sklearn internally encoded labels
+    # encoded labels available at `model.classes_`
+    # encoder = LabelEncoder()
+    # labels_encoded = encoder.fit_transform(labels)
 
     # split data
-    x_train, x_val, x_test, y_train, y_val, y_test = split_data(
-        texts_cleaned, labels_encoded, val_test_size, random_state
+    x_train, x_val, y_train, y_val = split_data(
+        texts_cleaned, labels, test_size, random_state
     )
 
-    # use `max_features` to limit features for efficiency
-    vectorizer = TfidfVectorizer(
-        max_features=max_features,
-        ngram_range=ngram_range,
-        lowercase=True,
-        strip_accents="unicode",
+    # create pipeline for cleaner approach
+    pipeline = Pipeline(
+        [
+            (
+                "vectorizer",
+                TfidfVectorizer(
+                    max_features=max_features,
+                    ngram_range=ngram_range,
+                    lowercase=True,
+                    strip_accents="unicode",
+                ),
+            ),
+            (
+                "classifier",
+                LinearSVC(
+                    max_iter=5000,
+                    tol=1e-6,
+                    loss="squared_hinge",
+                    random_state=random_state,
+                    dual=False,
+                ),
+            ),
+        ]
     )
 
-    # initialize linear svc model
-    model = LinearSVC(
-        random_state=42, dual=False
-    )  # dual=False for n_samples > n_features
-
-    # fit and transform training data
-    x_train_vec = vectorizer.fit_transform(x_train)
-
-    # train model
-    model.fit(x_train_vec, y_train)
+    # train pipeline
+    pipeline.fit(x_train, y_train)
     # training complete
 
     metrics = {}
 
+    # evaluate on training set
+    y_train_pred = pipeline.predict(x_train)
+    metrics["training"] = evaluate_set(y_train, y_train_pred, pipeline.classes_)
+
     # evaluate on validation set
-    x_val_vec = vectorizer.transform(x_val)
-    y_val_pred = model.predict(x_val_vec)
-    metrics["validation"] = evaluate_set(y_val, y_val_pred, encoder.classes_)
+    y_val_pred = pipeline.predict(x_val)
+    metrics["validation"] = evaluate_set(y_val, y_val_pred, pipeline.classes_)
 
-    # evaluate on testing set
-    x_test_vec = vectorizer.transform(x_test)
-    y_test_pred = model.predict(x_test_vec)
-    metrics["testing"] = evaluate_set(y_test, y_test_pred, encoder.classes_)
+    # save the entire pipeline (model and vectorizer)
+    save_model(pipeline, pipeline_path, ("gzip", 3))
 
-    # save model and vectorizer
-    save_model(vectorizer, "models/dune.vectorizer.joblib")
-    save_model(model, "models/dune.model.joblib")
-
-    return model, vectorizer, metrics
+    return pipeline, metrics
 
 
 def main():
@@ -150,14 +157,20 @@ def main():
     parser.add_argument(
         "--data",
         type=str,
-        default="data/dataset.augmented.csv",
+        default="data/dataset.csv",
         help="Path to training data file (augmented or not) in CSV format",
     )
     parser.add_argument(
-        "--val-test-size",
+        "--pipeline",
+        type=str,
+        default="models/dune.pipeline.joblib.gz",
+        help="Path to which the model file will be saved",
+    )
+    parser.add_argument(
+        "--test-size",
         type=float,
-        default=0.3,
-        help="Proportion of the data for both validation and test set (default: 0.3 - test 15%, validation 15%)",
+        default=0.15,
+        help="Proportion of the data for validation set (default: 0.15)",
     )
     parser.add_argument(
         "--max-features",
@@ -175,8 +188,9 @@ def main():
 
     train_model(
         dataset_path=args.data,
+        pipeline_path=args.pipeline,
         random_state=args.random_state,
-        val_test_size=args.val_test_size,
+        test_size=args.test_size,
         max_features=args.max_features,
     )
 

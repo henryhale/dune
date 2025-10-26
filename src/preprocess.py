@@ -6,6 +6,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 import re
+import unicodedata
 
 
 stop_words = set(stopwords.words("english"))
@@ -21,12 +22,14 @@ def clean_text(text):
 
     Args:
         text (str): User input text
-    
+
     Returns:
         clean_text (str): Cleaned text with little noise
     """
     # convert all text to lowercase
     text = text.lower()
+    # normalize text
+    text = unicodedata.normalize("NFKD", text)
     # remove special characters and numbers to simplify vocabulary
     text = re.sub(r"[^a-z\s]", "", text)
     # remove extra spaces
@@ -39,4 +42,6 @@ def clean_text(text):
     # this reduces vocabulary size and treat different inflections of a word as the same
     tokens = [lemmatizer.lemmatize(word) for word in tokens]
 
-    return " ".join(tokens)
+    result = " ".join(tokens)
+
+    return text if len(result) == 0 else result

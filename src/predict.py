@@ -3,8 +3,9 @@ Inference pipeline for command prediction
 """
 
 import argparse
-from utils import load_model
-from preprocess import clean_text
+from scipy.special import softmax
+from src.utils import load_model
+from src.preprocess import clean_text
 
 
 class Predictor:
@@ -14,21 +15,21 @@ class Predictor:
 
     def __init__(
         self,
-        vectorizer_path="models/dune.vectorizer.joblib",
-        model_path="models/dune.model.joblib",
-        confidence_threshold=0.6,
+        pipeline_path="models/dune.pipeline.joblib.gz",
+        confidence_threshold=0.1,
+        quiet=True,
     ):
         """
         Initialize predictor
 
         Args:
-            vectorizer_path (str): Path to vectorizer file
-            model_path (str): Path to model file
+            pipeline_path (str): Path to pipeline file
             confidence_threshold (float): Minimum confidence for prediction
+            quiet (bool): Whether or not to display logs
         """
-        self.vectorizer = load_model(vectorizer_path)
-        self.model = load_model(model_path)
+        self.pipeline = load_model(pipeline_path)
         self.confidence_threshold = confidence_threshold
+        self.log = not bool(quiet)
 
     def predict(self, text):
         """
@@ -46,16 +47,34 @@ class Predictor:
         # preprocess text
         text_cleaned = clean_text(text)
 
+        # get vectorizer from pipeline
+        vectorizer = self.pipeline.named_steps["vectorizer"]
         # vectorize input
-        x = self.vectorizer.transform([text_cleaned])
+        x = vectorizer.transform([text_cleaned])
 
-        # get probabilities
-        probabilities = self.model._predict_proba_lr(x)[0]
+        # get model from pipeline
+        model = self.pipeline.named_steps["classifier"]
+        # get decision scores
+        scores = model.decision_function(x)[0]
+        if self.log:
+            print("scores:", scores)
+
+        probabilities = softmax(scores)
+        if self.log:
+            print("probabilities", probabilities)
 
         # get prediction
         predicted_index = probabilities.argmax()
-        command = self.model.classes_[predicted_index]
+        if self.log:
+            print("predicted index:", predicted_index)
+
+        command = model.classes_[predicted_index]
+        if self.log:
+            print("command:", command)
+
         confidence = probabilities[predicted_index]
+        if self.log:
+            print("confidence:", confidence)
 
         # apply confidence threshold
         if confidence < self.confidence_threshold:
@@ -74,18 +93,18 @@ _predictor = None
 
 def predict_command(
     text,
-    vectorizer_path="models/dune.vectorizer.joblib",
-    model_path="models/dune.model.joblib",
-    confidence_threshold=0.6,
+    pipeline_path="models/dune.pipeline.joblib",
+    confidence_threshold=0.1,
+    quiet=True
 ):
     """
     Predict the output class given a user prompt
 
     Args:
         text (str): Input text
-        vectorizer_path (str): Path to vectorizer file
-        model_path (str): Path to model file
+        pipeline_path (str): Path to pipeline file
         confidence_threshold (float): Minimum confidence for prediction
+        quiet (bool): Whether or not to display logs
 
     Returns:
         dict: Prediction results with keys
@@ -96,7 +115,7 @@ def predict_command(
     global _predictor
 
     if _predictor is None:
-        _predictor = Predictor(vectorizer_path, model_path, confidence_threshold)
+        _predictor = Predictor(pipeline_path, confidence_threshold, quiet)
 
     return _predictor.predict(text)
 
@@ -110,16 +129,10 @@ def main():
     )
     parser.add_argument("text", type=str, nargs="?", help="Text to classify")
     parser.add_argument(
-        "--vectorizer",
+        "--pipeline",
         type=str,
-        default="models/dune.vectorizer.joblib",
-        help="Path to vectorizer file",
-    )
-    parser.add_argument(
-        "--model",
-        type=str,
-        default="models/dune.model.joblib",
-        help="Path to model file",
+        default="models/dune.pipeline.joblib.gz",
+        help="Path to pipeline file",
     )
     parser.add_argument(
         "--threshold",
@@ -128,15 +141,15 @@ def main():
         help="Minimum confidence for prediction (default: 0.6)",
     )
     parser.add_argument(
-        "--interactive", action='store_true', help="Run in interactive mode"
+        "--interactive", action="store_true", help="Run in interactive mode"
     )
 
     args = parser.parse_args()
 
-    predictor = Predictor(args.vectorizer, args.model, args.threshold)
+    predictor = Predictor(args.pipeline, args.threshold, True)
 
     if args.interactive:
-        print("\nDune - a text-to-command predictor ")
+        print("\nDune - a text-to-command predictor")
         print("")
         print("Running in interactive mode")
         print("")
@@ -156,7 +169,7 @@ def main():
                 result = predictor.predict(text)
 
                 print(f"command: {result['command']}")
-                print(f"confidence: {result['confidence']}")
+                print(f"confidence: {result['confidence']}\n")
 
             except KeyboardInterrupt:
                 print("\nGoodbye!")
@@ -164,9 +177,9 @@ def main():
     elif args.text:
         result = predictor.predict(args.text)
 
-        print(f"input: {result['raw_text']}")
+        print(f"\ninput: {result['raw_text']}")
         print(f"command: {result['command']}")
-        print(f"confidence: {result['confidence']}")
+        print(f"confidence: {result['confidence']}\n")
     else:
         parser.print_usage()
 
