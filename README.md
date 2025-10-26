@@ -1,13 +1,15 @@
 <div align=center>
 
 # dune
-🏜️ Navigate the landscape of user intent by shifting language into action. 
+
+🏜️ Navigate the landscape of user intent by shifting language into action.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/henryhale/dune/blob/dev/notebooks/collab.ipynb)
 
 </div>
 
 ## Overview
+
 Most AI voice agents or assitants have an underlying text-to-command model that infers the user's intent from their voice transcript or prompt. Such applications(like Google Assistant or Apple's Siri) help the end user to run a sequence of operations that they would otherwise have to do ~manually~ themselves - swiping through screen to complete a task. More use cases for text-to-command models include AI agents like Anthropic's Claude Code or OpenAI's Codex - they infer intent from user's prompt and execute commands on confirmation.
 
 The motivating idea for this project is rooted from the ability to infer intent and expand on it in a way that enables end users to operate any form of application - primarily the web space for now.
@@ -49,11 +51,6 @@ List of commands included:
 - Confidence thresholding
 - Argument extraction from commands (using Named Entity Recognition)
 
-## NOOP
-
-Test threshold: After training, if model confidence < 0.6, treat as NOOP even if it picks a class.
-This way the model learns to reject unclear inputs gracefully.
-
 ## Installation
 
 ```bash
@@ -69,7 +66,29 @@ source venv/bin/activate  # on windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-<!-- ## Quick start
+## Quick start
+
+After installation, you have to train the model and then use it to predict commands.
+
+1. Using the command line
+
+   ```sh
+   # train the model
+   python src/train.py
+
+   # run the model interactively
+   python src/predict.py --interactive
+   ```
+
+2. Using notebooks
+
+   ```sh
+   jupyter lab
+   ```
+
+   Start with [notebooks/training.ipynb](./notebooks/training.ipynb), the proceed to [notebooks/testing.ipynb](./notebooks/testing.ipynb)
+
+<!--
 
 ## Usage
 
