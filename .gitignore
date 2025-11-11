@@ -47,4 +47,4 @@ htmlcov/
 *.tar.gz
 todo
 old
-data/dataset.csv
+dataset.csv
