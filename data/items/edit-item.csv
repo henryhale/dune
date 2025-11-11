@@ -1,0 +1,201 @@
+text,label
+Alter item,EDIT_ITEM
+Edit the item,EDIT_ITEM
+Update item,EDIT_ITEM
+Modify this item,EDIT_ITEM
+Adjust item,EDIT_ITEM
+Revise item,EDIT_ITEM
+Change item,EDIT_ITEM
+Edit current item,EDIT_ITEM
+Amend item,EDIT_ITEM
+Correct item,EDIT_ITEM
+Update this item,EDIT_ITEM
+Modify the item,EDIT_ITEM
+Edit selected item,EDIT_ITEM
+Change current item,EDIT_ITEM
+Alter the item,EDIT_ITEM
+Revise the item,EDIT_ITEM
+Update current item,EDIT_ITEM
+Modify this item,EDIT_ITEM
+Adjust the item,EDIT_ITEM
+Correct the item,EDIT_ITEM
+Edit this item,EDIT_ITEM
+Change the item,EDIT_ITEM
+Amend the item,EDIT_ITEM
+Update selected item,EDIT_ITEM
+Modify the item,EDIT_ITEM
+Edit the item,EDIT_ITEM
+Change specific item,EDIT_ITEM
+Alter selected item,EDIT_ITEM
+Revise selected item,EDIT_ITEM
+Update specific item,EDIT_ITEM
+Modify the current item,EDIT_ITEM
+Adjust this item,EDIT_ITEM
+Correct this item,EDIT_ITEM
+Edit a item,EDIT_ITEM
+Change this item,EDIT_ITEM
+Amend the item,EDIT_ITEM
+Update the item,EDIT_ITEM
+Modify selected item,EDIT_ITEM
+Adjust selected item,EDIT_ITEM
+Correct selected item,EDIT_ITEM
+Edit current item,EDIT_ITEM
+Change the item,EDIT_ITEM
+Alter specific item,EDIT_ITEM
+Revise the current item,EDIT_ITEM
+Update specific item,EDIT_ITEM
+Modify the displayed item,EDIT_ITEM
+Adjust the current item,EDIT_ITEM
+Correct the current item,EDIT_ITEM
+Edit selected item,EDIT_ITEM
+Change the current item,EDIT_ITEM
+Amend selected item,EDIT_ITEM
+Update the item,EDIT_ITEM
+Modify a item,EDIT_ITEM
+Adjust current item,EDIT_ITEM
+Correct current item,EDIT_ITEM
+Edit the active item,EDIT_ITEM
+Change the selected item,EDIT_ITEM
+Alter the current item,EDIT_ITEM
+Revise current item,EDIT_ITEM
+Update the current item,EDIT_ITEM
+Modify the active item,EDIT_ITEM
+Adjust selected item,EDIT_ITEM
+Correct the selected item,EDIT_ITEM
+Edit the current item,EDIT_ITEM
+Change the active item,EDIT_ITEM
+Amend current item,EDIT_ITEM
+Update the selected item,EDIT_ITEM
+Modify the current item,EDIT_ITEM
+Adjust the active item,EDIT_ITEM
+Correct the active item,EDIT_ITEM
+Edit active item,EDIT_ITEM
+Change the displayed item,EDIT_ITEM
+Alter the selected item,EDIT_ITEM
+Revise specific item,EDIT_ITEM
+Update active item,EDIT_ITEM
+Modify specific item,EDIT_ITEM
+Adjust the displayed item,EDIT_ITEM
+Correct specific item,EDIT_ITEM
+Edit the highlighted item,EDIT_ITEM
+Change the active item,EDIT_ITEM
+Amend the selected item,EDIT_ITEM
+Update the active item,EDIT_ITEM
+Modify the highlighted item,EDIT_ITEM
+Adjust specific item,EDIT_ITEM
+Correct the displayed item,EDIT_ITEM
+Edit the displayed item,EDIT_ITEM
+Change the specific item,EDIT_ITEM
+Alter the active item,EDIT_ITEM
+Revise the displayed item,EDIT_ITEM
+Update highlighted item,EDIT_ITEM
+Modify the current entry,EDIT_ITEM
+Adjust the highlighted item,EDIT_ITEM
+Correct active item,EDIT_ITEM
+Edit the currently open item,EDIT_ITEM
+Change this entry,EDIT_ITEM
+Change item,EDIT_ITEM
+Edit this item,EDIT_ITEM
+Update item,EDIT_ITEM
+Modify item,EDIT_ITEM
+Modify that item,EDIT_ITEM
+edit the selected item,EDIT_ITEM
+modify this task details,EDIT_ITEM
+update the record,EDIT_ITEM
+change the item properties,EDIT_ITEM
+edit user profile,EDIT_ITEM
+alter this entry,EDIT_ITEM
+make changes to selected,EDIT_ITEM
+revise the details,EDIT_ITEM
+adjust settings of item,EDIT_ITEM
+modify task now,EDIT_ITEM
+edit this,EDIT_ITEM
+modify this,EDIT_ITEM
+update this,EDIT_ITEM
+change this,EDIT_ITEM
+edit current,EDIT_ITEM
+alter current,EDIT_ITEM
+make changes,EDIT_ITEM
+revise now,EDIT_ITEM
+adjust settings,EDIT_ITEM
+modify current,EDIT_ITEM
+edit my item,EDIT_ITEM
+modify my item,EDIT_ITEM
+update my item,EDIT_ITEM
+change my item,EDIT_ITEM
+edit my data,EDIT_ITEM
+alter my data,EDIT_ITEM
+make changes to my item,EDIT_ITEM
+revise my details,EDIT_ITEM
+adjust my settings,EDIT_ITEM
+modify my data,EDIT_ITEM
+edit the current,EDIT_ITEM
+modify the current,EDIT_ITEM
+update the current,EDIT_ITEM
+change the current,EDIT_ITEM
+edit the current item,EDIT_ITEM
+alter the current item,EDIT_ITEM
+make changes to current,EDIT_ITEM
+revise the current,EDIT_ITEM
+adjust the current,EDIT_ITEM
+modify the current item,EDIT_ITEM
+edit data,EDIT_ITEM
+modify data,EDIT_ITEM
+update data,EDIT_ITEM
+change data,EDIT_ITEM
+edit details,EDIT_ITEM
+alter details,EDIT_ITEM
+make changes to data,EDIT_ITEM
+revise data,EDIT_ITEM
+adjust data,EDIT_ITEM
+modify details,EDIT_ITEM
+edit content,EDIT_ITEM
+modify content,EDIT_ITEM
+update content,EDIT_ITEM
+change content,EDIT_ITEM
+edit text,EDIT_ITEM
+alter text,EDIT_ITEM
+make changes to content,EDIT_ITEM
+revise content,EDIT_ITEM
+adjust content,EDIT_ITEM
+modify text,EDIT_ITEM
+edit properties,EDIT_ITEM
+modify properties,EDIT_ITEM
+update properties,EDIT_ITEM
+change properties,EDIT_ITEM
+edit settings,EDIT_ITEM
+alter settings,EDIT_ITEM
+make changes to properties,EDIT_ITEM
+revise properties,EDIT_ITEM
+adjust properties,EDIT_ITEM
+modify settings,EDIT_ITEM
+edit this entry,EDIT_ITEM
+modify this entry,EDIT_ITEM
+update this entry,EDIT_ITEM
+change this entry,EDIT_ITEM
+edit this record,EDIT_ITEM
+alter this record,EDIT_ITEM
+make changes to this entry,EDIT_ITEM
+revise this entry,EDIT_ITEM
+adjust this entry,EDIT_ITEM
+modify this entry,EDIT_ITEM
+edit my entry,EDIT_ITEM
+modify my entry,EDIT_ITEM
+update my entry,EDIT_ITEM
+change my entry,EDIT_ITEM
+edit my record,EDIT_ITEM
+alter my record,EDIT_ITEM
+make changes to my entry,EDIT_ITEM
+revise my entry,EDIT_ITEM
+adjust my entry,EDIT_ITEM
+modify my entry,EDIT_ITEM
+edit the entry,EDIT_ITEM
+modify the entry,EDIT_ITEM
+update the entry,EDIT_ITEM
+change the entry,EDIT_ITEM
+edit the record,EDIT_ITEM
+alter the record,EDIT_ITEM
+make changes to the entry,EDIT_ITEM
+revise the entry,EDIT_ITEM
+adjust the entry,EDIT_ITEM
+modify the entry,EDIT_ITEM

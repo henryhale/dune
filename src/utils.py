@@ -9,11 +9,13 @@ import nltk
 import numpy
 import random
 import os
+from skl2onnx import convert_sklearn
+from skl2onnx.common.data_types import StringTensorType, FloatTensorType
 
 # added these for reproducibility on different machines
 numpy.random.seed(42)
 random.seed(42)
-os.environ['PYTHONHASHSEED'] = '0'
+os.environ["PYTHONHASHSEED"] = "0"
 
 
 def check_nltk_data():
@@ -46,8 +48,8 @@ def load_dataset(filepath):
     Returns:
         list: List of (text, label) tuples
     """
-    df = pandas.read_csv(filepath, encoding='utf-8')
-    df =  df.sort_values('label').reset_index(drop=True)
+    df = pandas.read_csv(filepath, encoding="utf-8")
+    df = df.sort_values("label").reset_index(drop=True)
 
     return list(zip(df["text"], df["label"]))
 
@@ -90,3 +92,20 @@ def load_model(filepath):
     """
     with open(filepath, "rb") as file:
         return joblib.load(file)
+
+
+def generate_onnx_model(filepath):
+    """
+    Convert a .joblib model to ONNX format
+
+    Args:
+        filepath (str): Path to a .joblib model
+    """
+    model = joblib.load(filepath)
+    print(model)
+    onnx_model = convert_sklearn(
+        model, initial_types=[("input", FloatTensorType([None, 1, ""]))]
+    )
+    filepath = f"{filepath.split(".")[0]}.onnx"
+    with open(filepath, "wb") as file:
+        file.write(onnx_model.SerializeToString())

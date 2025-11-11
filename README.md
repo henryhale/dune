@@ -35,12 +35,16 @@ Meta conversation commands like `help`, `confirm`, `repeat`, and `explain` are i
 ## Commands
 
 List of commands included:
-
-- Navigation: `GO_TO`, `GO_BACK`
+'SEARCH', 'SUBMIT_FORM', 'CANCEL_FORM', 'CLEAR_FIELD',
+       'FILL_FIELD', 'NEXT_ITEM', 'PREVIOUS_ITEM', 'VIEW_ITEM', 'GO_TO',
+       'SELECT_ITEM', 'GO_BACK', 'EDIT_ITEM', 'CREATE_ITEM',
+       'DELETE_ITEM', 
+      
+- Navigation: `GO_TO`
 - Item selection: `SELECT_ITEM`, `NEXT_ITEM`, `PREVIOUS_ITEM`, `VIEW_ITEM`
 - Item management: `CREATE_ITEM`, `EDIT_ITEM`, `DELETE_ITEM`
-- Form input: `FILL_FIELD`, `CLEAR_FIELD`, `SUBMIT_FORM`, `CANCEL_FORM`
-- Meta commands: `HELP`, `EXPLAIN`, `CONFIRM`, `CANCEL`, `UNDO`, `REDO`, `REPEAT`
+- Form input: `FILL_FIELD`, `CLEAR_FIELD`, `SUBMIT_FORM`
+- Meta commands: `HELP`, `EXPLAIN`, `CONFIRM`, `CANCEL`, `UNDO`, `REDO`, `REPEAT`, `NOOP`
 
 ## Features
 

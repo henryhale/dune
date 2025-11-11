@@ -60,7 +60,7 @@ def evaluate_set(y_true, y_pred, labels=None):
 
 def train_model(
     dataset_path,
-    pipeline_path="models/dune.pipeline.joblib.gz",
+    pipeline_path="models/dune.joblib.gz",
     random_state=42,
     test_size=0.15,
     max_features=5000,
@@ -163,7 +163,7 @@ def main():
     parser.add_argument(
         "--pipeline",
         type=str,
-        default="models/dune.pipeline.joblib.gz",
+        default="models/dune.joblib.gz",
         help="Path to which the model file will be saved",
     )
     parser.add_argument(

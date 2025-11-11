@@ -1,0 +1,201 @@
+text,label
+Return,GO_BACK
+Navigate back,GO_BACK
+Go to previous screen,GO_BACK
+Take me back,GO_BACK
+Back up,GO_BACK
+Reverse direction,GO_BACK
+Go to the last page,GO_BACK
+Step back,GO_BACK
+Return to previous,GO_BACK
+Previous screen,GO_BACK
+Go to prior,GO_BACK
+Undo last navigation,GO_BACK
+Back out,GO_BACK
+Move back,GO_BACK
+Go to the previous view,GO_BACK
+One step back,GO_BACK
+Go backwards,GO_BACK
+Backward,GO_BACK
+Return to the last screen,GO_BACK
+Go to the previous,GO_BACK
+Return previous,GO_BACK
+Previous view,GO_BACK
+Go to the prior screen,GO_BACK
+Take me to the previous page,GO_BACK
+Go back one,GO_BACK
+Back a page,GO_BACK
+Return to the previous view,GO_BACK
+Go back to where I was,GO_BACK
+Revert,GO_BACK
+Previous section,GO_BACK
+Go to the last view,GO_BACK
+Backtrack,GO_BACK
+Navigate to the previous page,GO_BACK
+Go back one step,GO_BACK
+Return to the prior screen,GO_BACK
+Back to the previous,GO_BACK
+Previous state,GO_BACK
+Go to the former page,GO_BACK
+Move to previous,GO_BACK
+Go to the page before,GO_BACK
+Go back to the last screen,GO_BACK
+Return to the earlier page,GO_BACK
+Previous location,GO_BACK
+Go to the preceding page,GO_BACK
+Back up a page,GO_BACK
+Return to the previous location,GO_BACK
+Go back one screen,GO_BACK
+Back to last,GO_BACK
+Return to previous section,GO_BACK
+Go back to the prior view,GO_BACK
+Backward one step,GO_BACK
+Navigate to the last page,GO_BACK
+Go back a screen,GO_BACK
+Return to previous state,GO_BACK
+Back to the last screen,GO_BACK
+Previous context,GO_BACK
+Go back to the last visited page,GO_BACK
+Return to the original screen,GO_BACK
+Previous entry,GO_BACK
+Go to the former view,GO_BACK
+Move back a step,GO_BACK
+Go to the page just before,GO_BACK
+Return to previous context,GO_BACK
+Back one screen,GO_BACK
+Previous position,GO_BACK
+Go to the screen before,GO_BACK
+Navigate to the prior view,GO_BACK
+Go back to the last context,GO_BACK
+Return to the earlier view,GO_BACK
+Previous point,GO_BACK
+Go to the page I was just on,GO_BACK
+Move back one page,GO_BACK
+Go to the previous tab,GO_BACK
+Return to prior location,GO_BACK
+Back out of this,GO_BACK
+Previous window,GO_BACK
+Go to the screen I just left,GO_BACK
+Navigate to previous state,GO_BACK
+Go back to the last page I saw,GO_BACK
+Return to previous tab,GO_BACK
+Back to previous window,GO_BACK
+Go to the earlier screen,GO_BACK
+Move to the previous view,GO_BACK
+Go to the last active page,GO_BACK
+Return to prior window,GO_BACK
+Previous panel,GO_BACK
+Go back a panel,GO_BACK
+Navigate to the previous panel,GO_BACK
+Go back one tab,GO_BACK
+Return to the prior tab,GO_BACK
+Back to the previous panel,GO_BACK
+Previous form,GO_BACK
+Go back from here,GO_BACK
+Return to the previous form,GO_BACK
+Go back,GO_BACK
+Back,GO_BACK
+Previous page,GO_BACK
+Previous view,GO_BACK
+Previous screen,GO_BACK
+Move back,GO_BACK
+go back to previous screen,GO_BACK
+return to last page,GO_BACK
+navigate back now,GO_BACK
+take me to prior view,GO_BACK
+back a page please,GO_BACK
+go to previous location,GO_BACK
+back to previous,GO_BACK
+return to previous,GO_BACK
+go back now,GO_BACK
+previous screen please,GO_BACK
+go back a step,GO_BACK
+return to prior,GO_BACK
+navigate backward,GO_BACK
+take me back,GO_BACK
+back one screen,GO_BACK
+go to last position,GO_BACK
+back to the prior,GO_BACK
+return to the last,GO_BACK
+go back to last,GO_BACK
+previous view please,GO_BACK
+go back one,GO_BACK
+return to last,GO_BACK
+navigate past,GO_BACK
+take me to last,GO_BACK
+back a level,GO_BACK
+go to previous view,GO_BACK
+back to an old,GO_BACK
+return to an earlier,GO_BACK
+go back to prior,GO_BACK
+previous step please,GO_BACK
+go back home,GO_BACK
+return to home,GO_BACK
+navigate to home,GO_BACK
+take me to home,GO_BACK
+back to start,GO_BACK
+go to main,GO_BACK
+back to the main,GO_BACK
+return to the main,GO_BACK
+go back to main,GO_BACK
+main screen please,GO_BACK
+go back to the start,GO_BACK
+return to the beginning,GO_BACK
+navigate to the start,GO_BACK
+take me to the beginning,GO_BACK
+back to the initial,GO_BACK
+go to initial,GO_BACK
+back to the initial screen,GO_BACK
+return to initial,GO_BACK
+go back to initial,GO_BACK
+initial screen please,GO_BACK
+go back the screen,GO_BACK
+return the page,GO_BACK
+navigate the back,GO_BACK
+take me the view,GO_BACK
+back the page,GO_BACK
+go to the previous,GO_BACK
+back to the previous screen,GO_BACK
+return to the last page now,GO_BACK
+go back the last,GO_BACK
+previous location please,GO_BACK
+go back to my previous,GO_BACK
+return to my last,GO_BACK
+navigate my back,GO_BACK
+take me my prior,GO_BACK
+back my page,GO_BACK
+go to my previous,GO_BACK
+back my previous,GO_BACK
+return my previous,GO_BACK
+go back my back,GO_BACK
+my previous screen,GO_BACK
+go back in the app,GO_BACK
+return in the app,GO_BACK
+navigate in the app,GO_BACK
+take me in the app,GO_BACK
+back in the app,GO_BACK
+go to in the app,GO_BACK
+back in the application,GO_BACK
+return in the application,GO_BACK
+go back in the application,GO_BACK
+in the app please,GO_BACK
+go back a view,GO_BACK
+return a view,GO_BACK
+navigate a view,GO_BACK
+take me a view,GO_BACK
+back a view,GO_BACK
+go to a view,GO_BACK
+back the view,GO_BACK
+return the view,GO_BACK
+go back the view,GO_BACK
+a view please,GO_BACK
+return to prior page,GO_BACK
+navigate to home screen,GO_BACK
+go back a page,GO_BACK
+return to main view,GO_BACK
+take me to last view,GO_BACK
+back to previous state,GO_BACK
+go to the start,GO_BACK
+return to the dashboard,GO_BACK
+navigate back in app,GO_BACK
+back to the main menu,GO_BACK

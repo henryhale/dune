@@ -16,3 +16,9 @@ flask
 jupyterlab==4.4.9
 matplotlib==3.10.7
 seaborn==0.13.2
+
+# sklearn to onnx
+skl2onnx==1.19.1
+ml_dtypes==0.5.3
+onnx==1.19.1
+protobuf==6.33.0
