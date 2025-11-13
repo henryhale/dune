@@ -10,7 +10,7 @@ import numpy
 import random
 import os
 from skl2onnx import convert_sklearn
-from skl2onnx.common.data_types import StringTensorType, FloatTensorType
+from skl2onnx.common.data_types import StringTensorType
 
 # added these for reproducibility on different machines
 numpy.random.seed(42)
@@ -104,7 +104,7 @@ def generate_onnx_model(filepath):
     model = joblib.load(filepath)
     print(model)
     onnx_model = convert_sklearn(
-        model, initial_types=[("input", FloatTensorType([None, 1, ""]))]
+        model, initial_types=[("input", StringTensorType([None, 1]))]
     )
     filepath = f"{filepath.split(".")[0]}.onnx"
     with open(filepath, "wb") as file:
