@@ -15,7 +15,7 @@ class Predictor:
 
     def __init__(
         self,
-        pipeline_path="models/dune.joblib.gz",
+        pipeline_path="models/pipeline.joblib",
         confidence_threshold=0.1,
         quiet=True,
     ):
@@ -92,10 +92,7 @@ _predictor = None
 
 
 def predict_command(
-    text,
-    pipeline_path="models/dune.joblib.gz",
-    confidence_threshold=0.1,
-    quiet=True
+    text, pipeline_path="models/pipeline.joblib", confidence_threshold=0.1, quiet=True
 ):
     """
     Predict the output class given a user prompt
@@ -131,7 +128,7 @@ def main():
     parser.add_argument(
         "--pipeline",
         type=str,
-        default="models/dune.joblib.gz",
+        default="models/pipeline.joblib",
         help="Path to pipeline file",
     )
     parser.add_argument(
