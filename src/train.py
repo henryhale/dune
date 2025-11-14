@@ -1,4 +1,5 @@
 import argparse
+from time import time
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import LinearSVC
@@ -7,8 +8,7 @@ from sklearn.metrics import (
     accuracy_score,
     classification_report,
 )
-from src.utils import load_dataset, save_model
-from src.preprocess import clean_text
+from src.utils import load_dataset, save_model, clean_text
 
 
 def split_data(x, y, test_size=0.25, random_state=42):
@@ -92,11 +92,6 @@ def train_model(
     # preprocess texts
     texts_cleaned = [clean_text(text) for text in texts]
 
-    # encode labels - nope sklearn internally encoded labels
-    # encoded labels available at `model.classes_`
-    # encoder = LabelEncoder()
-    # labels_encoded = encoder.fit_transform(labels)
-
     # split data
     x_train, x_val, y_train, y_val = split_data(
         texts_cleaned, labels, test_size, random_state
@@ -127,11 +122,18 @@ def train_model(
         ]
     )
 
-    # train pipeline
-    pipeline.fit(x_train, y_train)
-    # training complete
-
     metrics = {}
+
+    # train pipeline
+    start_time = time()
+    pipeline.fit(x_train, y_train)
+    end_time = time()
+    metrics['training_duration'] = {
+        'start_time': start_time,
+        'end_time': end_time,
+        'duration': end_time - start_time
+    }
+    # training complete
 
     # evaluate on training set
     y_train_pred = pipeline.predict(x_train)
@@ -194,7 +196,7 @@ def main():
         max_features=args.max_features,
     )
 
-    print("[dune]: training complete")
+    print("[dune]: training complete!")
 
 
 if __name__ == "__main__":
