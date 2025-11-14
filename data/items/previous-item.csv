@@ -446,17 +446,12 @@ older slide,PREVIOUS_ITEM
 scroll to previous field,PREVIOUS_ITEM
 take me back up,PREVIOUS_ITEM
 previous report,PREVIOUS_ITEM
-older story,PREVIOUS_ITEM
 older option,PREVIOUS_ITEM
 earlier link,PREVIOUS_ITEM
 show me previous card,PREVIOUS_ITEM
-older email,PREVIOUS_ITEM
-earlier attachment,PREVIOUS_ITEM
 return to the one above,PREVIOUS_ITEM
 previous column,PREVIOUS_ITEM
 previous cell,PREVIOUS_ITEM
-older contact,PREVIOUS_ITEM
-older mail,PREVIOUS_ITEM
 go one up please,PREVIOUS_ITEM
 scroll to the one before,PREVIOUS_ITEM
 go to earlier message,PREVIOUS_ITEM
@@ -464,7 +459,6 @@ older task please,PREVIOUS_ITEM
 previous event,PREVIOUS_ITEM
 older result,PREVIOUS_ITEM
 move up to earlier file,PREVIOUS_ITEM
-earlier email,PREVIOUS_ITEM
 scroll to the previous post,PREVIOUS_ITEM
 previous story please,PREVIOUS_ITEM
 go to prior email,PREVIOUS_ITEM
@@ -485,7 +479,6 @@ older chat please,PREVIOUS_ITEM
 go back a page,PREVIOUS_ITEM
 earlier screen,PREVIOUS_ITEM
 show me earlier post,PREVIOUS_ITEM
-earlier comment,PREVIOUS_ITEM
 older conversation,PREVIOUS_ITEM
 go to previous conversation,PREVIOUS_ITEM
 older chat log,PREVIOUS_ITEM
@@ -495,23 +488,8 @@ back to previous tab,PREVIOUS_ITEM
 earlier window please,PREVIOUS_ITEM
 scroll back one view,PREVIOUS_ITEM
 move up one view,PREVIOUS_ITEM
-older photo please,PREVIOUS_ITEM
-earlier video,PREVIOUS_ITEM
-previous clip please,PREVIOUS_ITEM
-older clip,PREVIOUS_ITEM
-earlier song,PREVIOUS_ITEM
-previous song please,PREVIOUS_ITEM
 scroll to prior item,PREVIOUS_ITEM
-move to older mail,PREVIOUS_ITEM
-earlier image please,PREVIOUS_ITEM
-previous screenshot please,PREVIOUS_ITEM
-older document please,PREVIOUS_ITEM
-earlier record please,PREVIOUS_ITEM
-previous upload,PREVIOUS_ITEM
-go to previous upload,PREVIOUS_ITEM
-older attachment,PREVIOUS_ITEM
 scroll up to the previous note,PREVIOUS_ITEM
-go up to older report,PREVIOUS_ITEM
 previous text,PREVIOUS_ITEM
 earlier content,PREVIOUS_ITEM
 previous post,PREVIOUS_ITEM
@@ -519,26 +497,12 @@ move up one record,PREVIOUS_ITEM
 go to earlier folder,PREVIOUS_ITEM
 older folder please,PREVIOUS_ITEM
 previous form please,PREVIOUS_ITEM
-earlier database record,PREVIOUS_ITEM
-previous tweet,PREVIOUS_ITEM
-older tweet please,PREVIOUS_ITEM
-go to the older version,PREVIOUS_ITEM
-scroll up one record,PREVIOUS_ITEM
-previous photo,PREVIOUS_ITEM
-earlier photo,PREVIOUS_ITEM
-older post,PREVIOUS_ITEM
-earlier file please,PREVIOUS_ITEM
-previous file,PREVIOUS_ITEM
 scroll to previous result,PREVIOUS_ITEM
 go to the older report,PREVIOUS_ITEM
 previous output,PREVIOUS_ITEM
 older output,PREVIOUS_ITEM
 older log please,PREVIOUS_ITEM
 scroll up one page,PREVIOUS_ITEM
-older message,PREVIOUS_ITEM
-back to previous message,PREVIOUS_ITEM
-earlier notification,PREVIOUS_ITEM
-previous notification please,PREVIOUS_ITEM
 move up a record,PREVIOUS_ITEM
 scroll to earlier one,PREVIOUS_ITEM
 previous note please,PREVIOUS_ITEM
@@ -558,22 +522,11 @@ earlier dataset please,PREVIOUS_ITEM
 previous result please,PREVIOUS_ITEM
 previous entry,PREVIOUS_ITEM
 go back to older version,PREVIOUS_ITEM
-earlier story please,PREVIOUS_ITEM
-previous history please,PREVIOUS_ITEM
-older history,PREVIOUS_ITEM
-previous dashboard,PREVIOUS_ITEM
-earlier dashboard,PREVIOUS_ITEM
 scroll up to earlier version,PREVIOUS_ITEM
 older panel,PREVIOUS_ITEM
 previous panel,PREVIOUS_ITEM
-move to previous chart,PREVIOUS_ITEM
-earlier chart please,PREVIOUS_ITEM
-older graph,PREVIOUS_ITEM
-previous graph please,PREVIOUS_ITEM
 back to older data,PREVIOUS_ITEM
 earlier frame,PREVIOUS_ITEM
-older report please,PREVIOUS_ITEM
-previous report please,PREVIOUS_ITEM
 older message please,PREVIOUS_ITEM
 previous alert,PREVIOUS_ITEM
 go back to previous alert,PREVIOUS_ITEM
@@ -588,69 +541,15 @@ earlier update,PREVIOUS_ITEM
 older update please,PREVIOUS_ITEM
 move to previous post,PREVIOUS_ITEM
 previous notification,PREVIOUS_ITEM
-scroll back up,PREVIOUS_ITEM
-earlier notification please,PREVIOUS_ITEM
-previous message log,PREVIOUS_ITEM
-older message log,PREVIOUS_ITEM
 earlier response,PREVIOUS_ITEM
 previous response please,PREVIOUS_ITEM
 go back to earlier response,PREVIOUS_ITEM
-older reply,PREVIOUS_ITEM
-previous reply please,PREVIOUS_ITEM
-earlier reply,PREVIOUS_ITEM
-scroll to previous reply,PREVIOUS_ITEM
-older record please,PREVIOUS_ITEM
-earlier dataset,PREVIOUS_ITEM
-previous dataset please,PREVIOUS_ITEM
-older sheet,PREVIOUS_ITEM
-previous sheet,PREVIOUS_ITEM
-older spreadsheet,PREVIOUS_ITEM
-earlier spreadsheet,PREVIOUS_ITEM
-previous entry log,PREVIOUS_ITEM
-go up one file,PREVIOUS_ITEM
-scroll up to previous document,PREVIOUS_ITEM
-older chart please,PREVIOUS_ITEM
-previous calendar item,PREVIOUS_ITEM
-older calendar event,PREVIOUS_ITEM
-earlier calendar event,PREVIOUS_ITEM
-previous event please,PREVIOUS_ITEM
-scroll up to older event,PREVIOUS_ITEM
-previous reminder,PREVIOUS_ITEM
-older reminder,PREVIOUS_ITEM
-go to previous reminder,PREVIOUS_ITEM
-earlier reminder please,PREVIOUS_ITEM
-previous milestone,PREVIOUS_ITEM
-older milestone,PREVIOUS_ITEM
-go to older milestone,PREVIOUS_ITEM
-earlier milestone please,PREVIOUS_ITEM
-scroll up to older milestone,PREVIOUS_ITEM
-previous goal,PREVIOUS_ITEM
-older goal,PREVIOUS_ITEM
-previous target,PREVIOUS_ITEM
-older target,PREVIOUS_ITEM
-previous session,PREVIOUS_ITEM
-older session,PREVIOUS_ITEM
-previous log please,PREVIOUS_ITEM
-older log entry,PREVIOUS_ITEM
-earlier log entry,PREVIOUS_ITEM
-previous transaction,PREVIOUS_ITEM
-older transaction,PREVIOUS_ITEM
-previous invoice,PREVIOUS_ITEM
-older invoice,PREVIOUS_ITEM
-previous payment,PREVIOUS_ITEM
-older payment,PREVIOUS_ITEM
 previous record please,PREVIOUS_ITEM
 older record please,PREVIOUS_ITEM
 earlier record,PREVIOUS_ITEM
 previous order,PREVIOUS_ITEM
 older order,PREVIOUS_ITEM
 earlier order,PREVIOUS_ITEM
-previous booking,PREVIOUS_ITEM
-older booking,PREVIOUS_ITEM
-earlier booking,PREVIOUS_ITEM
-previous reservation,PREVIOUS_ITEM
-older reservation,PREVIOUS_ITEM
-earlier reservation,PREVIOUS_ITEM
 previous tab please,PREVIOUS_ITEM
 older tab please,PREVIOUS_ITEM
 previous note,PREVIOUS_ITEM
@@ -659,19 +558,11 @@ earlier note,PREVIOUS_ITEM
 previous task please,PREVIOUS_ITEM
 older task,PREVIOUS_ITEM
 earlier task,PREVIOUS_ITEM
-previous project,PREVIOUS_ITEM
-older project,PREVIOUS_ITEM
 previous phase,PREVIOUS_ITEM
 older phase,PREVIOUS_ITEM
 previous screen please,PREVIOUS_ITEM
 older screen,PREVIOUS_ITEM
 earlier screen,PREVIOUS_ITEM
-previous image,PREVIOUS_ITEM
-older image,PREVIOUS_ITEM
-earlier image,PREVIOUS_ITEM
-previous photo please,PREVIOUS_ITEM
-older photo,PREVIOUS_ITEM
-earlier photo,PREVIOUS_ITEM
 previous step,PREVIOUS_ITEM
 older step,PREVIOUS_ITEM
 earlier step,PREVIOUS_ITEM
@@ -681,12 +572,42 @@ earlier page,PREVIOUS_ITEM
 previous form,PREVIOUS_ITEM
 older form,PREVIOUS_ITEM
 earlier form,PREVIOUS_ITEM
-previous comment,PREVIOUS_ITEM
-older comment,PREVIOUS_ITEM
-earlier comment,PREVIOUS_ITEM
-previous message please,PREVIOUS_ITEM
-older message,PREVIOUS_ITEM
-earlier message,PREVIOUS_ITEM
-previous post please,PREVIOUS_ITEM
-older post,PREVIOUS_ITEM
-earlier post,PREVIOUS_ITEM
+Previous item,PREVIOUS_ITEM
+Go to the previous item,PREVIOUS_ITEM
+Previous,PREVIOUS_ITEM
+Move to the previous item,PREVIOUS_ITEM
+Show me the previous one,PREVIOUS_ITEM
+Select previous,PREVIOUS_ITEM
+Go back to previous item,PREVIOUS_ITEM
+Go to previous,PREVIOUS_ITEM
+Previous entry,PREVIOUS_ITEM
+Move to previous entry,PREVIOUS_ITEM
+Can you show me the previous item,PREVIOUS_ITEM
+Skip back to previous item,PREVIOUS_ITEM
+Previous option,PREVIOUS_ITEM
+Go back to the previous item,PREVIOUS_ITEM
+Pick the previous item,PREVIOUS_ITEM
+Select the preceding item,PREVIOUS_ITEM
+Move back one item,PREVIOUS_ITEM
+Previous item please,PREVIOUS_ITEM
+Show previous,PREVIOUS_ITEM
+Go to the item before this,PREVIOUS_ITEM
+Jump back to previous item,PREVIOUS_ITEM
+Revert to the previous item,PREVIOUS_ITEM
+Get the previous item,PREVIOUS_ITEM
+Display the previous item,PREVIOUS_ITEM
+Highlight the previous item,PREVIOUS_ITEM
+Switch to the previous item,PREVIOUS_ITEM
+Previous record,PREVIOUS_ITEM
+Go to the preceding item,PREVIOUS_ITEM
+Show me the item before this one,PREVIOUS_ITEM
+Move to the preceding entry,PREVIOUS_ITEM
+I want to see the previous item,PREVIOUS_ITEM
+Choose the previous item,PREVIOUS_ITEM
+Find the previous item,PREVIOUS_ITEM
+Return to previous item,PREVIOUS_ITEM
+Select the previous available item,PREVIOUS_ITEM
+Go to the preceding item,PREVIOUS_ITEM
+Move to the item that came before,PREVIOUS_ITEM
+Show me the previous element,PREVIOUS_ITEM
+Go back an item,PREVIOUS_ITEM

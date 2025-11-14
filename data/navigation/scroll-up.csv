@@ -1,0 +1,431 @@
+text,label
+scroll up,SCROLL_UP
+scroll upward,SCROLL_UP
+move up,SCROLL_UP
+go up,SCROLL_UP
+swipe up,SCROLL_UP
+slide up,SCROLL_UP
+page up,SCROLL_UP
+scroll higher,SCROLL_UP
+scroll a bit,SCROLL_UP
+scroll a little,SCROLL_UP
+scroll slightly up,SCROLL_UP
+scroll more up,SCROLL_UP
+scroll up please,SCROLL_UP
+scroll up now,SCROLL_UP
+scroll up more,SCROLL_UP
+scroll up further,SCROLL_UP
+scroll up gently,SCROLL_UP
+scroll up slowly,SCROLL_UP
+scroll up quickly,SCROLL_UP
+scroll up a bit,SCROLL_UP
+scroll up slightly,SCROLL_UP
+scroll up again,SCROLL_UP
+scroll up some,SCROLL_UP
+scroll up top,SCROLL_UP
+scroll up screen,SCROLL_UP
+scroll up page,SCROLL_UP
+scroll up view,SCROLL_UP
+scroll up window,SCROLL_UP
+scroll up feed,SCROLL_UP
+scroll up list,SCROLL_UP
+scroll up section,SCROLL_UP
+scroll up menu,SCROLL_UP
+scroll up content,SCROLL_UP
+scroll up panel,SCROLL_UP
+scroll up timeline,SCROLL_UP
+scroll up results,SCROLL_UP
+scroll up display,SCROLL_UP
+scroll up interface,SCROLL_UP
+scroll up items,SCROLL_UP
+scroll up area,SCROLL_UP
+scroll up document,SCROLL_UP
+scroll up record,SCROLL_UP
+scroll up table,SCROLL_UP
+scroll up rows,SCROLL_UP
+scroll up column,SCROLL_UP
+scroll up dashboard,SCROLL_UP
+scroll up messages,SCROLL_UP
+scroll up chat,SCROLL_UP
+scroll up history,SCROLL_UP
+scroll up form,SCROLL_UP
+scroll up article,SCROLL_UP
+scroll up details,SCROLL_UP
+scroll up summary,SCROLL_UP
+scroll up description,SCROLL_UP
+scroll up story,SCROLL_UP
+scroll up notes,SCROLL_UP
+scroll up instructions,SCROLL_UP
+scroll up fields,SCROLL_UP
+scroll up settings,SCROLL_UP
+scroll up options,SCROLL_UP
+scroll up preferences,SCROLL_UP
+scroll up controls,SCROLL_UP
+scroll up navigation,SCROLL_UP
+scroll up cards,SCROLL_UP
+scroll up widget,SCROLL_UP
+scroll up board,SCROLL_UP
+scroll up profile,SCROLL_UP
+scroll up log,SCROLL_UP
+scroll up map,SCROLL_UP
+scroll up sheet,SCROLL_UP
+scroll up report,SCROLL_UP
+scroll up entry,SCROLL_UP
+scroll up snippet,SCROLL_UP
+scroll up snippet text,SCROLL_UP
+scroll up gallery,SCROLL_UP
+scroll up photo,SCROLL_UP
+scroll up images,SCROLL_UP
+scroll up thumbnails,SCROLL_UP
+scroll up folder,SCROLL_UP
+scroll up directory,SCROLL_UP
+scroll up files,SCROLL_UP
+scroll up documents,SCROLL_UP
+scroll up items list,SCROLL_UP
+scroll up comments,SCROLL_UP
+scroll up replies,SCROLL_UP
+scroll up notifications,SCROLL_UP
+scroll up alerts,SCROLL_UP
+scroll up events,SCROLL_UP
+scroll up schedule,SCROLL_UP
+scroll up calendar,SCROLL_UP
+scroll up sections,SCROLL_UP
+scroll up options list,SCROLL_UP
+scroll up more items,SCROLL_UP
+scroll up entire page,SCROLL_UP
+scroll up full screen,SCROLL_UP
+scroll up top side,SCROLL_UP
+scroll up top area,SCROLL_UP
+scroll up top view,SCROLL_UP
+scroll up previous,SCROLL_UP
+scroll up earlier,SCROLL_UP
+scroll up earlier content,SCROLL_UP
+scroll up older posts,SCROLL_UP
+scroll up older messages,SCROLL_UP
+scroll up older logs,SCROLL_UP
+scroll up raw data,SCROLL_UP
+scroll up dataset,SCROLL_UP
+scroll up code,SCROLL_UP
+scroll up script,SCROLL_UP
+scroll up terminal,SCROLL_UP
+scroll up output,SCROLL_UP
+scroll up console,SCROLL_UP
+scroll up debug log,SCROLL_UP
+scroll up request list,SCROLL_UP
+scroll up responses,SCROLL_UP
+scroll up stats,SCROLL_UP
+scroll up metrics,SCROLL_UP
+scroll up insights,SCROLL_UP
+scroll up overview,SCROLL_UP
+scroll up analytics,SCROLL_UP
+scroll up summary area,SCROLL_UP
+scroll up user list,SCROLL_UP
+scroll up names,SCROLL_UP
+scroll up email list,SCROLL_UP
+scroll up phone list,SCROLL_UP
+scroll up contact sheet,SCROLL_UP
+scroll up team list,SCROLL_UP
+scroll up member list,SCROLL_UP
+scroll up group entries,SCROLL_UP
+scroll up form fields,SCROLL_UP
+scroll up text fields,SCROLL_UP
+scroll up answers,SCROLL_UP
+scroll up questions,SCROLL_UP
+scroll up FAQ,SCROLL_UP
+scroll up help page,SCROLL_UP
+scroll up instructions list,SCROLL_UP
+scroll up checklist,SCROLL_UP
+scroll up tasks,SCROLL_UP
+scroll up tasks list,SCROLL_UP
+scroll up todo list,SCROLL_UP
+scroll up reminders,SCROLL_UP
+scroll up notes section,SCROLL_UP
+scroll up comments panel,SCROLL_UP
+scroll up message feed,SCROLL_UP
+scroll up chat window,SCROLL_UP
+scroll up conversation,SCROLL_UP
+scroll up dialogue,SCROLL_UP
+scroll up interaction log,SCROLL_UP
+scroll up activity log,SCROLL_UP
+scroll up history list,SCROLL_UP
+scroll up timeline list,SCROLL_UP
+scroll up feed items,SCROLL_UP
+scroll up product list,SCROLL_UP
+scroll up catalog,SCROLL_UP
+scroll up store items,SCROLL_UP
+scroll up orders,SCROLL_UP
+scroll up receipts,SCROLL_UP
+scroll up transactions,SCROLL_UP
+scroll up billing list,SCROLL_UP
+scroll up invoice list,SCROLL_UP
+scroll up payment history,SCROLL_UP
+scroll up support tickets,SCROLL_UP
+scroll up request logs,SCROLL_UP
+scroll up bug list,SCROLL_UP
+scroll up issue tracker,SCROLL_UP
+scroll up error logs,SCROLL_UP
+scroll up warnings,SCROLL_UP
+scroll up exceptions,SCROLL_UP
+scroll up system logs,SCROLL_UP
+scroll up configuration,SCROLL_UP
+scroll up environment list,SCROLL_UP
+scroll up variable list,SCROLL_UP
+scroll up settings pane,SCROLL_UP
+scroll up properties,SCROLL_UP
+scroll up permissions,SCROLL_UP
+scroll up access logs,SCROLL_UP
+scroll up audit logs,SCROLL_UP
+scroll up record list,SCROLL_UP
+scroll up registration list,SCROLL_UP
+scroll up submissions,SCROLL_UP
+scroll up uploaded files,SCROLL_UP
+scroll up attachments,SCROLL_UP
+scroll up embeds,SCROLL_UP
+scroll up posts,SCROLL_UP
+scroll up feed updates,SCROLL_UP
+scroll up reactions,SCROLL_UP
+scroll up likes,SCROLL_UP
+scroll up user actions,SCROLL_UP
+scroll up visibility,SCROLL_UP
+scroll up interface content,SCROLL_UP
+scroll up display area,SCROLL_UP
+scroll up UI block,SCROLL_UP
+scroll up component,SCROLL_UP
+scroll up layout,SCROLL_UP
+scroll up more data,SCROLL_UP
+scroll up more content,SCROLL_UP
+scroll up until top,SCROLL_UP
+scroll up until seen,SCROLL_UP
+scroll up to header,SCROLL_UP
+scroll up header section,SCROLL_UP
+scroll up top panel,SCROLL_UP
+scroll up main menu,SCROLL_UP
+scroll up navigation bar,SCROLL_UP
+scroll up category list,SCROLL_UP
+scroll up tag list,SCROLL_UP
+scroll up label list,SCROLL_UP
+scroll up filter panel,SCROLL_UP
+scroll up sorting area,SCROLL_UP
+scroll up properties list,SCROLL_UP
+scroll up attribute list,SCROLL_UP
+scroll up preferences panel,SCROLL_UP
+scroll up advanced settings,SCROLL_UP
+scroll up developer options,SCROLL_UP
+scroll up admin section,SCROLL_UP
+scroll up management view,SCROLL_UP
+scroll up dashboard view,SCROLL_UP
+scroll up reports section,SCROLL_UP
+scroll up monitoring view,SCROLL_UP
+scroll up analytics page,SCROLL_UP
+scroll up logs page,SCROLL_UP
+scroll up notifications page,SCROLL_UP
+scroll up user section,SCROLL_UP
+scroll up general info,SCROLL_UP
+scroll up instructions view,SCROLL_UP
+scroll up description area,SCROLL_UP
+scroll up details section,SCROLL_UP
+scroll up metadata,SCROLL_UP
+scroll up notes page,SCROLL_UP
+scroll up comment thread,SCROLL_UP
+scroll up previous messages,SCROLL_UP
+scroll up earlier chats,SCROLL_UP
+scroll up back messages,SCROLL_UP
+scroll up first items,SCROLL_UP
+scroll up initial section,SCROLL_UP
+scroll up topmost area,SCROLL_UP
+scroll up upper panel,SCROLL_UP
+scroll up upper section,SCROLL_UP
+scroll up earlier entries,SCROLL_UP
+scroll up starting point,SCROLL_UP
+scroll up initial point,SCROLL_UP
+scroll up resume view,SCROLL_UP
+scroll up continue view,SCROLL_UP
+scroll up rewind view,SCROLL_UP
+scroll up logs again,SCROLL_UP
+scroll up feed again,SCROLL_UP
+scroll up top again,SCROLL_UP
+scroll up once more,SCROLL_UP
+scroll up repeatedly,SCROLL_UP
+scroll up for me,SCROLL_UP
+scroll up for now,SCROLL_UP
+scroll up right now,SCROLL_UP
+scroll up when ready,SCROLL_UP
+scroll up at once,SCROLL_UP
+scroll up instantly,SCROLL_UP
+scroll up ASAP,SCROLL_UP
+scroll up properly,SCROLL_UP
+scroll up correctly,SCROLL_UP
+scroll up thoroughly,SCROLL_UP
+scroll up entirely,SCROLL_UP
+scroll up fully,SCROLL_UP
+scroll up all the way,SCROLL_UP
+scroll up to the top,SCROLL_UP
+scroll up beyond this,SCROLL_UP
+scroll up before this,SCROLL_UP
+scroll up above this,SCROLL_UP
+scroll up to earlier,SCROLL_UP
+scroll up just a little,SCROLL_UP
+scroll up slightly more,SCROLL_UP
+scroll up far more,SCROLL_UP
+scroll up a lot,SCROLL_UP
+scroll up higher please,SCROLL_UP
+scroll up higher now,SCROLL_UP
+scroll up further up,SCROLL_UP
+scroll up faster,SCROLL_UP
+scroll up slowly again,SCROLL_UP
+scroll up carefully,SCROLL_UP
+scroll up continuously,SCROLL_UP
+scroll up until done,SCROLL_UP
+scroll up until complete,SCROLL_UP
+scroll up to edge,SCROLL_UP
+scroll up to beginning,SCROLL_UP
+scroll up first section,SCROLL_UP
+scroll up top area now,SCROLL_UP
+scroll up next portion,SCROLL_UP
+scroll up previous portion,SCROLL_UP
+scroll up old content,SCROLL_UP
+scroll up original content,SCROLL_UP
+scroll up main content,SCROLL_UP
+scroll up page body,SCROLL_UP
+scroll up container,SCROLL_UP
+scroll up viewport,SCROLL_UP
+scroll up frame,SCROLL_UP
+scroll up region,SCROLL_UP
+scroll up header,SCROLL_UP
+scroll up hero section,SCROLL_UP
+scroll up banner area,SCROLL_UP
+scroll up cover section,SCROLL_UP
+scroll up title area,SCROLL_UP
+scroll up navigation,SCROLL_UP
+scroll up toolbar,SCROLL_UP
+scroll up button list,SCROLL_UP
+scroll up panel view,SCROLL_UP
+scroll up card list,SCROLL_UP
+scroll up page items,SCROLL_UP
+scroll up index list,SCROLL_UP
+scroll up overview panel,SCROLL_UP
+scroll up feed panel,SCROLL_UP
+scroll up reading pane,SCROLL_UP
+scroll up chat feed,SCROLL_UP
+scroll up result list,SCROLL_UP
+scroll up search results,SCROLL_UP
+scroll up sorted results,SCROLL_UP
+scroll up filtered list,SCROLL_UP
+scroll up matched items,SCROLL_UP
+scroll up displayed items,SCROLL_UP
+scroll up listed content,SCROLL_UP
+scroll up rendered page,SCROLL_UP
+scroll up output window,SCROLL_UP
+scroll up results pane,SCROLL_UP
+scroll up debug output,SCROLL_UP
+scroll up terminal output,SCROLL_UP
+scroll up console buffer,SCROLL_UP
+scroll up code output,SCROLL_UP
+scroll up script output,SCROLL_UP
+scroll up execution log,SCROLL_UP
+scroll up compile logs,SCROLL_UP
+scroll up build logs,SCROLL_UP
+scroll up system output,SCROLL_UP
+scroll up app output,SCROLL_UP
+scroll up runtime log,SCROLL_UP
+scroll up recorded info,SCROLL_UP
+scroll up stored data,SCROLL_UP
+scroll up data table,SCROLL_UP
+scroll up data grid,SCROLL_UP
+scroll up record grid,SCROLL_UP
+scroll up list view,SCROLL_UP
+scroll up card view,SCROLL_UP
+scroll up preview,SCROLL_UP
+scroll up preview list,SCROLL_UP
+scroll up overview list,SCROLL_UP
+scroll up info list,SCROLL_UP
+scroll up text list,SCROLL_UP
+scroll up full list,SCROLL_UP
+scroll up extended list,SCROLL_UP
+scroll up everything,SCROLL_UP
+scroll up complete list,SCROLL_UP
+scroll up bulk list,SCROLL_UP
+scroll up multiple entries,SCROLL_UP
+scroll up full content,SCROLL_UP
+scroll up previous view,SCROLL_UP
+scroll up earlier view,SCROLL_UP
+scroll up main view,SCROLL_UP
+scroll up initial view,SCROLL_UP
+scroll up top view,SCROLL_UP
+scroll up UI view,SCROLL_UP
+scroll up content feed,SCROLL_UP
+scroll up highlighted area,SCROLL_UP
+scroll up selected section,SCROLL_UP
+scroll up focused area,SCROLL_UP
+scroll up active panel,SCROLL_UP
+scroll up primary section,SCROLL_UP
+scroll up main container,SCROLL_UP
+scroll up top container,SCROLL_UP
+scroll up whole window,SCROLL_UP
+scroll up app window,SCROLL_UP
+scroll up screen area,SCROLL_UP
+scroll up visible area,SCROLL_UP
+scroll up viewport area,SCROLL_UP
+scroll up until visible,SCROLL_UP
+scroll up above fold,SCROLL_UP
+scroll up out of view,SCROLL_UP
+scroll up into view,SCROLL_UP
+scroll up to reveal,SCROLL_UP
+scroll up for context,SCROLL_UP
+scroll up for info,SCROLL_UP
+scroll up for details,SCROLL_UP
+scroll up to check,SCROLL_UP
+scroll up to review,SCROLL_UP
+scroll up to read,SCROLL_UP
+scroll up to inspect,SCROLL_UP
+scroll up to verify,SCROLL_UP
+scroll up to confirm,SCROLL_UP
+scroll up to look,SCROLL_UP
+scroll up to browse,SCROLL_UP
+scroll up to continue,SCROLL_UP
+scroll up to navigate,SCROLL_UP
+scroll up to compare,SCROLL_UP
+scroll up to reference,SCROLL_UP
+scroll up to preview,SCROLL_UP
+scroll up to revisit,SCROLL_UP
+scroll up to examine,SCROLL_UP
+Scroll up,SCROLL_UP
+Move up,SCROLL_UP
+Scroll upwards,SCROLL_UP
+Go up,SCROLL_UP
+Scroll the page up,SCROLL_UP
+Move the view up,SCROLL_UP
+Scroll to the top,SCROLL_UP
+Can you scroll up,SCROLL_UP
+Go higher,SCROLL_UP
+Bring the content up,SCROLL_UP
+Scroll the screen up,SCROLL_UP
+Up,SCROLL_UP
+Scroll,SCROLL_UP
+Move the page up,SCROLL_UP
+Show me content above,SCROLL_UP
+Scroll to previous content,SCROLL_UP
+Go up a bit,SCROLL_UP
+Scroll up please,SCROLL_UP
+Shift the view upwards,SCROLL_UP
+More content above,SCROLL_UP
+Move to the top,SCROLL_UP
+Scroll towards the beginning,SCROLL_UP
+Raise the page,SCROLL_UP
+Can I scroll up,SCROLL_UP
+Move the display up,SCROLL_UP
+Scroll to earlier content,SCROLL_UP
+Go up the list,SCROLL_UP
+Show me more above,SCROLL_UP
+Move the window up,SCROLL_UP
+Scroll back up,SCROLL_UP
+Elevate the view,SCROLL_UP
+Scroll to the start of the page,SCROLL_UP
+Bring up the information,SCROLL_UP
+Scroll higher on the screen,SCROLL_UP
+Move content upwards,SCROLL_UP
+Display earlier items,SCROLL_UP
+Scroll the document up,SCROLL_UP
+Raise the scroll bar,SCROLL_UP
+Upward scroll,SCROLL_UP
+Show me the top,SCROLL_UP

@@ -199,3 +199,43 @@ random text here,NOOP
 not a command sentence,NOOP
 this is not a valid request,NOOP
 i cannot understand that,NOOP
+No operation,NOOP
+Ignore that,NOOP
+Do nothing,NOOP
+That's not a command,NOOP
+Unrecognized input,NOOP
+Invalid command,NOOP
+Not a valid instruction,NOOP
+Please rephrase,NOOP
+I don't understand,NOOP
+That's not an action,NOOP
+This is not a command,NOOP
+Can't process that,NOOP
+No action required,NOOP
+That input is not recognized,NOOP
+Command not found,NOOP
+Syntax error,NOOP
+I don't know what that means,NOOP
+Please try again,NOOP
+This input is not a command,NOOP
+No action can be taken,NOOP
+Not a command,NOOP
+This isn't an instruction,NOOP
+I don't have a command for that,NOOP
+That's not something I can do,NOOP
+Input not understood,NOOP
+Error: command not recognized,NOOP
+It seems like a no-op,NOOP
+I'm unable to process this as a command,NOOP
+This doesn't fit any command pattern,NOOP
+No command match,NOOP
+This is not actionable,NOOP
+That's not a function,NOOP
+Input could not be parsed,NOOP
+Please enter a valid command,NOOP
+This is not a recognized instruction,NOOP
+Nothing to do here,NOOP
+This input doesn't trigger an action,NOOP
+Unprocessable input,NOOP
+I can't find a command for this,NOOP
+Try another command,NOOP

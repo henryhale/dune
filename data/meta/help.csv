@@ -1,103 +1,103 @@
 text,label
 I need assistance,HELP
-Can you provide some guidance?,HELP
-What are your functionalities?,HELP
+Can you provide some guidance,HELP
+What are your functionalities,HELP
 List all available commands,HELP
 Guide me,HELP
 Tell me what to do,HELP
-I'm stuck help!,HELP
-How do I use this?,HELP
+I'm stuck help,HELP
+How do I use this,HELP
 Explain your features,HELP
 Give me instructions,HELP
 Provide support,HELP
 Show me the ropes,HELP
-What operations can you perform?,HELP
+What operations can you perform,HELP
 Need some aid,HELP
 I require help,HELP
 Assist me please,HELP
-What are my options?,HELP
+What are my options,HELP
 Display command list,HELP
 Walk me through it,HELP
 I'm looking for help,HELP
-Can you assist me?,HELP
-What's possible here?,HELP
+Can you assist me,HELP
+What's possible here,HELP
 Commands please,HELP
 Help me understand,HELP
 I need some help,HELP
 Guidance requested,HELP
 Show me how this works,HELP
-What functions do you have?,HELP
-Could you help me out?,HELP
-What can I ask you?,HELP
+What functions do you have,HELP
+Could you help me out,HELP
+What can I ask you,HELP
 List commands,HELP
 I'm seeking help,HELP
 Support me,HELP
-How can you aid me?,HELP
+How can you aid me,HELP
 Capabilities,HELP
 All commands,HELP
 Help menu,HELP
 I'm confused help,HELP
 Show options,HELP
-What services do you offer?,HELP
+What services do you offer,HELP
 Help me please,HELP
-Can you guide me?,HELP
-What's your functionality?,HELP
+Can you guide me,HELP
+What's your functionality,HELP
 Display all commands,HELP
-I need assistance what can you do?,HELP
+I need assistance what can you do,HELP
 Give me the help list,HELP
-What are the commands?,HELP
-How to use you?,HELP
+What are the commands,HELP
+How to use you,HELP
 Tell me about your commands,HELP
 Show available actions,HELP
 I'm lost help me,HELP
-What is your purpose?,HELP
+What is your purpose,HELP
 Help command,HELP
 I need some guidance,HELP
-Can you give me help?,HELP
-What's the help command?,HELP
+Can you give me help,HELP
+What's the help command,HELP
 Show commands list,HELP
 Assistance needed,HELP
-What are the possible commands?,HELP
+What are the possible commands,HELP
 Guide me through this,HELP
 Help desk,HELP
 I need help navigating,HELP
-How does this work?,HELP
-What can you accomplish?,HELP
+How does this work,HELP
+What can you accomplish,HELP
 List of commands,HELP
 I'm searching for help,HELP
 Help with commands,HELP
-How do I operate you?,HELP
-What functions are there?,HELP
+How do I operate you,HELP
+What functions are there,HELP
 Show me your capabilities,HELP
-Could you offer help?,HELP
+Could you offer help,HELP
 Commands available,HELP
 Help me get started,HELP
-What can this system do?,HELP
+What can this system do,HELP
 I require your help,HELP
-Can you show your functions?,HELP
+Can you show your functions,HELP
 Tell me about commands,HELP
 Give me the full command list,HELP
 I'm requesting help,HELP
 Help and commands,HELP
-What are the operational commands?,HELP
+What are the operational commands,HELP
 Guide on commands,HELP
 I need to know what to do,HELP
 Help me out,HELP
-What is the command to get help?,HELP
+What is the command to get help,HELP
 Show me all your features,HELP
-Can I get a list of commands?,HELP
-What are the usage commands?,HELP
+Can I get a list of commands,HELP
+What are the usage commands,HELP
 I'm looking for guidance,HELP
 Please help,HELP
-How to get assistance?,HELP
-What can you assist with?,HELP
+How to get assistance,HELP
+What can you assist with,HELP
 Show available help,HELP
 I need command information,HELP
 Help with functions,HELP
-What commands can I use?,HELP
+What commands can I use,HELP
 Please provide commands,HELP
 I need to learn how to use this,HELP
-What can you do?,HELP
+What can you do,HELP
 Show commands,HELP
 show me options,HELP
 i need some assistance,HELP
@@ -661,116 +661,43 @@ help section guide please,HELP
 help me show help content,HELP
 display help guide content,HELP
 help me find documentation,HELP
-help documentation and guide,HELP
-show help guide content please,HELP
-display help documentation content,HELP
-help and user manual,HELP
-help and info content,HELP
-help guide content information,HELP
-help guide and support,HELP
-open help and support section,HELP
-display help and support info,HELP
-help section and support,HELP
-help documentation support,HELP
-open help and user guide,HELP
-help and support topics,HELP
-display help support topics,HELP
-open help and tutorial section,HELP
-help and usage documentation,HELP
-help guide tutorial,HELP
-open help guide tutorial,HELP
-help tutorial and guide,HELP
-help and learning guide,HELP
-help information and tutorial,HELP
-help section and guide please,HELP
-display help section guide,HELP
-help me open guide and info,HELP
-help guide and documentation content,HELP
-help documentation topics please,HELP
-help and usage information,HELP
-help me access documentation,HELP
-help me view guide and info,HELP
-help guide tutorial please,HELP
-help and documentation content,HELP
-help guide and tutorial please,HELP
-open help tutorial section,HELP
-help tutorial and usage guide,HELP
-help topics and tutorial,HELP
-open help and info guide,HELP
-display help and tutorial info,HELP
-help tutorial section please,HELP
-show help tutorial information,HELP
-help guide tutorial section,HELP
-help information tutorial,HELP
-help content tutorial,HELP
-open help information guide,HELP
-help guide topics and content,HELP
-help information and content guide,HELP
-help me check tutorial,HELP
-help me display tutorial info,HELP
-open help tutorial and guide,HELP
-help documentation and tutorial,HELP
-help me with tutorial please,HELP
-display help tutorial and info,HELP
-help content and tutorial,HELP
-open help and tutorial content,HELP
-help topics documentation,HELP
-help tutorial documentation,HELP
-help content and documentation,HELP
-help guide documentation content,HELP
-open help documentation and guide,HELP
-display help documentation and topics,HELP
-help documentation content please,HELP
-help documentation and tutorial content,HELP
-show help documentation and tutorial,HELP
-help content documentation,HELP
-help me open tutorial and guide,HELP
-help guide documentation tutorial,HELP
-help tutorial and documentation please,HELP
-open help guide documentation tutorial,HELP
-help documentation topics guide,HELP
-display help documentation and guide,HELP
-help tutorial guide content,HELP
-help documentation tutorial guide,HELP
-open help documentation tutorial guide,HELP
-help me show help tutorial guide,HELP
-help tutorial and content guide,HELP
-display help tutorial content guide,HELP
-help guide documentation tutorial content,HELP
-help me find help tutorial guide,HELP
-open help documentation tutorial content,HELP
-display help tutorial documentation guide,HELP
-help content documentation guide,HELP
-help documentation tutorial topics,HELP
-help me check help tutorial documentation,HELP
-open help documentation tutorial topics,HELP
-display help guide documentation topics,HELP
-help documentation and content topics,HELP
-open help documentation and content topics,HELP
-help documentation guide topics,HELP
-help documentation tutorial content topics,HELP
-help me find help documentation topics,HELP
-help guide documentation topics please,HELP
-open help documentation topics please,HELP
-display help documentation topics please,HELP
-help documentation content topics please,HELP
-help me open help documentation topics please,HELP
-open help documentation and topics please,HELP
-display help documentation and guide topics please,HELP
-help documentation guide topics please,HELP
-help me find documentation topics please,HELP
-open help guide documentation and topics please,HELP
-display help guide documentation and topics please,HELP
-help documentation guide and topics please,HELP
-help documentation topics and guide please,HELP
-open help documentation topics and guide please,HELP
-display help documentation topics and guide please,HELP
-help documentation guide and tutorial topics please,HELP
-open help documentation guide and tutorial topics please,HELP
-display help documentation guide and tutorial topics please,HELP
-help guide and documentation tutorial topics please,HELP
-open help guide and documentation tutorial topics please,HELP
-display help guide and documentation tutorial topics please,HELP
-help documentation guide tutorial and topics please,HELP
-open help documentation guide tutorial and topics please,HELP
-display help documentation guide tutorial and topics please,HELP
+What can I do here,HELP
+Show me the available commands,HELP
+How do I use this,HELP
+Tell me about the features,HELP
+I need some assistance,HELP
+Can you provide guidance,HELP
+What are my options,HELP
+Guide me through the process,HELP
+Help me understand this,HELP
+I'm looking for instructions,HELP
+Provide a user manual,HELP
+Explain the functionalities,HELP
+What actions are supported,HELP
+Is there a help section,HELP
+How does this system work,HELP
+Give me a rundown of capabilities,HELP
+What can I perform,HELP
+I need some support,HELP
+Show me the help options,HELP
+Can you offer any tips,HELP
+What commands are available,HELP
+Tell me what I can do,HELP
+Explain how to use this,HELP
+What is the purpose of this tool,HELP
+I'm new here please help,HELP
+Can you list the functions,HELP
+Where can I find help,HELP
+Walk me through it,HELP
+How to get started,HELP
+Show me a quick guide,HELP
+Provide more information,HELP
+What is the functionality,HELP
+Can you show me the basics,HELP
+I need assistance with usage,HELP
+Help me navigate,HELP
+What are the main features,HELP
+How do I operate this,HELP
+Give me some pointers,HELP
+Where are the help topics,HELP
+I require help,HELP

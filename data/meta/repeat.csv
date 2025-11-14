@@ -2,7 +2,7 @@ text,label
 Say again,REPEAT
 Execute again,REPEAT
 Run it back,REPEAT
-Can you repeat that?,REPEAT
+Can you repeat that,REPEAT
 Repeat the previous action,REPEAT
 Do the last thing again,REPEAT
 Once more,REPEAT
@@ -12,7 +12,7 @@ Repeat previous command,REPEAT
 Again please,REPEAT
 Repeat the action,REPEAT
 Carry out again,REPEAT
-Can you say that again?,REPEAT
+Can you say that again,REPEAT
 Repeat what you just did,REPEAT
 Run again,REPEAT
 Echo,REPEAT
@@ -28,7 +28,7 @@ Do the same thing,REPEAT
 Duplicate,REPEAT
 Repeat the last instruction,REPEAT
 Do that command again,REPEAT
-Can you redo that?,REPEAT
+Can you redo that,REPEAT
 Repeat last entry,REPEAT
 Go over that again,REPEAT
 Try again,REPEAT
@@ -37,7 +37,7 @@ Repeat the previous instruction,REPEAT
 Perform the exact same action,REPEAT
 Do it again just like that,REPEAT
 Repeat last operation,REPEAT
-What did you say?,REPEAT
+What did you say,REPEAT
 Do the previous action,REPEAT
 Run the command again,REPEAT
 Repeat the last thing you did,REPEAT
@@ -52,7 +52,7 @@ Repeat that operation,REPEAT
 Once more with feeling,REPEAT
 Run the last command,REPEAT
 Repeat previous step,REPEAT
-Can you go over that?,REPEAT
+Can you go over that,REPEAT
 Repeat the last request,REPEAT
 Perform the command again,REPEAT
 Do the previous task,REPEAT
@@ -62,11 +62,11 @@ Repeat last entry please,REPEAT
 Run the last operation,REPEAT
 Repeat the most recent command,REPEAT
 Perform that again,REPEAT
-Can you reiterate?,REPEAT
+Can you reiterate,REPEAT
 Repeat the exact same action,REPEAT
 Execute the prior command,REPEAT
 Do the prior thing,REPEAT
-What was that?,REPEAT
+What was that,REPEAT
 Repeat prior,REPEAT
 Repeat previous step please,REPEAT
 Run the previous command,REPEAT
@@ -83,7 +83,7 @@ Run the last task,REPEAT
 Repeat last input,REPEAT
 Do that again,REPEAT
 Perform last,REPEAT
-Can you repeat the last part?,REPEAT
+Can you repeat the last part,REPEAT
 Repeat the action you just performed,REPEAT
 Run that command,REPEAT
 Repeat it,REPEAT
@@ -92,7 +92,7 @@ Repeat the recent action,REPEAT
 Execute the most recent command,REPEAT
 Do it repeatedly,REPEAT
 Repeat the command you just executed,REPEAT
-What did you just do?,REPEAT
+What did you just do,REPEAT
 Repeat,REPEAT
 Repeat please,REPEAT
 Repeat last command,REPEAT
@@ -701,50 +701,43 @@ redo again same process properly now,REPEAT
 redo again properly fully now,REPEAT
 redo this entire process properly,REPEAT
 redo that process properly now,REPEAT
-redo it all again properly now,REPEAT
-redo again properly now please,REPEAT
-redo this properly again now,REPEAT
-redo again the step properly now,REPEAT
-redo all again properly now,REPEAT
-redo same process again properly now,REPEAT
-redo that again properly now,REPEAT
-redo the entire thing properly now,REPEAT
-redo again same one properly now,REPEAT
-redo one more time properly now,REPEAT
-redo same command properly now,REPEAT
-redo same task properly now,REPEAT
-redo again that properly now,REPEAT
-redo same operation again properly now,REPEAT
-redo same step again properly now,REPEAT
-redo the same process again properly now,REPEAT
-redo that entire process properly now,REPEAT
-redo it again properly now please,REPEAT
-redo again all steps properly now,REPEAT
-redo all process again properly now,REPEAT
-redo entire thing properly now,REPEAT
-redo one last time properly now,REPEAT
-redo again the same properly now,REPEAT
-redo same again properly now,REPEAT
-redo same process properly again now,REPEAT
-redo the same operation properly again now,REPEAT
-redo same step properly again now,REPEAT
-redo the entire process properly again now,REPEAT
-redo same task properly again now,REPEAT
-redo same one properly again now,REPEAT
-redo same again properly again now,REPEAT
-redo this process properly again now,REPEAT
-redo it again properly again now,REPEAT
-redo this step properly again now,REPEAT
-redo again same process properly again now,REPEAT
-redo again all properly again now,REPEAT
-redo again properly again now,REPEAT
-redo same process again properly again now,REPEAT
-redo that again properly again now,REPEAT
-redo this same process properly again now,REPEAT
-redo same one again properly again now,REPEAT
-redo same process properly again properly now,REPEAT
-redo it properly again properly now,REPEAT
-redo same again properly again properly now,REPEAT
-redo same step properly again properly now,REPEAT
-redo same process properly again properly now,REPEAT
-redo same step properly again properly again now,REPEAT
+Repeat,REPEAT
+Do that again,REPEAT
+Repeat the last action,REPEAT
+Perform again,REPEAT
+Repeat the last command,REPEAT
+Can you repeat that,REPEAT
+Do it once more,REPEAT
+Repeat my last input,REPEAT
+Run it again,REPEAT
+Repeat previous,REPEAT
+I want to repeat,REPEAT
+Repeat the command,REPEAT
+Execute again,REPEAT
+Repeat the last operation,REPEAT
+Do the same thing again,REPEAT
+Can you do that again please,REPEAT
+Repeat the previous action,REPEAT
+Repeat the last task,REPEAT
+Once more,REPEAT
+Perform it again,REPEAT
+Repeat the instruction,REPEAT
+Re-run,REPEAT
+Repeat what you just did,REPEAT
+Go again,REPEAT
+Do this one more time,REPEAT
+Repeat current,REPEAT
+Echo last command,REPEAT
+Can you repeat the sequence,REPEAT
+Duplicate last action,REPEAT
+Repeat the process,REPEAT
+Perform the action again,REPEAT
+Do the last operation over,REPEAT
+Repeat the last step,REPEAT
+Repeat the request,REPEAT
+Again,REPEAT
+Reiterate,REPEAT
+Repeat last,REPEAT
+Do it again now,REPEAT
+Repeat the sequence,REPEAT
+Copy last action,REPEAT

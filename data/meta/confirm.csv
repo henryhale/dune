@@ -803,179 +803,43 @@ confirm yes done everything,CONFIRM
 confirm yes everything done complete,CONFIRM
 confirm yes yes done all,CONFIRM
 confirm yes all done finished,CONFIRM
-confirm yes yes complete finished,CONFIRM
-confirm yes fine everything done,CONFIRM
-confirm yes complete everything,CONFIRM
-confirm yes completed everything,CONFIRM
-confirm yes done everything now,CONFIRM
-confirm yes all okay done,CONFIRM
-confirm yes all done okay,CONFIRM
-confirm yes complete everything now,CONFIRM
-confirm yes everything okay complete,CONFIRM
-confirm yes complete all now,CONFIRM
-confirm yes yes everything complete,CONFIRM
-confirm yes everything good complete,CONFIRM
-confirm yes okay everything done,CONFIRM
-confirm yes it's okay complete,CONFIRM
-confirm yes everything done proceed,CONFIRM
-confirm yes okay complete now,CONFIRM
-confirm yes all done final,CONFIRM
-confirm yes complete final now,CONFIRM
-confirm yes final complete done,CONFIRM
-confirm yes done everything complete,CONFIRM
-confirm yes okay final done,CONFIRM
-confirm yes yes final complete,CONFIRM
-confirm yes final okay done,CONFIRM
-confirm yes now final done,CONFIRM
-confirm yes yes complete final,CONFIRM
-confirm yes all final complete,CONFIRM
-confirm yes everything final done,CONFIRM
-confirm yes it's final now,CONFIRM
-confirm yes all okay final,CONFIRM
-confirm yes complete all final,CONFIRM
-confirm yes done all final,CONFIRM
-confirm yes all done final complete,CONFIRM
-confirm yes final done complete,CONFIRM
-confirm yes final completed done,CONFIRM
-confirm yes complete final approved,CONFIRM
-confirm yes all done approved,CONFIRM
-confirm yes done final approved,CONFIRM
-confirm yes complete okay final,CONFIRM
-confirm yes done and approved,CONFIRM
-confirm yes all final approved,CONFIRM
-confirm yes final yes approved,CONFIRM
-confirm yes final approved now,CONFIRM
-confirm yes approved final done,CONFIRM
-confirm yes final now approved,CONFIRM
-confirm yes everything approved final,CONFIRM
-confirm yes everything approved now,CONFIRM
-confirm yes final confirmation done,CONFIRM
-confirm yes final confirmation approved,CONFIRM
-confirm yes confirmation done approved,CONFIRM
-confirm yes confirmation final,CONFIRM
-confirm yes confirm everything done,CONFIRM
-confirm yes confirm everything approved,CONFIRM
-confirm yes confirm all done now,CONFIRM
-confirm yes confirmation okay done,CONFIRM
-confirm yes confirm okay approved,CONFIRM
-confirm yes okay confirmed final,CONFIRM
-confirm yes confirmed all done,CONFIRM
-confirm yes confirm done final,CONFIRM
-confirm yes confirmed finished all,CONFIRM
-confirm yes confirm now finished,CONFIRM
-confirm yes confirmed everything okay,CONFIRM
-confirm yes confirm now final,CONFIRM
-confirm yes final confirmation complete,CONFIRM
-confirm yes confirm everything complete,CONFIRM
-confirm yes final confirmation complete done,CONFIRM
-confirm yes confirm now approved,CONFIRM
-confirm yes okay final approval,CONFIRM
-confirm yes final approval now,CONFIRM
-confirm yes approved completely,CONFIRM
-confirm yes all approved completely,CONFIRM
-confirm yes completely approved final,CONFIRM
-confirm yes approval complete,CONFIRM
-confirm yes final approval complete,CONFIRM
-confirm yes yes approval done,CONFIRM
-confirm yes okay approval now,CONFIRM
-confirm yes everything approval done,CONFIRM
-confirm yes okay approved completely,CONFIRM
-confirm yes confirm approved completely,CONFIRM
-confirm yes confirmation approved completely,CONFIRM
-confirm yes complete approval done,CONFIRM
-confirm yes complete approval now,CONFIRM
-confirm yes all approval final,CONFIRM
-confirm yes approval complete final,CONFIRM
-confirm yes final complete approval,CONFIRM
-confirm yes approval finished done,CONFIRM
-confirm yes all okay approval complete,CONFIRM
-confirm yes final okay approval done,CONFIRM
-confirm yes all done approval final,CONFIRM
-confirm yes all done approval complete,CONFIRM
-confirm yes approval everything done,CONFIRM
-confirm yes final approval finished,CONFIRM
-confirm yes all approved completely done,CONFIRM
-confirm yes approval completely done,CONFIRM
-confirm yes done approval completely,CONFIRM
-confirm yes everything done approval,CONFIRM
-confirm yes all done now approval,CONFIRM
-confirm yes now everything approved,CONFIRM
-confirm yes now all approved done,CONFIRM
-confirm yes approval done now,CONFIRM
-confirm yes done now approved,CONFIRM
-confirm yes yes done approved,CONFIRM
-confirm yes complete now approved,CONFIRM
-confirm yes everything done approved,CONFIRM
-confirm yes okay everything approved,CONFIRM
-confirm yes approval okay done,CONFIRM
-confirm yes final approved everything,CONFIRM
-confirm yes final everything approved,CONFIRM
-confirm yes completely done approved,CONFIRM
-confirm yes approval completely finished,CONFIRM
-confirm yes all complete approved,CONFIRM
-confirm yes everything finished approved,CONFIRM
-confirm yes approval everything finished,CONFIRM
-confirm yes approved finished now,CONFIRM
-confirm yes yes approved finished,CONFIRM
-confirm yes approval done finished,CONFIRM
-confirm yes everything approved finished,CONFIRM
-confirm yes done and finished approved,CONFIRM
-confirm yes approval final finished,CONFIRM
-confirm yes approval final complete finished,CONFIRM
-confirm yes all finished approval done,CONFIRM
-confirm yes approved final finished,CONFIRM
-confirm yes complete approval finished,CONFIRM
-confirm yes final complete approval finished,CONFIRM
-confirm yes done approval finished,CONFIRM
-confirm yes completed approval finished,CONFIRM
-confirm yes approval final everything done,CONFIRM
-confirm yes approval final everything complete,CONFIRM
-confirm yes approval everything complete done,CONFIRM
-confirm yes approval complete everything finished,CONFIRM
-confirm yes final everything finished approved,CONFIRM
-confirm yes all complete finished approved,CONFIRM
-confirm yes everything complete finished approved,CONFIRM
-confirm yes completely finished approval done,CONFIRM
-confirm yes all approval done finished,CONFIRM
-confirm yes everything final approval finished,CONFIRM
-confirm yes approved final everything complete,CONFIRM
-confirm yes approved everything final complete,CONFIRM
-confirm yes finished everything approved complete,CONFIRM
-confirm yes everything complete final approved,CONFIRM
-confirm yes completely final approved done,CONFIRM
-confirm yes final approved everything finished,CONFIRM
-confirm yes final approved everything done,CONFIRM
-confirm yes final approved all complete,CONFIRM
-confirm yes final approved all finished,CONFIRM
-confirm yes approved final all complete,CONFIRM
-confirm yes final approval everything done,CONFIRM
-confirm yes final approval all complete,CONFIRM
-confirm yes final approval all finished,CONFIRM
-confirm yes everything done final approval,CONFIRM
-confirm yes all done final approval,CONFIRM
-confirm yes all complete final approval,CONFIRM
-confirm yes complete final everything approved,CONFIRM
-confirm yes everything final approval done,CONFIRM
-confirm yes approved complete final done,CONFIRM
-confirm yes approved final complete everything,CONFIRM
-confirm yes final everything done approval,CONFIRM
-confirm yes final everything approved complete,CONFIRM
-confirm yes final approved done everything,CONFIRM
-confirm yes final approved complete everything,CONFIRM
-confirm yes final approval done everything,CONFIRM
-confirm yes final approval complete everything,CONFIRM
-confirm yes final approval everything finished,CONFIRM
-confirm yes approval final complete everything,CONFIRM
-confirm yes approval everything complete final,CONFIRM
-confirm yes final everything complete approved,CONFIRM
-confirm yes final approval everything complete,CONFIRM
-confirm yes approval final everything complete,CONFIRM
-confirm yes final complete everything approval,CONFIRM
-confirm yes complete everything approval final,CONFIRM
-confirm yes approval everything final complete,CONFIRM
-confirm yes everything complete approval final,CONFIRM
-confirm yes everything approval final complete,CONFIRM
-confirm yes approval complete everything final,CONFIRM
-confirm yes everything final complete approval,CONFIRM
-confirm yes complete final approval everything,CONFIRM
-confirm yes final approval complete everything,CONFIRM
+Yes,CONFIRM
+Confirm that,CONFIRM
+Go ahead,CONFIRM
+Do it,CONFIRM
+That's correct,CONFIRM
+Affirmative,CONFIRM
+Proceed,CONFIRM
+Confirm,CONFIRM
+I confirm,CONFIRM
+Yes please,CONFIRM
+Alright,CONFIRM
+Okay,CONFIRM
+I'm sure,CONFIRM
+Looks good,CONFIRM
+Execute,CONFIRM
+Validate,CONFIRM
+Double-check and confirm,CONFIRM
+Confirm the action,CONFIRM
+Yes I want to do this,CONFIRM
+Make it so,CONFIRM
+Confirm this decision,CONFIRM
+Finalize,CONFIRM
+I agree,CONFIRM
+Approve,CONFIRM
+Accept,CONFIRM
+Commit,CONFIRM
+It's settled,CONFIRM
+Certainly,CONFIRM
+By all means,CONFIRM
+Absolutely,CONFIRM
+I am certain,CONFIRM
+Confirm my choice,CONFIRM
+Yes proceed with that,CONFIRM
+This is correct,CONFIRM
+Confirm the details,CONFIRM
+That's what I want,CONFIRM
+Confirm action,CONFIRM
+Proceed with the current settings,CONFIRM
+Go for it,CONFIRM
+I'm ready,CONFIRM

@@ -666,3 +666,42 @@ redo redo one more time,REDO
 redo redo twice,REDO
 redo final redo command,REDO
 redo last redo once more,REDO
+Redo,REDO
+Do that again,REDO
+Re-apply,REDO
+Bring that back,REDO
+Redo the undone action,REDO
+I want to redo,REDO
+Can you redo that,REDO
+Apply last undone action,REDO
+Redo the change,REDO
+Go forward one step,REDO
+Re-execute the last undone command,REDO
+Put it back how it was,REDO
+Redo this,REDO
+I want to re-apply,REDO
+Bring it back,REDO
+Redo my action,REDO
+Re-do,REDO
+Can you re-apply the last undone action,REDO
+Go to the next state,REDO
+Redo the last undo,REDO
+Take it forward a step,REDO
+Please redo,REDO
+I need to redo that,REDO
+Re-execute,REDO
+Reapply the previous action,REDO
+Move forward,REDO
+Restore the undone,REDO
+Can we redo,REDO
+Remake it,REDO
+Go to the next state,REDO
+I undid by mistake redo,REDO
+Redo the last modification,REDO
+Reapply to next,REDO
+Go forward to previous,REDO
+Redo the operation,REDO
+Bring that back,REDO
+I need to re-apply,REDO
+Redo what I just undid,REDO
+Can you go forward,REDO
