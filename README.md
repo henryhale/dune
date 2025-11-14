@@ -35,16 +35,36 @@ Meta conversation commands like `help`, `confirm`, `repeat`, and `explain` are i
 ## Commands
 
 List of commands included:
-'SEARCH', 'SUBMIT_FORM', 'CANCEL_FORM', 'CLEAR_FIELD',
-       'FILL_FIELD', 'NEXT_ITEM', 'PREVIOUS_ITEM', 'VIEW_ITEM', 'GO_TO',
-       'SELECT_ITEM', 'GO_BACK', 'EDIT_ITEM', 'CREATE_ITEM',
-       'DELETE_ITEM', 
-      
-- Navigation: `GO_TO`
-- Item selection: `SELECT_ITEM`, `NEXT_ITEM`, `PREVIOUS_ITEM`, `VIEW_ITEM`
-- Item management: `CREATE_ITEM`, `EDIT_ITEM`, `DELETE_ITEM`
-- Form input: `FILL_FIELD`, `CLEAR_FIELD`, `SUBMIT_FORM`
-- Meta commands: `HELP`, `EXPLAIN`, `CONFIRM`, `CANCEL`, `UNDO`, `REDO`, `REPEAT`, `NOOP`
+
+- Meta commands:
+
+  - [ ] `HELP` - Provides information on available commands and how to use them
+  - [ ] `EXPLAIN` - Explains the function or purpose of a specific item or command.
+  - [ ] `CONFIRM` - Confirms an action or decision.
+  - [ ] `CANCEL` - Cancels an ongoing action or discards a pending operation.
+  - [ ] `UNDO` - Reverts the last action performed.
+  - [ ] `REDO` - Re-applies an action that was just undone.
+  - [ ] `REPEAT` - Repeats the last executed command or action.
+  - [ ] `NOOP` - No operation; the input is not a recognized command.
+
+- Navigation:
+
+  - [ ] `GO_BACK` - Navigates back to the previous screen, page, or view.
+  - [ ] `GO_TO` - Navigates to a specific page, tab, or section.
+  - [ ] `SCROLL_UP` - Scroll the current view/page upwards.
+  - [ ] `SCROLL_DOWN` - Scrolls the current view/page downwards.
+
+- Item selection:
+
+  - [ ] `NEXT_ITEM` - Navigates to the previous item or entry in a list.
+  - [ ] `PREVIOUS_ITEM` - Navigates to the next item or entry in a list.
+  - [ ] `SELECT_ITEM` - Toggles the selection state of an item or chooses it.
+
+- Form input:
+  - [ ] `SEARCH` - Searches for information or items based on a query.
+  - [ ] `FILL_FIELD` - Fills in a text field or input area with provided text.
+  - [ ] `CLEAR_FIELD` - Clears the content of a specific text field or input.
+  - [ ] `SUBMIT_FORM` - Submits the data entered in a form.
 
 ## Features
 
@@ -77,11 +97,14 @@ After installation, you have to train the model and then use it to predict comma
 1. Using the command line
 
    ```sh
+   # preprocess data
+   python -m src.preprocess
+
    # train the model
-   python src/train.py
+   python -m src.train
 
    # run the model interactively
-   python src/predict.py --interactive
+   python -m src.predict --interactive
    ```
 
 2. Using notebooks
