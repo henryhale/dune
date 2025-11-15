@@ -134,8 +134,8 @@ def main():
     parser.add_argument(
         "--threshold",
         type=float,
-        default=0.6,
-        help="Minimum confidence for prediction (default: 0.6)",
+        default=0.1,
+        help="Minimum confidence for prediction (default: 0.1)",
     )
     parser.add_argument(
         "--interactive", action="store_true", help="Run in interactive mode"
