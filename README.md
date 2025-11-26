@@ -21,7 +21,7 @@ I am building an AI driven application that consists of;
 - Text to command model (receives user input and outputs a predefined command to execute)
 - Basic TODO App (a simple web app in which input is obtained and the commands will be executed)
 - Command Execution Engine (a client side tool to manage model execution and state like intent, confirmation and client side needs like navigation that a user would otherwise do themselves)
-- Server running Websockets or REST API or Server Sent Events bridge for sending input and recieving output
+- Server running REST API bridge for sending input and recieving output
 
 To spice things up, the TODO app will capture input using WebSpeech API, convert to text, and send it over to
 the server. The app receives a response, sends it to the command execution engine within which execution is done and feedback is collected.
@@ -31,6 +31,10 @@ the server. The app receives a response, sends it to the command execution engin
 
 For the MVP demo, consider a multi tab TODO app; `home`, `settings`, `new item form`, `items list`.
 Meta conversation commands like `help`, `confirm`, `repeat`, and `explain` are included.
+
+> [!INFO]
+> 
+> This project is experimental. Thorough research on better standards and approaches is underway.
 
 ## Commands
 
@@ -122,6 +126,7 @@ After installation, you have to train the model and then use it to predict comma
    cd app && pnpm dev 
 
    # start model api server
+   cd app && pnpm build
    python app.py
    ```
 
