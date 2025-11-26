@@ -16,7 +16,7 @@ const store = useTodoStore()
             <div>
                 <img src="/logo.png" alt="" class="rounded-full w-8" />
             </div>
-            <div class="p-1">{{ c.command }} with <b>{{ parseFloat(c.confidence).toFixed(2) }}%</b> confidence</div>
+            <div class="p-1">{{ c.command }} with <b>{{ (parseFloat(c.confidence)*100).toFixed(4) }}%</b> confidence</div>
         </div>
     </div>
 </template>

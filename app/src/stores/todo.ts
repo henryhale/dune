@@ -29,6 +29,7 @@ export const useTodoStore = defineStore('todo', () => {
     const alertDialog = ref(false)
     const deletingId = ref<string>()
     const sessionLogs = ref<APIResult[]>([])
+    const helpDialog = ref(false)
 
     // Computed (Getters)
     const filteredTodos = computed(() => {
@@ -146,6 +147,7 @@ export const useTodoStore = defineStore('todo', () => {
         switch (command) {
             case 'HELP':
                 showFeedback('Available commands: add task, mark complete, delete task, next/previous, search, etc.', 'info');
+                helpDialog.value = true
                 break;
 
             case 'EXPLAIN':
@@ -164,6 +166,8 @@ export const useTodoStore = defineStore('todo', () => {
                     deleteTodo(deletingId.value)
                     alertDialog.value = false
                     deletingId.value = undefined
+                } else {
+                    helpDialog.value = false
                 }
                 break;
 
@@ -171,6 +175,7 @@ export const useTodoStore = defineStore('todo', () => {
                 editingId.value = undefined;
                 searchQuery.value = '';
                 alertDialog.value = false
+                helpDialog.value = false
                 showFeedback('Action cancelled', 'info');
                 break;
 
@@ -219,6 +224,8 @@ export const useTodoStore = defineStore('todo', () => {
                     }
                 } else {
                     viewTodo()
+
+                    helpDialog.value = false
                 }
                 break;
 
@@ -303,6 +310,8 @@ export const useTodoStore = defineStore('todo', () => {
                 break;
 
             case 'NOOP':
+                break;
+                
             default:
                 showFeedback('Command not recognized', 'warning');
         }
@@ -379,6 +388,7 @@ export const useTodoStore = defineStore('todo', () => {
         todoListRef,
         alertDialog,
         sessionLogs,
+        helpDialog,
         // Computed
         filteredTodos,
         totalTodos,

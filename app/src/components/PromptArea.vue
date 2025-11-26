@@ -4,6 +4,7 @@ import { Textarea } from "@/components/ui/textarea"
 import { useTodoStore } from "@/stores/todo";
 import { ArrowUpIcon, Loader2Icon, MicIcon } from 'lucide-vue-next';
 import { ref } from "vue";
+import VoiceArea from "./VoiceArea.vue";
 
 
 const store = useTodoStore()
@@ -22,11 +23,8 @@ const handleSubmit = () => {
         <span class="flex-grow italic px-1 opacity-60 text-xs">
             {{ store.isProcessing ? "processing..." : "" }}
         </span>
-        <Button v-if="store.commandInput" :disabled="store.isProcessing" size="icon" variant="ghost"
-            class="rounded-full">
-            <MicIcon />
-        </Button>
-        <Button v-else :disabled="store.isProcessing" @click.prevent="handleSubmit" size="icon" class="rounded-full">
+        <VoiceArea />
+        <Button :disabled="store.isProcessing" @click.prevent="handleSubmit" size="icon" class="rounded-full">
             <Loader2Icon v-if="store.isProcessing" class="animate-spin" />
             <ArrowUpIcon v-else />
         </Button>

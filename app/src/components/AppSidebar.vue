@@ -19,10 +19,11 @@ import { Button } from "@/components/ui/button"
 import AppSettings from './AppSettings.vue';
 import AppSearch from './AppSearch.vue';
 import PromptArea from './PromptArea.vue';
-import { HomeIcon, PenLineIcon, PlusIcon, SearchIcon, SparkleIcon, XIcon } from 'lucide-vue-next';
+import { HomeIcon, PenLineIcon, PlusIcon, SearchIcon, SparkleIcon } from 'lucide-vue-next';
 import { RouterLink } from 'vue-router';
 import { ref } from 'vue';
 import PromptSession from './PromptSession.vue';
+import ManualDialog from './ManualDialog.vue';
 
 const panel = ref(false)
 </script>
@@ -106,9 +107,10 @@ const panel = ref(false)
             <SidebarHeader>
                 <div class="flex items-center gap-4 p-2.5">
                     <span class="flex-grow">Dune AI</span>
-                    <Button @click="panel = false" size="icon" variant="ghost">
+                    <!-- <Button @click="panel = false" size="icon" variant="ghost">
                         <XIcon />
-                    </Button>
+                    </Button> -->
+                    <ManualDialog />
                 </div>
             </SidebarHeader>
             <SidebarContent>

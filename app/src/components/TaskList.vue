@@ -21,7 +21,7 @@ const props = defineProps(['items'])
         }" class="group relative cursor-pointer" tabindex="0" @click.stop="router.push(`/view/${n.id}`)">
             <div class="flex gap-2 items-start p-4 group-hover:bg-accent/20 rounded-xl">
                 <div @click.prevent.stop="store.toggleTodo(n.id)" class="py-2">
-                    <Checkbox :checked="n.done" />
+                    <Checkbox :default-value="n.done" />
                 </div>
                 <p class="flex-grow pt-1 line-clamp-4 leading-normal">
                     <s v-if="n.done">{{ n.content }}</s>
