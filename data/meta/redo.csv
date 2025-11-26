@@ -1,0 +1,674 @@
+text,label
+Do again,REDO
+Re-execute,REDO
+Perform again after undo,REDO
+Revert undo,REDO
+Bring back,REDO
+Execute the undone action,REDO
+Undo the undo,REDO
+Restore last undone,REDO
+Reapply,REDO
+Do the action again,REDO
+Bring back the last change,REDO
+Redo the last operation,REDO
+Perform the action that was undone,REDO
+Re-do that,REDO
+Apply again,REDO
+Redo the previous action,REDO
+Bring back the change,REDO
+Execute the command again after undo,REDO
+Redo it,REDO
+Un-undo,REDO
+Perform the undone command,REDO
+Re-execute last,REDO
+Bring back the undone item,REDO
+Redo the last command,REDO
+Put it back,REDO
+Redo last operation,REDO
+Apply the action again,REDO
+Bring back the action,REDO
+Redo the action I undid,REDO
+Repeat after undo,REDO
+Re-apply,REDO
+Redo previous,REDO
+Bring back the previous state,REDO
+Re-run after undo,REDO
+Redo the cancelled action,REDO
+Execute the reverted action,REDO
+Un-undo the last command,REDO
+Restore after undo,REDO
+Redo the most recent undo,REDO
+Perform the previously undone action,REDO
+Revert the undo,REDO
+Bring back the removed item,REDO
+Redo the last step,REDO
+Apply the undone action,REDO
+Redo the command that was un-done,REDO
+Execute the action I just undid,REDO
+Uncancel,REDO
+Redo last change,REDO
+Bring back the deleted item,REDO
+Redo the operation,REDO
+Perform the action again after it was taken back,REDO
+Redo that previous step,REDO
+Restore the last undo,REDO
+Bring back what was undone,REDO
+Redo the last thing I undid,REDO
+Run the command again after undoing,REDO
+Redo the action that was reverted,REDO
+Bring back the last action,REDO
+Redo the command I just undid,REDO
+Revert the undo,REDO
+Redo last action,REDO
+Bring back the last input,REDO
+Redo the input,REDO
+Perform the operation that was cancelled,REDO
+Redo the one I undid,REDO
+Un-do the undo command,REDO
+Redo the last change that was undone,REDO
+Bring back the item,REDO
+Redo the previous undo,REDO
+Execute the action after it was reversed,REDO
+Redo the thing I just took back,REDO
+Restore the action,REDO
+Redo the last cancelled action,REDO
+Bring back the state before undo,REDO
+Redo the last effect,REDO
+Perform the action that was withdrawn,REDO
+Redo the command after a rollback,REDO
+Un-take back,REDO
+Redo my last undo,REDO
+Bring back the removed action,REDO
+Redo the last executed command after undo,REDO
+Execute the previous action again,REDO
+Redo that specific action,REDO
+Restore the previous action,REDO
+Bring back the last undone,REDO
+Redo the action you just undid,REDO
+Revert the rollback,REDO
+Redo the last action taken back,REDO
+Execute the command again after reversing,REDO
+Redo the most recent action I undid,REDO
+Bring back the content,REDO
+Redo the function,REDO
+Perform the undone function,REDO
+Redo the action after it was undone,REDO
+Un-undo the action,REDO
+Redo the one before,REDO
+Redo,REDO
+Redo please,REDO
+Redo last action,REDO
+Please redo last action,REDO
+redo the undo,REDO
+re apply the undone step,REDO
+bring it back now,REDO
+redo that change,REDO
+execute the redo command,REDO
+put it back as before,REDO
+apply the undone action,REDO
+forward step please,REDO
+un revert this,REDO
+re instantiate last,REDO
+redo this,REDO
+re apply the action,REDO
+bring it back again,REDO
+redo my last,REDO
+execute the last redo,REDO
+put it back to how,REDO
+apply the prior,REDO
+forward current,REDO
+un revert my last,REDO
+re instantiate prior,REDO
+redo my choice,REDO
+re apply the previous,REDO
+bring it back now please,REDO
+redo the step,REDO
+execute the redo now,REDO
+put it back once,REDO
+apply the last action,REDO
+forward move please,REDO
+un revert the previous,REDO
+re instantiate current,REDO
+redo this operation,REDO
+re apply the previous action,REDO
+bring it back to me,REDO
+redo that option,REDO
+execute the redo command now,REDO
+put it back into,REDO
+apply the prior action,REDO
+forward action please,REDO
+un revert this now,REDO
+re instantiate prior state,REDO
+redo my last undo,REDO
+re apply the previous step,REDO
+bring back the last,REDO
+redo the prior,REDO
+execute the redo operation,REDO
+put it back the way,REDO
+apply the undone step,REDO
+forward process please,REDO
+un revert the action,REDO
+re instantiate the last,REDO
+redo the current,REDO
+re apply the action now,REDO
+bring back my last,REDO
+redo the current change,REDO
+execute the redo for,REDO
+put it back to what,REDO
+apply the previous step,REDO
+forward command please,REDO
+un revert my action,REDO
+re instantiate previous,REDO
+redo this step,REDO
+re apply my last,REDO
+bring back the operation,REDO
+redo the action once,REDO
+execute the redo task,REDO
+put it back the initial,REDO
+apply the current action,REDO
+forward action now,REDO
+un revert my input,REDO
+re instantiate the command,REDO
+redo my last action,REDO
+re apply my previous action,REDO
+bring back the previous,REDO
+redo this command,REDO
+execute the redo for me,REDO
+put it back at start,REDO
+apply the current step,REDO
+forward process now,REDO
+un revert the command,REDO
+re instantiate the action,REDO
+redo my last move,REDO
+re apply my last step,REDO
+bring back what i undid,REDO
+redo that one,REDO
+execute the redo command for me,REDO
+put it back as before now,REDO
+apply the undone command,REDO
+reapply previous undo,REDO
+bring back the undone,REDO
+redo the last step,REDO
+reexecute undone action,REDO
+put back the last,REDO
+apply the reverted,REDO
+step forward again,REDO
+reverse the undo,REDO
+revert the previous revert,REDO
+reestablish the state,REDO
+bring back the prior,REDO
+redo the prior action,REDO
+reapply the action now,REDO
+do that again,REDO
+redo last step,REDO
+repeat previous action,REDO
+apply it again,REDO
+perform redo,REDO
+redo the change,REDO
+bring it back,REDO
+repeat what I just did,REDO
+reapply modification,REDO
+restore last edit,REDO
+redo my last command,REDO
+run the same again,REDO
+repeat the last edit,REDO
+do previous again,REDO
+redo undone step,REDO
+redo previous change,REDO
+execute again,REDO
+reapply last command,REDO
+do it one more time,REDO
+bring back the last version,REDO
+restore what was undone,REDO
+redo what I just canceled,REDO
+repeat the correction,REDO
+redo that fix,REDO
+redo the formatting,REDO
+put it back,REDO
+undo the undo,REDO
+reapply my change,REDO
+redo typing,REDO
+reapply last move,REDO
+do that change again,REDO
+redo the update,REDO
+bring back the deleted part,REDO
+redo last operation,REDO
+reapply previous edit,REDO
+run redo,REDO
+do the redo action,REDO
+restore last operation,REDO
+do it over,REDO
+bring that back,REDO
+reapply the style change,REDO
+redo the last adjustment,REDO
+repeat editing step,REDO
+reapply last fix,REDO
+redo the move,REDO
+repeat modification,REDO
+redo the last formatting,REDO
+reapply that change,REDO
+do redo,REDO
+redo previous operation,REDO
+repeat that command,REDO
+do same edit again,REDO
+redo the edit I undid,REDO
+reapply color change,REDO
+do the same again,REDO
+redo previous version,REDO
+restore my last revision,REDO
+reapply previous action,REDO
+redo latest change,REDO
+repeat the update,REDO
+apply redo,REDO
+redo text change,REDO
+restore what I changed,REDO
+redo step again,REDO
+reapply that setting,REDO
+bring that setting back,REDO
+redo content update,REDO
+repeat redo,REDO
+redo final step,REDO
+redo deletion,REDO
+reapply deletion undo,REDO
+redo renaming,REDO
+repeat last revision,REDO
+redo latest edit,REDO
+reapply correction,REDO
+redo the fix I made,REDO
+repeat edit again,REDO
+reapply formatting,REDO
+restore last document state,REDO
+redo the recent change,REDO
+do the previous operation again,REDO
+repeat previous command,REDO
+redo step five,REDO
+redo again please,REDO
+reapply content change,REDO
+bring the edit back,REDO
+redo last movement,REDO
+redo cut action,REDO
+restore last version,REDO
+redo what was reverted,REDO
+redo my recent action,REDO
+reapply my formatting,REDO
+redo past action,REDO
+repeat operation,REDO
+redo previous typing,REDO
+redo my modification,REDO
+redo that action again,REDO
+redo the latest operation,REDO
+reapply the redo command,REDO
+redo text formatting,REDO
+repeat redo command,REDO
+redo my action,REDO
+redo what I reversed,REDO
+restore the previous form,REDO
+redo the layout change,REDO
+redo the color edit,REDO
+redo the undo action,REDO
+redo this change,REDO
+redo form submission,REDO
+redo image rotation,REDO
+redo that task,REDO
+redo final command,REDO
+redo whatever I undid,REDO
+repeat redo process,REDO
+reapply the last redo,REDO
+redo all changes,REDO
+redo my step,REDO
+redo last file edit,REDO
+redo same step,REDO
+reapply all edits,REDO
+redo latest formatting,REDO
+reapply undo reversal,REDO
+redo that undo,REDO
+redo previous deletion,REDO
+restore undo,REDO
+redo button press,REDO
+redo what I fixed,REDO
+reapply that redo,REDO
+redo configuration,REDO
+redo script action,REDO
+redo last macro,REDO
+redo my text change,REDO
+redo system action,REDO
+redo my typing,REDO
+redo file rename,REDO
+redo the revert,REDO
+redo project save,REDO
+redo update,REDO
+redo table formatting,REDO
+redo alignment,REDO
+redo paragraph change,REDO
+redo margin edit,REDO
+redo layout tweak,REDO
+redo border style,REDO
+redo image crop,REDO
+redo cell change,REDO
+redo title update,REDO
+redo number formatting,REDO
+redo style update,REDO
+redo undo redo,REDO
+redo heading format,REDO
+redo font style,REDO
+redo page break,REDO
+redo reformatting,REDO
+redo resize,REDO
+redo action again,REDO
+redo last thing,REDO
+redo my redo,REDO
+redo previous redo,REDO
+redo all undone edits,REDO
+redo my last redo,REDO
+redo past redo,REDO
+redo undo chain,REDO
+redo last undo,REDO
+redo this redo,REDO
+redo previous redo operation,REDO
+redo entire redo stack,REDO
+redo sequence,REDO
+redo redo,REDO
+redo redo action,REDO
+redo redo again,REDO
+redo all redo,REDO
+redo redo redo,REDO
+redo last change again,REDO
+redo edit again,REDO
+redo redo event,REDO
+redo change please,REDO
+redo my correction,REDO
+redo modified section,REDO
+redo small tweak,REDO
+redo whole thing,REDO
+redo after undo,REDO
+redo statement,REDO
+redo last command again,REDO
+redo this fix,REDO
+redo commit change,REDO
+redo database update,REDO
+redo patch,REDO
+redo rollback,REDO
+redo configuration update,REDO
+redo UI fix,REDO
+redo interface adjustment,REDO
+redo color reset,REDO
+redo previous bug fix,REDO
+redo deployment,REDO
+redo script execution,REDO
+redo merge,REDO
+redo branch commit,REDO
+redo sync,REDO
+redo last build,REDO
+redo previous run,REDO
+redo final redo,REDO
+redo pipeline,REDO
+redo refresh,REDO
+redo action chain,REDO
+redo task sequence,REDO
+redo flow,REDO
+redo my redo command,REDO
+redo complete redo,REDO
+redo system redo,REDO
+redo step chain,REDO
+redo undo redo chain,REDO
+redo last workflow,REDO
+redo previous redo action,REDO
+redo redo command again,REDO
+redo last redo command,REDO
+redo test case,REDO
+redo function call,REDO
+redo input action,REDO
+redo mouse move,REDO
+redo click,REDO
+redo key press,REDO
+redo shortcut,REDO
+redo UI click,REDO
+redo mouse drag,REDO
+redo previous cursor move,REDO
+redo control action,REDO
+redo input redo,REDO
+redo file action,REDO
+redo file save,REDO
+redo edit redo,REDO
+redo all redo stack,REDO
+redo macro redo,REDO
+redo previous redo event,REDO
+redo editing redo,REDO
+redo operation again,REDO
+redo entire workflow,REDO
+redo redo once more,REDO
+redo task again,REDO
+redo job again,REDO
+redo job step,REDO
+redo my redo process,REDO
+redo redo event chain,REDO
+redo redo stack,REDO
+redo undo reversed,REDO
+redo fix again,REDO
+redo editing step,REDO
+redo document edit,REDO
+redo recent redo,REDO
+redo most recent action,REDO
+redo last redo operation,REDO
+redo recent redo step,REDO
+redo that again please,REDO
+redo feature fix,REDO
+redo ui layout,REDO
+redo window resize,REDO
+redo function run,REDO
+redo execution,REDO
+redo previous redo process,REDO
+redo internal redo,REDO
+redo component change,REDO
+redo value edit,REDO
+redo key input,REDO
+redo previous json update,REDO
+redo content send,REDO
+redo last api call,REDO
+redo fetch,REDO
+redo reload,REDO
+redo build again,REDO
+redo task queue,REDO
+redo message send,REDO
+redo notification,REDO
+redo alert trigger,REDO
+redo event again,REDO
+redo timer event,REDO
+redo schedule,REDO
+redo cron task,REDO
+redo action replay,REDO
+redo redo script,REDO
+redo playback,REDO
+redo macro playback,REDO
+redo redo session,REDO
+redo replay,REDO
+redo session redo,REDO
+redo redo file,REDO
+redo backup redo,REDO
+redo restore,REDO
+redo saved state,REDO
+redo application redo,REDO
+redo system redo operation,REDO
+redo redo of undo,REDO
+redo recent redo action,REDO
+redo edit redo again,REDO
+redo correction redo,REDO
+redo revert redo,REDO
+redo command redo,REDO
+redo manual redo,REDO
+redo typed redo,REDO
+redo automatic redo,REDO
+redo generated redo,REDO
+redo redo request,REDO
+redo action request,REDO
+redo pipeline redo,REDO
+redo step redo,REDO
+redo logic redo,REDO
+redo form redo,REDO
+redo edit redo step,REDO
+redo same redo again,REDO
+redo step again,REDO
+redo step redo,REDO
+redo command again,REDO
+redo reapply command,REDO
+redo apply change,REDO
+redo last redo apply,REDO
+redo undo change,REDO
+redo this redo operation,REDO
+redo reapply redo,REDO
+redo last redo again,REDO
+redo just undone,REDO
+redo undone change,REDO
+redo last undone thing,REDO
+redo previously undone edit,REDO
+redo undo effect,REDO
+redo undone effect,REDO
+redo rollback change,REDO
+redo redo correction,REDO
+redo fix,REDO
+redo broken edit,REDO
+redo revert fix,REDO
+redo fix code again,REDO
+redo recovery,REDO
+redo applied change,REDO
+redo previous redo correction,REDO
+redo updated text,REDO
+redo last modified field,REDO
+redo retyped text,REDO
+redo rewrite,REDO
+redo auto save,REDO
+redo save redo,REDO
+redo last save,REDO
+redo persisted redo,REDO
+redo backup change,REDO
+redo autosave action,REDO
+redo session save,REDO
+redo file change redo,REDO
+redo document redo,REDO
+redo note redo,REDO
+redo redo list,REDO
+redo text list,REDO
+redo redo array,REDO
+redo map redo,REDO
+redo data structure redo,REDO
+redo node redo,REDO
+redo variable change,REDO
+redo constant redo,REDO
+redo statement redo,REDO
+redo redo logic,REDO
+redo program redo,REDO
+redo execution redo,REDO
+redo script redo,REDO
+redo interpreter redo,REDO
+redo compiled redo,REDO
+redo compilation redo,REDO
+redo function redo,REDO
+redo function execution redo,REDO
+redo redo of code,REDO
+redo redo computation,REDO
+redo compute again,REDO
+redo calculation,REDO
+redo last calculation,REDO
+redo formula,REDO
+redo math step,REDO
+redo evaluation,REDO
+redo numeric change,REDO
+redo equation,REDO
+redo value redo,REDO
+redo redo number change,REDO
+redo total redo,REDO
+redo recalculation,REDO
+redo corrected math,REDO
+redo edited number,REDO
+redo final value,REDO
+redo numeric redo,REDO
+redo data correction,REDO
+redo database redo,REDO
+redo redo record,REDO
+redo entry redo,REDO
+redo row redo,REDO
+redo column redo,REDO
+redo redo table row,REDO
+redo redo insert,REDO
+redo update redo,REDO
+redo delete redo,REDO
+redo transaction redo,REDO
+redo commit redo,REDO
+redo rollback redo,REDO
+redo restore redo,REDO
+redo recovered redo,REDO
+redo sync redo,REDO
+redo import redo,REDO
+redo export redo,REDO
+redo redo script action again,REDO
+redo script redo command,REDO
+redo automation redo,REDO
+redo job redo,REDO
+redo batch redo,REDO
+redo process redo,REDO
+redo redo final,REDO
+redo redo finished,REDO
+redo completed redo,REDO
+redo redo last,REDO
+redo redo again now,REDO
+redo redo command now,REDO
+redo run redo command,REDO
+redo redo process again,REDO
+redo last redo process,REDO
+redo task redo,REDO
+redo project redo,REDO
+redo redo successfully,REDO
+redo my redo again,REDO
+redo redo and confirm,REDO
+redo confirm redo,REDO
+redo confirmation redo,REDO
+redo repeated redo,REDO
+redo once more,REDO
+redo execute again,REDO
+redo final redo step,REDO
+redo finished action,REDO
+redo close redo,REDO
+redo output redo,REDO
+redo redo one more time,REDO
+redo redo twice,REDO
+redo final redo command,REDO
+redo last redo once more,REDO
+Redo,REDO
+Do that again,REDO
+Re-apply,REDO
+Bring that back,REDO
+Redo the undone action,REDO
+I want to redo,REDO
+Can you redo that,REDO
+Apply last undone action,REDO
+Redo the change,REDO
+Go forward one step,REDO
+Re-execute the last undone command,REDO
+Put it back how it was,REDO
+Redo this,REDO
+I want to re-apply,REDO
+Bring it back,REDO
+Redo my action,REDO
+Re-do,REDO
+Can you re-apply the last undone action,REDO
+Go to the next state,REDO
+Redo the last undo,REDO
+Take it forward a step,REDO
+Please redo,REDO
+I need to redo that,REDO
+Re-execute,REDO
+Reapply the previous action,REDO
+Move forward,REDO
+Restore the undone,REDO
+Can we redo,REDO
+Remake it,REDO
+Go to the next state,REDO
+I undid by mistake redo,REDO
+Redo the last modification,REDO
+Reapply to next,REDO
+Go forward to previous,REDO
+Redo the operation,REDO
+Bring that back,REDO
+I need to re-apply,REDO
+Redo what I just undid,REDO
+Can you go forward,REDO

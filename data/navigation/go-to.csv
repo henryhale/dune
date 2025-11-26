@@ -1,0 +1,753 @@
+text,label
+Access,GO_TO
+Change page,GO_TO
+Open new tab,GO_TO
+Proceed to page,GO_TO
+Display page,GO_TO
+View tab,GO_TO
+Switch to page,GO_TO
+Bring up page,GO_TO
+Go to another page,GO_TO
+Navigate,GO_TO
+Show me the page,GO_TO
+Open a different tab,GO_TO
+Go to specified page,GO_TO
+Display the page,GO_TO
+View a specific tab,GO_TO
+Move to page,GO_TO
+Change to tab,GO_TO
+Open a page,GO_TO
+Take me to page,GO_TO
+Present page,GO_TO
+Go to this page,GO_TO
+Switch to another page,GO_TO
+Open tab now,GO_TO
+Show designated page,GO_TO
+View desired page,GO_TO
+Proceed to new page,GO_TO
+Open new window,GO_TO
+Go to the page,GO_TO
+Display selected page,GO_TO
+Move to another tab,GO_TO
+Go to section,GO_TO
+Switch to tab,GO_TO
+Open the tab,GO_TO
+Take me to the page,GO_TO
+Present the page,GO_TO
+Go to specific page,GO_TO
+Change current page,GO_TO
+Open new view,GO_TO
+Show the relevant page,GO_TO
+View chosen page,GO_TO
+Jump to page,GO_TO
+Navigate to tab,GO_TO
+Open a specific tab,GO_TO
+Go to that page,GO_TO
+Display the specified page,GO_TO
+Move to another section,GO_TO
+Switch interface,GO_TO
+Open a view,GO_TO
+Take me there,GO_TO
+Present the current page,GO_TO
+Go to certain page,GO_TO
+Change active page,GO_TO
+Open the requested tab,GO_TO
+Show me a page,GO_TO
+View the section,GO_TO
+Proceed to tab,GO_TO
+Open new panel,GO_TO
+Go to given page,GO_TO
+Display the page you mentioned,GO_TO
+Switch to the page,GO_TO
+Open a panel,GO_TO
+Take me to a page,GO_TO
+Present the requested page,GO_TO
+Go to indicated page,GO_TO
+Change view,GO_TO
+Open the target tab,GO_TO
+Show me any page,GO_TO
+View a particular page,GO_TO
+Jump to new page,GO_TO
+Navigate to particular page,GO_TO
+Open a window,GO_TO
+Go to the specified destination,GO_TO
+Display the new page,GO_TO
+Move to another location,GO_TO
+Switch active tab,GO_TO
+Open specified window,GO_TO
+Take me to a different page,GO_TO
+Present the next page,GO_TO
+Go to the destination page,GO_TO
+Change current view,GO_TO
+Open this tab,GO_TO
+Show the next page,GO_TO
+View the upcoming page,GO_TO
+Proceed to new tab,GO_TO
+Open a browser tab,GO_TO
+Go to a URL,GO_TO
+Display a different page,GO_TO
+Move to a new page,GO_TO
+Switch context,GO_TO
+Open specific window,GO_TO
+Take me to the main page,GO_TO
+Present the chosen page,GO_TO
+Go to the start page,GO_TO
+Change page,GO_TO
+Open an additional tab,GO_TO
+Show me a different page,GO_TO
+View the main page,GO_TO
+Go to,GO_TO
+Open,GO_TO
+Navigate to,GO_TO
+go to settings page,GO_TO
+navigate to profile tab,GO_TO
+open dashboard view,GO_TO
+take me to home section,GO_TO
+go to users list,GO_TO
+visit the admin panel,GO_TO
+move to reports tab,GO_TO
+switch to billing page,GO_TO
+open help section,GO_TO
+access settings,GO_TO
+go to the main,GO_TO
+navigate to main,GO_TO
+open main view,GO_TO
+take me to main,GO_TO
+go to main list,GO_TO
+visit the main panel,GO_TO
+move to main tab,GO_TO
+switch to main page,GO_TO
+open main section,GO_TO
+access main,GO_TO
+go to the options,GO_TO
+navigate to options,GO_TO
+open options view,GO_TO
+take me to options,GO_TO
+go to options list,GO_TO
+visit the options panel,GO_TO
+move to options tab,GO_TO
+switch to options page,GO_TO
+open options section,GO_TO
+access options,GO_TO
+go to the current,GO_TO
+navigate to current,GO_TO
+change current view,GO_TO
+take me to current,GO_TO
+go to current list,GO_TO
+visit the current panel,GO_TO
+move to current tab,GO_TO
+switch to current page,GO_TO
+open current section,GO_TO
+access current,GO_TO
+go to the active,GO_TO
+navigate to active,GO_TO
+open active view,GO_TO
+take me to active,GO_TO
+go to active list,GO_TO
+visit the active panel,GO_TO
+move to active tab,GO_TO
+switch to active page,GO_TO
+open active section,GO_TO
+access active,GO_TO
+go to the selected,GO_TO
+navigate to selected,GO_TO
+open selected view,GO_TO
+take me to selected,GO_TO
+go to selected list,GO_TO
+visit the selected panel,GO_TO
+move to selected tab,GO_TO
+switch to selected page,GO_TO
+open selected section,GO_TO
+access selected,GO_TO
+go to the item,GO_TO
+navigate to item,GO_TO
+open item view,GO_TO
+take me to item,GO_TO
+go to item list,GO_TO
+visit the item panel,GO_TO
+move to item tab,GO_TO
+switch to item page,GO_TO
+open item section,GO_TO
+access item,GO_TO
+go to the record,GO_TO
+navigate to record,GO_TO
+open record view,GO_TO
+take me to record,GO_TO
+go to record list,GO_TO
+visit the record panel,GO_TO
+move to record tab,GO_TO
+switch to record page,GO_TO
+open record section,GO_TO
+access record,GO_TO
+go to the object,GO_TO
+navigate to object,GO_TO
+open object view,GO_TO
+take me to object,GO_TO
+go to object list,GO_TO
+visit the object panel,GO_TO
+move to object tab,GO_TO
+switch to object page,GO_TO
+open object section,GO_TO
+access object,GO_TO
+go to the entry,GO_TO
+navigate to entry,GO_TO
+open entry view,GO_TO
+take me to entry,GO_TO
+go to entry list,GO_TO
+visit the entry panel,GO_TO
+move to entry tab,GO_TO
+switch to entry page,GO_TO
+open entry section,GO_TO
+access entry,GO_TO
+open the next page,GO_TO
+go to home,GO_TO
+switch to main tab,GO_TO
+navigate to settings,GO_TO
+move to previous screen,GO_TO
+take me to dashboard,GO_TO
+open the first tab,GO_TO
+go to next section,GO_TO
+show me the home page,GO_TO
+switch screens,GO_TO
+jump to another tab,GO_TO
+move forward,GO_TO
+navigate back,GO_TO
+take me to another section,GO_TO
+switch to the start page,GO_TO
+open the default view,GO_TO
+go to top menu,GO_TO
+show main screen,GO_TO
+open the welcome page,GO_TO
+navigate to options,GO_TO
+jump to next screen,GO_TO
+take me back,GO_TO
+move to home,GO_TO
+go to previous tab,GO_TO
+switch to another view,GO_TO
+navigate to main,GO_TO
+take me to overview,GO_TO
+open new section,GO_TO
+move to another page,GO_TO
+show me previous screen,GO_TO
+go back to main view,GO_TO
+switch tabs,GO_TO
+go forward,GO_TO
+open next view,GO_TO
+navigate to main screen,GO_TO
+take me to options,GO_TO
+move to the front page,GO_TO
+switch to page two,GO_TO
+open another section,GO_TO
+show me the default tab,GO_TO
+go to the upper level,GO_TO
+navigate home,GO_TO
+move back one page,GO_TO
+open a different tab,GO_TO
+take me to tab one,GO_TO
+switch over to next view,GO_TO
+go to main area,GO_TO
+show previous view,GO_TO
+jump to another screen,GO_TO
+open another view,GO_TO
+move to main menu,GO_TO
+go to second screen,GO_TO
+navigate to home screen,GO_TO
+take me to root,GO_TO
+open a new tab,GO_TO
+switch to previous page,GO_TO
+show me the main page,GO_TO
+go to another section,GO_TO
+move to options,GO_TO
+navigate to first screen,GO_TO
+open main,GO_TO
+switch back,GO_TO
+take me to menu,GO_TO
+show next page,GO_TO
+go to default view,GO_TO
+move ahead,GO_TO
+open overview,GO_TO
+switch to start screen,GO_TO
+navigate to another tab,GO_TO
+take me to next view,GO_TO
+show me the next tab,GO_TO
+go to next page,GO_TO
+move to main section,GO_TO
+navigate up one level,GO_TO
+open another page,GO_TO
+switch to the next one,GO_TO
+go back to previous screen,GO_TO
+take me to next section,GO_TO
+show main tab,GO_TO
+move to start view,GO_TO
+navigate between tabs,GO_TO
+open previous section,GO_TO
+switch to section two,GO_TO
+go to previous page,GO_TO
+take me to tab two,GO_TO
+show me the next view,GO_TO
+move to second page,GO_TO
+navigate to the overview,GO_TO
+open home tab,GO_TO
+switch to main area,GO_TO
+go to main screen,GO_TO
+take me to start,GO_TO
+show previous tab,GO_TO
+move to the next one,GO_TO
+navigate to another screen,GO_TO
+open first view,GO_TO
+switch to another section,GO_TO
+go to another view,GO_TO
+take me to the upper view,GO_TO
+show me the first page,GO_TO
+move forward one step,GO_TO
+navigate through pages,GO_TO
+open next tab,GO_TO
+switch to another area,GO_TO
+go to the main tab,GO_TO
+take me to the top page,GO_TO
+show next screen,GO_TO
+move between pages,GO_TO
+navigate to first page,GO_TO
+open another window,GO_TO
+switch to next menu,GO_TO
+go to another panel,GO_TO
+take me back to start,GO_TO
+show previous screen,GO_TO
+move ahead one page,GO_TO
+navigate next,GO_TO
+open main tab,GO_TO
+switch to another layout,GO_TO
+go to previous screen,GO_TO
+take me to new view,GO_TO
+show me home,GO_TO
+move to previous level,GO_TO
+navigate to root,GO_TO
+open section one,GO_TO
+switch to tab three,GO_TO
+go to start,GO_TO
+take me to next tab,GO_TO
+show me the main screen,GO_TO
+move one page ahead,GO_TO
+navigate to previous tab,GO_TO
+open another menu,GO_TO
+switch to another page,GO_TO
+go to previous view,GO_TO
+take me to next page,GO_TO
+show me the top view,GO_TO
+move between screens,GO_TO
+navigate to new section,GO_TO
+open new tab,GO_TO
+switch to second tab,GO_TO
+go to another window,GO_TO
+take me to the overview page,GO_TO
+show me the first tab,GO_TO
+move back to start,GO_TO
+navigate to next level,GO_TO
+open default page,GO_TO
+switch to new section,GO_TO
+go to first screen,GO_TO
+take me to top,GO_TO
+show me another page,GO_TO
+move ahead to next,GO_TO
+navigate to top screen,GO_TO
+open another interface,GO_TO
+switch to next tab,GO_TO
+go to root,GO_TO
+take me to page one,GO_TO
+show next view,GO_TO
+move to another level,GO_TO
+navigate to another area,GO_TO
+open new view,GO_TO
+switch to the default page,GO_TO
+go to another part,GO_TO
+take me to main page,GO_TO
+show me default view,GO_TO
+move to next window,GO_TO
+navigate to start page,GO_TO
+open first tab,GO_TO
+switch to upper tab,GO_TO
+go to second page,GO_TO
+take me to the main area,GO_TO
+show main view,GO_TO
+move up a level,GO_TO
+navigate to tab one,GO_TO
+open another screen,GO_TO
+switch to another window,GO_TO
+go to top screen,GO_TO
+take me to another page,GO_TO
+show me another section,GO_TO
+move forward to next tab,GO_TO
+navigate to previous section,GO_TO
+open new window,GO_TO
+switch to section one,GO_TO
+go to next view,GO_TO
+take me to default section,GO_TO
+show me start page,GO_TO
+move between tabs,GO_TO
+navigate to another view,GO_TO
+open the second tab,GO_TO
+switch to a new page,GO_TO
+go to another menu,GO_TO
+take me to previous page,GO_TO
+show first screen,GO_TO
+move to start section,GO_TO
+navigate to main area,GO_TO
+open a new page,GO_TO
+switch to tab two,GO_TO
+go to the next screen,GO_TO
+take me to another window,GO_TO
+show next tab,GO_TO
+move to the main screen,GO_TO
+navigate to new tab,GO_TO
+open another layer,GO_TO
+switch to upper screen,GO_TO
+go to another tab,GO_TO
+take me to the next area,GO_TO
+show previous page,GO_TO
+move up,GO_TO
+navigate forward,GO_TO
+open another interface window,GO_TO
+switch to first tab,GO_TO
+go to another screen,GO_TO
+take me to home screen,GO_TO
+show next section,GO_TO
+move one tab ahead,GO_TO
+navigate to the main view,GO_TO
+open next page,GO_TO
+switch between tabs,GO_TO
+go to top view,GO_TO
+take me to another area,GO_TO
+show next window,GO_TO
+move ahead to another page,GO_TO
+navigate to tab two,GO_TO
+open next section,GO_TO
+switch to main page,GO_TO
+go to a different section,GO_TO
+take me to another view,GO_TO
+show me the second screen,GO_TO
+move to next part,GO_TO
+navigate to previous page,GO_TO
+open another level,GO_TO
+switch to next area,GO_TO
+go to next tab,GO_TO
+take me to another layer,GO_TO
+show me the second tab,GO_TO
+move back to previous,GO_TO
+navigate up,GO_TO
+open another part,GO_TO
+switch to next window,GO_TO
+go to different tab,GO_TO
+take me to next window,GO_TO
+show me next screen,GO_TO
+move to another panel,GO_TO
+navigate to previous window,GO_TO
+open top page,GO_TO
+switch to next screen,GO_TO
+go to another view page,GO_TO
+take me to the next tab,GO_TO
+show me another area,GO_TO
+move to next section,GO_TO
+navigate down,GO_TO
+open another view screen,GO_TO
+switch to a new tab,GO_TO
+go to main view,GO_TO
+take me to the next view,GO_TO
+show next page in line,GO_TO
+move forward one screen,GO_TO
+navigate to another level,GO_TO
+open the next window,GO_TO
+switch to another layer,GO_TO
+go to another place,GO_TO
+take me to default page,GO_TO
+show previous tab again,GO_TO
+move between views,GO_TO
+navigate to the main tab,GO_TO
+open a new section,GO_TO
+switch to the following page,GO_TO
+go to next item view,GO_TO
+take me to start page,GO_TO
+show me another tab,GO_TO
+move to another screen page,GO_TO
+navigate to another part,GO_TO
+open the following tab,GO_TO
+switch to another window page,GO_TO
+go to the following section,GO_TO
+take me to next one,GO_TO
+show me the next area,GO_TO
+move one section forward,GO_TO
+navigate to another item,GO_TO
+open the upper view,GO_TO
+switch to a different section,GO_TO
+go to following tab,GO_TO
+take me to another segment,GO_TO
+show me another view,GO_TO
+move forward to next view,GO_TO
+navigate to next area,GO_TO
+open another view tab,GO_TO
+switch to the following window,GO_TO
+go to another layout,GO_TO
+take me to next display,GO_TO
+show me the next one,GO_TO
+move ahead to new section,GO_TO
+navigate to another layout,GO_TO
+open next area,GO_TO
+switch to upper view,GO_TO
+go to the next one,GO_TO
+take me to another page level,GO_TO
+show me new tab,GO_TO
+move ahead to following tab,GO_TO
+navigate to another interface,GO_TO
+open another area,GO_TO
+switch between sections,GO_TO
+go to new screen,GO_TO
+take me to a different view,GO_TO
+show me next section again,GO_TO
+move ahead through pages,GO_TO
+navigate to following screen,GO_TO
+open another panel,GO_TO
+switch to next interface,GO_TO
+go to different window,GO_TO
+take me to another tab,GO_TO
+show me next panel,GO_TO
+move ahead to next window,GO_TO
+navigate through screens,GO_TO
+open new area,GO_TO
+switch to a different tab,GO_TO
+go to another screen view,GO_TO
+take me to next interface,GO_TO
+show me next window,GO_TO
+move one screen ahead,GO_TO
+navigate across tabs,GO_TO
+open next display,GO_TO
+switch to another screen view,GO_TO
+go to another tab level,GO_TO
+take me to new tab view,GO_TO
+show me next view window,GO_TO
+move across pages,GO_TO
+navigate to another display,GO_TO
+open next layer,GO_TO
+switch forward,GO_TO
+go to following view,GO_TO
+take me to another section view,GO_TO
+show next tab view,GO_TO
+move to next page window,GO_TO
+navigate to another zone,GO_TO
+open next tab window,GO_TO
+switch to another region,GO_TO
+go to another part of the app,GO_TO
+take me to next area view,GO_TO
+show me next section window,GO_TO
+move to next region,GO_TO
+navigate forward to page,GO_TO
+open another view window,GO_TO
+switch to next layout,GO_TO
+go to another zone,GO_TO
+take me to another section tab,GO_TO
+show next screen view,GO_TO
+move to another window view,GO_TO
+navigate next in sequence,GO_TO
+open another layout,GO_TO
+switch to a new view tab,GO_TO
+go to next zone,GO_TO
+take me to another page view,GO_TO
+show next interface,GO_TO
+move forward through screens,GO_TO
+navigate ahead,GO_TO
+open next part,GO_TO
+switch to next tab view,GO_TO
+go to new interface,GO_TO
+take me to another screen layout,GO_TO
+show me another window tab,GO_TO
+move between sections,GO_TO
+navigate across pages,GO_TO
+open next section view,GO_TO
+switch to a new layer,GO_TO
+go to following screen,GO_TO
+take me to next page layout,GO_TO
+show me the next part,GO_TO
+move forward through tabs,GO_TO
+navigate between screens,GO_TO
+open next interface,GO_TO
+switch to another level,GO_TO
+go to another interface,GO_TO
+take me to next section,GO_TO
+show me next screen view,GO_TO
+move forward across pages,GO_TO
+navigate to next interface,GO_TO
+open next window view,GO_TO
+switch to next page view,GO_TO
+go to next section view,GO_TO
+take me to another level view,GO_TO
+show me next view tab,GO_TO
+move across screens,GO_TO
+navigate ahead to next,GO_TO
+open another display,GO_TO
+switch to next region,GO_TO
+go to next layout,GO_TO
+take me to another tab view,GO_TO
+show next page view,GO_TO
+move ahead through sections,GO_TO
+navigate to another screen layer,GO_TO
+open next section window,GO_TO
+switch to another page view,GO_TO
+go to another window layout,GO_TO
+take me to next layer view,GO_TO
+show me another interface,GO_TO
+move to next display,GO_TO
+navigate to another screen view,GO_TO
+open next region,GO_TO
+switch to following interface,GO_TO
+go to another layout view,GO_TO
+take me to next region,GO_TO
+show me next window view,GO_TO
+move to next area view,GO_TO
+navigate forward again,GO_TO
+open another screen tab,GO_TO
+switch to another display,GO_TO
+go to another screen window,GO_TO
+take me to next display,GO_TO
+show me another layer,GO_TO
+move to next tab view,GO_TO
+navigate between layers,GO_TO
+open next screen layer,GO_TO
+switch to next view layout,GO_TO
+go to another window view,GO_TO
+take me to next interface view,GO_TO
+show me next layout,GO_TO
+move ahead to another display,GO_TO
+navigate to next region view,GO_TO
+open another layer view,GO_TO
+switch to following screen,GO_TO
+go to another view layout,GO_TO
+take me to next layout,GO_TO
+show me another screen view,GO_TO
+move forward to another region,GO_TO
+navigate through layers,GO_TO
+open next view,GO_TO
+switch to another interface view,GO_TO
+go to another display layer,GO_TO
+take me to next display window,GO_TO
+show next layout view,GO_TO
+move ahead to next display,GO_TO
+navigate between regions,GO_TO
+open another window layout,GO_TO
+switch to next window view,GO_TO
+go to next screen layer,GO_TO
+take me to next layout view,GO_TO
+show me another region view,GO_TO
+move to next window layer,GO_TO
+navigate across displays,GO_TO
+open another tab view,GO_TO
+switch to next tab layer,GO_TO
+go to another screen layout,GO_TO
+take me to next view layout,GO_TO
+show next region view,GO_TO
+move to next display layer,GO_TO
+navigate across views,GO_TO
+open next layout view,GO_TO
+switch to next interface layout,GO_TO
+go to another interface layer,GO_TO
+take me to next window layout,GO_TO
+show me next display view,GO_TO
+move forward through regions,GO_TO
+navigate to next layer view,GO_TO
+open another interface layer,GO_TO
+switch to next layout view,GO_TO
+go to next display layout,GO_TO
+take me to another screen region,GO_TO
+show me next view layout,GO_TO
+move to next layout view,GO_TO
+navigate to next window layer,GO_TO
+open next display region,GO_TO
+switch to next display layout,GO_TO
+go to another layer view,GO_TO
+take me to next region layout,GO_TO
+show next interface view,GO_TO
+move ahead to another layout,GO_TO
+navigate to next region layout,GO_TO
+open another view layout,GO_TO
+switch to another region view,GO_TO
+go to next view layer,GO_TO
+take me to next screen region,GO_TO
+show next window layout,GO_TO
+move to next region layout,GO_TO
+navigate between displays,GO_TO
+open another screen region,GO_TO
+switch to next region layout,GO_TO
+go to another layout layer,GO_TO
+take me to next display region,GO_TO
+show me next interface layout,GO_TO
+move ahead through regions,GO_TO
+navigate across layers,GO_TO
+open next display layout,GO_TO
+switch to another region layout,GO_TO
+go to next layout layer,GO_TO
+take me to next interface layout,GO_TO
+show me another display layout,GO_TO
+move to next screen layout,GO_TO
+navigate to next tab layout,GO_TO
+open another layout layer,GO_TO
+switch to next screen layout,GO_TO
+go to another interface region,GO_TO
+take me to next view region,GO_TO
+show next display layout,GO_TO
+move forward to next layout,GO_TO
+navigate through displays,GO_TO
+open next interface layout,GO_TO
+switch to next display region,GO_TO
+go to next screen region,GO_TO
+take me to next layout region,GO_TO
+show me another interface region,GO_TO
+move to next layout region,GO_TO
+navigate to next display region,GO_TO
+open another region layout,GO_TO
+switch to next layout region,GO_TO
+go to next interface region,GO_TO
+take me to another layout region,GO_TO
+show me next screen layout,GO_TO
+move ahead through layers,GO_TO
+navigate to next region layer,GO_TO
+open next region layout,GO_TO
+switch to next display layer,GO_TO
+go to next view region,GO_TO
+take me to next screen layout,GO_TO
+show next layout region,GO_TO
+move to next region layer,GO_TO
+navigate to next layout layer,GO_TO
+open another display region,GO_TO
+switch to next region layer,GO_TO
+go to next layout region,GO_TO
+take me to next display layer,GO_TO
+show next interface region,GO_TO
+move forward through layers,GO_TO
+navigate to next screen layer,GO_TO
+open next layout region,GO_TO
+switch to next view region,GO_TO
+go to another display layout,GO_TO
+take me to next interface region,GO_TO
+show me next layout layer,GO_TO
+move to next screen layer,GO_TO
+navigate across regions,GO_TO
+open next layout layer,GO_TO
+switch to next region view,GO_TO
+go to another layout region,GO_TO
+take me to next display view,GO_TO
+show next layout layer,GO_TO
+move ahead to next region,GO_TO
+navigate to next layout region,GO_TO
+open next interface region,GO_TO
+switch to next display view,GO_TO
+go to next region layer,GO_TO
+take me to next layout region,GO_TO
+show next screen region,GO_TO
+move to next display layout,GO_TO
+navigate between regions,GO_TO
+open next region layer,GO_TO
+switch to next layout layer,GO_TO
+go to next display region,GO_TO
+take me to next screen region,GO_TO
+show next interface layer,GO_TO
+move to next layout view,GO_TO
+navigate to next display layout,GO_TO
+open next screen region,GO_TO
+switch to next layout layer,GO_TO

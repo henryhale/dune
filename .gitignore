@@ -1,0 +1,56 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+.egg-info/
+
+# models and data
+*.pkl*
+*.joblib*
+*.onnx*
+*.augmented.*
+*.testing.*
+*.training.*
+data/*.json
+
+# ide
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# env
+.env
+.env.local
+
+# logs
+.log
+logs/
+
+# testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# misc
+*.zip
+*.tar.gz
+todo
+old
+dataset.csv
+
+# js
+node_modules
+.vite

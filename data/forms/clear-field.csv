@@ -1,0 +1,201 @@
+text,label
+Empty input,CLEAR_FIELD
+Clear text,CLEAR_FIELD
+Reset field,CLEAR_FIELD
+Wipe input,CLEAR_FIELD
+Delete input,CLEAR_FIELD
+Clear form field,CLEAR_FIELD
+Remove text,CLEAR_FIELD
+Zero out input,CLEAR_FIELD
+Clear current input,CLEAR_FIELD
+Erase field,CLEAR_FIELD
+Blank input,CLEAR_FIELD
+Clear the field,CLEAR_FIELD
+Reset text,CLEAR_FIELD
+Wipe field,CLEAR_FIELD
+Delete text,CLEAR_FIELD
+Clear this input,CLEAR_FIELD
+Remove current text,CLEAR_FIELD
+Empty the input,CLEAR_FIELD
+Clear the input box,CLEAR_FIELD
+Erase text,CLEAR_FIELD
+Blank field,CLEAR_FIELD
+Clear form input,CLEAR_FIELD
+Reset current input,CLEAR_FIELD
+Wipe the field,CLEAR_FIELD
+Delete field,CLEAR_FIELD
+Clear all input,CLEAR_FIELD
+Remove field content,CLEAR_FIELD
+Empty text field,CLEAR_FIELD
+Clear entry,CLEAR_FIELD
+Erase current input,CLEAR_FIELD
+Blank out input,CLEAR_FIELD
+Clear text field,CLEAR_FIELD
+Reset the input,CLEAR_FIELD
+Wipe current input,CLEAR_FIELD
+Delete current input,CLEAR_FIELD
+Clear active input,CLEAR_FIELD
+Remove all text,CLEAR_FIELD
+Empty the field,CLEAR_FIELD
+Clear the entry,CLEAR_FIELD
+Erase all input,CLEAR_FIELD
+Blank this field,CLEAR_FIELD
+Clear input value,CLEAR_FIELD
+Reset the field,CLEAR_FIELD
+Wipe text,CLEAR_FIELD
+Delete entry,CLEAR_FIELD
+Clear specific input,CLEAR_FIELD
+Remove content,CLEAR_FIELD
+Empty current input,CLEAR_FIELD
+Clear form,CLEAR_FIELD
+Erase value,CLEAR_FIELD
+Blank text field,CLEAR_FIELD
+Clear field content,CLEAR_FIELD
+Reset entry,CLEAR_FIELD
+Wipe the input,CLEAR_FIELD
+Delete value,CLEAR_FIELD
+Clear input box,CLEAR_FIELD
+Remove input,CLEAR_FIELD
+Empty the text,CLEAR_FIELD
+Clear current field,CLEAR_FIELD
+Erase the field,CLEAR_FIELD
+Blank out field,CLEAR_FIELD
+Clear previous input,CLEAR_FIELD
+Reset form field,CLEAR_FIELD
+Wipe out input,CLEAR_FIELD
+Delete this input,CLEAR_FIELD
+Clear this field,CLEAR_FIELD
+Remove text from field,CLEAR_FIELD
+Empty selected field,CLEAR_FIELD
+Clear the value,CLEAR_FIELD
+Erase the input,CLEAR_FIELD
+Blank the field,CLEAR_FIELD
+Clear form data,CLEAR_FIELD
+Reset form input,CLEAR_FIELD
+Wipe the text,CLEAR_FIELD
+Delete text from field,CLEAR_FIELD
+Clear entered text,CLEAR_FIELD
+Remove all content,CLEAR_FIELD
+Empty the box,CLEAR_FIELD
+Clear everything in input,CLEAR_FIELD
+Erase form field,CLEAR_FIELD
+Blank the input,CLEAR_FIELD
+Clear the current input,CLEAR_FIELD
+Reset field content,CLEAR_FIELD
+Wipe out field,CLEAR_FIELD
+Delete all input,CLEAR_FIELD
+Clear the input,CLEAR_FIELD
+Remove text input,CLEAR_FIELD
+Empty the text box,CLEAR_FIELD
+Clear entire field,CLEAR_FIELD
+Erase text input,CLEAR_FIELD
+Blank the text,CLEAR_FIELD
+Clear the data,CLEAR_FIELD
+Reset the form,CLEAR_FIELD
+Wipe out text,CLEAR_FIELD
+Delete all text,CLEAR_FIELD
+Clear entry in field,CLEAR_FIELD
+Clear input,CLEAR_FIELD
+Clear field,CLEAR_FIELD
+Reset input,CLEAR_FIELD
+Erase input,CLEAR_FIELD
+clear the input field,CLEAR_FIELD
+empty the text box,CLEAR_FIELD
+remove content from search,CLEAR_FIELD
+clear all text in field,CLEAR_FIELD
+erase the entry,CLEAR_FIELD
+wipe the field,CLEAR_FIELD
+reset the input,CLEAR_FIELD
+clear form field,CLEAR_FIELD
+delete field content,CLEAR_FIELD
+blank the field,CLEAR_FIELD
+clear this field,CLEAR_FIELD
+empty this box,CLEAR_FIELD
+remove all content,CLEAR_FIELD
+clear text in box,CLEAR_FIELD
+erase current entry,CLEAR_FIELD
+wipe this field,CLEAR_FIELD
+reset this input,CLEAR_FIELD
+clear this form,CLEAR_FIELD
+delete this content,CLEAR_FIELD
+blank this area,CLEAR_FIELD
+clear current,CLEAR_FIELD
+empty current,CLEAR_FIELD
+remove current,CLEAR_FIELD
+clear input,CLEAR_FIELD
+erase current,CLEAR_FIELD
+wipe current,CLEAR_FIELD
+reset current,CLEAR_FIELD
+clear form,CLEAR_FIELD
+delete content,CLEAR_FIELD
+blank current,CLEAR_FIELD
+clear the entry,CLEAR_FIELD
+empty the entry,CLEAR_FIELD
+remove the entry,CLEAR_FIELD
+clear the entry field,CLEAR_FIELD
+erase the input,CLEAR_FIELD
+wipe the input,CLEAR_FIELD
+reset the entry,CLEAR_FIELD
+clear the form,CLEAR_FIELD
+delete the content,CLEAR_FIELD
+blank the entry,CLEAR_FIELD
+clear the input now,CLEAR_FIELD
+empty the text now,CLEAR_FIELD
+remove content now,CLEAR_FIELD
+clear all text now,CLEAR_FIELD
+erase the input now,CLEAR_FIELD
+wipe the field now,CLEAR_FIELD
+reset the input now,CLEAR_FIELD
+clear form now,CLEAR_FIELD
+delete field now,CLEAR_FIELD
+blank the field now,CLEAR_FIELD
+clear my field,CLEAR_FIELD
+empty my text,CLEAR_FIELD
+remove my content,CLEAR_FIELD
+clear my text,CLEAR_FIELD
+erase my entry,CLEAR_FIELD
+wipe my field,CLEAR_FIELD
+reset my input,CLEAR_FIELD
+clear my form,CLEAR_FIELD
+delete my content,CLEAR_FIELD
+blank my field,CLEAR_FIELD
+clear this input,CLEAR_FIELD
+empty this input,CLEAR_FIELD
+remove this input,CLEAR_FIELD
+clear this text,CLEAR_FIELD
+erase this input,CLEAR_FIELD
+wipe this input,CLEAR_FIELD
+reset this input,CLEAR_FIELD
+clear this form field,CLEAR_FIELD
+delete this field content,CLEAR_FIELD
+blank this field,CLEAR_FIELD
+clear the box,CLEAR_FIELD
+empty the box,CLEAR_FIELD
+remove the box,CLEAR_FIELD
+clear the text,CLEAR_FIELD
+erase the box,CLEAR_FIELD
+wipe the box,CLEAR_FIELD
+reset the box,CLEAR_FIELD
+clear the text box,CLEAR_FIELD
+delete the box,CLEAR_FIELD
+blank the box,CLEAR_FIELD
+clear my input,CLEAR_FIELD
+empty my input,CLEAR_FIELD
+remove my input,CLEAR_FIELD
+clear my text input,CLEAR_FIELD
+erase my input now,CLEAR_FIELD
+wipe my input now,CLEAR_FIELD
+reset my input now,CLEAR_FIELD
+clear my form now,CLEAR_FIELD
+delete my content now,CLEAR_FIELD
+blank my field now,CLEAR_FIELD
+clear current input,CLEAR_FIELD
+empty current input,CLEAR_FIELD
+remove current input,CLEAR_FIELD
+clear current text,CLEAR_FIELD
+erase current input,CLEAR_FIELD
+wipe current input,CLEAR_FIELD
+reset current input,CLEAR_FIELD
+clear current form,CLEAR_FIELD
+delete current content,CLEAR_FIELD
+blank current input,CLEAR_FIELD

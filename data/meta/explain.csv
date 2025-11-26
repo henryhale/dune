@@ -1,0 +1,828 @@
+text,label
+Elaborate on the item,EXPLAIN
+What's the function of this?,EXPLAIN
+Clarify this command,EXPLAIN
+Describe the item,EXPLAIN
+Tell me about its purpose,EXPLAIN
+Can you explain the command?,EXPLAIN
+Give details about this,EXPLAIN
+How does it work?,EXPLAIN
+What's the meaning of this command?,EXPLAIN
+Provide an explanation,EXPLAIN
+What purpose does this serve?,EXPLAIN
+Explain the given command,EXPLAIN
+Go into detail,EXPLAIN
+What does this particular item do?,EXPLAIN
+Tell me more about this command,EXPLAIN
+Unpack the item,EXPLAIN
+How is this used?,EXPLAIN
+Can you elaborate on this command?,EXPLAIN
+Define the item,EXPLAIN
+What's its utility?,EXPLAIN
+Describe the function of this command,EXPLAIN
+Give me the breakdown,EXPLAIN
+What's the purpose of this thing?,EXPLAIN
+Provide information on this command,EXPLAIN
+Clarify the item,EXPLAIN
+Tell me about its operation,EXPLAIN
+Explain the specifics of this command,EXPLAIN
+Expand on this,EXPLAIN
+What is the effect of this?,EXPLAIN
+What's the meaning of this operation?,EXPLAIN
+Break down the item,EXPLAIN
+How does this mechanism function?,EXPLAIN
+Clarify the usage of this command,EXPLAIN
+Shed light on this,EXPLAIN
+What exactly does this perform?,EXPLAIN
+Give an overview of this command,EXPLAIN
+Explain the concept,EXPLAIN
+What's the principle behind it?,EXPLAIN
+Detail this specific command,EXPLAIN
+Illustrate the item,EXPLAIN
+How can this be applied?,EXPLAIN
+What does this command imply?,EXPLAIN
+Demystify this,EXPLAIN
+What is the objective of this?,EXPLAIN
+Elucidate this command,EXPLAIN
+Walk me through the item,EXPLAIN
+What does this accomplish?,EXPLAIN
+Can you define this command for me?,EXPLAIN
+Provide context for this,EXPLAIN
+What's the role of this?,EXPLAIN
+Give me the full explanation of this command,EXPLAIN
+Interpret the item,EXPLAIN
+How does this feature work?,EXPLAIN
+What is the idea behind this command?,EXPLAIN
+Explicate this,EXPLAIN
+What does this contribute?,EXPLAIN
+Explain the mechanics of this command,EXPLAIN
+Enlighten me about the item,EXPLAIN
+What's its significance?,EXPLAIN
+Tell me the purpose of this command,EXPLAIN
+Dissect this,EXPLAIN
+How does this operate?,EXPLAIN
+What is the aim of this command?,EXPLAIN
+Flesh out the item,EXPLAIN
+What are its capabilities?,EXPLAIN
+Explain the implications of this command,EXPLAIN
+Render an explanation,EXPLAIN
+What's its function?,EXPLAIN
+Can you interpret this command?,EXPLAIN
+Explain the details,EXPLAIN
+What is its use case?,EXPLAIN
+Tell me how this command is executed,EXPLAIN
+What does this signify?,EXPLAIN
+How is this activated?,EXPLAIN
+Describe the action of this command,EXPLAIN
+Give a comprehensive explanation,EXPLAIN
+What is the intent of this?,EXPLAIN
+Explain the command's behavior,EXPLAIN
+Provide insights into the item,EXPLAIN
+What does this entity do?,EXPLAIN
+Can you provide examples for this command?,EXPLAIN
+Justify the item,EXPLAIN
+How can this be utilized?,EXPLAIN
+What is the function of the specific command?,EXPLAIN
+Explain fully,EXPLAIN
+What effects does this have?,EXPLAIN
+Break down this command for me,EXPLAIN
+Tell me about the item's purpose,EXPLAIN
+What are the functionalities?,EXPLAIN
+Explain the command thoroughly,EXPLAIN
+Give a description of the item,EXPLAIN
+What is the meaning here?,EXPLAIN
+Provide a detailed explanation for this command,EXPLAIN
+Make sense of this,EXPLAIN
+What does it mean to do?,EXPLAIN
+Clarify the function of this command,EXPLAIN
+Explain item,EXPLAIN
+What does it do,EXPLAIN
+Explain that command,EXPLAIN
+How do i do that?,EXPLAIN
+explain this,EXPLAIN
+what does this mean,EXPLAIN
+how does it work,EXPLAIN
+tell me about item x,EXPLAIN
+explain the function,EXPLAIN
+what is this for,EXPLAIN
+clarify this please,EXPLAIN
+describe this,EXPLAIN
+show me purpose,EXPLAIN
+give me details,EXPLAIN
+explain current,EXPLAIN
+what is the reason,EXPLAIN
+how is this done,EXPLAIN
+tell me its use,EXPLAIN
+explain that option,EXPLAIN
+what does this feature do,EXPLAIN
+clarify the process,EXPLAIN
+describe the item,EXPLAIN
+show me its function,EXPLAIN
+give me explanation,EXPLAIN
+explain the term,EXPLAIN
+what is its purpose,EXPLAIN
+how does this happen,EXPLAIN
+tell me how this works,EXPLAIN
+explain this concept,EXPLAIN
+what is its role,EXPLAIN
+clarify the action,EXPLAIN
+describe the function,EXPLAIN
+show me the meaning,EXPLAIN
+give me clarification,EXPLAIN
+explain the process,EXPLAIN
+what does it represent,EXPLAIN
+how can this be,EXPLAIN
+tell me the meaning,EXPLAIN
+explain this feature,EXPLAIN
+what is the use,EXPLAIN
+clarify the usage,EXPLAIN
+describe the concept,EXPLAIN
+show me its purpose,EXPLAIN
+give me some insight,EXPLAIN
+explain the item,EXPLAIN
+what does it symbolize,EXPLAIN
+how does this operate,EXPLAIN
+tell me its purpose,EXPLAIN
+explain this action,EXPLAIN
+what is the function,EXPLAIN
+clarify the term,EXPLAIN
+describe the feature,EXPLAIN
+show me its use,EXPLAIN
+give me understanding,EXPLAIN
+explain the object,EXPLAIN
+what is it about,EXPLAIN
+how does this perform,EXPLAIN
+tell me the operation,EXPLAIN
+explain this setting,EXPLAIN
+what is the role,EXPLAIN
+clarify the function,EXPLAIN
+describe the action,EXPLAIN
+show me its role,EXPLAIN
+give me further details,EXPLAIN
+explain the selection,EXPLAIN
+what does this signify,EXPLAIN
+how is this utilized,EXPLAIN
+tell me its importance,EXPLAIN
+explain this component,EXPLAIN
+what is its significance,EXPLAIN
+clarify the object,EXPLAIN
+describe the item,EXPLAIN
+show me its meaning now,EXPLAIN
+give me more info,EXPLAIN
+explain the current,EXPLAIN
+what is the point,EXPLAIN
+how does this work now,EXPLAIN
+tell me its purpose now,EXPLAIN
+explain the highlighted,EXPLAIN
+what does the feature,EXPLAIN
+clarify the highlighted,EXPLAIN
+describe the selected,EXPLAIN
+show me the details,EXPLAIN
+give me full explanation,EXPLAIN
+explain this section,EXPLAIN
+what is this element,EXPLAIN
+how does this system,EXPLAIN
+tell me about the object,EXPLAIN
+explain this part,EXPLAIN
+what is the detail,EXPLAIN
+clarify the element,EXPLAIN
+describe the section,EXPLAIN
+show me the specifics,EXPLAIN
+give me a brief,EXPLAIN
+explain the current view,EXPLAIN
+what is this thing,EXPLAIN
+how does this module,EXPLAIN
+tell me about it,EXPLAIN
+explain what this is,EXPLAIN
+what is its function now,EXPLAIN
+clarify this element,EXPLAIN
+describe this object,EXPLAIN
+show me the meaning of this,EXPLAIN
+give me the lowdown,EXPLAIN
+what does this mean,EXPLAIN
+explain that command,EXPLAIN
+can you explain this,EXPLAIN
+help me understand this,EXPLAIN
+tell me what this does,EXPLAIN
+describe this function,EXPLAIN
+what is this about,EXPLAIN
+what does it do,EXPLAIN
+can you clarify that,EXPLAIN
+explain this part,EXPLAIN
+give details on that,EXPLAIN
+what's the purpose of this,EXPLAIN
+what does that mean,EXPLAIN
+break this down,EXPLAIN
+explain how this works,EXPLAIN
+could you elaborate,EXPLAIN
+tell me what it means,EXPLAIN
+what does this refer to,EXPLAIN
+clarify this for me,EXPLAIN
+can you explain how,EXPLAIN
+make this clear,EXPLAIN
+i don't get this,EXPLAIN
+what is this for,EXPLAIN
+explain that step,EXPLAIN
+explain the process,EXPLAIN
+what does it represent,EXPLAIN
+help me grasp this,EXPLAIN
+what's the idea here,EXPLAIN
+describe what's happening,EXPLAIN
+what is that supposed to do,EXPLAIN
+explain in simple terms,EXPLAIN
+tell me more about that,EXPLAIN
+help me understand better,EXPLAIN
+what's the meaning here,EXPLAIN
+explain what's going on,EXPLAIN
+how does this work,EXPLAIN
+can you expand on that,EXPLAIN
+walk me through this,EXPLAIN
+give me an explanation,EXPLAIN
+explain it better,EXPLAIN
+what does it signify,EXPLAIN
+what's the logic here,EXPLAIN
+tell me what happens,EXPLAIN
+explain this concept,EXPLAIN
+what's this function for,EXPLAIN
+help me make sense of this,EXPLAIN
+explain that feature,EXPLAIN
+what's that about,EXPLAIN
+what does this mean exactly,EXPLAIN
+explain step by step,EXPLAIN
+can you simplify this,EXPLAIN
+how does that work,EXPLAIN
+explain that line,EXPLAIN
+describe how this works,EXPLAIN
+tell me how it functions,EXPLAIN
+clarify the meaning of this,EXPLAIN
+explain this error,EXPLAIN
+explain the output,EXPLAIN
+what's this output mean,EXPLAIN
+explain this result,EXPLAIN
+explain what this command does,EXPLAIN
+why does this happen,EXPLAIN
+explain the difference,EXPLAIN
+can you interpret this,EXPLAIN
+explain that message,EXPLAIN
+what is this saying,EXPLAIN
+break down this statement,EXPLAIN
+tell me what this option means,EXPLAIN
+explain how it behaves,EXPLAIN
+walk me through how this works,EXPLAIN
+help me understand that part,EXPLAIN
+describe its purpose,EXPLAIN
+what's the reasoning here,EXPLAIN
+explain that response,EXPLAIN
+what is being done here,EXPLAIN
+explain the logic,EXPLAIN
+what is it doing,EXPLAIN
+explain in detail,EXPLAIN
+can you define this,EXPLAIN
+tell me the purpose of that,EXPLAIN
+explain that code,EXPLAIN
+what's the intention here,EXPLAIN
+explain that section,EXPLAIN
+help me decode this,EXPLAIN
+what is the idea,EXPLAIN
+explain what's written,EXPLAIN
+tell me what's happening here,EXPLAIN
+give me the rationale,EXPLAIN
+what's going on in this part,EXPLAIN
+can you shed light on that,EXPLAIN
+explain what you mean,EXPLAIN
+what is the explanation,EXPLAIN
+tell me in plain words,EXPLAIN
+explain this statement,EXPLAIN
+i need clarification,EXPLAIN
+help me understand that command,EXPLAIN
+explain what this means to me,EXPLAIN
+what's this for exactly,EXPLAIN
+tell me what it stands for,EXPLAIN
+clarify this line,EXPLAIN
+what does this phrase mean,EXPLAIN
+explain that behavior,EXPLAIN
+what's this command about,EXPLAIN
+explain what you just said,EXPLAIN
+break that down for me,EXPLAIN
+tell me the reason behind this,EXPLAIN
+can you interpret that output,EXPLAIN
+explain the difference between these,EXPLAIN
+help me understand its meaning,EXPLAIN
+explain what it represents,EXPLAIN
+what's the intent behind this,EXPLAIN
+explain how it functions,EXPLAIN
+tell me what you mean by this,EXPLAIN
+what is the explanation for that,EXPLAIN
+explain that output result,EXPLAIN
+make me understand this,EXPLAIN
+can you tell me what's happening,EXPLAIN
+explain what's causing that,EXPLAIN
+clarify what this refers to,EXPLAIN
+what's the function of that,EXPLAIN
+please explain this command,EXPLAIN
+help me understand the logic,EXPLAIN
+explain this process step,EXPLAIN
+explain this code section,EXPLAIN
+explain the statement,EXPLAIN
+explain the reasoning,EXPLAIN
+tell me why this happens,EXPLAIN
+explain that example,EXPLAIN
+what's the difference here,EXPLAIN
+can you elaborate more,EXPLAIN
+explain why that occurs,EXPLAIN
+what's being done here,EXPLAIN
+explain this logic,EXPLAIN
+can you clarify the result,EXPLAIN
+explain how that works exactly,EXPLAIN
+explain this line of code,EXPLAIN
+explain this part of the program,EXPLAIN
+what does this part mean,EXPLAIN
+help me see what's happening,EXPLAIN
+explain in easy words,EXPLAIN
+explain that logic,EXPLAIN
+explain that block,EXPLAIN
+explain this phrase,EXPLAIN
+describe what this means,EXPLAIN
+tell me how this works step by step,EXPLAIN
+what does this do exactly,EXPLAIN
+help me make sense of that,EXPLAIN
+explain what's being shown,EXPLAIN
+can you tell me how that works,EXPLAIN
+explain this data,EXPLAIN
+what does that output tell us,EXPLAIN
+help me interpret this,EXPLAIN
+explain the difference clearly,EXPLAIN
+can you describe what happens,EXPLAIN
+explain what this code does,EXPLAIN
+help me see why this happens,EXPLAIN
+clarify the intention here,EXPLAIN
+can you tell me what that means,EXPLAIN
+explain what's wrong,EXPLAIN
+explain what this field is,EXPLAIN
+tell me what this is doing,EXPLAIN
+explain why it behaves that way,EXPLAIN
+clarify the meaning of that,EXPLAIN
+explain that logic clearly,EXPLAIN
+explain the goal of this,EXPLAIN
+help me understand the output,EXPLAIN
+explain the reasoning behind this,EXPLAIN
+what's this value for,EXPLAIN
+explain this function's purpose,EXPLAIN
+tell me what happens when i run this,EXPLAIN
+explain the behavior of that,EXPLAIN
+explain how this part works,EXPLAIN
+explain the structure of this,EXPLAIN
+tell me the reason for this output,EXPLAIN
+explain what causes that,EXPLAIN
+explain what the result shows,EXPLAIN
+help me see the reasoning,EXPLAIN
+explain that statement in detail,EXPLAIN
+what's this trying to show,EXPLAIN
+explain the cause of this,EXPLAIN
+help me understand its function,EXPLAIN
+can you break this down for me,EXPLAIN
+explain why this error occurs,EXPLAIN
+explain what this variable is,EXPLAIN
+explain that result clearly,EXPLAIN
+what's happening here,EXPLAIN
+explain what's happening step by step,EXPLAIN
+explain this term,EXPLAIN
+explain what this function returns,EXPLAIN
+help me interpret the results,EXPLAIN
+what's the purpose of that value,EXPLAIN
+explain this command syntax,EXPLAIN
+explain this to me clearly,EXPLAIN
+can you explain what's displayed,EXPLAIN
+tell me the meaning of that line,EXPLAIN
+explain what the user should know,EXPLAIN
+help me grasp what it means,EXPLAIN
+explain what's being done here,EXPLAIN
+what is the logic behind that,EXPLAIN
+explain this warning,EXPLAIN
+help me understand what it outputs,EXPLAIN
+explain what this error means,EXPLAIN
+what's this doing exactly,EXPLAIN
+can you elaborate on the concept,EXPLAIN
+explain the significance,EXPLAIN
+what's this showing,EXPLAIN
+can you make this clearer,EXPLAIN
+explain the meaning behind this,EXPLAIN
+help me interpret that,EXPLAIN
+explain this in your words,EXPLAIN
+tell me what that implies,EXPLAIN
+explain what's happening in the background,EXPLAIN
+explain why this is needed,EXPLAIN
+can you explain what went wrong,EXPLAIN
+help me figure out what this means,EXPLAIN
+what's the concept here,EXPLAIN
+explain the method used here,EXPLAIN
+explain this calculation,EXPLAIN
+tell me how it works internally,EXPLAIN
+explain the steps behind this,EXPLAIN
+explain what this statement implies,EXPLAIN
+help me get this,EXPLAIN
+explain why it's like that,EXPLAIN
+explain what you just did,EXPLAIN
+explain the principle here,EXPLAIN
+explain what it tries to do,EXPLAIN
+explain the reasoning of that part,EXPLAIN
+tell me what's behind this behavior,EXPLAIN
+explain what this means in context,EXPLAIN
+explain the concept more clearly,EXPLAIN
+help me understand this syntax,EXPLAIN
+what's the goal of that,EXPLAIN
+explain how this command functions,EXPLAIN
+explain this result to me,EXPLAIN
+what's the explanation for this,EXPLAIN
+explain the main idea,EXPLAIN
+tell me the key point,EXPLAIN
+explain what the result implies,EXPLAIN
+explain what that code section means,EXPLAIN
+help me understand the logic behind it,EXPLAIN
+explain that for me please,EXPLAIN
+explain that formula,EXPLAIN
+explain how this is calculated,EXPLAIN
+explain what happens in this case,EXPLAIN
+explain this function call,EXPLAIN
+explain what that function achieves,EXPLAIN
+tell me what this parameter does,EXPLAIN
+what's this referring to exactly,EXPLAIN
+explain that concept simply,EXPLAIN
+explain how this is structured,EXPLAIN
+help me get the logic,EXPLAIN
+explain why it gives this output,EXPLAIN
+explain how this is processed,EXPLAIN
+what's the rationale here,EXPLAIN
+explain the idea behind this,EXPLAIN
+tell me how this was derived,EXPLAIN
+explain this block of code,EXPLAIN
+help me see the flow,EXPLAIN
+explain what happens here,EXPLAIN
+explain this function's behavior,EXPLAIN
+explain what this symbol means,EXPLAIN
+tell me how it operates,EXPLAIN
+explain how this command works,EXPLAIN
+explain that portion,EXPLAIN
+help me understand what's shown,EXPLAIN
+explain this entire part,EXPLAIN
+explain this logic step by step,EXPLAIN
+can you explain this clearly,EXPLAIN
+tell me why this output appears,EXPLAIN
+explain this configuration,EXPLAIN
+explain the rule here,EXPLAIN
+explain what's implemented here,EXPLAIN
+explain this workflow,EXPLAIN
+explain how it's functioning,EXPLAIN
+explain this variable,EXPLAIN
+what's this referring to,EXPLAIN
+explain the process flow,EXPLAIN
+explain how it's defined,EXPLAIN
+explain what this constant does,EXPLAIN
+explain that argument,EXPLAIN
+explain what's being executed,EXPLAIN
+tell me what this program does,EXPLAIN
+explain the overall purpose,EXPLAIN
+explain what this feature means,EXPLAIN
+help me figure out the logic,EXPLAIN
+explain the details behind this,EXPLAIN
+explain that instruction,EXPLAIN
+what's happening in this command,EXPLAIN
+explain this pattern,EXPLAIN
+explain the goal of this function,EXPLAIN
+what's that used for,EXPLAIN
+explain this output message,EXPLAIN
+explain how this parameter works,EXPLAIN
+tell me what the line means,EXPLAIN
+explain how the function behaves,EXPLAIN
+what does this return value represent,EXPLAIN
+explain what's included here,EXPLAIN
+explain the concept behind it,EXPLAIN
+help me see why it does that,EXPLAIN
+explain this part thoroughly,EXPLAIN
+explain this implementation,EXPLAIN
+explain the reasoning in this step,EXPLAIN
+explain what happens internally,EXPLAIN
+explain the workflow process,EXPLAIN
+tell me the meaning of this field,EXPLAIN
+explain this selection,EXPLAIN
+explain this configuration option,EXPLAIN
+help me see the connection,EXPLAIN
+explain this table,EXPLAIN
+what's this formula about,EXPLAIN
+explain what this calculation means,EXPLAIN
+explain this column,EXPLAIN
+explain this in lay terms,EXPLAIN
+explain what this indicates,EXPLAIN
+tell me what it's referring to,EXPLAIN
+explain this in full,EXPLAIN
+explain how the values are derived,EXPLAIN
+help me understand how it's computed,EXPLAIN
+explain that syntax,EXPLAIN
+explain how it evaluates,EXPLAIN
+what does that line do,EXPLAIN
+explain this property,EXPLAIN
+explain the reason behind this design,EXPLAIN
+help me understand its purpose,EXPLAIN
+explain what the structure means,EXPLAIN
+explain this expression,EXPLAIN
+explain what the rule defines,EXPLAIN
+what's this example showing,EXPLAIN
+explain the example given,EXPLAIN
+explain how this affects results,EXPLAIN
+explain what the chart means,EXPLAIN
+explain that output clearly,EXPLAIN
+explain how this formula is used,EXPLAIN
+explain the reasoning used here,EXPLAIN
+explain what that implies,EXPLAIN
+help me follow what's happening,EXPLAIN
+explain what's causing the issue,EXPLAIN
+explain this interface,EXPLAIN
+what's the explanation behind this,EXPLAIN
+explain how it computes,EXPLAIN
+tell me what's being printed,EXPLAIN
+explain this snippet,EXPLAIN
+explain that portion of code,EXPLAIN
+explain this setup,EXPLAIN
+help me see why this result occurs,EXPLAIN
+explain what's inside the brackets,EXPLAIN
+explain what's being referenced,EXPLAIN
+explain this field in the form,EXPLAIN
+tell me how this configuration works,EXPLAIN
+explain the result shown,EXPLAIN
+explain how it determines that,EXPLAIN
+help me interpret the table,EXPLAIN
+explain what the columns represent,EXPLAIN
+explain what the diagram means,EXPLAIN
+explain how this graph works,EXPLAIN
+explain what the output signifies,EXPLAIN
+explain this to me in detail,EXPLAIN
+explain what that entry means,EXPLAIN
+explain the calculation process,EXPLAIN
+explain this dataset,EXPLAIN
+explain what the data means,EXPLAIN
+explain what's being compared,EXPLAIN
+explain that difference,EXPLAIN
+help me see how it relates,EXPLAIN
+explain this command's effect,EXPLAIN
+explain the logic used,EXPLAIN
+explain this block thoroughly,EXPLAIN
+tell me what's happening line by line,EXPLAIN
+explain what triggers that behavior,EXPLAIN
+explain the purpose of that function,EXPLAIN
+help me follow the reasoning,EXPLAIN
+explain that condition,EXPLAIN
+explain how this check works,EXPLAIN
+what's this error message mean,EXPLAIN
+explain this alert,EXPLAIN
+explain how it's linked,EXPLAIN
+explain what happens next,EXPLAIN
+explain the context here,EXPLAIN
+explain this variable assignment,EXPLAIN
+explain the operation here,EXPLAIN
+tell me how that value is used,EXPLAIN
+explain how this expression works,EXPLAIN
+help me see what it means,EXPLAIN
+explain this equation,EXPLAIN
+explain the main point,EXPLAIN
+what's this calculation about,EXPLAIN
+explain what's happening logically,EXPLAIN
+explain how that result is derived,EXPLAIN
+explain what it prints,EXPLAIN
+explain how it executes,EXPLAIN
+help me interpret the logic,EXPLAIN
+explain the difference clearly please,EXPLAIN
+explain this flag,EXPLAIN
+explain what's returned,EXPLAIN
+explain that computation,EXPLAIN
+explain what's inside this loop,EXPLAIN
+explain this method,EXPLAIN
+tell me what that method does,EXPLAIN
+explain what happens when executed,EXPLAIN
+explain this test,EXPLAIN
+explain the meaning of this test,EXPLAIN
+help me understand the output flow,EXPLAIN
+explain that variable's role,EXPLAIN
+explain this in your own words,EXPLAIN
+explain how this algorithm works,EXPLAIN
+explain the process in detail,EXPLAIN
+tell me what the function outputs,EXPLAIN
+explain the code flow,EXPLAIN
+explain this scenario,EXPLAIN
+explain what the result represents,EXPLAIN
+explain this in detail please,EXPLAIN
+explain that object,EXPLAIN
+help me follow the flow,EXPLAIN
+explain this example clearly,EXPLAIN
+explain this entire section,EXPLAIN
+explain that data set,EXPLAIN
+explain what's being computed,EXPLAIN
+explain how this line executes,EXPLAIN
+explain this case,EXPLAIN
+explain this output step,EXPLAIN
+explain how this behaves,EXPLAIN
+explain what this represents exactly,EXPLAIN
+explain that feature briefly,EXPLAIN
+explain this input,EXPLAIN
+explain the results displayed,EXPLAIN
+explain that summary,EXPLAIN
+explain this option,EXPLAIN
+explain this concept simply please,EXPLAIN
+explain what's meant by this,EXPLAIN
+help me interpret what it does,EXPLAIN
+explain the details of this function,EXPLAIN
+explain how it returns a result,EXPLAIN
+explain this selection behavior,EXPLAIN
+explain that rule simply,EXPLAIN
+tell me what it stands for,EXPLAIN
+explain the intention behind this,EXPLAIN
+explain this command meaning,EXPLAIN
+help me understand what you mean,EXPLAIN
+explain that logic path,EXPLAIN
+explain this condition clearly,EXPLAIN
+explain what this flag controls,EXPLAIN
+explain how it determines results,EXPLAIN
+explain what this means overall,EXPLAIN
+tell me the purpose behind this,EXPLAIN
+explain what that accomplishes,EXPLAIN
+explain this in short,EXPLAIN
+explain that in context,EXPLAIN
+help me know what it means,EXPLAIN
+explain what's behind the logic,EXPLAIN
+explain this example output,EXPLAIN
+explain the statement in plain terms,EXPLAIN
+explain how it handles input,EXPLAIN
+explain that algorithm,EXPLAIN
+explain what happens internally here,EXPLAIN
+explain the pattern used,EXPLAIN
+tell me what this configuration means,EXPLAIN
+explain how this value is generated,EXPLAIN
+explain that case,EXPLAIN
+help me get the explanation,EXPLAIN
+explain what that represents here,EXPLAIN
+explain what's being checked,EXPLAIN
+explain this situation,EXPLAIN
+explain this comparison,EXPLAIN
+explain what it validates,EXPLAIN
+explain that rule definition,EXPLAIN
+explain the difference simply,EXPLAIN
+help me grasp the concept,EXPLAIN
+explain how this is used,EXPLAIN
+explain the result meaning,EXPLAIN
+tell me what's actually happening,EXPLAIN
+explain what the term means,EXPLAIN
+explain that field definition,EXPLAIN
+explain this variable purpose,EXPLAIN
+explain what's the idea behind it,EXPLAIN
+explain this property meaning,EXPLAIN
+explain this output interpretation,EXPLAIN
+help me comprehend this logic,EXPLAIN
+explain what's in this section,EXPLAIN
+explain this point,EXPLAIN
+explain what this option controls,EXPLAIN
+tell me the meaning of this part,EXPLAIN
+explain this example in depth,EXPLAIN
+explain what this demonstrates,EXPLAIN
+explain the concept in detail,EXPLAIN
+help me understand its usage,EXPLAIN
+explain the meaning in this context,EXPLAIN
+explain this block step by step,EXPLAIN
+explain what it's for,EXPLAIN
+explain that example more clearly,EXPLAIN
+explain what happens after that,EXPLAIN
+explain what this data shows,EXPLAIN
+tell me what that implies here,EXPLAIN
+explain this structure,EXPLAIN
+help me understand what's displayed,EXPLAIN
+explain the logic behind it,EXPLAIN
+explain what this item represents,EXPLAIN
+explain that case thoroughly,EXPLAIN
+explain how this flow works,EXPLAIN
+explain what's the key idea,EXPLAIN
+tell me how this is interpreted,EXPLAIN
+explain this sample output,EXPLAIN
+explain how this step works,EXPLAIN
+help me understand this case,EXPLAIN
+explain what this means in practice,EXPLAIN
+explain that value clearly,EXPLAIN
+explain what happens if we run this,EXPLAIN
+explain this whole snippet,EXPLAIN
+explain this object type,EXPLAIN
+explain that operation simply,EXPLAIN
+explain what this input field means,EXPLAIN
+explain this syntax rule,EXPLAIN
+explain the expression meaning,EXPLAIN
+tell me how this function acts,EXPLAIN
+explain what's the expected output,EXPLAIN
+explain that field purpose,EXPLAIN
+help me understand what's calculated,EXPLAIN
+explain how this piece fits,EXPLAIN
+explain what's written there,EXPLAIN
+explain what this is about exactly,EXPLAIN
+explain how that interacts,EXPLAIN
+explain that formula step by step,EXPLAIN
+explain this key concept,EXPLAIN
+explain what it defines,EXPLAIN
+help me get the context,EXPLAIN
+explain this module,EXPLAIN
+explain how this statement works,EXPLAIN
+explain what this data represents,EXPLAIN
+tell me what's being performed,EXPLAIN
+explain this meaning clearly,EXPLAIN
+explain the reasoning step,EXPLAIN
+explain how this logic applies,EXPLAIN
+explain what that number stands for,EXPLAIN
+explain this topic briefly,EXPLAIN
+explain this chart clearly,EXPLAIN
+explain what the values represent,EXPLAIN
+explain that condition logically,EXPLAIN
+explain what's going on inside,EXPLAIN
+help me make sense of this example,EXPLAIN
+explain the relationship here,EXPLAIN
+explain this meaning precisely,EXPLAIN
+explain how this fits together,EXPLAIN
+explain this in detail clearly,EXPLAIN
+explain what's occurring here,EXPLAIN
+explain this element,EXPLAIN
+explain what this means for me,EXPLAIN
+explain the output logic,EXPLAIN
+explain how this operates exactly,EXPLAIN
+tell me how it behaves internally,EXPLAIN
+explain that calculation clearly,EXPLAIN
+explain what's illustrated here,EXPLAIN
+explain what this action performs,EXPLAIN
+explain that difference briefly,EXPLAIN
+explain how this variable affects things,EXPLAIN
+help me understand this rule,EXPLAIN
+explain this attribute,EXPLAIN
+explain what's being shown exactly,EXPLAIN
+explain that notation,EXPLAIN
+explain this scenario in detail,EXPLAIN
+explain what's indicated by this,EXPLAIN
+explain this mapping,EXPLAIN
+explain this concept once more,EXPLAIN
+tell me what's going on with this,EXPLAIN
+explain the structure clearly,EXPLAIN
+explain what that structure holds,EXPLAIN
+explain what's happening logically here,EXPLAIN
+explain this relation,EXPLAIN
+explain what's being done exactly,EXPLAIN
+explain what it's describing,EXPLAIN
+explain what happens logically,EXPLAIN
+help me decode this part,EXPLAIN
+explain the intention behind the code,EXPLAIN
+explain what this output describes,EXPLAIN
+explain this code logic,EXPLAIN
+explain how it all works,EXPLAIN
+explain that step carefully,EXPLAIN
+explain what this example does,EXPLAIN
+explain how this loop functions,EXPLAIN
+explain this part in plain language,EXPLAIN
+explain that computation process,EXPLAIN
+explain what's being defined here,EXPLAIN
+explain the details simply,EXPLAIN
+explain what's going on conceptually,EXPLAIN
+explain what the system does here,EXPLAIN
+explain that line in detail,EXPLAIN
+explain what's printed here,EXPLAIN
+explain how the process happens,EXPLAIN
+explain this summary,EXPLAIN
+explain the reasoning behind it,EXPLAIN
+explain how this condition is checked,EXPLAIN
+help me see how it's done,EXPLAIN
+explain what's inside this module,EXPLAIN
+explain what that refers to internally,EXPLAIN
+explain this variable assignment clearly,EXPLAIN
+explain what happens during execution,EXPLAIN
+explain how the logic works overall,EXPLAIN
+tell me what it actually means,EXPLAIN
+explain this entire flow,EXPLAIN
+explain this example thoroughly,EXPLAIN
+explain what this operation accomplishes,EXPLAIN
+explain that comparison,EXPLAIN
+explain the working here,EXPLAIN
+explain this component,EXPLAIN
+explain what happens during runtime,EXPLAIN
+explain the meaning in simple terms,EXPLAIN
+explain this step logically,EXPLAIN
+help me understand the flow here,EXPLAIN
+explain what this diagram shows,EXPLAIN
+explain the result interpretation,EXPLAIN
+explain what it computes,EXPLAIN
+explain that check,EXPLAIN
+explain this relationship,EXPLAIN
+explain what's the logic behind it,EXPLAIN
+tell me what's going on in detail,EXPLAIN
+explain the underlying reason,EXPLAIN
+explain this condition result,EXPLAIN
+explain what happens logically here,EXPLAIN
+explain this data interpretation,EXPLAIN
+explain the concept once again,EXPLAIN
+explain what's meant in this context,EXPLAIN
+explain this step-by-step please,EXPLAIN
+explain what the purpose is here,EXPLAIN
+explain what the function achieves,EXPLAIN
+explain the difference precisely,EXPLAIN
+explain that part for clarity,EXPLAIN
+explain what's being processed,EXPLAIN
+explain this example to me,EXPLAIN
+explain what's happening with variables,EXPLAIN

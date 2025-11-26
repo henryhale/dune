@@ -1,0 +1,751 @@
+text,label
+Show next,NEXT_ITEM
+Go forward one item,NEXT_ITEM
+Move down,NEXT_ITEM
+Display next item,NEXT_ITEM
+Navigate to next,NEXT_ITEM
+Forward,NEXT_ITEM
+Return to next item,NEXT_ITEM
+Scroll down,NEXT_ITEM
+Go to the one after,NEXT_ITEM
+Next one,NEXT_ITEM
+Show me the next item,NEXT_ITEM
+Move to next,NEXT_ITEM
+Subsequent,NEXT_ITEM
+Ahead,NEXT_ITEM
+Next entry,NEXT_ITEM
+Go forward a step,NEXT_ITEM
+Down one,NEXT_ITEM
+Go to the next item in the list,NEXT_ITEM
+Following item,NEXT_ITEM
+Forward one,NEXT_ITEM
+Show the item after,NEXT_ITEM
+Move to the item below,NEXT_ITEM
+Next in line,NEXT_ITEM
+Go to the subsequent item,NEXT_ITEM
+Succeeding item,NEXT_ITEM
+Display the next,NEXT_ITEM
+Take me to the next,NEXT_ITEM
+Move down one,NEXT_ITEM
+After,NEXT_ITEM
+One forward,NEXT_ITEM
+Next record,NEXT_ITEM
+Go to next one,NEXT_ITEM
+Show the item following this,NEXT_ITEM
+Move to the item that comes after,NEXT_ITEM
+Get next,NEXT_ITEM
+Show me the one after,NEXT_ITEM
+Later item,NEXT_ITEM
+Forwards,NEXT_ITEM
+Go to the item just after,NEXT_ITEM
+Next selection,NEXT_ITEM
+Show the next in order,NEXT_ITEM
+Move down a notch,NEXT_ITEM
+The one after,NEXT_ITEM
+Go ahead an item,NEXT_ITEM
+Next page,NEXT_ITEM
+Display the succeeding,NEXT_ITEM
+Navigate forward,NEXT_ITEM
+Down a level,NEXT_ITEM
+Following record,NEXT_ITEM
+Step forward,NEXT_ITEM
+Show following item,NEXT_ITEM
+Move to the later item,NEXT_ITEM
+Go to the next one,NEXT_ITEM
+Next choice,NEXT_ITEM
+Display the next entry,NEXT_ITEM
+Take me to the next available,NEXT_ITEM
+Scroll forward,NEXT_ITEM
+Go down,NEXT_ITEM
+Show me the next selection,NEXT_ITEM
+The item after this one,NEXT_ITEM
+Go to the next displayed item,NEXT_ITEM
+Move ahead,NEXT_ITEM
+Next element,NEXT_ITEM
+Forward to the next,NEXT_ITEM
+Show the item that is next,NEXT_ITEM
+Move to the succeeding item,NEXT_ITEM
+Go to next item,NEXT_ITEM
+Down arrow,NEXT_ITEM
+Next context,NEXT_ITEM
+Display the next instance,NEXT_ITEM
+Go to the later one,NEXT_ITEM
+Show next record,NEXT_ITEM
+Move to the item immediately after,NEXT_ITEM
+Succeeding element,NEXT_ITEM
+Go to a subsequent item,NEXT_ITEM
+One item down,NEXT_ITEM
+Next instance,NEXT_ITEM
+Show the item after this,NEXT_ITEM
+Move to the newer item,NEXT_ITEM
+Jump to next,NEXT_ITEM
+Go to the next entry,NEXT_ITEM
+Forward a slide,NEXT_ITEM
+Show the element after,NEXT_ITEM
+Move to the newer item in the list,NEXT_ITEM
+Go to next,NEXT_ITEM
+Next arrow,NEXT_ITEM
+Next entry in the list,NEXT_ITEM
+Display the next instance,NEXT_ITEM
+Go to the item after this one,NEXT_ITEM
+Show next view,NEXT_ITEM
+Move down in the list,NEXT_ITEM
+Next one please,NEXT_ITEM
+Next object,NEXT_ITEM
+Go to the following,NEXT_ITEM
+Show the object after,NEXT_ITEM
+Next,NEXT_ITEM
+Next item,NEXT_ITEM
+Down,NEXT_ITEM
+Go next,NEXT_ITEM
+Proced to the next,NEXT_ITEM
+show next item,NEXT_ITEM
+navigate to next entry,NEXT_ITEM
+go to the subsequent record,NEXT_ITEM
+move to the following item,NEXT_ITEM
+next one please,NEXT_ITEM
+forward an item now,NEXT_ITEM
+show item after this,NEXT_ITEM
+go forward to next,NEXT_ITEM
+next page item,NEXT_ITEM
+subsequent entry please,NEXT_ITEM
+show following item,NEXT_ITEM
+navigate to subsequent,NEXT_ITEM
+go to the next record,NEXT_ITEM
+move forward one,NEXT_ITEM
+next item show,NEXT_ITEM
+forward to next,NEXT_ITEM
+show subsequent item,NEXT_ITEM
+go to the after,NEXT_ITEM
+next entry please,NEXT_ITEM
+following one now,NEXT_ITEM
+show the following,NEXT_ITEM
+navigate subsequent,NEXT_ITEM
+go to next entry,NEXT_ITEM
+move to next,NEXT_ITEM
+next item ahead,NEXT_ITEM
+forward one item,NEXT_ITEM
+show new item,NEXT_ITEM
+go to the future,NEXT_ITEM
+next record now,NEXT_ITEM
+subsequent data please,NEXT_ITEM
+show the one after,NEXT_ITEM
+navigate to later,NEXT_ITEM
+go to next entry,NEXT_ITEM
+move next,NEXT_ITEM
+show the item after,NEXT_ITEM
+forward to the next,NEXT_ITEM
+show the one subsequent,NEXT_ITEM
+go next entry,NEXT_ITEM
+next item again,NEXT_ITEM
+following item show,NEXT_ITEM
+show following one,NEXT_ITEM
+navigate later,NEXT_ITEM
+go to after,NEXT_ITEM
+move forwards,NEXT_ITEM
+show the later,NEXT_ITEM
+forward to subsequent,NEXT_ITEM
+show the next one,NEXT_ITEM
+go forward to subsequent,NEXT_ITEM
+next element now,NEXT_ITEM
+subsequent data show,NEXT_ITEM
+show next record,NEXT_ITEM
+navigate to a next,NEXT_ITEM
+go to the following,NEXT_ITEM
+move to the element,NEXT_ITEM
+show the following record,NEXT_ITEM
+forward to the future,NEXT_ITEM
+show next element,NEXT_ITEM
+go to next element,NEXT_ITEM
+next data please,NEXT_ITEM
+subsequent position now,NEXT_ITEM
+show next item now,NEXT_ITEM
+navigate to later entry,NEXT_ITEM
+go to the succeeding,NEXT_ITEM
+move to the next element,NEXT_ITEM
+next step item,NEXT_ITEM
+forward to next record,NEXT_ITEM
+show new record,NEXT_ITEM
+go to the next record now,NEXT_ITEM
+next entry show,NEXT_ITEM
+subsequent selection please,NEXT_ITEM
+show new entry,NEXT_ITEM
+navigate next entry,NEXT_ITEM
+go to the newer,NEXT_ITEM
+move to the next entry,NEXT_ITEM
+next data entry,NEXT_ITEM
+forward to later,NEXT_ITEM
+show the next selection,NEXT_ITEM
+go to the later entry,NEXT_ITEM
+next object now,NEXT_ITEM
+subsequent item selection,NEXT_ITEM
+show the next entry,NEXT_ITEM
+navigate to the future,NEXT_ITEM
+go to the next object,NEXT_ITEM
+move to the later entry,NEXT_ITEM
+next position please,NEXT_ITEM
+forward to the next object,NEXT_ITEM
+show subsequent data,NEXT_ITEM
+go to the next object,NEXT_ITEM
+show the following data,NEXT_ITEM
+navigate to later action,NEXT_ITEM
+go to the subsequent object,NEXT_ITEM
+move to the next action,NEXT_ITEM
+next position next,NEXT_ITEM
+forward to next action,NEXT_ITEM
+show next action,NEXT_ITEM
+go to the following action,NEXT_ITEM
+go to the next item,NEXT_ITEM
+move to the following,NEXT_ITEM
+show the next record,NEXT_ITEM
+next item in list,NEXT_ITEM
+next item,NEXT_ITEM
+go next,NEXT_ITEM
+move forward,NEXT_ITEM
+show next,NEXT_ITEM
+next one please,NEXT_ITEM
+display the next item,NEXT_ITEM
+advance to next,NEXT_ITEM
+scroll to next item,NEXT_ITEM
+take me to the next,NEXT_ITEM
+switch to next entry,NEXT_ITEM
+go to the next one,NEXT_ITEM
+show me the next record,NEXT_ITEM
+move to next task,NEXT_ITEM
+next in line,NEXT_ITEM
+bring up the next,NEXT_ITEM
+continue to next item,NEXT_ITEM
+see what's next,NEXT_ITEM
+open the next result,NEXT_ITEM
+next slide,NEXT_ITEM
+jump to next option,NEXT_ITEM
+go on to next,NEXT_ITEM
+next file,NEXT_ITEM
+show next photo,NEXT_ITEM
+next task please,NEXT_ITEM
+move ahead to next,NEXT_ITEM
+take me forward,NEXT_ITEM
+show following item,NEXT_ITEM
+move one forward,NEXT_ITEM
+display next entry,NEXT_ITEM
+proceed to next,NEXT_ITEM
+go over to next,NEXT_ITEM
+flip to next card,NEXT_ITEM
+advance forward,NEXT_ITEM
+take me to next document,NEXT_ITEM
+view next detail,NEXT_ITEM
+scroll ahead,NEXT_ITEM
+next document,NEXT_ITEM
+move to next screen,NEXT_ITEM
+show next screen,NEXT_ITEM
+continue forward,NEXT_ITEM
+jump ahead one,NEXT_ITEM
+show me what's next,NEXT_ITEM
+switch to next record,NEXT_ITEM
+take me to the next slide,NEXT_ITEM
+move to the next option,NEXT_ITEM
+next chapter,NEXT_ITEM
+advance to next field,NEXT_ITEM
+next message,NEXT_ITEM
+bring next up,NEXT_ITEM
+see next section,NEXT_ITEM
+show me next picture,NEXT_ITEM
+display following entry,NEXT_ITEM
+go on,NEXT_ITEM
+open next tab,NEXT_ITEM
+go to next page,NEXT_ITEM
+move on to next one,NEXT_ITEM
+show the next photo,NEXT_ITEM
+next data point,NEXT_ITEM
+forward one item,NEXT_ITEM
+proceed next,NEXT_ITEM
+step forward,NEXT_ITEM
+go next please,NEXT_ITEM
+take me to next card,NEXT_ITEM
+show me next one,NEXT_ITEM
+next profile,NEXT_ITEM
+scroll right,NEXT_ITEM
+switch to next page,NEXT_ITEM
+bring up next item,NEXT_ITEM
+move to the next position,NEXT_ITEM
+next menu,NEXT_ITEM
+take next step,NEXT_ITEM
+scroll to next post,NEXT_ITEM
+open the next entry,NEXT_ITEM
+next event please,NEXT_ITEM
+go further,NEXT_ITEM
+move cursor to next,NEXT_ITEM
+jump to next selection,NEXT_ITEM
+open next,NEXT_ITEM
+next email,NEXT_ITEM
+continue on,NEXT_ITEM
+forward to next page,NEXT_ITEM
+display next post,NEXT_ITEM
+show me what comes next,NEXT_ITEM
+load next,NEXT_ITEM
+take me to next record,NEXT_ITEM
+see next picture,NEXT_ITEM
+advance next,NEXT_ITEM
+move down to next,NEXT_ITEM
+scroll one ahead,NEXT_ITEM
+next article,NEXT_ITEM
+bring the next thing,NEXT_ITEM
+take next option,NEXT_ITEM
+move ahead one,NEXT_ITEM
+see what follows,NEXT_ITEM
+display next slide,NEXT_ITEM
+next image,NEXT_ITEM
+next entry please,NEXT_ITEM
+show next image,NEXT_ITEM
+open next record,NEXT_ITEM
+switch forward,NEXT_ITEM
+next page please,NEXT_ITEM
+show the next section,NEXT_ITEM
+move one ahead,NEXT_ITEM
+flip to next,NEXT_ITEM
+take me to next message,NEXT_ITEM
+go ahead to next,NEXT_ITEM
+go next record,NEXT_ITEM
+bring up next photo,NEXT_ITEM
+scroll to following,NEXT_ITEM
+open the next file,NEXT_ITEM
+move to next contact,NEXT_ITEM
+advance to next topic,NEXT_ITEM
+next clip,NEXT_ITEM
+go to next content,NEXT_ITEM
+show next folder,NEXT_ITEM
+next screen please,NEXT_ITEM
+jump forward,NEXT_ITEM
+show me the following,NEXT_ITEM
+scroll next,NEXT_ITEM
+load next post,NEXT_ITEM
+open next video,NEXT_ITEM
+next frame,NEXT_ITEM
+step to next,NEXT_ITEM
+go to next form,NEXT_ITEM
+continue to following,NEXT_ITEM
+next topic please,NEXT_ITEM
+go to next chat,NEXT_ITEM
+take me ahead,NEXT_ITEM
+forward one more,NEXT_ITEM
+go on to the following,NEXT_ITEM
+display next picture,NEXT_ITEM
+scroll forward,NEXT_ITEM
+show next part,NEXT_ITEM
+next listing,NEXT_ITEM
+move along,NEXT_ITEM
+show me next slide,NEXT_ITEM
+next contact,NEXT_ITEM
+show next dataset,NEXT_ITEM
+next record please,NEXT_ITEM
+scroll to next photo,NEXT_ITEM
+open next item,NEXT_ITEM
+take me to next email,NEXT_ITEM
+switch to next post,NEXT_ITEM
+advance to following,NEXT_ITEM
+bring up the following,NEXT_ITEM
+go to next window,NEXT_ITEM
+scroll next item,NEXT_ITEM
+see next video,NEXT_ITEM
+show me next contact,NEXT_ITEM
+next paragraph,NEXT_ITEM
+move ahead to following,NEXT_ITEM
+show upcoming item,NEXT_ITEM
+next record entry,NEXT_ITEM
+continue next one,NEXT_ITEM
+next notification,NEXT_ITEM
+open next message,NEXT_ITEM
+jump to next view,NEXT_ITEM
+move to next dataset,NEXT_ITEM
+scroll right to next,NEXT_ITEM
+display next image,NEXT_ITEM
+next video please,NEXT_ITEM
+take me to next user,NEXT_ITEM
+next section,NEXT_ITEM
+move to following page,NEXT_ITEM
+show next data,NEXT_ITEM
+go next slide,NEXT_ITEM
+flip forward,NEXT_ITEM
+load the following,NEXT_ITEM
+bring me the next,NEXT_ITEM
+take me to next row,NEXT_ITEM
+next button,NEXT_ITEM
+next post please,NEXT_ITEM
+move down one item,NEXT_ITEM
+show me the next result,NEXT_ITEM
+switch next,NEXT_ITEM
+go to following item,NEXT_ITEM
+see next card,NEXT_ITEM
+open next screen,NEXT_ITEM
+go to next contact,NEXT_ITEM
+next candidate,NEXT_ITEM
+take me to next scene,NEXT_ITEM
+show next clip,NEXT_ITEM
+display next record,NEXT_ITEM
+scroll ahead to next,NEXT_ITEM
+move one down,NEXT_ITEM
+next selection please,NEXT_ITEM
+forward to following,NEXT_ITEM
+show upcoming record,NEXT_ITEM
+open the next one,NEXT_ITEM
+move next record,NEXT_ITEM
+scroll to next message,NEXT_ITEM
+take me to next content,NEXT_ITEM
+show me next field,NEXT_ITEM
+advance further,NEXT_ITEM
+bring up next screen,NEXT_ITEM
+next in sequence,NEXT_ITEM
+go to next chat window,NEXT_ITEM
+scroll forward one,NEXT_ITEM
+show me next entry,NEXT_ITEM
+load next message,NEXT_ITEM
+take me next record,NEXT_ITEM
+next feed post,NEXT_ITEM
+scroll down to next,NEXT_ITEM
+go to the next video,NEXT_ITEM
+see what's after,NEXT_ITEM
+next cell,NEXT_ITEM
+show next data entry,NEXT_ITEM
+switch next one,NEXT_ITEM
+display next slide please,NEXT_ITEM
+jump to following page,NEXT_ITEM
+move next result,NEXT_ITEM
+next feed item,NEXT_ITEM
+go to the following page,NEXT_ITEM
+see next article,NEXT_ITEM
+next entry,NEXT_ITEM
+open following item,NEXT_ITEM
+scroll right to next one,NEXT_ITEM
+move to next user,NEXT_ITEM
+show next submission,NEXT_ITEM
+advance to next post,NEXT_ITEM
+next document please,NEXT_ITEM
+flip next page,NEXT_ITEM
+display the following image,NEXT_ITEM
+go on next record,NEXT_ITEM
+take me next field,NEXT_ITEM
+scroll one forward,NEXT_ITEM
+open the following screen,NEXT_ITEM
+next result please,NEXT_ITEM
+show me the following entry,NEXT_ITEM
+move to the next document,NEXT_ITEM
+advance to next email,NEXT_ITEM
+go to the next article,NEXT_ITEM
+bring next document,NEXT_ITEM
+scroll down one,NEXT_ITEM
+show next window,NEXT_ITEM
+see the following record,NEXT_ITEM
+load next contact,NEXT_ITEM
+scroll down to following,NEXT_ITEM
+go next tab,NEXT_ITEM
+open next chapter,NEXT_ITEM
+go forward to next,NEXT_ITEM
+next headline,NEXT_ITEM
+take me to next post,NEXT_ITEM
+bring up following result,NEXT_ITEM
+scroll next record,NEXT_ITEM
+move on to following,NEXT_ITEM
+open next dataset,NEXT_ITEM
+show me next clip,NEXT_ITEM
+go to next section,NEXT_ITEM
+next field please,NEXT_ITEM
+see the following entry,NEXT_ITEM
+display next photo please,NEXT_ITEM
+next frame please,NEXT_ITEM
+take me to following,NEXT_ITEM
+open following record,NEXT_ITEM
+scroll forward to next,NEXT_ITEM
+go next video,NEXT_ITEM
+next page now,NEXT_ITEM
+show next topic,NEXT_ITEM
+next review please,NEXT_ITEM
+move forward to next record,NEXT_ITEM
+advance to following page,NEXT_ITEM
+next view please,NEXT_ITEM
+scroll down next,NEXT_ITEM
+load next page,NEXT_ITEM
+take me forward one,NEXT_ITEM
+show me the next screen,NEXT_ITEM
+open next project,NEXT_ITEM
+move to next image,NEXT_ITEM
+see what's following,NEXT_ITEM
+scroll one down,NEXT_ITEM
+display following photo,NEXT_ITEM
+next notification please,NEXT_ITEM
+go ahead to following,NEXT_ITEM
+scroll next document,NEXT_ITEM
+bring me following record,NEXT_ITEM
+move one step forward,NEXT_ITEM
+next comment,NEXT_ITEM
+open next post,NEXT_ITEM
+next step please,NEXT_ITEM
+show next chapter,NEXT_ITEM
+go to following screen,NEXT_ITEM
+next list item,NEXT_ITEM
+scroll right next,NEXT_ITEM
+open next article,NEXT_ITEM
+take me to next image,NEXT_ITEM
+bring up next data,NEXT_ITEM
+scroll forward one item,NEXT_ITEM
+show following message,NEXT_ITEM
+display next thing,NEXT_ITEM
+move to following record,NEXT_ITEM
+go forward next item,NEXT_ITEM
+scroll to next chat,NEXT_ITEM
+next result,NEXT_ITEM
+show next form,NEXT_ITEM
+move one forward please,NEXT_ITEM
+next video,NEXT_ITEM
+advance one more,NEXT_ITEM
+show the following post,NEXT_ITEM
+open next log,NEXT_ITEM
+scroll to next comment,NEXT_ITEM
+go ahead next,NEXT_ITEM
+next conversation,NEXT_ITEM
+display the next dataset,NEXT_ITEM
+scroll to following post,NEXT_ITEM
+show me what follows next,NEXT_ITEM
+open next topic,NEXT_ITEM
+next report,NEXT_ITEM
+take me to next task please,NEXT_ITEM
+forward to next document,NEXT_ITEM
+scroll further next,NEXT_ITEM
+show me next post please,NEXT_ITEM
+go to following entry,NEXT_ITEM
+move next article,NEXT_ITEM
+display the following record,NEXT_ITEM
+take me next,NEXT_ITEM
+show the upcoming record,NEXT_ITEM
+next dialogue,NEXT_ITEM
+show next command,NEXT_ITEM
+open next note,NEXT_ITEM
+scroll down one record,NEXT_ITEM
+go to next thing,NEXT_ITEM
+advance to next screen,NEXT_ITEM
+next listing please,NEXT_ITEM
+move ahead to next screen,NEXT_ITEM
+take me to the next entry,NEXT_ITEM
+scroll to following section,NEXT_ITEM
+show next notification,NEXT_ITEM
+next chapter please,NEXT_ITEM
+open the following file,NEXT_ITEM
+scroll to next photo please,NEXT_ITEM
+next review,NEXT_ITEM
+scroll ahead to following,NEXT_ITEM
+show next video please,NEXT_ITEM
+advance next one,NEXT_ITEM
+take next,NEXT_ITEM
+go next dataset,NEXT_ITEM
+scroll one more,NEXT_ITEM
+display next chat,NEXT_ITEM
+open next record please,NEXT_ITEM
+move to next point,NEXT_ITEM
+show me the next item please,NEXT_ITEM
+go forward one item,NEXT_ITEM
+take me to following one,NEXT_ITEM
+scroll to following item,NEXT_ITEM
+next article please,NEXT_ITEM
+show me what's after,NEXT_ITEM
+move on next record,NEXT_ITEM
+open following document,NEXT_ITEM
+next selection,NEXT_ITEM
+scroll ahead one,NEXT_ITEM
+show the next report,NEXT_ITEM
+advance one record,NEXT_ITEM
+scroll to following photo,NEXT_ITEM
+show next user,NEXT_ITEM
+take me to next result,NEXT_ITEM
+display next data record,NEXT_ITEM
+move down next item,NEXT_ITEM
+go next image,NEXT_ITEM
+open next image please,NEXT_ITEM
+scroll one record down,NEXT_ITEM
+show following contact,NEXT_ITEM
+next dataset please,NEXT_ITEM
+display next log,NEXT_ITEM
+scroll ahead to next one,NEXT_ITEM
+move one item forward,NEXT_ITEM
+go to next content please,NEXT_ITEM
+take me to next chapter,NEXT_ITEM
+show next in queue,NEXT_ITEM
+scroll further ahead,NEXT_ITEM
+open the next chat,NEXT_ITEM
+display the next contact,NEXT_ITEM
+go on to next message,NEXT_ITEM
+show following section,NEXT_ITEM
+next user please,NEXT_ITEM
+move to next post please,NEXT_ITEM
+scroll one forward item,NEXT_ITEM
+advance to next article,NEXT_ITEM
+scroll to following video,NEXT_ITEM
+next dataset,NEXT_ITEM
+go forward one record,NEXT_ITEM
+display next,NEXT_ITEM
+show me next in sequence,NEXT_ITEM
+open next dataset please,NEXT_ITEM
+move on to next image,NEXT_ITEM
+go next contact please,NEXT_ITEM
+take me next chat,NEXT_ITEM
+scroll down next post,NEXT_ITEM
+open next record now,NEXT_ITEM
+display next frame,NEXT_ITEM
+next window please,NEXT_ITEM
+scroll forward next,NEXT_ITEM
+move next contact,NEXT_ITEM
+show the following,NEXT_ITEM
+advance forward one,NEXT_ITEM
+go ahead to next post,NEXT_ITEM
+open next slide,NEXT_ITEM
+scroll next field,NEXT_ITEM
+next clip please,NEXT_ITEM
+take me to next image please,NEXT_ITEM
+show next field,NEXT_ITEM
+display following screen,NEXT_ITEM
+next in order,NEXT_ITEM
+move ahead to next one,NEXT_ITEM
+scroll following record,NEXT_ITEM
+open the following,NEXT_ITEM
+next topic now,NEXT_ITEM
+show next photo please,NEXT_ITEM
+scroll ahead next,NEXT_ITEM
+go to next in line,NEXT_ITEM
+display the next post,NEXT_ITEM
+move one forward item,NEXT_ITEM
+open following dataset,NEXT_ITEM
+scroll down next one,NEXT_ITEM
+next message please,NEXT_ITEM
+take me to next frame,NEXT_ITEM
+scroll one more item,NEXT_ITEM
+show me what comes after,NEXT_ITEM
+go to next dataset,NEXT_ITEM
+open next listing,NEXT_ITEM
+advance to next dataset,NEXT_ITEM
+scroll next photo please,NEXT_ITEM
+display following,NEXT_ITEM
+next field,NEXT_ITEM
+go ahead to following one,NEXT_ITEM
+move down one step,NEXT_ITEM
+show me next record please,NEXT_ITEM
+scroll forward record,NEXT_ITEM
+open next form,NEXT_ITEM
+take me to following record,NEXT_ITEM
+next tab please,NEXT_ITEM
+show next report please,NEXT_ITEM
+scroll next article,NEXT_ITEM
+move next entry,NEXT_ITEM
+advance to following record,NEXT_ITEM
+go next image please,NEXT_ITEM
+scroll one forward record,NEXT_ITEM
+show next record now,NEXT_ITEM
+display the next,NEXT_ITEM
+scroll next chat,NEXT_ITEM
+open next frame,NEXT_ITEM
+scroll down following,NEXT_ITEM
+next result now,NEXT_ITEM
+show me the next dataset,NEXT_ITEM
+scroll forward dataset,NEXT_ITEM
+go ahead to next dataset,NEXT_ITEM
+move one step next,NEXT_ITEM
+next picture please,NEXT_ITEM
+open following frame,NEXT_ITEM
+show next review,NEXT_ITEM
+display next post please,NEXT_ITEM
+scroll next content,NEXT_ITEM
+go to following record please,NEXT_ITEM
+next image now,NEXT_ITEM
+show me next record now,NEXT_ITEM
+scroll one more forward,NEXT_ITEM
+open next entry please,NEXT_ITEM
+move to next one please,NEXT_ITEM
+display following dataset,NEXT_ITEM
+next record now,NEXT_ITEM
+go ahead to next record,NEXT_ITEM
+scroll down one item please,NEXT_ITEM
+show next picture now,NEXT_ITEM
+move next record please,NEXT_ITEM
+next frame now,NEXT_ITEM
+take me to next dataset,NEXT_ITEM
+show next thing please,NEXT_ITEM
+scroll to following dataset,NEXT_ITEM
+open next video please,NEXT_ITEM
+next listing now,NEXT_ITEM
+scroll forward one more,NEXT_ITEM
+show me next dataset please,NEXT_ITEM
+move to following dataset,NEXT_ITEM
+scroll one next,NEXT_ITEM
+advance to next thing,NEXT_ITEM
+show next now,NEXT_ITEM
+next result please,NEXT_ITEM
+scroll following dataset,NEXT_ITEM
+open next dataset now,NEXT_ITEM
+move one forward please,NEXT_ITEM
+show next frame now,NEXT_ITEM
+scroll one down next,NEXT_ITEM
+next slide please,NEXT_ITEM
+open next contact,NEXT_ITEM
+scroll down next dataset,NEXT_ITEM
+show next dataset now,NEXT_ITEM
+go next one please,NEXT_ITEM
+scroll to next field,NEXT_ITEM
+display following contact,NEXT_ITEM
+move next thing please,NEXT_ITEM
+next contact please,NEXT_ITEM
+scroll one next record,NEXT_ITEM
+show next one now,NEXT_ITEM
+scroll down following one,NEXT_ITEM
+open following dataset please,NEXT_ITEM
+next report now,NEXT_ITEM
+scroll to next,NEXT_ITEM
+move ahead next,NEXT_ITEM
+show me next now,NEXT_ITEM
+scroll next one please,NEXT_ITEM
+next picture now,NEXT_ITEM
+open next one now,NEXT_ITEM
+scroll down one please,NEXT_ITEM
+take me next one please,NEXT_ITEM
+show next post now,NEXT_ITEM
+scroll to following one please,NEXT_ITEM
+next one now,NEXT_ITEM
+open following one please,NEXT_ITEM
+scroll forward one please,NEXT_ITEM
+move one next please,NEXT_ITEM
+show next one please,NEXT_ITEM
+Next item,NEXT_ITEM
+Go to the next item,NEXT_ITEM
+Next,NEXT_ITEM
+Move to the next item,NEXT_ITEM
+Show me the next one,NEXT_ITEM
+Select next,NEXT_ITEM
+Advance to next item,NEXT_ITEM
+Go to next,NEXT_ITEM
+Next entry,NEXT_ITEM
+Move to next entry,NEXT_ITEM
+Can you show me the next item,NEXT_ITEM
+Skip to next item,NEXT_ITEM
+Next option,NEXT_ITEM
+Go forward to the next item,NEXT_ITEM
+Pick the next item,NEXT_ITEM
+Select the following item,NEXT_ITEM
+Move forward one item,NEXT_ITEM
+Next item please,NEXT_ITEM
+Show next,NEXT_ITEM
+Go to the item after this,NEXT_ITEM
+Jump to next item,NEXT_ITEM
+Proceed to the next item,NEXT_ITEM
+Get the next item,NEXT_ITEM
+Display the next item,NEXT_ITEM
+Highlight the next item,NEXT_ITEM
+Switch to the next item,NEXT_ITEM
+Next record,NEXT_ITEM
+Go to the subsequent item,NEXT_ITEM
+Show me the item after this one,NEXT_ITEM
+Move to the subsequent entry,NEXT_ITEM
+I want to see the next item,NEXT_ITEM
+Choose the next item,NEXT_ITEM
+Find the next item,NEXT_ITEM
+Continue to next item,NEXT_ITEM
+Select the next available item,NEXT_ITEM
+Go to the succeeding item,NEXT_ITEM
+Move to the item that follows,NEXT_ITEM
+Show me the next element,NEXT_ITEM
+Advance item,NEXT_ITEM

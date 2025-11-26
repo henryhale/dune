@@ -1,0 +1,761 @@
+text,label
+Display details,VIEW_ITEM
+Show me item information,VIEW_ITEM
+Look at item,VIEW_ITEM
+See task details,VIEW_ITEM
+View more about this,VIEW_ITEM
+Give me the item's specifics,VIEW_ITEM
+Check out item,VIEW_ITEM
+Present task view,VIEW_ITEM
+Show full details,VIEW_ITEM
+What are the item details?,VIEW_ITEM
+Examine item,VIEW_ITEM
+Display the task,VIEW_ITEM
+Access details,VIEW_ITEM
+Show me more about this item,VIEW_ITEM
+Inspect item,VIEW_ITEM
+Open task details,VIEW_ITEM
+Get item details,VIEW_ITEM
+Can I see item information?,VIEW_ITEM
+Review item,VIEW_ITEM
+Provide task details,VIEW_ITEM
+Details of item,VIEW_ITEM
+View specific item,VIEW_ITEM
+Look up item,VIEW_ITEM
+Display details of this task,VIEW_ITEM
+Show item info,VIEW_ITEM
+What details does this item have?,VIEW_ITEM
+Check details of item,VIEW_ITEM
+View the task,VIEW_ITEM
+Retrieve item details,VIEW_ITEM
+Present item details,VIEW_ITEM
+Find item info,VIEW_ITEM
+Show task overview,VIEW_ITEM
+Access item details please,VIEW_ITEM
+Can you show me item details?,VIEW_ITEM
+Delve into item,VIEW_ITEM
+View the specifics of this task,VIEW_ITEM
+Show me the item's full details,VIEW_ITEM
+Information about item,VIEW_ITEM
+See item,VIEW_ITEM
+Details for this task,VIEW_ITEM
+Display all item details,VIEW_ITEM
+Tell me about the item,VIEW_ITEM
+Investigate item,VIEW_ITEM
+Show the current task,VIEW_ITEM
+Open item details,VIEW_ITEM
+What are the full details of this item?,VIEW_ITEM
+Explore item,VIEW_ITEM
+Get task view,VIEW_ITEM
+Give me item data,VIEW_ITEM
+Show item properties,VIEW_ITEM
+Examine the item,VIEW_ITEM
+Display information on this task,VIEW_ITEM
+Item details please,VIEW_ITEM
+View this particular item,VIEW_ITEM
+Lookup item details,VIEW_ITEM
+Present the task,VIEW_ITEM
+See full item information,VIEW_ITEM
+Query item details,VIEW_ITEM
+Get details on item,VIEW_ITEM
+Show me this task's details,VIEW_ITEM
+View the full item,VIEW_ITEM
+Reveal item details,VIEW_ITEM
+Look at the item's info,VIEW_ITEM
+Display the specifics of this task,VIEW_ITEM
+Read item details,VIEW_ITEM
+What's the info for this item?,VIEW_ITEM
+Scrutinize item,VIEW_ITEM
+View specific task,VIEW_ITEM
+Show specific item details,VIEW_ITEM
+Display the item's data,VIEW_ITEM
+See the item's full info,VIEW_ITEM
+Present task info,VIEW_ITEM
+Show the data for this item,VIEW_ITEM
+Can you show me the task details?,VIEW_ITEM
+View item's attributes,VIEW_ITEM
+Show item's characteristics,VIEW_ITEM
+Inspect the item's details,VIEW_ITEM
+Display details for task,VIEW_ITEM
+Get item info,VIEW_ITEM
+Show more info on item,VIEW_ITEM
+Review item details,VIEW_ITEM
+Access the task's details,VIEW_ITEM
+Give item specifics,VIEW_ITEM
+Show the item's overview,VIEW_ITEM
+Look at the item's full details,VIEW_ITEM
+View details of task,VIEW_ITEM
+Show item description,VIEW_ITEM
+What about the item?,VIEW_ITEM
+Examine task details,VIEW_ITEM
+Display full item data,VIEW_ITEM
+Show me the details of this item,VIEW_ITEM
+Open the item view,VIEW_ITEM
+Give details about this task,VIEW_ITEM
+Show properties of item,VIEW_ITEM
+View details,VIEW_ITEM
+Show item details,VIEW_ITEM
+View item,VIEW_ITEM
+Display item,VIEW_ITEM
+View this task,VIEW_ITEM
+View more details,VIEW_ITEM
+view details of this,VIEW_ITEM
+show me more about it,VIEW_ITEM
+display item information,VIEW_ITEM
+tell me about the item,VIEW_ITEM
+open item view,VIEW_ITEM
+inspect the selected record,VIEW_ITEM
+details please now,VIEW_ITEM
+show item properties,VIEW_ITEM
+what is this item,VIEW_ITEM
+get item info,VIEW_ITEM
+view more details,VIEW_ITEM
+show detailed info,VIEW_ITEM
+display the details,VIEW_ITEM
+tell me about this,VIEW_ITEM
+open the item,VIEW_ITEM
+inspect this item,VIEW_ITEM
+details of selection,VIEW_ITEM
+show object properties,VIEW_ITEM
+what's in this,VIEW_ITEM
+get info now,VIEW_ITEM
+view selected,VIEW_ITEM
+show full details,VIEW_ITEM
+display all info,VIEW_ITEM
+tell me about current,VIEW_ITEM
+open current item,VIEW_ITEM
+inspect the current,VIEW_ITEM
+details of current,VIEW_ITEM
+show the properties,VIEW_ITEM
+what is here,VIEW_ITEM
+get the info,VIEW_ITEM
+view more here,VIEW_ITEM
+show detailed view,VIEW_ITEM
+display the selection,VIEW_ITEM
+tell me about my choice,VIEW_ITEM
+open the record,VIEW_ITEM
+inspect the selection,VIEW_ITEM
+details about this,VIEW_ITEM
+show more properties,VIEW_ITEM
+what information,VIEW_ITEM
+get more info,VIEW_ITEM
+view the selection,VIEW_ITEM
+show a detailed,VIEW_ITEM
+display the current,VIEW_ITEM
+tell me about selection,VIEW_ITEM
+open this item,VIEW_ITEM
+inspect my choice,VIEW_ITEM
+details of this,VIEW_ITEM
+show selection properties,VIEW_ITEM
+what data is here,VIEW_ITEM
+get full info,VIEW_ITEM
+view this item,VIEW_ITEM
+show item data,VIEW_ITEM
+display the record,VIEW_ITEM
+tell me about selected,VIEW_ITEM
+open selected item,VIEW_ITEM
+inspect the record,VIEW_ITEM
+details on this,VIEW_ITEM
+show the item properties,VIEW_ITEM
+what are details,VIEW_ITEM
+get item details,VIEW_ITEM
+view item details,VIEW_ITEM
+show the item,VIEW_ITEM
+display selected,VIEW_ITEM
+tell me about object,VIEW_ITEM
+open selected,VIEW_ITEM
+inspect selected item,VIEW_ITEM
+details of the item,VIEW_ITEM
+show object data,VIEW_ITEM
+what does it show,VIEW_ITEM
+get the data,VIEW_ITEM
+view item data now,VIEW_ITEM
+show item details now,VIEW_ITEM
+display the object,VIEW_ITEM
+tell me about the record,VIEW_ITEM
+open the selection,VIEW_ITEM
+inspect the object,VIEW_ITEM
+details about selected,VIEW_ITEM
+show record properties,VIEW_ITEM
+what is this about,VIEW_ITEM
+get all info,VIEW_ITEM
+view all details,VIEW_ITEM
+show object info,VIEW_ITEM
+display item content,VIEW_ITEM
+tell me about the object,VIEW_ITEM
+open the object,VIEW_ITEM
+inspect the current item,VIEW_ITEM
+details for item,VIEW_ITEM
+show item content,VIEW_ITEM
+what data for this,VIEW_ITEM
+get full details,VIEW_ITEM
+view current item,VIEW_ITEM
+show general item info,VIEW_ITEM
+display more details,VIEW_ITEM
+show details of object,VIEW_ITEM
+view more info,VIEW_ITEM
+display current item,VIEW_ITEM
+tell me about current,VIEW_ITEM
+open item details,VIEW_ITEM
+inspect the object,VIEW_ITEM
+details of current item,VIEW_ITEM
+show item details,VIEW_ITEM
+open this task,VIEW_ITEM
+view record information,VIEW_ITEM
+display item info,VIEW_ITEM
+let me see the task,VIEW_ITEM
+show me the report,VIEW_ITEM
+open details view,VIEW_ITEM
+check the document,VIEW_ITEM
+see the product details,VIEW_ITEM
+expand this entry,VIEW_ITEM
+view more info,VIEW_ITEM
+show me full description,VIEW_ITEM
+see complete item,VIEW_ITEM
+open project details,VIEW_ITEM
+view details,VIEW_ITEM
+display the file,VIEW_ITEM
+inspect this record,VIEW_ITEM
+look at this entry,VIEW_ITEM
+review this task,VIEW_ITEM
+let me open the record,VIEW_ITEM
+see item info,VIEW_ITEM
+open file details,VIEW_ITEM
+show document details,VIEW_ITEM
+display complete record,VIEW_ITEM
+check the order info,VIEW_ITEM
+open task details,VIEW_ITEM
+show me the note,VIEW_ITEM
+see what's inside,VIEW_ITEM
+view the content,VIEW_ITEM
+expand this record,VIEW_ITEM
+show item summary,VIEW_ITEM
+display data for this item,VIEW_ITEM
+look up the task,VIEW_ITEM
+open this product,VIEW_ITEM
+read full information,VIEW_ITEM
+see details of this record,VIEW_ITEM
+let's open the file,VIEW_ITEM
+show full view,VIEW_ITEM
+view that entry,VIEW_ITEM
+show me item information,VIEW_ITEM
+expand and show,VIEW_ITEM
+get me details,VIEW_ITEM
+see this file,VIEW_ITEM
+inspect the product info,VIEW_ITEM
+look at record details,VIEW_ITEM
+open the form details,VIEW_ITEM
+see the order details,VIEW_ITEM
+view item description,VIEW_ITEM
+review this product,VIEW_ITEM
+view task info,VIEW_ITEM
+see the note contents,VIEW_ITEM
+display task data,VIEW_ITEM
+check this record info,VIEW_ITEM
+show document info,VIEW_ITEM
+see what this contains,VIEW_ITEM
+open that item,VIEW_ITEM
+display the order details,VIEW_ITEM
+look at that record,VIEW_ITEM
+view this product info,VIEW_ITEM
+open product details,VIEW_ITEM
+show me that document,VIEW_ITEM
+check full task info,VIEW_ITEM
+view all data,VIEW_ITEM
+see the file information,VIEW_ITEM
+display this report,VIEW_ITEM
+inspect the order record,VIEW_ITEM
+open user details,VIEW_ITEM
+see that task,VIEW_ITEM
+expand the record,VIEW_ITEM
+show me data,VIEW_ITEM
+view this note,VIEW_ITEM
+display the record info,VIEW_ITEM
+see the product summary,VIEW_ITEM
+open complete record,VIEW_ITEM
+show me what's here,VIEW_ITEM
+check the content details,VIEW_ITEM
+read the report,VIEW_ITEM
+show report info,VIEW_ITEM
+view that file,VIEW_ITEM
+see what's in there,VIEW_ITEM
+inspect that entry,VIEW_ITEM
+display full details,VIEW_ITEM
+look into this item,VIEW_ITEM
+open the note,VIEW_ITEM
+show entire record,VIEW_ITEM
+display content info,VIEW_ITEM
+open and view,VIEW_ITEM
+see the file content,VIEW_ITEM
+view user profile,VIEW_ITEM
+display this data entry,VIEW_ITEM
+check that product info,VIEW_ITEM
+open this document,VIEW_ITEM
+view project record,VIEW_ITEM
+show me this task,VIEW_ITEM
+see details for this entry,VIEW_ITEM
+review the data,VIEW_ITEM
+display all info,VIEW_ITEM
+see task summary,VIEW_ITEM
+inspect record content,VIEW_ITEM
+open information page,VIEW_ITEM
+view document content,VIEW_ITEM
+look at this product,VIEW_ITEM
+see the complete task,VIEW_ITEM
+show what's included,VIEW_ITEM
+open the user record,VIEW_ITEM
+display that note,VIEW_ITEM
+review that entry,VIEW_ITEM
+show data summary,VIEW_ITEM
+look through this file,VIEW_ITEM
+open the details page,VIEW_ITEM
+see the document info,VIEW_ITEM
+check details of this item,VIEW_ITEM
+view product data,VIEW_ITEM
+see this entry,VIEW_ITEM
+display item data,VIEW_ITEM
+look at project info,VIEW_ITEM
+see the report details,VIEW_ITEM
+show what it contains,VIEW_ITEM
+open and inspect,VIEW_ITEM
+view this record content,VIEW_ITEM
+display full info,VIEW_ITEM
+check that record,VIEW_ITEM
+open this data record,VIEW_ITEM
+see full record,VIEW_ITEM
+review this document,VIEW_ITEM
+show the record details,VIEW_ITEM
+look into the report,VIEW_ITEM
+open this project info,VIEW_ITEM
+display all item data,VIEW_ITEM
+see the entire record,VIEW_ITEM
+open content details,VIEW_ITEM
+see this data,VIEW_ITEM
+view the project,VIEW_ITEM
+show item overview,VIEW_ITEM
+display the full page,VIEW_ITEM
+open the full report,VIEW_ITEM
+inspect the note,VIEW_ITEM
+see full details,VIEW_ITEM
+show me that item,VIEW_ITEM
+look at this record,VIEW_ITEM
+view the file info,VIEW_ITEM
+see record information,VIEW_ITEM
+open the complete details,VIEW_ITEM
+display this order info,VIEW_ITEM
+check item details,VIEW_ITEM
+read the file details,VIEW_ITEM
+inspect the record,VIEW_ITEM
+see the complete report,VIEW_ITEM
+view report info,VIEW_ITEM
+show project details,VIEW_ITEM
+display the task info,VIEW_ITEM
+open this note,VIEW_ITEM
+see what's written,VIEW_ITEM
+view record data,VIEW_ITEM
+open entry details,VIEW_ITEM
+review product details,VIEW_ITEM
+look at this note,VIEW_ITEM
+display that document,VIEW_ITEM
+show the full entry,VIEW_ITEM
+view this form,VIEW_ITEM
+see the information,VIEW_ITEM
+inspect this data,VIEW_ITEM
+display this product,VIEW_ITEM
+open item info page,VIEW_ITEM
+see the full description,VIEW_ITEM
+show all details,VIEW_ITEM
+open file content,VIEW_ITEM
+view that task,VIEW_ITEM
+look at order info,VIEW_ITEM
+display data details,VIEW_ITEM
+see the entire product,VIEW_ITEM
+review item information,VIEW_ITEM
+open that record,VIEW_ITEM
+inspect project details,VIEW_ITEM
+view user information,VIEW_ITEM
+see the record,VIEW_ITEM
+open this entry,VIEW_ITEM
+display report details,VIEW_ITEM
+check this file,VIEW_ITEM
+open project details,VIEW_ITEM
+show user details,VIEW_ITEM
+view the page details,VIEW_ITEM
+see this task information,VIEW_ITEM
+display order content,VIEW_ITEM
+review this file,VIEW_ITEM
+look at that product,VIEW_ITEM
+see order details,VIEW_ITEM
+inspect document info,VIEW_ITEM
+view this product details,VIEW_ITEM
+open document page,VIEW_ITEM
+display complete entry,VIEW_ITEM
+show that note,VIEW_ITEM
+see all information,VIEW_ITEM
+review this task,VIEW_ITEM
+display the user record,VIEW_ITEM
+open report info,VIEW_ITEM
+look into the record,VIEW_ITEM
+see that file,VIEW_ITEM
+view the file data,VIEW_ITEM
+inspect that note,VIEW_ITEM
+show what's inside this file,VIEW_ITEM
+display complete information,VIEW_ITEM
+open the full task,VIEW_ITEM
+see product record,VIEW_ITEM
+view all details,VIEW_ITEM
+show this project,VIEW_ITEM
+look at file details,VIEW_ITEM
+inspect item record,VIEW_ITEM
+display that report,VIEW_ITEM
+open that data record,VIEW_ITEM
+view full description,VIEW_ITEM
+see user record,VIEW_ITEM
+open the product details,VIEW_ITEM
+show complete record info,VIEW_ITEM
+review that record,VIEW_ITEM
+view this order,VIEW_ITEM
+look into that document,VIEW_ITEM
+display file data,VIEW_ITEM
+see all record info,VIEW_ITEM
+open record page,VIEW_ITEM
+inspect the product record,VIEW_ITEM
+see this report,VIEW_ITEM
+display note info,VIEW_ITEM
+open and show record,VIEW_ITEM
+view this task details,VIEW_ITEM
+show all record data,VIEW_ITEM
+display data for this product,VIEW_ITEM
+open full product info,VIEW_ITEM
+see that record,VIEW_ITEM
+review the file info,VIEW_ITEM
+look at data details,VIEW_ITEM
+open this report,VIEW_ITEM
+display user details,VIEW_ITEM
+view product record,VIEW_ITEM
+see that order,VIEW_ITEM
+show that product info,VIEW_ITEM
+open the report details,VIEW_ITEM
+display the full record,VIEW_ITEM
+view entry info,VIEW_ITEM
+see all details,VIEW_ITEM
+review the product info,VIEW_ITEM
+look at this project,VIEW_ITEM
+display this document details,VIEW_ITEM
+open the entire record,VIEW_ITEM
+view this data,VIEW_ITEM
+see the user info,VIEW_ITEM
+show details for this task,VIEW_ITEM
+open this file info,VIEW_ITEM
+inspect this task,VIEW_ITEM
+display report information,VIEW_ITEM
+look at record info,VIEW_ITEM
+view the product details,VIEW_ITEM
+see complete information,VIEW_ITEM
+show what's in the report,VIEW_ITEM
+open that file details,VIEW_ITEM
+display note details,VIEW_ITEM
+review data record,VIEW_ITEM
+see the content info,VIEW_ITEM
+view full record details,VIEW_ITEM
+open that user record,VIEW_ITEM
+look into the note,VIEW_ITEM
+display that data,VIEW_ITEM
+open and view record,VIEW_ITEM
+see this information,VIEW_ITEM
+review order details,VIEW_ITEM
+show the document info,VIEW_ITEM
+display entry details,VIEW_ITEM
+view this page,VIEW_ITEM
+see report data,VIEW_ITEM
+open the data details,VIEW_ITEM
+show the order record,VIEW_ITEM
+look at that note,VIEW_ITEM
+display product details,VIEW_ITEM
+inspect record information,VIEW_ITEM
+see the full record info,VIEW_ITEM
+open report page,VIEW_ITEM
+view this entry,VIEW_ITEM
+review this product record,VIEW_ITEM
+look at user data,VIEW_ITEM
+display all record info,VIEW_ITEM
+see the data,VIEW_ITEM
+view record summary,VIEW_ITEM
+open data file,VIEW_ITEM
+show me the project info,VIEW_ITEM
+display order details,VIEW_ITEM
+see that document,VIEW_ITEM
+open this data info,VIEW_ITEM
+view the entire document,VIEW_ITEM
+review that data,VIEW_ITEM
+display full task details,VIEW_ITEM
+inspect that file,VIEW_ITEM
+see the note info,VIEW_ITEM
+show me the record,VIEW_ITEM
+view all product info,VIEW_ITEM
+open and display record,VIEW_ITEM
+look into the file,VIEW_ITEM
+display the data info,VIEW_ITEM
+see file record,VIEW_ITEM
+open this order,VIEW_ITEM
+view full task info,VIEW_ITEM
+see this user record,VIEW_ITEM
+display product information,VIEW_ITEM
+review the record data,VIEW_ITEM
+show full order details,VIEW_ITEM
+open document info,VIEW_ITEM
+see that user,VIEW_ITEM
+display the complete file,VIEW_ITEM
+view this record info,VIEW_ITEM
+look at this entry info,VIEW_ITEM
+see full order info,VIEW_ITEM
+inspect that project,VIEW_ITEM
+open this record,VIEW_ITEM
+display record content,VIEW_ITEM
+view report data,VIEW_ITEM
+see this document details,VIEW_ITEM
+review the report,VIEW_ITEM
+show data for this record,VIEW_ITEM
+display full report info,VIEW_ITEM
+open that report,VIEW_ITEM
+see all record details,VIEW_ITEM
+look at the data,VIEW_ITEM
+view this file details,VIEW_ITEM
+inspect that data,VIEW_ITEM
+see project info,VIEW_ITEM
+open the complete report,VIEW_ITEM
+display that project info,VIEW_ITEM
+show that task details,VIEW_ITEM
+view this order info,VIEW_ITEM
+see the order record,VIEW_ITEM
+review this entry,VIEW_ITEM
+look at that data file,VIEW_ITEM
+display that file info,VIEW_ITEM
+open data entry details,VIEW_ITEM
+see user data,VIEW_ITEM
+view that product details,VIEW_ITEM
+show the file record,VIEW_ITEM
+display the project info,VIEW_ITEM
+open the record details,VIEW_ITEM
+inspect this report,VIEW_ITEM
+see that project,VIEW_ITEM
+display the data,VIEW_ITEM
+view all document info,VIEW_ITEM
+review user details,VIEW_ITEM
+open this file,VIEW_ITEM
+see that report,VIEW_ITEM
+display complete task info,VIEW_ITEM
+look at that record info,VIEW_ITEM
+view report details,VIEW_ITEM
+show complete data,VIEW_ITEM
+open product record,VIEW_ITEM
+display order information,VIEW_ITEM
+see full project info,VIEW_ITEM
+inspect the document record,VIEW_ITEM
+view this project details,VIEW_ITEM
+show that record info,VIEW_ITEM
+display all product data,VIEW_ITEM
+open all details,VIEW_ITEM
+see this task record,VIEW_ITEM
+review that product info,VIEW_ITEM
+look into that record,VIEW_ITEM
+display the full document,VIEW_ITEM
+view record information,VIEW_ITEM
+show that report info,VIEW_ITEM
+see all task info,VIEW_ITEM
+open this data entry,VIEW_ITEM
+display the entire report,VIEW_ITEM
+see the item information,VIEW_ITEM
+inspect user record,VIEW_ITEM
+view this data record,VIEW_ITEM
+review that document,VIEW_ITEM
+open and see file info,VIEW_ITEM
+show full details of record,VIEW_ITEM
+display user data,VIEW_ITEM
+view all record details,VIEW_ITEM
+see that note information,VIEW_ITEM
+inspect this product info,VIEW_ITEM
+look at this report info,VIEW_ITEM
+display that record details,VIEW_ITEM
+view the task record,VIEW_ITEM
+open that document info,VIEW_ITEM
+see complete record information,VIEW_ITEM
+review project info,VIEW_ITEM
+show all task details,VIEW_ITEM
+open record info,VIEW_ITEM
+display all data content,VIEW_ITEM
+view that data,VIEW_ITEM
+see what's in record,VIEW_ITEM
+inspect that report,VIEW_ITEM
+view the entire file,VIEW_ITEM
+open this task info,VIEW_ITEM
+display file content,VIEW_ITEM
+see record content,VIEW_ITEM
+show all information about record,VIEW_ITEM
+look at this data file,VIEW_ITEM
+display the product record,VIEW_ITEM
+view user data,VIEW_ITEM
+open the project file,VIEW_ITEM
+see the data record,VIEW_ITEM
+review this report info,VIEW_ITEM
+show all product info,VIEW_ITEM
+display complete project details,VIEW_ITEM
+view full user record,VIEW_ITEM
+inspect document details,VIEW_ITEM
+see the task data,VIEW_ITEM
+open the order record,VIEW_ITEM
+display the report info,VIEW_ITEM
+view product information,VIEW_ITEM
+see this note,VIEW_ITEM
+review this document record,VIEW_ITEM
+show that product record,VIEW_ITEM
+open user info,VIEW_ITEM
+display full data details,VIEW_ITEM
+see report information,VIEW_ITEM
+view that record info,VIEW_ITEM
+look at project details,VIEW_ITEM
+inspect report details,VIEW_ITEM
+show all record information,VIEW_ITEM
+open file record,VIEW_ITEM
+display that report info,VIEW_ITEM
+view this data info,VIEW_ITEM
+see the note data,VIEW_ITEM
+open that note,VIEW_ITEM
+display report data,VIEW_ITEM
+see full record information,VIEW_ITEM
+view this content,VIEW_ITEM
+review data info,VIEW_ITEM
+show document record,VIEW_ITEM
+open this product info,VIEW_ITEM
+display complete order info,VIEW_ITEM
+view this file record,VIEW_ITEM
+see all product details,VIEW_ITEM
+inspect the file,VIEW_ITEM
+view task details,VIEW_ITEM
+open that report info,VIEW_ITEM
+display the note record,VIEW_ITEM
+look into this document,VIEW_ITEM
+see order record,VIEW_ITEM
+open record data,VIEW_ITEM
+display all information details,VIEW_ITEM
+view data content,VIEW_ITEM
+show full document info,VIEW_ITEM
+review project details,VIEW_ITEM
+see this record information,VIEW_ITEM
+open file info,VIEW_ITEM
+display order record,VIEW_ITEM
+view complete product info,VIEW_ITEM
+see task record,VIEW_ITEM
+inspect file details,VIEW_ITEM
+open that task record,VIEW_ITEM
+display that data info,VIEW_ITEM
+see the entire report,VIEW_ITEM
+review the document info,VIEW_ITEM
+view full project record,VIEW_ITEM
+show all document info,VIEW_ITEM
+open and view data,VIEW_ITEM
+display this record content,VIEW_ITEM
+see the user record,VIEW_ITEM
+view report record,VIEW_ITEM
+inspect that data record,VIEW_ITEM
+see the complete file,VIEW_ITEM
+open the project record,VIEW_ITEM
+display task record info,VIEW_ITEM
+view full content,VIEW_ITEM
+see all data,VIEW_ITEM
+review that task info,VIEW_ITEM
+show record information,VIEW_ITEM
+display product record,VIEW_ITEM
+open report data,VIEW_ITEM
+see complete data info,VIEW_ITEM
+view the entire project,VIEW_ITEM
+show all data details,VIEW_ITEM
+display the file record,VIEW_ITEM
+view that user record,VIEW_ITEM
+see record details info,VIEW_ITEM
+open and display file,VIEW_ITEM
+inspect this data record,VIEW_ITEM
+view this note details,VIEW_ITEM
+see full document info,VIEW_ITEM
+display project record info,VIEW_ITEM
+review that note info,VIEW_ITEM
+open this document record,VIEW_ITEM
+display report record,VIEW_ITEM
+see product information,VIEW_ITEM
+view that data record,VIEW_ITEM
+show this data info,VIEW_ITEM
+display file record info,VIEW_ITEM
+see the full product info,VIEW_ITEM
+open this project record,VIEW_ITEM
+view report content,VIEW_ITEM
+display complete record details,VIEW_ITEM
+see this product record,VIEW_ITEM
+inspect this record info,VIEW_ITEM
+show this record data,VIEW_ITEM
+open the report record,VIEW_ITEM
+display all content info,VIEW_ITEM
+view task information,VIEW_ITEM
+see all file info,VIEW_ITEM
+show record details info,VIEW_ITEM
+display this task record,VIEW_ITEM
+view full record info,VIEW_ITEM
+see this entry record,VIEW_ITEM
+inspect the note details,VIEW_ITEM
+open the record content,VIEW_ITEM
+display this data info,VIEW_ITEM
+see full project details,VIEW_ITEM
+review all record data,VIEW_ITEM
+show file information,VIEW_ITEM
+view all content details,VIEW_ITEM
+display project data info,VIEW_ITEM
+see this record file,VIEW_ITEM
+open document record,VIEW_ITEM
+display report file info,VIEW_ITEM
+view record data info,VIEW_ITEM
+see the project record,VIEW_ITEM
+review the order info,VIEW_ITEM
+show all record content,VIEW_ITEM
+open and inspect record,VIEW_ITEM
+display all task info,VIEW_ITEM
+view this data content,VIEW_ITEM
+see the entire record info,VIEW_ITEM
+inspect the document data,VIEW_ITEM
+display all report details,VIEW_ITEM
+view all product record,VIEW_ITEM
+show all record info,VIEW_ITEM
+open all content details,VIEW_ITEM
+display that project details,VIEW_ITEM
+see file data info,VIEW_ITEM
+view all task details,VIEW_ITEM
+show product record,VIEW_ITEM
+display file data info,VIEW_ITEM
+view this record data,VIEW_ITEM
+see the note record,VIEW_ITEM
+inspect this project record,VIEW_ITEM
+open report record info,VIEW_ITEM
+display this file info,VIEW_ITEM
+view complete report info,VIEW_ITEM
+see the product data,VIEW_ITEM
+show all record data,VIEW_ITEM
+display all project info,VIEW_ITEM
+open the data record info,VIEW_ITEM
+view the product record info,VIEW_ITEM
+see full order details,VIEW_ITEM
+review all data info,VIEW_ITEM
+display document record info,VIEW_ITEM
+show all project details,VIEW_ITEM
+open all data info,VIEW_ITEM
+view this report record,VIEW_ITEM
+display complete data record,VIEW_ITEM
+see the entire file info,VIEW_ITEM
+show all file details,VIEW_ITEM
+display all order info,VIEW_ITEM
+view complete document info,VIEW_ITEM
+see project record info,VIEW_ITEM
+open that product record,VIEW_ITEM
+display this order details,VIEW_ITEM
+view this task record,VIEW_ITEM
+see all data details,VIEW_ITEM
+inspect all record info,VIEW_ITEM
+show full task record,VIEW_ITEM
+display full project info,VIEW_ITEM

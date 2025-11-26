@@ -1,0 +1,241 @@
+text,label
+Send data,SUBMIT_FORM
+Send form,SUBMIT_FORM
+Finished,SUBMIT_FORM
+Save data,SUBMIT_FORM
+Complete,SUBMIT_FORM
+Confirm form,SUBMIT_FORM
+Submit information,SUBMIT_FORM
+Send entry,SUBMIT_FORM
+I'm done,SUBMIT_FORM
+Save and close,SUBMIT_FORM
+Finalize,SUBMIT_FORM
+Submit my input,SUBMIT_FORM
+Send details,SUBMIT_FORM
+All done,SUBMIT_FORM
+Save changes,SUBMIT_FORM
+Apply,SUBMIT_FORM
+Confirm data,SUBMIT_FORM
+Submit this,SUBMIT_FORM
+Send it,SUBMIT_FORM
+Finished with form,SUBMIT_FORM
+Save document,SUBMIT_FORM
+Process,SUBMIT_FORM
+Submit the form,SUBMIT_FORM
+Send the data,SUBMIT_FORM
+I'm finished,SUBMIT_FORM
+Save this form,SUBMIT_FORM
+Complete form,SUBMIT_FORM
+Finalize data,SUBMIT_FORM
+Submit and close,SUBMIT_FORM
+Send the entry,SUBMIT_FORM
+Done with this,SUBMIT_FORM
+Save and exit,SUBMIT_FORM
+Go,SUBMIT_FORM
+Confirm and submit,SUBMIT_FORM
+Submit form data,SUBMIT_FORM
+Send info,SUBMIT_FORM
+Task completed,SUBMIT_FORM
+Save everything,SUBMIT_FORM
+Execute form,SUBMIT_FORM
+Submit my form,SUBMIT_FORM
+Send current data,SUBMIT_FORM
+Finished here,SUBMIT_FORM
+Save the form,SUBMIT_FORM
+Complete the form,SUBMIT_FORM
+Finalize the input,SUBMIT_FORM
+Submit the information,SUBMIT_FORM
+Send the details,SUBMIT_FORM
+I am done,SUBMIT_FORM
+Save current form,SUBMIT_FORM
+Apply changes,SUBMIT_FORM
+Confirm and send,SUBMIT_FORM
+Submit entry,SUBMIT_FORM
+Send form content,SUBMIT_FORM
+That's it,SUBMIT_FORM
+Save and next,SUBMIT_FORM
+Process form,SUBMIT_FORM
+Submit all,SUBMIT_FORM
+Send everything,SUBMIT_FORM
+Done editing,SUBMIT_FORM
+Save and continue,SUBMIT_FORM
+Accept,SUBMIT_FORM
+Confirm completion,SUBMIT_FORM
+Submit now,SUBMIT_FORM
+Send the form now,SUBMIT_FORM
+Finished input,SUBMIT_FORM
+Save the data,SUBMIT_FORM
+Fill out and submit,SUBMIT_FORM
+Finalize the form,SUBMIT_FORM
+Submit and save,SUBMIT_FORM
+Send my data,SUBMIT_FORM
+All completed,SUBMIT_FORM
+Save my work,SUBMIT_FORM
+Confirm submission,SUBMIT_FORM
+Submit the current form,SUBMIT_FORM
+Send the entire form,SUBMIT_FORM
+Input complete,SUBMIT_FORM
+Save the current data,SUBMIT_FORM
+Apply form,SUBMIT_FORM
+Confirm all,SUBMIT_FORM
+Submit these details,SUBMIT_FORM
+Send this form,SUBMIT_FORM
+I'm good,SUBMIT_FORM
+Save the current entry,SUBMIT_FORM
+Complete the entry,SUBMIT_FORM
+Finalize submission,SUBMIT_FORM
+Submit the response,SUBMIT_FORM
+Send it in,SUBMIT_FORM
+Finished with entry,SUBMIT_FORM
+Save this,SUBMIT_FORM
+Confirm data entry,SUBMIT_FORM
+Submit and proceed,SUBMIT_FORM
+Send out,SUBMIT_FORM
+Done now,SUBMIT_FORM
+Save and submit,SUBMIT_FORM
+Alright submit,SUBMIT_FORM
+Submit data,SUBMIT_FORM
+Submit form,SUBMIT_FORM
+Form done,SUBMIT_FORM
+Save form,SUBMIT_FORM
+Save the form,SUBMIT_FORM
+submit the form,SUBMIT_FORM
+send the data,SUBMIT_FORM
+save and submit,SUBMIT_FORM
+finalize this form,SUBMIT_FORM
+click submit,SUBMIT_FORM
+process the form,SUBMIT_FORM
+send off the entries,SUBMIT_FORM
+submit my details,SUBMIT_FORM
+submit for review,SUBMIT_FORM
+confirm and submit,SUBMIT_FORM
+submit now,SUBMIT_FORM
+send now,SUBMIT_FORM
+save now,SUBMIT_FORM
+finalize now,SUBMIT_FORM
+submit this,SUBMIT_FORM
+process now,SUBMIT_FORM
+send entries,SUBMIT_FORM
+submit this data,SUBMIT_FORM
+submit the current,SUBMIT_FORM
+confirm and send,SUBMIT_FORM
+submit my form,SUBMIT_FORM
+send my data,SUBMIT_FORM
+save my form,SUBMIT_FORM
+finalize my form,SUBMIT_FORM
+click submit now,SUBMIT_FORM
+process my form,SUBMIT_FORM
+send my entries,SUBMIT_FORM
+submit current details,SUBMIT_FORM
+submit for approval,SUBMIT_FORM
+confirm my submission,SUBMIT_FORM
+submit the current form,SUBMIT_FORM
+send the current data,SUBMIT_FORM
+save the current,SUBMIT_FORM
+finalize the current,SUBMIT_FORM
+click submit button,SUBMIT_FORM
+process the current,SUBMIT_FORM
+send the current entries,SUBMIT_FORM
+submit my current details,SUBMIT_FORM
+submit for final,SUBMIT_FORM
+confirm the submission,SUBMIT_FORM
+submit all,SUBMIT_FORM
+send all,SUBMIT_FORM
+save all,SUBMIT_FORM
+finalize all,SUBMIT_FORM
+click submit all,SUBMIT_FORM
+process all,SUBMIT_FORM
+send all entries,SUBMIT_FORM
+submit all details,SUBMIT_FORM
+submit for processing,SUBMIT_FORM
+confirm all,SUBMIT_FORM
+submit this form,SUBMIT_FORM
+send this data,SUBMIT_FORM
+save this,SUBMIT_FORM
+finalize this,SUBMIT_FORM
+click submit on form,SUBMIT_FORM
+process this,SUBMIT_FORM
+send these entries,SUBMIT_FORM
+submit these details,SUBMIT_FORM
+submit for validation,SUBMIT_FORM
+confirm this form,SUBMIT_FORM
+submit the input,SUBMIT_FORM
+send the input,SUBMIT_FORM
+save the input,SUBMIT_FORM
+finalize the input,SUBMIT_FORM
+click submit input,SUBMIT_FORM
+process the input,SUBMIT_FORM
+send the input entries,SUBMIT_FORM
+submit my input,SUBMIT_FORM
+submit for acceptance,SUBMIT_FORM
+confirm the input,SUBMIT_FORM
+submit data,SUBMIT_FORM
+send data now,SUBMIT_FORM
+save data,SUBMIT_FORM
+finalize data,SUBMIT_FORM
+click submit data,SUBMIT_FORM
+process data,SUBMIT_FORM
+send data entries,SUBMIT_FORM
+submit details,SUBMIT_FORM
+submit for review now,SUBMIT_FORM
+confirm data submit,SUBMIT_FORM
+submit form input,SUBMIT_FORM
+send form data,SUBMIT_FORM
+save form data,SUBMIT_FORM
+finalize form data,SUBMIT_FORM
+click submit form,SUBMIT_FORM
+process form data,SUBMIT_FORM
+send form entries,SUBMIT_FORM
+submit form details,SUBMIT_FORM
+submit for action,SUBMIT_FORM
+confirm form submission,SUBMIT_FORM
+send the form,SUBMIT_FORM
+submit current data,SUBMIT_FORM
+save and send,SUBMIT_FORM
+finalize the input,SUBMIT_FORM
+process the entries,SUBMIT_FORM
+send the form now,SUBMIT_FORM
+submit my input,SUBMIT_FORM
+submit for review now,SUBMIT_FORM
+confirm and send now,SUBMIT_FORM
+process current form,SUBMIT_FORM
+Submit form,SUBMIT_FORM
+Submit,SUBMIT_FORM
+Send the form,SUBMIT_FORM
+Submit my information,SUBMIT_FORM
+Complete the form,SUBMIT_FORM
+Send,SUBMIT_FORM
+Submit the data,SUBMIT_FORM
+Finish and submit,SUBMIT_FORM
+Submit this,SUBMIT_FORM
+Click submit,SUBMIT_FORM
+Send my form,SUBMIT_FORM
+Submit the application,SUBMIT_FORM
+I want to submit,SUBMIT_FORM
+Confirm submission,SUBMIT_FORM
+Process the form,SUBMIT_FORM
+Send the details,SUBMIT_FORM
+Submit the filled form,SUBMIT_FORM
+Finalize and submit,SUBMIT_FORM
+Submit the response,SUBMIT_FORM
+Submit now,SUBMIT_FORM
+Submit this form,SUBMIT_FORM
+Please submit,SUBMIT_FORM
+Go ahead and submit,SUBMIT_FORM
+Submit the entries,SUBMIT_FORM
+Send in the form,SUBMIT_FORM
+I'm ready to submit,SUBMIT_FORM
+Submit the current form,SUBMIT_FORM
+Submit my answers,SUBMIT_FORM
+Send the form data,SUBMIT_FORM
+Submit the completed form,SUBMIT_FORM
+Initiate submission,SUBMIT_FORM
+Submit the whole form,SUBMIT_FORM
+Click the submit button,SUBMIT_FORM
+Send off the form,SUBMIT_FORM
+Submit for review,SUBMIT_FORM
+Final submit,SUBMIT_FORM
+Send the form to proceed,SUBMIT_FORM
+Submit my details,SUBMIT_FORM
+Finish submission,SUBMIT_FORM
+Submit the current page,SUBMIT_FORM

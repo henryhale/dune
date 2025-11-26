@@ -1,0 +1,241 @@
+text,label
+What's the forecast?,NOOP
+Sing me a song,NOOP
+Good morning,NOOP
+How's it going?,NOOP
+Just some text,NOOP
+What day is it?,NOOP
+Text my dad,NOOP
+Launch browser,NOOP
+Write an email,NOOP
+Tell me a story,NOOP
+What's up?,NOOP
+Can you play a podcast?,NOOP
+How do you feel?,NOOP
+Some other input,NOOP
+Set an alarm,NOOP
+What's the news?,NOOP
+Browse the internet,NOOP
+Send a message,NOOP
+Give me some trivia,NOOP
+Tell me about yourself,NOOP
+Play some tunes,NOOP
+What's your name?,NOOP
+Random words,NOOP
+Check my calendar,NOOP
+What's happening?,NOOP
+Search online,NOOP
+Draft a message,NOOP
+Read me a poem,NOOP
+Are you a bot?,NOOP
+Play something,NOOP
+Tell me about the weather,NOOP
+What is the date?,NOOP
+Start a timer,NOOP
+Hello there,NOOP
+Can you search Google?,NOOP
+Compose an email,NOOP
+What do you think?,NOOP
+Music,NOOP
+What are you?,NOOP
+Just saying hi,NOOP
+Show me current time,NOOP
+Call a friend,NOOP
+Open Google,NOOP
+Send an SMS,NOOP
+Tell me something interesting,NOOP
+How do I know you?,NOOP
+What kind of music?,NOOP
+Good afternoon,NOOP
+Gibberish,NOOP
+What's today's agenda?,NOOP
+Where am I?,NOOP
+Search for something on the web,NOOP
+Write an SMS,NOOP
+Inspire me,NOOP
+Are you real?,NOOP
+Background music,NOOP
+What's your favourite color?,NOOP
+Nonsense input,NOOP
+Remind me about,NOOP
+What's going on?,NOOP
+Open Firefox,NOOP
+Send a quick email,NOOP
+Give me a fun fact,NOOP
+Who created you?,NOOP
+Turn on music,NOOP
+Hi there,NOOP
+Random characters,NOOP
+Check my schedule,NOOP
+Where are we?,NOOP
+Open a website,NOOP
+Shoot an email,NOOP
+Entertain me,NOOP
+What is your purpose?,NOOP
+Play popular music,NOOP
+How old are you?,NOOP
+Arbitrary text,NOOP
+What's on my to-do list?,NOOP
+What is my location?,NOOP
+Launch default browser,NOOP
+Email someone,NOOP
+Make me laugh,NOOP
+Are you human?,NOOP
+Put on some music,NOOP
+Tell me more,NOOP
+Just chatting,NOOP
+What are my upcoming events?,NOOP
+What is the current location?,NOOP
+Browse for something,NOOP
+Send a new email,NOOP
+Give me a quote,NOOP
+Do you have emotions?,NOOP
+Play soft music,NOOP
+How can I reach you?,NOOP
+Random phrases,NOOP
+What is the day today?,NOOP
+Where can I find information?,NOOP
+Open a web page,NOOP
+Send an email to John,NOOP
+Hello,NOOP
+How are you?,NOOP
+this input is not a command,NOOP
+i dont understand that,NOOP
+what are you saying,NOOP
+please rephrase,NOOP
+thats not a valid command,NOOP
+this doesnt make sense,NOOP
+cant recognize that,NOOP
+not a command,NOOP
+undefined input,NOOP
+irrelevant phrase,NOOP
+just some random text,NOOP
+hello there,NOOP
+how is the weather,NOOP
+tell me a joke,NOOP
+what time is it,NOOP
+i need coffee,NOOP
+are you an ai,NOOP
+good morning,NOOP
+whats your name,NOOP
+this is just a sentence,NOOP
+random input here,NOOP
+some unrelated text,NOOP
+this is not a command,NOOP
+i cant follow that,NOOP
+what do you mean,NOOP
+can you say again,NOOP
+not a recognized command,NOOP
+this is gibberish,NOOP
+i am confused,NOOP
+some other phrase,NOOP
+another random string,NOOP
+not applicable here,NOOP
+this has no meaning,NOOP
+what is that,NOOP
+please clarify,NOOP
+thats incomprehensible,NOOP
+not a valid action,NOOP
+i dont know what that is,NOOP
+its not clear,NOOP
+unrelated sentence,NOOP
+just talking,NOOP
+this is a question,NOOP
+can you hear me,NOOP
+i need food,NOOP
+whats on tv,NOOP
+are you human,NOOP
+good evening,NOOP
+what do you prefer,NOOP
+this is a statement,NOOP
+talk to me,NOOP
+this is a sentence,NOOP
+i like apples,NOOP
+tell me something new,NOOP
+are you working,NOOP
+i am bored,NOOP
+whats up,NOOP
+how are you,NOOP
+what can you do,NOOP
+this is nonsense,NOOP
+random text input,NOOP
+not relevant,NOOP
+i just typed this,NOOP
+what is happening,NOOP
+please be clearer,NOOP
+that makes no sense,NOOP
+not an operation,NOOP
+i cannot understand,NOOP
+not sure what this is,NOOP
+gibberish here,NOOP
+just a few words,NOOP
+can we chat,NOOP
+whats for dinner,NOOP
+do you sleep,NOOP
+i need a break,NOOP
+how can i help you,NOOP
+i am well,NOOP
+what is fun,NOOP
+this is a test,NOOP
+random words,NOOP
+not a command at all,NOOP
+i do not get it,NOOP
+what information,NOOP
+say that again,NOOP
+not a command input,NOOP
+this is not helpful,NOOP
+i do not understand,NOOP
+gibberish input,NOOP
+random phrase,NOOP
+this is not what i asked,NOOP
+tell me about yourself,NOOP
+can you think,NOOP
+i want to relax,NOOP
+what are your limits,NOOP
+i feel good,NOOP
+what is important,NOOP
+this is a sentence now,NOOP
+random text here,NOOP
+not a command sentence,NOOP
+this is not a valid request,NOOP
+i cannot understand that,NOOP
+No operation,NOOP
+Ignore that,NOOP
+Do nothing,NOOP
+That's not a command,NOOP
+Unrecognized input,NOOP
+Invalid command,NOOP
+Not a valid instruction,NOOP
+Please rephrase,NOOP
+I don't understand,NOOP
+That's not an action,NOOP
+This is not a command,NOOP
+Can't process that,NOOP
+No action required,NOOP
+That input is not recognized,NOOP
+Command not found,NOOP
+Syntax error,NOOP
+I don't know what that means,NOOP
+Please try again,NOOP
+This input is not a command,NOOP
+No action can be taken,NOOP
+Not a command,NOOP
+This isn't an instruction,NOOP
+I don't have a command for that,NOOP
+That's not something I can do,NOOP
+Input not understood,NOOP
+Error: command not recognized,NOOP
+It seems like a no-op,NOOP
+I'm unable to process this as a command,NOOP
+This doesn't fit any command pattern,NOOP
+No command match,NOOP
+This is not actionable,NOOP
+That's not a function,NOOP
+Input could not be parsed,NOOP
+Please enter a valid command,NOOP
+This is not a recognized instruction,NOOP
+Nothing to do here,NOOP
+This input doesn't trigger an action,NOOP
+Unprocessable input,NOOP
+I can't find a command for this,NOOP
+Try another command,NOOP

@@ -1,0 +1,685 @@
+text,label
+Return,GO_BACK
+Navigate back,GO_BACK
+Go to previous screen,GO_BACK
+Take me back,GO_BACK
+Back up,GO_BACK
+Reverse direction,GO_BACK
+Go to the last page,GO_BACK
+Step back,GO_BACK
+Return to previous,GO_BACK
+Previous screen,GO_BACK
+Go to prior,GO_BACK
+Undo last navigation,GO_BACK
+Back out,GO_BACK
+Move back,GO_BACK
+Go to the previous view,GO_BACK
+One step back,GO_BACK
+Go backwards,GO_BACK
+Backward,GO_BACK
+Return to the last screen,GO_BACK
+Go to the previous,GO_BACK
+Return previous,GO_BACK
+Previous view,GO_BACK
+Go to the prior screen,GO_BACK
+Take me to the previous page,GO_BACK
+Go back one,GO_BACK
+Back a page,GO_BACK
+Return to the previous view,GO_BACK
+Go back to where I was,GO_BACK
+Revert,GO_BACK
+Previous section,GO_BACK
+Go to the last view,GO_BACK
+Backtrack,GO_BACK
+Navigate to the previous page,GO_BACK
+Go back one step,GO_BACK
+Return to the prior screen,GO_BACK
+Back to the previous,GO_BACK
+Previous state,GO_BACK
+Go to the former page,GO_BACK
+Move to previous,GO_BACK
+Go to the page before,GO_BACK
+Go back to the last screen,GO_BACK
+Return to the earlier page,GO_BACK
+Previous location,GO_BACK
+Go to the preceding page,GO_BACK
+Back up a page,GO_BACK
+Return to the previous location,GO_BACK
+Go back one screen,GO_BACK
+Back to last,GO_BACK
+Return to previous section,GO_BACK
+Go back to the prior view,GO_BACK
+Backward one step,GO_BACK
+Navigate to the last page,GO_BACK
+Go back a screen,GO_BACK
+Return to previous state,GO_BACK
+Back to the last screen,GO_BACK
+Previous context,GO_BACK
+Go back to the last visited page,GO_BACK
+Return to the original screen,GO_BACK
+Previous entry,GO_BACK
+Go to the former view,GO_BACK
+Move back a step,GO_BACK
+Go to the page just before,GO_BACK
+Return to previous context,GO_BACK
+Back one screen,GO_BACK
+Previous position,GO_BACK
+Go to the screen before,GO_BACK
+Navigate to the prior view,GO_BACK
+Go back to the last context,GO_BACK
+Return to the earlier view,GO_BACK
+Previous point,GO_BACK
+Go to the page I was just on,GO_BACK
+Move back one page,GO_BACK
+Go to the previous tab,GO_BACK
+Return to prior location,GO_BACK
+Back out of this,GO_BACK
+Previous window,GO_BACK
+Go to the screen I just left,GO_BACK
+Navigate to previous state,GO_BACK
+Go back to the last page I saw,GO_BACK
+Return to previous tab,GO_BACK
+Back to previous window,GO_BACK
+Go to the earlier screen,GO_BACK
+Move to the previous view,GO_BACK
+Go to the last active page,GO_BACK
+Return to prior window,GO_BACK
+Previous panel,GO_BACK
+Go back a panel,GO_BACK
+Navigate to the previous panel,GO_BACK
+Go back one tab,GO_BACK
+Return to the prior tab,GO_BACK
+Back to the previous panel,GO_BACK
+Previous form,GO_BACK
+Go back from here,GO_BACK
+Return to the previous form,GO_BACK
+Go back,GO_BACK
+Back,GO_BACK
+Previous page,GO_BACK
+Previous view,GO_BACK
+Previous screen,GO_BACK
+Move back,GO_BACK
+go back to previous screen,GO_BACK
+return to last page,GO_BACK
+navigate back now,GO_BACK
+take me to prior view,GO_BACK
+back a page please,GO_BACK
+go to previous location,GO_BACK
+back to previous,GO_BACK
+return to previous,GO_BACK
+go back now,GO_BACK
+previous screen please,GO_BACK
+go back a step,GO_BACK
+return to prior,GO_BACK
+navigate backward,GO_BACK
+take me back,GO_BACK
+back one screen,GO_BACK
+go to last position,GO_BACK
+back to the prior,GO_BACK
+return to the last,GO_BACK
+go back to last,GO_BACK
+previous view please,GO_BACK
+go back one,GO_BACK
+return to last,GO_BACK
+navigate past,GO_BACK
+take me to last,GO_BACK
+back a level,GO_BACK
+go to previous view,GO_BACK
+back to an old,GO_BACK
+return to an earlier,GO_BACK
+go back to prior,GO_BACK
+previous step please,GO_BACK
+go back home,GO_BACK
+return to home,GO_BACK
+navigate to home,GO_BACK
+take me to home,GO_BACK
+back to start,GO_BACK
+go to main,GO_BACK
+back to the main,GO_BACK
+return to the main,GO_BACK
+go back to main,GO_BACK
+main screen please,GO_BACK
+go back to the start,GO_BACK
+return to the beginning,GO_BACK
+navigate to the start,GO_BACK
+take me to the beginning,GO_BACK
+back to the initial,GO_BACK
+go to initial,GO_BACK
+back to the initial screen,GO_BACK
+return to initial,GO_BACK
+go back to initial,GO_BACK
+initial screen please,GO_BACK
+go back the screen,GO_BACK
+return the page,GO_BACK
+navigate the back,GO_BACK
+take me the view,GO_BACK
+back the page,GO_BACK
+go to the previous,GO_BACK
+back to the previous screen,GO_BACK
+return to the last page now,GO_BACK
+go back the last,GO_BACK
+previous location please,GO_BACK
+go back to my previous,GO_BACK
+return to my last,GO_BACK
+navigate my back,GO_BACK
+take me my prior,GO_BACK
+back my page,GO_BACK
+go to my previous,GO_BACK
+back my previous,GO_BACK
+return my previous,GO_BACK
+go back my back,GO_BACK
+my previous screen,GO_BACK
+go back in the app,GO_BACK
+return in the app,GO_BACK
+navigate in the app,GO_BACK
+take me in the app,GO_BACK
+back in the app,GO_BACK
+go to in the app,GO_BACK
+back in the application,GO_BACK
+return in the application,GO_BACK
+go back in the application,GO_BACK
+in the app please,GO_BACK
+go back a view,GO_BACK
+return a view,GO_BACK
+navigate a view,GO_BACK
+take me a view,GO_BACK
+back a view,GO_BACK
+go to a view,GO_BACK
+back the view,GO_BACK
+return the view,GO_BACK
+go back the view,GO_BACK
+a view please,GO_BACK
+return to prior page,GO_BACK
+navigate to home screen,GO_BACK
+go back a page,GO_BACK
+return to main view,GO_BACK
+take me to last view,GO_BACK
+back to previous state,GO_BACK
+go to the start,GO_BACK
+return to the dashboard,GO_BACK
+navigate back in app,GO_BACK
+back to the main menu,GO_BACK
+If possible move backward,GO_BACK
+Back to the last page,GO_BACK
+Bring to dashboard,GO_BACK
+Please head backward,GO_BACK
+Can you go to previous,GO_BACK
+Thanks take back,GO_BACK
+If possible move to dashboard,GO_BACK
+Kindly please go one step back,GO_BACK
+Please return back,GO_BACK
+Would you navigate to previous,GO_BACK
+Thanks can you go to the previous menu,GO_BACK
+Take to dashboard,GO_BACK
+Thanks go to the last page,GO_BACK
+Please step to prior view,GO_BACK
+Kindly let's go back,GO_BACK
+Please can you go to previous screen,GO_BACK
+Please take to the previous menu,GO_BACK
+Please can you go one step back,GO_BACK
+If possible navigate to previous screen,GO_BACK
+If possible back one step back,GO_BACK
+Thanks bring to the previous menu,GO_BACK
+If possible please go to prior view,GO_BACK
+Would you back to home,GO_BACK
+Head to the last page,GO_BACK
+Can you go to previous screen,GO_BACK
+Return to dashboard,GO_BACK
+Would you back to previous screen,GO_BACK
+Please move back,GO_BACK
+If possible back to to home,GO_BACK
+Please let's go to prior view,GO_BACK
+If possible show me to the previous menu,GO_BACK
+Thanks show me to previous,GO_BACK
+Please bring to the last page,GO_BACK
+Please go to the last page,GO_BACK
+If possible let's go to previous,GO_BACK
+If possible let's go back,GO_BACK
+Kindly back to one step back,GO_BACK
+Thanks bring backward,GO_BACK
+Step one step back,GO_BACK
+If possible move to the previous menu,GO_BACK
+Would you navigate to the previous menu,GO_BACK
+Would you return to previous screen,GO_BACK
+If possible can you go to home,GO_BACK
+If possible let's go backward,GO_BACK
+If possible bring to previous,GO_BACK
+Move one step back,GO_BACK
+Step to prior view,GO_BACK
+Show me to the previous menu,GO_BACK
+If possible head back,GO_BACK
+Thanks step to prior view,GO_BACK
+If possible back to home,GO_BACK
+Please let's go backward,GO_BACK
+Return to the last page,GO_BACK
+Thanks step back,GO_BACK
+Back backward,GO_BACK
+Please back to to previous screen,GO_BACK
+Thanks go backward,GO_BACK
+Kindly go to prior view,GO_BACK
+Kindly take to the last page,GO_BACK
+Thanks let's go to home,GO_BACK
+Please can you go backward,GO_BACK
+Thanks back to previous,GO_BACK
+Would you head to home,GO_BACK
+Kindly can you go to the previous menu,GO_BACK
+Head one step back,GO_BACK
+Can you go to dashboard,GO_BACK
+Kindly show me to the previous menu,GO_BACK
+Kindly go to previous,GO_BACK
+Return to prior view,GO_BACK
+Kindly head to home,GO_BACK
+Let's go to prior view,GO_BACK
+Thanks go to previous,GO_BACK
+If possible bring to the previous menu,GO_BACK
+Back to to the previous menu,GO_BACK
+Kindly go to home,GO_BACK
+Kindly back to prior view,GO_BACK
+Thanks please go to the last page,GO_BACK
+Bring back,GO_BACK
+Let's go to previous screen,GO_BACK
+If possible navigate to the previous menu,GO_BACK
+Bring one step back,GO_BACK
+If possible bring to the last page,GO_BACK
+Thanks can you go to home,GO_BACK
+Please navigate back,GO_BACK
+If possible navigate back,GO_BACK
+If possible can you go one step back,GO_BACK
+Head to home,GO_BACK
+Would you move to previous screen,GO_BACK
+Would you move one step back,GO_BACK
+Kindly back to to previous screen,GO_BACK
+If possible back to to prior view,GO_BACK
+Kindly take one step back,GO_BACK
+Thanks can you go backward,GO_BACK
+Would you move to dashboard,GO_BACK
+Kindly head to previous screen,GO_BACK
+Please bring to the previous menu,GO_BACK
+If possible navigate to the last page,GO_BACK
+If possible show me one step back,GO_BACK
+Back to one step back,GO_BACK
+Kindly move to dashboard,GO_BACK
+Would you can you go one step back,GO_BACK
+Please back to to prior view,GO_BACK
+Kindly can you go to previous screen,GO_BACK
+Thanks please go to previous screen,GO_BACK
+Kindly navigate to the previous menu,GO_BACK
+If possible navigate to prior view,GO_BACK
+Return to the previous menu,GO_BACK
+Would you head backward,GO_BACK
+Kindly show me to the last page,GO_BACK
+Would you go to prior view,GO_BACK
+Move to previous,GO_BACK
+Please return to home,GO_BACK
+Please back to the last page,GO_BACK
+Thanks head to the previous menu,GO_BACK
+Thanks head to prior view,GO_BACK
+Please move backward,GO_BACK
+Navigate one step back,GO_BACK
+Thanks can you go to previous,GO_BACK
+If possible please go back,GO_BACK
+Head backward,GO_BACK
+Kindly back to to the previous menu,GO_BACK
+Kindly head to dashboard,GO_BACK
+If possible head to the previous menu,GO_BACK
+Would you back backward,GO_BACK
+Kindly show me to prior view,GO_BACK
+Please take to dashboard,GO_BACK
+Kindly back back,GO_BACK
+Please step to the last page,GO_BACK
+Would you bring to prior view,GO_BACK
+Please please go to previous screen,GO_BACK
+Please please go one step back,GO_BACK
+Would you move backward,GO_BACK
+If possible move to the last page,GO_BACK
+Would you back to back,GO_BACK
+If possible return to prior view,GO_BACK
+Move back,GO_BACK
+Back to to previous,GO_BACK
+Kindly can you go to prior view,GO_BACK
+Kindly bring back,GO_BACK
+Thanks let's go backward,GO_BACK
+Please return backward,GO_BACK
+Would you back to previous,GO_BACK
+Thanks can you go back,GO_BACK
+If possible let's go to prior view,GO_BACK
+Can you go backward,GO_BACK
+Would you step back,GO_BACK
+Kindly let's go to home,GO_BACK
+Please go backward,GO_BACK
+Kindly back to previous screen,GO_BACK
+Please step to dashboard,GO_BACK
+Kindly navigate to prior view,GO_BACK
+Back to home,GO_BACK
+Take to prior view,GO_BACK
+Show me back,GO_BACK
+If possible take one step back,GO_BACK
+Show me to prior view,GO_BACK
+If possible show me to previous screen,GO_BACK
+Thanks can you go to previous screen,GO_BACK
+Kindly take to previous screen,GO_BACK
+Take to the last page,GO_BACK
+Thanks let's go back,GO_BACK
+If possible bring to prior view,GO_BACK
+If possible head to dashboard,GO_BACK
+If possible go backward,GO_BACK
+Thanks please go to dashboard,GO_BACK
+Thanks move one step back,GO_BACK
+Thanks navigate to prior view,GO_BACK
+Please go to the previous menu,GO_BACK
+Kindly step to dashboard,GO_BACK
+Back back,GO_BACK
+If possible can you go to the previous menu,GO_BACK
+Please go back,GO_BACK
+Thanks show me to the previous menu,GO_BACK
+Let's go to home,GO_BACK
+Please please go to home,GO_BACK
+Kindly bring backward,GO_BACK
+If possible bring one step back,GO_BACK
+Please navigate one step back,GO_BACK
+Please back to to home,GO_BACK
+Kindly show me to previous,GO_BACK
+Head to the previous menu,GO_BACK
+If possible back to previous screen,GO_BACK
+Would you let's go to home,GO_BACK
+Would you go to previous screen,GO_BACK
+Take to previous screen,GO_BACK
+Please take to previous,GO_BACK
+Bring to the last page,GO_BACK
+Would you bring backward,GO_BACK
+Thanks can you go one step back,GO_BACK
+Would you back to to previous screen,GO_BACK
+Go one step back,GO_BACK
+If possible bring back,GO_BACK
+Go backward,GO_BACK
+Kindly move to prior view,GO_BACK
+Navigate to prior view,GO_BACK
+Please go to dashboard,GO_BACK
+Would you go backward,GO_BACK
+If possible step to previous,GO_BACK
+If possible go to home,GO_BACK
+Step backward,GO_BACK
+Would you please go back,GO_BACK
+Kindly bring one step back,GO_BACK
+If possible step to the previous menu,GO_BACK
+Move backward,GO_BACK
+Thanks return to prior view,GO_BACK
+Please take to the last page,GO_BACK
+Would you step to the last page,GO_BACK
+Please please go to prior view,GO_BACK
+Would you show me one step back,GO_BACK
+Navigate backward,GO_BACK
+If possible bring to previous screen,GO_BACK
+Kindly navigate to previous,GO_BACK
+Would you go to dashboard,GO_BACK
+Would you please go to previous,GO_BACK
+Return one step back,GO_BACK
+Go to previous screen,GO_BACK
+Would you please go to dashboard,GO_BACK
+Would you bring one step back,GO_BACK
+Please head to the last page,GO_BACK
+If possible take to home,GO_BACK
+Thanks bring to previous screen,GO_BACK
+Move to home,GO_BACK
+Would you navigate back,GO_BACK
+Let's go to the last page,GO_BACK
+Bring to prior view,GO_BACK
+Go to home,GO_BACK
+Kindly bring to previous,GO_BACK
+If possible back to dashboard,GO_BACK
+Let's go one step back,GO_BACK
+Thanks let's go to the last page,GO_BACK
+Return backward,GO_BACK
+Thanks please go one step back,GO_BACK
+Go back,GO_BACK
+Thanks can you go to dashboard,GO_BACK
+Kindly please go to home,GO_BACK
+Would you head to prior view,GO_BACK
+Please show me to home,GO_BACK
+Let's go to the previous menu,GO_BACK
+Please return one step back,GO_BACK
+If possible please go one step back,GO_BACK
+Would you return to home,GO_BACK
+Navigate to previous screen,GO_BACK
+Thanks show me to home,GO_BACK
+Thanks back back,GO_BACK
+Kindly return to the last page,GO_BACK
+Kindly back to to prior view,GO_BACK
+Take to home,GO_BACK
+Please bring to prior view,GO_BACK
+Please back backward,GO_BACK
+Take back,GO_BACK
+Back to backward,GO_BACK
+Back to to dashboard,GO_BACK
+Kindly step to previous screen,GO_BACK
+Would you please go to the previous menu,GO_BACK
+Back to to prior view,GO_BACK
+Please go one step back,GO_BACK
+Move to dashboard,GO_BACK
+If possible can you go to dashboard,GO_BACK
+Return to previous,GO_BACK
+Please move to previous screen,GO_BACK
+Take backward,GO_BACK
+Move to previous screen,GO_BACK
+Please return to previous,GO_BACK
+Please step to the previous menu,GO_BACK
+If possible go to the last page,GO_BACK
+Would you return backward,GO_BACK
+Kindly take to home,GO_BACK
+Thanks take to previous,GO_BACK
+Navigate to the previous menu,GO_BACK
+Please can you go to the previous menu,GO_BACK
+If possible let's go one step back,GO_BACK
+Thanks show me one step back,GO_BACK
+Would you please go to home,GO_BACK
+Please show me to the previous menu,GO_BACK
+Thanks return to previous,GO_BACK
+Back to prior view,GO_BACK
+Kindly let's go to dashboard,GO_BACK
+Thanks back to back,GO_BACK
+Head back,GO_BACK
+Kindly take back,GO_BACK
+Back to to the last page,GO_BACK
+Can you go to the last page,GO_BACK
+Kindly step to prior view,GO_BACK
+Please return to the previous menu,GO_BACK
+Kindly back to to home,GO_BACK
+Please bring to dashboard,GO_BACK
+Head to prior view,GO_BACK
+Please can you go to the last page,GO_BACK
+Navigate to the last page,GO_BACK
+Please step backward,GO_BACK
+Thanks show me back,GO_BACK
+Please back to to the last page,GO_BACK
+Would you bring to previous screen,GO_BACK
+Navigate to dashboard,GO_BACK
+Thanks please go back,GO_BACK
+Step to the previous menu,GO_BACK
+Kindly head backward,GO_BACK
+Show me to previous screen,GO_BACK
+Back to previous,GO_BACK
+Thanks let's go to previous,GO_BACK
+Please return to prior view,GO_BACK
+Kindly back to back,GO_BACK
+Go to the previous menu,GO_BACK
+Kindly please go back,GO_BACK
+If possible can you go backward,GO_BACK
+Thanks navigate to previous screen,GO_BACK
+Take to the previous menu,GO_BACK
+If possible head one step back,GO_BACK
+Would you return one step back,GO_BACK
+Navigate to previous,GO_BACK
+If possible step one step back,GO_BACK
+If possible back to previous,GO_BACK
+Thanks head to home,GO_BACK
+Back to to home,GO_BACK
+Would you bring to previous,GO_BACK
+Kindly back to the last page,GO_BACK
+Thanks step to home,GO_BACK
+If possible show me to home,GO_BACK
+Navigate back,GO_BACK
+Would you step to previous screen,GO_BACK
+Thanks step to previous,GO_BACK
+Can you go to prior view,GO_BACK
+Can you go to the previous menu,GO_BACK
+If possible move to previous screen,GO_BACK
+Please return to dashboard,GO_BACK
+If possible step to previous screen,GO_BACK
+Thanks take backward,GO_BACK
+Thanks back to to prior view,GO_BACK
+Thanks bring to previous,GO_BACK
+If possible bring to home,GO_BACK
+If possible step back,GO_BACK
+If possible step to prior view,GO_BACK
+Kindly show me back,GO_BACK
+Kindly move back,GO_BACK
+Step to previous screen,GO_BACK
+Kindly back to home,GO_BACK
+Would you back to backward,GO_BACK
+Step to home,GO_BACK
+Would you take to prior view,GO_BACK
+Kindly bring to home,GO_BACK
+Would you take back,GO_BACK
+Bring to the previous menu,GO_BACK
+Thanks take one step back,GO_BACK
+Go to previous,GO_BACK
+If possible show me to previous,GO_BACK
+Please head one step back,GO_BACK
+Bring to home,GO_BACK
+Show me to home,GO_BACK
+Return to previous screen,GO_BACK
+Please go to prior view,GO_BACK
+If possible return to the last page,GO_BACK
+Would you head to dashboard,GO_BACK
+Please go to home,GO_BACK
+Please let's go back,GO_BACK
+Go to the last page,GO_BACK
+Kindly return to home,GO_BACK
+If possible let's go to the previous menu,GO_BACK
+Back one step back,GO_BACK
+Please step to previous,GO_BACK
+Show me to the last page,GO_BACK
+Would you show me to the previous menu,GO_BACK
+Kindly back to to dashboard,GO_BACK
+Take one step back,GO_BACK
+If possible show me to prior view,GO_BACK
+Move to the last page,GO_BACK
+Kindly back backward,GO_BACK
+Would you back to to home,GO_BACK
+Thanks navigate to home,GO_BACK
+Thanks go one step back,GO_BACK
+Please step to home,GO_BACK
+If possible let's go to the last page,GO_BACK
+Would you step one step back,GO_BACK
+Would you take to dashboard,GO_BACK
+Please navigate to home,GO_BACK
+Please navigate to prior view,GO_BACK
+Kindly please go to previous,GO_BACK
+Step to the last page,GO_BACK
+Thanks please go to previous,GO_BACK
+Please let's go to dashboard,GO_BACK
+Thanks go to previous screen,GO_BACK
+Kindly go back,GO_BACK
+Head to previous,GO_BACK
+Would you step to dashboard,GO_BACK
+If possible back to to the previous menu,GO_BACK
+Thanks go to home,GO_BACK
+If possible can you go back,GO_BACK
+Would you let's go to previous,GO_BACK
+Thanks back to to dashboard,GO_BACK
+Return back,GO_BACK
+Would you bring back,GO_BACK
+If possible step backward,GO_BACK
+Kindly return back,GO_BACK
+Please let's go to the previous menu,GO_BACK
+If possible bring to dashboard,GO_BACK
+Go to prior view,GO_BACK
+Back to dashboard,GO_BACK
+Bring to previous screen,GO_BACK
+Thanks take to home,GO_BACK
+Would you back to to prior view,GO_BACK
+Step to dashboard,GO_BACK
+Can you go one step back,GO_BACK
+If possible back to to previous,GO_BACK
+Kindly back one step back,GO_BACK
+Please go to previous screen,GO_BACK
+Take to previous,GO_BACK
+Thanks return to dashboard,GO_BACK
+If possible take to dashboard,GO_BACK
+Can you go to home,GO_BACK
+Please move to prior view,GO_BACK
+If possible navigate to dashboard,GO_BACK
+Would you navigate to dashboard,GO_BACK
+Would you bring to dashboard,GO_BACK
+Kindly take to prior view,GO_BACK
+If possible take back,GO_BACK
+Show me to previous,GO_BACK
+Let's go to previous,GO_BACK
+Please navigate backward,GO_BACK
+Would you back to the previous menu,GO_BACK
+Would you step to home,GO_BACK
+Would you take to the previous menu,GO_BACK
+Please head to prior view,GO_BACK
+Move to the previous menu,GO_BACK
+Kindly let's go to previous,GO_BACK
+Thanks back to backward,GO_BACK
+Please step back,GO_BACK
+Kindly can you go to the last page,GO_BACK
+Please bring to previous,GO_BACK
+Head to previous screen,GO_BACK
+Thanks return backward,GO_BACK
+If possible return to home,GO_BACK
+Return to home,GO_BACK
+Can you go back,GO_BACK
+Please take backward,GO_BACK
+Navigate to home,GO_BACK
+If possible show me backward,GO_BACK
+Would you go to home,GO_BACK
+Thanks bring one step back,GO_BACK
+Show me to dashboard,GO_BACK
+Would you move to home,GO_BACK
+Would you head to the previous menu,GO_BACK
+Show me one step back,GO_BACK
+Please navigate to the previous menu,GO_BACK
+If possible back to to previous screen,GO_BACK
+Kindly show me to dashboard,GO_BACK
+Go back,GO_BACK
+Take me back,GO_BACK
+Return to the previous screen,GO_BACK
+Navigate back,GO_BACK
+Go to the previous page,GO_BACK
+Back,GO_BACK
+Backtrack,GO_BACK
+Return,GO_BACK
+Go to the last view,GO_BACK
+Previous screen,GO_BACK
+Step back,GO_BACK
+Go back one step,GO_BACK
+I want to go back,GO_BACK
+Move back,GO_BACK
+Return to where I was,GO_BACK
+Go to the prior page,GO_BACK
+Can you go back",GO_BACK
+Back to the previous,GO_BACK
+Reverse navigation,GO_BACK
+Take me to the last screen,GO_BACK
+Go back to the start,GO_BACK
+Return to previous,GO_BACK
+Move to previous,GO_BACK
+Go back now,GO_BACK
+Show me the last page,GO_BACK
+Back to previous section,GO_BACK
+Can we go back",GO_BACK
+Navigate to previous,GO_BACK
+Back one page,GO_BACK
+Return to the prior view,GO_BACK
+I need to go back,GO_BACK
+Go to the page before,GO_BACK
+Bring me back,GO_BACK
+Go to the last location,GO_BACK
+Back up,GO_BACK
+Go back to the last place,GO_BACK
+Return to the original screen,GO_BACK
+Shift back,GO_BACK
+Go back to the earlier view,GO_BACK
+Previous,GO_BACK

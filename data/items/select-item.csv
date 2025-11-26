@@ -1,0 +1,817 @@
+text,label
+Pick this,SELECT_ITEM
+Choose task,SELECT_ITEM
+Select the item,SELECT_ITEM
+Mark this item,SELECT_ITEM
+Activate item,SELECT_ITEM
+Click task,SELECT_ITEM
+Make this active,SELECT_ITEM
+Toggle this,SELECT_ITEM
+Select the task,SELECT_ITEM
+Select this entry,SELECT_ITEM
+Choose item,SELECT_ITEM
+Engage this item,SELECT_ITEM
+Hit this item,SELECT_ITEM
+Opt for this task,SELECT_ITEM
+Select current item,SELECT_ITEM
+Switch this on,SELECT_ITEM
+Choose this record,SELECT_ITEM
+Pick the item,SELECT_ITEM
+Select it,SELECT_ITEM
+Highlight this task,SELECT_ITEM
+Toggle the item,SELECT_ITEM
+Select that task,SELECT_ITEM
+Choose this element,SELECT_ITEM
+Activate the item,SELECT_ITEM
+Click on this,SELECT_ITEM
+Select the current task,SELECT_ITEM
+Mark this as selected,SELECT_ITEM
+Choose this item,SELECT_ITEM
+Engage the task,SELECT_ITEM
+Toggle current item,SELECT_ITEM
+Select this particular item,SELECT_ITEM
+Pick a task,SELECT_ITEM
+Choose that item,SELECT_ITEM
+Highlight the item,SELECT_ITEM
+Click to select,SELECT_ITEM
+Select this field,SELECT_ITEM
+Switch item,SELECT_ITEM
+Choose this option,SELECT_ITEM
+Select the entry,SELECT_ITEM
+Activate this task,SELECT_ITEM
+Toggle the task,SELECT_ITEM
+Select specific item,SELECT_ITEM
+Choose the task,SELECT_ITEM
+Mark the item,SELECT_ITEM
+Click to activate,SELECT_ITEM
+Select the displayed item,SELECT_ITEM
+Toggle selection,SELECT_ITEM
+Choose the item,SELECT_ITEM
+Pick that item,SELECT_ITEM
+Select this instance,SELECT_ITEM
+Activate the task,SELECT_ITEM
+Click here to select,SELECT_ITEM
+Select the current entry,SELECT_ITEM
+Mark as chosen,SELECT_ITEM
+Choose the current item,SELECT_ITEM
+Engage the current item,SELECT_ITEM
+Toggle the current task,SELECT_ITEM
+Select the highlighted item,SELECT_ITEM
+Pick the task,SELECT_ITEM
+Choose this option here,SELECT_ITEM
+Select this component,SELECT_ITEM
+Activate selected item,SELECT_ITEM
+Click on the task,SELECT_ITEM
+Select this row,SELECT_ITEM
+Toggle item selection,SELECT_ITEM
+Choose this value,SELECT_ITEM
+Select the indicated item,SELECT_ITEM
+Mark the task,SELECT_ITEM
+Click to choose,SELECT_ITEM
+Select this element now,SELECT_ITEM
+Toggle this entry,SELECT_ITEM
+Choose this specific task,SELECT_ITEM
+Select the item presented,SELECT_ITEM
+Activate this component,SELECT_ITEM
+Click on the currently viewed item,SELECT_ITEM
+Select this choice,SELECT_ITEM
+Toggle current selection,SELECT_ITEM
+Choose this selection,SELECT_ITEM
+Select the item on screen,SELECT_ITEM
+Mark this entry,SELECT_ITEM
+Click to toggle,SELECT_ITEM
+Select the highlighted task,SELECT_ITEM
+Toggle the chosen item,SELECT_ITEM
+Choose the specific item,SELECT_ITEM
+Select this data point,SELECT_ITEM
+Activate the current task,SELECT_ITEM
+Click on item,SELECT_ITEM
+Select this particular task,SELECT_ITEM
+Toggle this option,SELECT_ITEM
+Choose the displayed item,SELECT_ITEM
+Select the entry shown,SELECT_ITEM
+Mark the current item,SELECT_ITEM
+Click on the highlighted item,SELECT_ITEM
+Select this option to activate,SELECT_ITEM
+Toggle the data,SELECT_ITEM
+Choose this one,SELECT_ITEM
+Click this item,SELECT_ITEM
+Select item,SELECT_ITEM
+Toggle,SELECT_ITEM
+Select,SELECT_ITEM
+select item three,SELECT_ITEM
+choose this particular one,SELECT_ITEM
+toggle selection for task,SELECT_ITEM
+mark this as selected,SELECT_ITEM
+select the highlighted item,SELECT_ITEM
+pick that one now,SELECT_ITEM
+select current item,SELECT_ITEM
+make this active,SELECT_ITEM
+enable selection,SELECT_ITEM
+highlight this item,SELECT_ITEM
+select this,SELECT_ITEM
+choose this item,SELECT_ITEM
+toggle the selection,SELECT_ITEM
+mark as chosen,SELECT_ITEM
+select the entry,SELECT_ITEM
+pick this item,SELECT_ITEM
+select the current,SELECT_ITEM
+make this chosen,SELECT_ITEM
+enable the selection,SELECT_ITEM
+highlight current,SELECT_ITEM
+select an item,SELECT_ITEM
+choose an item,SELECT_ITEM
+toggle the current,SELECT_ITEM
+mark this item,SELECT_ITEM
+select the current item,SELECT_ITEM
+pick the item,SELECT_ITEM
+select it,SELECT_ITEM
+make it active,SELECT_ITEM
+enable this,SELECT_ITEM
+highlight the selection,SELECT_ITEM
+select the choice,SELECT_ITEM
+choose the one,SELECT_ITEM
+toggle the selection now,SELECT_ITEM
+mark as selected now,SELECT_ITEM
+select the displayed,SELECT_ITEM
+pick the highlighted,SELECT_ITEM
+select the option,SELECT_ITEM
+make this the one,SELECT_ITEM
+enable option,SELECT_ITEM
+highlight chosen,SELECT_ITEM
+select this option,SELECT_ITEM
+choose the displayed,SELECT_ITEM
+toggle this,SELECT_ITEM
+mark current as selected,SELECT_ITEM
+select the single item,SELECT_ITEM
+pick the current,SELECT_ITEM
+select the current choice,SELECT_ITEM
+make this the focus,SELECT_ITEM
+enable the option,SELECT_ITEM
+highlight the option,SELECT_ITEM
+select the element,SELECT_ITEM
+choose the element,SELECT_ITEM
+toggle current selection,SELECT_ITEM
+mark this current,SELECT_ITEM
+select the displayed item,SELECT_ITEM
+pick the single item,SELECT_ITEM
+select this one,SELECT_ITEM
+make this item active,SELECT_ITEM
+enable the current,SELECT_ITEM
+highlight the active,SELECT_ITEM
+select my choice,SELECT_ITEM
+choose my option,SELECT_ITEM
+toggle the choice,SELECT_ITEM
+mark my choice,SELECT_ITEM
+select my current,SELECT_ITEM
+pick my choice,SELECT_ITEM
+select my current item,SELECT_ITEM
+make my choice active,SELECT_ITEM
+enable my selection,SELECT_ITEM
+highlight my item,SELECT_ITEM
+select the entry now,SELECT_ITEM
+choose the entry now,SELECT_ITEM
+toggle entry,SELECT_ITEM
+mark entry as selected,SELECT_ITEM
+select the current entry,SELECT_ITEM
+pick the entry,SELECT_ITEM
+select the entry item,SELECT_ITEM
+make entry active,SELECT_ITEM
+enable entry selection,SELECT_ITEM
+highlight the entry,SELECT_ITEM
+select a single item,SELECT_ITEM
+choose a single item,SELECT_ITEM
+toggle an item,SELECT_ITEM
+mark an item,SELECT_ITEM
+select an item now,SELECT_ITEM
+pick an item,SELECT_ITEM
+select an active item,SELECT_ITEM
+make an item chosen,SELECT_ITEM
+enable an item,SELECT_ITEM
+highlight an item,SELECT_ITEM
+select the current option,SELECT_ITEM
+choose this item now,SELECT_ITEM
+toggle the chosen item,SELECT_ITEM
+mark this entry,SELECT_ITEM
+select the active element,SELECT_ITEM
+pick the desired item,SELECT_ITEM
+select this single,SELECT_ITEM
+make this selection,SELECT_ITEM
+enable the current choice,SELECT_ITEM
+highlight the active item,SELECT_ITEM
+select this item,SELECT_ITEM
+choose that one,SELECT_ITEM
+pick the second option,SELECT_ITEM
+highlight this row,SELECT_ITEM
+mark this task,SELECT_ITEM
+select the checkbox,SELECT_ITEM
+pick this entry,SELECT_ITEM
+choose this record,SELECT_ITEM
+tap on that,SELECT_ITEM
+click the first file,SELECT_ITEM
+mark this one,SELECT_ITEM
+add this to selection,SELECT_ITEM
+choose it,SELECT_ITEM
+select it,SELECT_ITEM
+pick that file,SELECT_ITEM
+highlight this one,SELECT_ITEM
+select the highlighted row,SELECT_ITEM
+click to choose,SELECT_ITEM
+check this box,SELECT_ITEM
+choose this element,SELECT_ITEM
+select from the list,SELECT_ITEM
+pick that entry,SELECT_ITEM
+mark it selected,SELECT_ITEM
+choose that option,SELECT_ITEM
+add to selected items,SELECT_ITEM
+tap to select,SELECT_ITEM
+check this item,SELECT_ITEM
+highlight that entry,SELECT_ITEM
+pick one from list,SELECT_ITEM
+select the second one,SELECT_ITEM
+mark the current row,SELECT_ITEM
+choose this from list,SELECT_ITEM
+click on that entry,SELECT_ITEM
+select this card,SELECT_ITEM
+pick this photo,SELECT_ITEM
+highlight that file,SELECT_ITEM
+choose the highlighted one,SELECT_ITEM
+select all items,SELECT_ITEM
+mark multiple options,SELECT_ITEM
+add this to the group,SELECT_ITEM
+click and select,SELECT_ITEM
+choose this name,SELECT_ITEM
+select the row below,SELECT_ITEM
+pick the top entry,SELECT_ITEM
+highlight this result,SELECT_ITEM
+mark as chosen,SELECT_ITEM
+tap to pick,SELECT_ITEM
+click the record,SELECT_ITEM
+choose the matching one,SELECT_ITEM
+select from results,SELECT_ITEM
+add that to my selection,SELECT_ITEM
+pick the active row,SELECT_ITEM
+choose that from table,SELECT_ITEM
+mark the row,SELECT_ITEM
+select the visible one,SELECT_ITEM
+highlight the target item,SELECT_ITEM
+check this record,SELECT_ITEM
+choose and confirm,SELECT_ITEM
+click to mark,SELECT_ITEM
+select this and continue,SELECT_ITEM
+pick that from grid,SELECT_ITEM
+highlight and proceed,SELECT_ITEM
+select it manually,SELECT_ITEM
+choose this contact,SELECT_ITEM
+mark this image,SELECT_ITEM
+add this one,SELECT_ITEM
+pick the correct entry,SELECT_ITEM
+select this for editing,SELECT_ITEM
+highlight the chosen one,SELECT_ITEM
+choose this cell,SELECT_ITEM
+click to add selection,SELECT_ITEM
+select this document,SELECT_ITEM
+pick the shown record,SELECT_ITEM
+mark that as active,SELECT_ITEM
+highlight current item,SELECT_ITEM
+choose item number two,SELECT_ITEM
+select the third option,SELECT_ITEM
+click the first one,SELECT_ITEM
+add that entry,SELECT_ITEM
+pick from the table,SELECT_ITEM
+mark that checkbox,SELECT_ITEM
+choose this folder,SELECT_ITEM
+select from available list,SELECT_ITEM
+highlight selected content,SELECT_ITEM
+click the corresponding entry,SELECT_ITEM
+choose by clicking,SELECT_ITEM
+tap on the record,SELECT_ITEM
+mark the desired one,SELECT_ITEM
+pick this choice,SELECT_ITEM
+select that product,SELECT_ITEM
+choose from below,SELECT_ITEM
+highlight the preferred item,SELECT_ITEM
+check that element,SELECT_ITEM
+select and confirm,SELECT_ITEM
+add to the chosen list,SELECT_ITEM
+pick your option,SELECT_ITEM
+click to highlight,SELECT_ITEM
+choose the appropriate one,SELECT_ITEM
+mark that field,SELECT_ITEM
+highlight the selected record,SELECT_ITEM
+select from dropdown,SELECT_ITEM
+pick one option,SELECT_ITEM
+choose by tapping,SELECT_ITEM
+select the desired one,SELECT_ITEM
+mark and proceed,SELECT_ITEM
+highlight this column,SELECT_ITEM
+pick the same item,SELECT_ITEM
+click this for selection,SELECT_ITEM
+choose your item,SELECT_ITEM
+select the highlighted field,SELECT_ITEM
+mark it active,SELECT_ITEM
+add that to selected items,SELECT_ITEM
+choose one of them,SELECT_ITEM
+highlight from list,SELECT_ITEM
+select from the grid,SELECT_ITEM
+tap to highlight,SELECT_ITEM
+pick this particular one,SELECT_ITEM
+mark the second record,SELECT_ITEM
+choose and move forward,SELECT_ITEM
+select the focused one,SELECT_ITEM
+click the file,SELECT_ITEM
+highlight this and continue,SELECT_ITEM
+mark this data row,SELECT_ITEM
+select from table view,SELECT_ITEM
+add this to chosen list,SELECT_ITEM
+choose the visible entry,SELECT_ITEM
+click the option,SELECT_ITEM
+pick the highlighted record,SELECT_ITEM
+select and view,SELECT_ITEM
+mark this result,SELECT_ITEM
+choose that entry from the list,SELECT_ITEM
+highlight it now,SELECT_ITEM
+tap on this one,SELECT_ITEM
+select current element,SELECT_ITEM
+pick from results,SELECT_ITEM
+choose this one right here,SELECT_ITEM
+highlight the top row,SELECT_ITEM
+mark as selected,SELECT_ITEM
+select from current view,SELECT_ITEM
+click and highlight,SELECT_ITEM
+choose this from dropdown,SELECT_ITEM
+pick the active option,SELECT_ITEM
+mark this as done,SELECT_ITEM
+select this from sidebar,SELECT_ITEM
+highlight one row,SELECT_ITEM
+choose and click,SELECT_ITEM
+select the cell,SELECT_ITEM
+pick and continue,SELECT_ITEM
+add that as selected,SELECT_ITEM
+highlight that object,SELECT_ITEM
+select the appropriate field,SELECT_ITEM
+click to add,SELECT_ITEM
+choose from available options,SELECT_ITEM
+mark this column,SELECT_ITEM
+select the top record,SELECT_ITEM
+highlight it for action,SELECT_ITEM
+pick from the dropdown,SELECT_ITEM
+choose from recent items,SELECT_ITEM
+select this icon,SELECT_ITEM
+mark it as checked,SELECT_ITEM
+click to include,SELECT_ITEM
+choose this selection,SELECT_ITEM
+select that tag,SELECT_ITEM
+pick and open,SELECT_ITEM
+highlight your choice,SELECT_ITEM
+mark this node,SELECT_ITEM
+choose this title,SELECT_ITEM
+select from menu,SELECT_ITEM
+click this entry,SELECT_ITEM
+add this file,SELECT_ITEM
+choose by clicking on it,SELECT_ITEM
+highlight this for action,SELECT_ITEM
+select by clicking,SELECT_ITEM
+pick a record,SELECT_ITEM
+choose this specific item,SELECT_ITEM
+mark current record,SELECT_ITEM
+tap to add,SELECT_ITEM
+highlight that record,SELECT_ITEM
+select that cell,SELECT_ITEM
+pick the item displayed,SELECT_ITEM
+choose and save,SELECT_ITEM
+click that to choose,SELECT_ITEM
+highlight chosen one,SELECT_ITEM
+select from section,SELECT_ITEM
+mark from the list,SELECT_ITEM
+choose from items,SELECT_ITEM
+pick the shown one,SELECT_ITEM
+highlight this element,SELECT_ITEM
+select your desired item,SELECT_ITEM
+add one to selected,SELECT_ITEM
+choose the current file,SELECT_ITEM
+mark as active item,SELECT_ITEM
+select it now,SELECT_ITEM
+pick the visible entry,SELECT_ITEM
+highlight the image,SELECT_ITEM
+choose this text field,SELECT_ITEM
+click on the option,SELECT_ITEM
+select one item,SELECT_ITEM
+mark the option,SELECT_ITEM
+pick an entry,SELECT_ITEM
+highlight that option,SELECT_ITEM
+choose your preferred one,SELECT_ITEM
+select the same record,SELECT_ITEM
+click and pick,SELECT_ITEM
+mark this as selected,SELECT_ITEM
+choose that cell,SELECT_ITEM
+highlight item number three,SELECT_ITEM
+pick the desired element,SELECT_ITEM
+select by tapping,SELECT_ITEM
+choose from the group,SELECT_ITEM
+mark as chosen one,SELECT_ITEM
+select for editing,SELECT_ITEM
+highlight from the dropdown,SELECT_ITEM
+click this to mark,SELECT_ITEM
+pick your file,SELECT_ITEM
+select from below,SELECT_ITEM
+choose this tab,SELECT_ITEM
+mark this name,SELECT_ITEM
+highlight the target,SELECT_ITEM
+select one more item,SELECT_ITEM
+pick the listed one,SELECT_ITEM
+choose that folder,SELECT_ITEM
+highlight to select,SELECT_ITEM
+mark this as checked,SELECT_ITEM
+select that for view,SELECT_ITEM
+add this as chosen,SELECT_ITEM
+click on the checkbox,SELECT_ITEM
+pick the row you want,SELECT_ITEM
+select one from here,SELECT_ITEM
+choose this from table,SELECT_ITEM
+highlight this line,SELECT_ITEM
+select the product,SELECT_ITEM
+mark this contact,SELECT_ITEM
+pick this project,SELECT_ITEM
+choose this data point,SELECT_ITEM
+highlight that part,SELECT_ITEM
+select that option quickly,SELECT_ITEM
+mark this one here,SELECT_ITEM
+choose it now,SELECT_ITEM
+pick the right one,SELECT_ITEM
+highlight and continue,SELECT_ITEM
+select and proceed,SELECT_ITEM
+choose that thing,SELECT_ITEM
+mark one more,SELECT_ITEM
+click to select again,SELECT_ITEM
+highlight the last one,SELECT_ITEM
+pick one record,SELECT_ITEM
+select that same one,SELECT_ITEM
+choose this at once,SELECT_ITEM
+mark the bottom row,SELECT_ITEM
+highlight this product,SELECT_ITEM
+pick one quickly,SELECT_ITEM
+select your target,SELECT_ITEM
+choose from highlighted,SELECT_ITEM
+mark it now,SELECT_ITEM
+highlight from top,SELECT_ITEM
+select and mark,SELECT_ITEM
+click that one,SELECT_ITEM
+choose by clicking here,SELECT_ITEM
+pick from displayed list,SELECT_ITEM
+highlight that card,SELECT_ITEM
+select item two,SELECT_ITEM
+mark this photo,SELECT_ITEM
+choose your favorite,SELECT_ITEM
+pick from those items,SELECT_ITEM
+select the visible card,SELECT_ITEM
+highlight the proper entry,SELECT_ITEM
+choose for view,SELECT_ITEM
+mark and save,SELECT_ITEM
+click the desired record,SELECT_ITEM
+select the active element,SELECT_ITEM
+pick this from menu,SELECT_ITEM
+highlight chosen item,SELECT_ITEM
+choose from suggestions,SELECT_ITEM
+select the current record,SELECT_ITEM
+add that record,SELECT_ITEM
+mark the desired field,SELECT_ITEM
+click the first record,SELECT_ITEM
+select for processing,SELECT_ITEM
+pick this log entry,SELECT_ITEM
+choose that picture,SELECT_ITEM
+highlight item you want,SELECT_ITEM
+select and open,SELECT_ITEM
+mark this as part of selection,SELECT_ITEM
+choose your entry,SELECT_ITEM
+click one to select,SELECT_ITEM
+highlight this dataset,SELECT_ITEM
+select from popup,SELECT_ITEM
+pick your desired one,SELECT_ITEM
+choose it from here,SELECT_ITEM
+mark it right away,SELECT_ITEM
+select among the list,SELECT_ITEM
+highlight one of them,SELECT_ITEM
+pick the highlighted option,SELECT_ITEM
+choose this button,SELECT_ITEM
+select from grid view,SELECT_ITEM
+mark that picture,SELECT_ITEM
+click this photo,SELECT_ITEM
+highlight current selection,SELECT_ITEM
+select this app entry,SELECT_ITEM
+pick the object,SELECT_ITEM
+choose from icons,SELECT_ITEM
+mark the highlighted one,SELECT_ITEM
+highlight row three,SELECT_ITEM
+select current card,SELECT_ITEM
+pick and display,SELECT_ITEM
+choose and load,SELECT_ITEM
+click that image,SELECT_ITEM
+highlight that symbol,SELECT_ITEM
+select that section,SELECT_ITEM
+mark from dropdown,SELECT_ITEM
+choose your result,SELECT_ITEM
+pick the second one,SELECT_ITEM
+highlight a record,SELECT_ITEM
+select from this column,SELECT_ITEM
+click and mark,SELECT_ITEM
+choose one record,SELECT_ITEM
+mark the item row,SELECT_ITEM
+select that note,SELECT_ITEM
+highlight the data entry,SELECT_ITEM
+choose this from results,SELECT_ITEM
+pick the file you want,SELECT_ITEM
+mark this highlighted one,SELECT_ITEM
+select your record,SELECT_ITEM
+highlight to mark,SELECT_ITEM
+click the correct row,SELECT_ITEM
+choose the visible file,SELECT_ITEM
+select that picture,SELECT_ITEM
+mark and highlight,SELECT_ITEM
+pick and mark it,SELECT_ITEM
+highlight the chosen entry,SELECT_ITEM
+select from multiple options,SELECT_ITEM
+choose that image,SELECT_ITEM
+click on selected one,SELECT_ITEM
+mark item in list,SELECT_ITEM
+select your line,SELECT_ITEM
+pick the entry above,SELECT_ITEM
+highlight first item,SELECT_ITEM
+choose from menu bar,SELECT_ITEM
+mark the highlighted entry,SELECT_ITEM
+select and tag,SELECT_ITEM
+click and choose,SELECT_ITEM
+pick from available list,SELECT_ITEM
+highlight and mark,SELECT_ITEM
+select from folder view,SELECT_ITEM
+choose by selecting it,SELECT_ITEM
+mark it done,SELECT_ITEM
+select your favorite file,SELECT_ITEM
+highlight and select,SELECT_ITEM
+click the desired one,SELECT_ITEM
+choose that result,SELECT_ITEM
+pick from item list,SELECT_ITEM
+highlight one file,SELECT_ITEM
+select now,SELECT_ITEM
+mark from grid,SELECT_ITEM
+choose and highlight,SELECT_ITEM
+pick item right there,SELECT_ITEM
+highlight one,SELECT_ITEM
+select something here,SELECT_ITEM
+click item to choose,SELECT_ITEM
+choose record from list,SELECT_ITEM
+mark and click,SELECT_ITEM
+highlight the one below,SELECT_ITEM
+select in this table,SELECT_ITEM
+pick a result,SELECT_ITEM
+choose that for now,SELECT_ITEM
+mark the last one,SELECT_ITEM
+highlight any entry,SELECT_ITEM
+select that data,SELECT_ITEM
+click and choose again,SELECT_ITEM
+choose this report,SELECT_ITEM
+mark that record,SELECT_ITEM
+select that note now,SELECT_ITEM
+highlight for editing,SELECT_ITEM
+pick the correct one,SELECT_ITEM
+choose from there,SELECT_ITEM
+select the same option,SELECT_ITEM
+mark your choice,SELECT_ITEM
+highlight to activate,SELECT_ITEM
+click your selection,SELECT_ITEM
+select from these results,SELECT_ITEM
+pick your row,SELECT_ITEM
+choose the top file,SELECT_ITEM
+mark chosen record,SELECT_ITEM
+select from options above,SELECT_ITEM
+highlight from available,SELECT_ITEM
+choose your project,SELECT_ITEM
+select it from table,SELECT_ITEM
+pick that highlighted item,SELECT_ITEM
+mark to include,SELECT_ITEM
+highlight this as active,SELECT_ITEM
+choose from drop menu,SELECT_ITEM
+select your selection,SELECT_ITEM
+click to add one,SELECT_ITEM
+mark from those,SELECT_ITEM
+highlight for review,SELECT_ITEM
+select at least one,SELECT_ITEM
+pick from available items,SELECT_ITEM
+choose this immediately,SELECT_ITEM
+select and highlight,SELECT_ITEM
+mark that log entry,SELECT_ITEM
+click this now,SELECT_ITEM
+highlight the visible row,SELECT_ITEM
+select the displayed record,SELECT_ITEM
+pick that again,SELECT_ITEM
+choose the lower one,SELECT_ITEM
+highlight for marking,SELECT_ITEM
+select and finalize,SELECT_ITEM
+mark current one,SELECT_ITEM
+choose the checked box,SELECT_ITEM
+pick this highlighted option,SELECT_ITEM
+select your entry from list,SELECT_ITEM
+highlight this selection,SELECT_ITEM
+choose this now,SELECT_ITEM
+mark to select,SELECT_ITEM
+click and activate,SELECT_ITEM
+highlight record to choose,SELECT_ITEM
+select from these items,SELECT_ITEM
+pick the current object,SELECT_ITEM
+choose for marking,SELECT_ITEM
+mark for editing,SELECT_ITEM
+highlight current line,SELECT_ITEM
+select your desired record,SELECT_ITEM
+choose from your list,SELECT_ITEM
+pick a card,SELECT_ITEM
+highlight visible element,SELECT_ITEM
+mark chosen option,SELECT_ITEM
+select it again,SELECT_ITEM
+click selected record,SELECT_ITEM
+choose the top one,SELECT_ITEM
+highlight target entry,SELECT_ITEM
+pick your highlighted one,SELECT_ITEM
+select this log,SELECT_ITEM
+mark the same entry,SELECT_ITEM
+choose for processing,SELECT_ITEM
+highlight this in table,SELECT_ITEM
+select this now,SELECT_ITEM
+pick that for marking,SELECT_ITEM
+choose your visible record,SELECT_ITEM
+highlight and tag,SELECT_ITEM
+mark this and go,SELECT_ITEM
+select chosen entry,SELECT_ITEM
+click the highlighted record,SELECT_ITEM
+choose one again,SELECT_ITEM
+pick visible file,SELECT_ITEM
+highlight that now,SELECT_ITEM
+mark this in grid,SELECT_ITEM
+select that element,SELECT_ITEM
+choose from those records,SELECT_ITEM
+highlight chosen one again,SELECT_ITEM
+select current option,SELECT_ITEM
+mark the element,SELECT_ITEM
+choose the data record,SELECT_ITEM
+pick visible data,SELECT_ITEM
+highlight visible record,SELECT_ITEM
+select your element,SELECT_ITEM
+click the chosen entry,SELECT_ITEM
+mark chosen file,SELECT_ITEM
+highlight again to mark,SELECT_ITEM
+select the active record,SELECT_ITEM
+choose it right now,SELECT_ITEM
+mark selected one,SELECT_ITEM
+highlight this entry,SELECT_ITEM
+select visible option,SELECT_ITEM
+pick the current line,SELECT_ITEM
+choose the next record,SELECT_ITEM
+mark one file,SELECT_ITEM
+highlight it for selection,SELECT_ITEM
+select displayed entry,SELECT_ITEM
+choose file from folder,SELECT_ITEM
+pick and mark,SELECT_ITEM
+highlight to confirm,SELECT_ITEM
+mark the selected option,SELECT_ITEM
+select that from table,SELECT_ITEM
+choose highlighted record,SELECT_ITEM
+highlight the listed file,SELECT_ITEM
+select and continue,SELECT_ITEM
+pick this exact one,SELECT_ITEM
+mark your desired entry,SELECT_ITEM
+highlight the same row,SELECT_ITEM
+select visible card,SELECT_ITEM
+choose and click again,SELECT_ITEM
+pick displayed record,SELECT_ITEM
+highlight it again,SELECT_ITEM
+mark that visible one,SELECT_ITEM
+select to continue,SELECT_ITEM
+choose the active file,SELECT_ITEM
+highlight this option,SELECT_ITEM
+select and save,SELECT_ITEM
+mark current field,SELECT_ITEM
+pick the one displayed,SELECT_ITEM
+choose this field,SELECT_ITEM
+highlight current record,SELECT_ITEM
+select the lower entry,SELECT_ITEM
+mark for view,SELECT_ITEM
+choose your current one,SELECT_ITEM
+highlight the chosen record,SELECT_ITEM
+select the top card,SELECT_ITEM
+pick highlighted one,SELECT_ITEM
+choose that row,SELECT_ITEM
+mark this task row,SELECT_ITEM
+highlight visible data,SELECT_ITEM
+select that image,SELECT_ITEM
+pick it now,SELECT_ITEM
+choose the visible row,SELECT_ITEM
+highlight this record,SELECT_ITEM
+select and proceed now,SELECT_ITEM
+mark one more entry,SELECT_ITEM
+highlight that list item,SELECT_ITEM
+select your desired one,SELECT_ITEM
+pick this right away,SELECT_ITEM
+choose highlighted one,SELECT_ITEM
+highlight visible cell,SELECT_ITEM
+select the data entry,SELECT_ITEM
+mark from available list,SELECT_ITEM
+choose and go,SELECT_ITEM
+highlight for action,SELECT_ITEM
+select this entry,SELECT_ITEM
+pick visible element,SELECT_ITEM
+choose and confirm now,SELECT_ITEM
+highlight your row,SELECT_ITEM
+select this visible item,SELECT_ITEM
+mark one right now,SELECT_ITEM
+choose visible file,SELECT_ITEM
+highlight visible element,SELECT_ITEM
+select highlighted record,SELECT_ITEM
+pick the chosen one,SELECT_ITEM
+choose current element,SELECT_ITEM
+highlight active record,SELECT_ITEM
+select active item,SELECT_ITEM
+mark this one now,SELECT_ITEM
+highlight your file,SELECT_ITEM
+select that record again,SELECT_ITEM
+pick highlighted record,SELECT_ITEM
+choose the same data,SELECT_ITEM
+highlight visible option,SELECT_ITEM
+mark one more item,SELECT_ITEM
+select the shown entry,SELECT_ITEM
+choose the displayed record,SELECT_ITEM
+highlight again,SELECT_ITEM
+mark chosen entry,SELECT_ITEM
+select it once more,SELECT_ITEM
+highlight for marking,SELECT_ITEM
+choose from those files,SELECT_ITEM
+select that current record,SELECT_ITEM
+pick this row,SELECT_ITEM
+highlight the visible file,SELECT_ITEM
+mark this again,SELECT_ITEM
+select visible record,SELECT_ITEM
+choose now,SELECT_ITEM
+highlight visible one,SELECT_ITEM
+select chosen file,SELECT_ITEM
+mark for selection,SELECT_ITEM
+highlight your entry,SELECT_ITEM
+select visible data,SELECT_ITEM
+choose displayed one,SELECT_ITEM
+mark chosen data,SELECT_ITEM
+highlight current object,SELECT_ITEM
+select again,SELECT_ITEM
+choose that record now,SELECT_ITEM
+mark highlighted item,SELECT_ITEM
+highlight visible record again,SELECT_ITEM
+select visible line,SELECT_ITEM
+choose highlighted file,SELECT_ITEM
+highlight current selection again,SELECT_ITEM
+mark this record,SELECT_ITEM
+select this data,SELECT_ITEM
+highlight active line,SELECT_ITEM
+choose that visible record,SELECT_ITEM
+highlight visible card,SELECT_ITEM
+mark and highlight,SELECT_ITEM
+select visible one again,SELECT_ITEM
+highlight chosen file,SELECT_ITEM
+select the data row,SELECT_ITEM
+choose the visible card,SELECT_ITEM
+highlight visible one now,SELECT_ITEM
+select chosen element,SELECT_ITEM
+mark chosen record,SELECT_ITEM
+highlight visible entry again,SELECT_ITEM
+select it now again,SELECT_ITEM
+highlight visible element now,SELECT_ITEM
+select visible entry,SELECT_ITEM
+mark that visible record,SELECT_ITEM
+highlight visible record now,SELECT_ITEM
+select visible file again,SELECT_ITEM
+highlight chosen one now,SELECT_ITEM
+select visible data again,SELECT_ITEM
+highlight visible data now,SELECT_ITEM
+mark that visible file,SELECT_ITEM
+highlight visible item now,SELECT_ITEM
+select the visible row again,SELECT_ITEM
+highlight chosen entry now,SELECT_ITEM
+select visible record now,SELECT_ITEM
+highlight visible card now,SELECT_ITEM
+mark this visible record,SELECT_ITEM
+select visible element again,SELECT_ITEM
+highlight visible file now,SELECT_ITEM
+select the visible entry now,SELECT_ITEM
+highlight visible element again,SELECT_ITEM
+select visible record again,SELECT_ITEM
+highlight visible data entry,SELECT_ITEM
+select visible one now,SELECT_ITEM
+highlight visible data element,SELECT_ITEM
+select visible card again,SELECT_ITEM
+highlight visible data file,SELECT_ITEM
+select visible data row again,SELECT_ITEM
+highlight visible entry now,SELECT_ITEM
+select visible element now,SELECT_ITEM
+highlight visible one again,SELECT_ITEM
+select visible file now,SELECT_ITEM
+highlight visible record again,SELECT_ITEM
+select visible record entry,SELECT_ITEM
+highlight visible element entry,SELECT_ITEM
+select visible element entry now,SELECT_ITEM
+highlight visible data record,SELECT_ITEM
+select visible record data,SELECT_ITEM

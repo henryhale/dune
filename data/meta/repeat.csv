@@ -1,0 +1,743 @@
+text,label
+Say again,REPEAT
+Execute again,REPEAT
+Run it back,REPEAT
+Can you repeat that,REPEAT
+Repeat the previous action,REPEAT
+Do the last thing again,REPEAT
+Once more,REPEAT
+Reiterate,REPEAT
+Perform again,REPEAT
+Repeat previous command,REPEAT
+Again please,REPEAT
+Repeat the action,REPEAT
+Carry out again,REPEAT
+Can you say that again,REPEAT
+Repeat what you just did,REPEAT
+Run again,REPEAT
+Echo,REPEAT
+Do it one more time,REPEAT
+Repeat last,REPEAT
+Say that once more,REPEAT
+Re-execute,REPEAT
+Repeat the command,REPEAT
+Perform the last action again,REPEAT
+Repeat last thing,REPEAT
+Tell me again,REPEAT
+Do the same thing,REPEAT
+Duplicate,REPEAT
+Repeat the last instruction,REPEAT
+Do that command again,REPEAT
+Can you redo that,REPEAT
+Repeat last entry,REPEAT
+Go over that again,REPEAT
+Try again,REPEAT
+Copy last,REPEAT
+Repeat the previous instruction,REPEAT
+Perform the exact same action,REPEAT
+Do it again just like that,REPEAT
+Repeat last operation,REPEAT
+What did you say,REPEAT
+Do the previous action,REPEAT
+Run the command again,REPEAT
+Repeat the last thing you did,REPEAT
+Replay,REPEAT
+Give me that again,REPEAT
+Execute previous,REPEAT
+Repeat current,REPEAT
+Recap,REPEAT
+Do it over,REPEAT
+Repeat what was said,REPEAT
+Repeat that operation,REPEAT
+Once more with feeling,REPEAT
+Run the last command,REPEAT
+Repeat previous step,REPEAT
+Can you go over that,REPEAT
+Repeat the last request,REPEAT
+Perform the command again,REPEAT
+Do the previous task,REPEAT
+Say it again please,REPEAT
+Re-run,REPEAT
+Repeat last entry please,REPEAT
+Run the last operation,REPEAT
+Repeat the most recent command,REPEAT
+Perform that again,REPEAT
+Can you reiterate,REPEAT
+Repeat the exact same action,REPEAT
+Execute the prior command,REPEAT
+Do the prior thing,REPEAT
+What was that,REPEAT
+Repeat prior,REPEAT
+Repeat previous step please,REPEAT
+Run the previous command,REPEAT
+Repeat the current command,REPEAT
+Tell me that again,REPEAT
+Do the last requested action,REPEAT
+Go again,REPEAT
+Repeat the last,REPEAT
+Execute the last command,REPEAT
+Do that one more time,REPEAT
+Repeat last query,REPEAT
+Say it once again,REPEAT
+Run the last task,REPEAT
+Repeat last input,REPEAT
+Do that again,REPEAT
+Perform last,REPEAT
+Can you repeat the last part,REPEAT
+Repeat the action you just performed,REPEAT
+Run that command,REPEAT
+Repeat it,REPEAT
+Do previous,REPEAT
+Repeat the recent action,REPEAT
+Execute the most recent command,REPEAT
+Do it repeatedly,REPEAT
+Repeat the command you just executed,REPEAT
+What did you just do,REPEAT
+Repeat,REPEAT
+Repeat please,REPEAT
+Repeat last command,REPEAT
+Do it again,REPEAT
+Again,REPEAT
+One more time,REPEAT
+repeat last command,REPEAT
+do that again,REPEAT
+repeat please,REPEAT
+can you repeat,REPEAT
+run the last action,REPEAT
+execute previous command,REPEAT
+repeat the task,REPEAT
+once more,REPEAT
+reiterate the action,REPEAT
+perform again,REPEAT
+do it again,REPEAT
+repeat this process,REPEAT
+run that again,REPEAT
+do the last one,REPEAT
+repeat what i said,REPEAT
+repeat the operation,REPEAT
+perform that again,REPEAT
+execute that again,REPEAT
+repeat the instruction,REPEAT
+do the previous command,REPEAT
+repeat current,REPEAT
+repeat the procedure,REPEAT
+do that one more,REPEAT
+run the last process,REPEAT
+repeat my last,REPEAT
+repeat the function,REPEAT
+do it once more,REPEAT
+repeat the task again,REPEAT
+run last command,REPEAT
+repeat this step,REPEAT
+do the previous,REPEAT
+repeat my instruction,REPEAT
+perform the last,REPEAT
+repeat current action,REPEAT
+do it one more time,REPEAT
+repeat the last action,REPEAT
+run the prior command,REPEAT
+repeat this now,REPEAT
+do the exact same,REPEAT
+repeat the command again,REPEAT
+run the last operation,REPEAT
+repeat the exact,REPEAT
+do the last action,REPEAT
+repeat the entry,REPEAT
+run previous command,REPEAT
+repeat this command,REPEAT
+do this again,REPEAT
+repeat my previous,REPEAT
+run the earlier,REPEAT
+repeat current process,REPEAT
+do my last action,REPEAT
+repeat the interaction,REPEAT
+run the last thing,REPEAT
+repeat my last input,REPEAT
+do that again for me,REPEAT
+repeat what you did,REPEAT
+run the last step,REPEAT
+repeat the final action,REPEAT
+do my last entry,REPEAT
+repeat my command,REPEAT
+run the last task,REPEAT
+repeat this command for me,REPEAT
+do the last one again,REPEAT
+repeat my operation,REPEAT
+run the last command again,REPEAT
+repeat this input,REPEAT
+do the same again,REPEAT
+repeat my actions,REPEAT
+run the previous task,REPEAT
+repeat my words,REPEAT
+do my last command,REPEAT
+repeat this sequence,REPEAT
+run the last function,REPEAT
+repeat my last move,REPEAT
+do this one more time,REPEAT
+repeat my words now,REPEAT
+run previous action,REPEAT
+repeat my input,REPEAT
+do it just like that,REPEAT
+repeat my previous action,REPEAT
+run the prior task,REPEAT
+repeat my phrase,REPEAT
+do my previous command,REPEAT
+repeat this whole thing,REPEAT
+run the very last,REPEAT
+repeat the entire command,REPEAT
+do my last command again,REPEAT
+repeat the last phrase,REPEAT
+run the earlier action,REPEAT
+repeat my entire input,REPEAT
+do my prior action,REPEAT
+repeat the last step,REPEAT
+run the very last command,REPEAT
+repeat my entire action,REPEAT
+do that whole thing again,REPEAT
+do that command again,REPEAT
+repeat my last action,REPEAT
+run the last instruction,REPEAT
+do it one more time,REPEAT
+repeat the last action now,REPEAT
+do that again,REPEAT
+repeat the last command,REPEAT
+run it once more,REPEAT
+do it again please,REPEAT
+redo what I just did,REPEAT
+try that again,REPEAT
+repeat my last action,REPEAT
+perform that again,REPEAT
+do the same thing,REPEAT
+try the last one again,REPEAT
+execute that again,REPEAT
+repeat previous step,REPEAT
+replay my last move,REPEAT
+re-run that command,REPEAT
+do it over,REPEAT
+repeat that step,REPEAT
+try again,REPEAT
+repeat it please,REPEAT
+do the last thing again,REPEAT
+run the last one again,REPEAT
+redo last step,REPEAT
+re-execute that,REPEAT
+replay last action,REPEAT
+do that one more time,REPEAT
+try that command again,REPEAT
+do same again,REPEAT
+repeat once more,REPEAT
+perform again,REPEAT
+repeat what I said,REPEAT
+run same action,REPEAT
+try repeating that,REPEAT
+do previous action again,REPEAT
+do again,REPEAT
+repeat previous command,REPEAT
+try that once again,REPEAT
+run again please,REPEAT
+replay command,REPEAT
+do the previous one,REPEAT
+repeat what I just said,REPEAT
+do another round,REPEAT
+try again please,REPEAT
+repeat operation,REPEAT
+repeat my command,REPEAT
+replay that,REPEAT
+redo that one,REPEAT
+perform once more,REPEAT
+reapply the last action,REPEAT
+run previous command again,REPEAT
+repeat this step,REPEAT
+try the same command,REPEAT
+do it all again,REPEAT
+repeat the whole thing,REPEAT
+go again,REPEAT
+do over again,REPEAT
+run that again please,REPEAT
+redo it please,REPEAT
+repeat execution,REPEAT
+perform again please,REPEAT
+repeat last process,REPEAT
+do same action again,REPEAT
+redo the action,REPEAT
+do the same,REPEAT
+try the last one again,REPEAT
+re-run previous operation,REPEAT
+repeat previous one,REPEAT
+redo previous action,REPEAT
+run that one more time,REPEAT
+replay the step,REPEAT
+repeat this action,REPEAT
+do that task again,REPEAT
+do last operation again,REPEAT
+execute again,REPEAT
+run the task again,REPEAT
+repeat task,REPEAT
+repeat the last operation,REPEAT
+redo the previous step,REPEAT
+try the process again,REPEAT
+repeat this process,REPEAT
+do that function again,REPEAT
+re-run the same thing,REPEAT
+repeat command please,REPEAT
+redo previous one,REPEAT
+try the same again,REPEAT
+repeat previous operation,REPEAT
+do this again,REPEAT
+reapply command,REPEAT
+redo again,REPEAT
+do it twice,REPEAT
+replay my previous action,REPEAT
+do that once again,REPEAT
+run previous task,REPEAT
+repeat previous task,REPEAT
+perform same action again,REPEAT
+redo task,REPEAT
+try doing that again,REPEAT
+repeat one more time,REPEAT
+run again,REPEAT
+repeat that for me,REPEAT
+redo for me,REPEAT
+repeat it again,REPEAT
+run this again,REPEAT
+do same once more,REPEAT
+redo operation,REPEAT
+replay previous command,REPEAT
+repeat the same,REPEAT
+run same one again,REPEAT
+do again the previous,REPEAT
+repeat all again,REPEAT
+execute previous command,REPEAT
+do it once again,REPEAT
+repeat previous,REPEAT
+redo the last one,REPEAT
+try the same once more,REPEAT
+do it over again,REPEAT
+repeat previous task please,REPEAT
+redo the last command,REPEAT
+do previous one again,REPEAT
+run it again,REPEAT
+replay it,REPEAT
+repeat it once more,REPEAT
+perform the previous command,REPEAT
+redo same task,REPEAT
+run same command,REPEAT
+repeat my previous action,REPEAT
+do one more time,REPEAT
+redo step,REPEAT
+run step again,REPEAT
+repeat my request,REPEAT
+redo what I said,REPEAT
+try one more time,REPEAT
+repeat the action again,REPEAT
+replay the last one,REPEAT
+repeat action,REPEAT
+try again that one,REPEAT
+run that task again,REPEAT
+do previous task again,REPEAT
+repeat again,REPEAT
+run same step again,REPEAT
+redo previous process,REPEAT
+repeat command,REPEAT
+reexecute command,REPEAT
+do that again please,REPEAT
+repeat my previous request,REPEAT
+redo my last command,REPEAT
+repeat once again,REPEAT
+redo the command,REPEAT
+repeat my last task,REPEAT
+replay previous action,REPEAT
+run it one more time,REPEAT
+try the last step again,REPEAT
+redo that again,REPEAT
+redo that please,REPEAT
+redo again please,REPEAT
+repeat operation again,REPEAT
+try once again,REPEAT
+repeat previous thing,REPEAT
+repeat what I just did,REPEAT
+repeat what was done,REPEAT
+try redoing that,REPEAT
+redo the same thing,REPEAT
+repeat it now,REPEAT
+perform previous action again,REPEAT
+do that move again,REPEAT
+do previous move again,REPEAT
+try doing it again,REPEAT
+run previous again,REPEAT
+repeat again please,REPEAT
+try the last again,REPEAT
+do again now,REPEAT
+redo what I just did,REPEAT
+redo my previous step,REPEAT
+redo what I said before,REPEAT
+repeat this now,REPEAT
+do same process again,REPEAT
+try repeat,REPEAT
+redo one more time,REPEAT
+replay my last command,REPEAT
+redo that move,REPEAT
+repeat similar action,REPEAT
+do again the same,REPEAT
+try that same one,REPEAT
+redo the same,REPEAT
+re-execute previous command,REPEAT
+do that another time,REPEAT
+try the last process again,REPEAT
+repeat it all again,REPEAT
+redo same operation,REPEAT
+redo it again,REPEAT
+repeat for me please,REPEAT
+do it again now,REPEAT
+try doing again,REPEAT
+repeat my step,REPEAT
+redo that function,REPEAT
+do same function again,REPEAT
+repeat the previous operation again,REPEAT
+replay the move,REPEAT
+redo what you did,REPEAT
+repeat it entirely,REPEAT
+repeat once,REPEAT
+redo one more,REPEAT
+do same command again,REPEAT
+repeat the same thing please,REPEAT
+run the same again,REPEAT
+redo the previous,REPEAT
+repeat it all,REPEAT
+redo the previous action again,REPEAT
+redo once more,REPEAT
+do that again right now,REPEAT
+run it again now,REPEAT
+try doing that once more,REPEAT
+redo command,REPEAT
+redo action,REPEAT
+try again the last one,REPEAT
+redo all again,REPEAT
+repeat again the same,REPEAT
+redo the previous operation,REPEAT
+redo that command please,REPEAT
+repeat all steps again,REPEAT
+redo previous command please,REPEAT
+do the task again,REPEAT
+redo previous task,REPEAT
+repeat my step again,REPEAT
+redo my previous action,REPEAT
+do that again please now,REPEAT
+repeat again that one,REPEAT
+try again the same,REPEAT
+redo my task,REPEAT
+redo all previous,REPEAT
+repeat one last time,REPEAT
+do that again properly,REPEAT
+redo the last step please,REPEAT
+redo previous thing,REPEAT
+redo same command again,REPEAT
+repeat previous again,REPEAT
+try same again please,REPEAT
+repeat once more please,REPEAT
+redo everything again,REPEAT
+redo entire step,REPEAT
+repeat that same,REPEAT
+do same command once more,REPEAT
+repeat that once more please,REPEAT
+redo for me please,REPEAT
+redo that action again,REPEAT
+redo this action,REPEAT
+redo last process,REPEAT
+do again for me,REPEAT
+repeat my move again,REPEAT
+redo that move again,REPEAT
+redo command again,REPEAT
+run again the same,REPEAT
+repeat the function,REPEAT
+redo it completely,REPEAT
+do the same once more,REPEAT
+redo that now,REPEAT
+redo that same one,REPEAT
+repeat my instruction,REPEAT
+try that action again,REPEAT
+redo my last action,REPEAT
+repeat my previous one,REPEAT
+repeat one time again,REPEAT
+repeat it now please,REPEAT
+do that again right now,REPEAT
+redo task again,REPEAT
+repeat the step again,REPEAT
+do it again fully,REPEAT
+redo the full step,REPEAT
+repeat that function again,REPEAT
+repeat the same command,REPEAT
+redo the same step again,REPEAT
+redo same process,REPEAT
+do it once more please,REPEAT
+try that command once more,REPEAT
+redo operation again,REPEAT
+redo my operation,REPEAT
+repeat the step,REPEAT
+redo the step,REPEAT
+repeat that whole thing,REPEAT
+do again same,REPEAT
+redo the task,REPEAT
+redo the task again,REPEAT
+repeat my entire step,REPEAT
+redo that thing,REPEAT
+redo it completely please,REPEAT
+try redoing,REPEAT
+repeat that same one again,REPEAT
+redo the previous command,REPEAT
+redo what I last did,REPEAT
+repeat my previous instruction,REPEAT
+redo my last operation,REPEAT
+redo that entire step,REPEAT
+repeat the whole step again,REPEAT
+do that once again please,REPEAT
+repeat it entirely again,REPEAT
+redo my previous thing,REPEAT
+redo my earlier step,REPEAT
+do the same thing again please,REPEAT
+redo it all,REPEAT
+redo again same one,REPEAT
+redo again now,REPEAT
+redo it another time,REPEAT
+do it again please now,REPEAT
+redo again fully,REPEAT
+redo now,REPEAT
+do again same action,REPEAT
+repeat all actions,REPEAT
+repeat all steps,REPEAT
+redo same thing again,REPEAT
+repeat previous once more,REPEAT
+redo again one more time,REPEAT
+redo it all again,REPEAT
+redo all the same,REPEAT
+repeat my command again,REPEAT
+redo previous command again,REPEAT
+repeat again right now,REPEAT
+redo for me again,REPEAT
+repeat that command again,REPEAT
+redo the last action again,REPEAT
+redo everything same,REPEAT
+redo it another round,REPEAT
+redo that once more again,REPEAT
+repeat last thing again,REPEAT
+redo that once more please,REPEAT
+redo that same again,REPEAT
+redo same command please,REPEAT
+redo again that one,REPEAT
+repeat same command again,REPEAT
+do same once again please,REPEAT
+repeat same one,REPEAT
+redo one last time,REPEAT
+redo that same step again,REPEAT
+redo same one,REPEAT
+redo same one again,REPEAT
+repeat last time,REPEAT
+redo the same step please,REPEAT
+redo last action again,REPEAT
+redo that entire operation,REPEAT
+redo same action again,REPEAT
+redo that again right now,REPEAT
+repeat previous action again,REPEAT
+redo one time again,REPEAT
+redo one last time,REPEAT
+redo one time more,REPEAT
+redo all of it,REPEAT
+redo that same process again,REPEAT
+redo that whole process,REPEAT
+redo last again,REPEAT
+redo once again please,REPEAT
+redo same operation again,REPEAT
+redo same task again,REPEAT
+redo all once more,REPEAT
+redo same again,REPEAT
+redo that again please now,REPEAT
+repeat my entire command,REPEAT
+redo the last one please,REPEAT
+redo all commands again,REPEAT
+redo all steps once more,REPEAT
+redo this step again,REPEAT
+redo all steps again,REPEAT
+repeat it all once more,REPEAT
+redo that same action,REPEAT
+redo my same command,REPEAT
+redo same move again,REPEAT
+redo the same action again,REPEAT
+redo the same process again,REPEAT
+redo the same command again,REPEAT
+redo that operation again,REPEAT
+redo the same operation again,REPEAT
+redo again all,REPEAT
+redo the last command again,REPEAT
+redo the same function again,REPEAT
+redo one round again,REPEAT
+redo once more now,REPEAT
+redo one round more,REPEAT
+redo again same process,REPEAT
+redo again same function,REPEAT
+redo this one again,REPEAT
+redo once more again,REPEAT
+redo it once more now,REPEAT
+redo it now again,REPEAT
+redo it another round,REPEAT
+redo it one more,REPEAT
+redo it another time again,REPEAT
+redo the same thing now,REPEAT
+redo it for me again,REPEAT
+redo it again now please,REPEAT
+redo that now please,REPEAT
+redo it all again now,REPEAT
+redo same one now,REPEAT
+redo one more again,REPEAT
+redo once more again please,REPEAT
+redo again this one,REPEAT
+redo one more time please,REPEAT
+redo one more time again,REPEAT
+redo it all again please,REPEAT
+redo again once more,REPEAT
+redo same once more,REPEAT
+redo same step once again,REPEAT
+redo this same one,REPEAT
+redo that process again,REPEAT
+redo same step one more time,REPEAT
+redo step again please,REPEAT
+redo same operation one more time,REPEAT
+redo that task again,REPEAT
+redo the same step again please,REPEAT
+redo same process one more,REPEAT
+redo one step again,REPEAT
+redo my step again,REPEAT
+redo last process again,REPEAT
+redo it right now,REPEAT
+redo that right now,REPEAT
+redo now same again,REPEAT
+redo it again completely,REPEAT
+redo it once more please now,REPEAT
+redo again same process please,REPEAT
+redo that again for me,REPEAT
+redo same command one more time,REPEAT
+redo same process completely,REPEAT
+redo again entire process,REPEAT
+redo same one fully,REPEAT
+redo same step fully,REPEAT
+redo same again please,REPEAT
+redo that one again now,REPEAT
+redo this one now,REPEAT
+redo again this step,REPEAT
+redo same now please,REPEAT
+redo this process again,REPEAT
+redo that again once more,REPEAT
+redo this one once again,REPEAT
+redo it one last time,REPEAT
+redo one last round,REPEAT
+redo that step once more,REPEAT
+redo again one more,REPEAT
+redo again the process,REPEAT
+redo again the step,REPEAT
+redo that again properly,REPEAT
+redo same step properly,REPEAT
+redo same task properly,REPEAT
+redo that process properly,REPEAT
+redo once again properly,REPEAT
+redo again correctly,REPEAT
+redo the same one correctly,REPEAT
+redo same one again properly,REPEAT
+redo again now please,REPEAT
+redo that again correctly,REPEAT
+redo one more now,REPEAT
+redo same operation properly,REPEAT
+redo again now correctly,REPEAT
+redo again all process,REPEAT
+redo again properly please,REPEAT
+redo the process again,REPEAT
+redo same task again please,REPEAT
+redo same command properly,REPEAT
+redo that process again please,REPEAT
+redo once again correctly,REPEAT
+redo that again fully,REPEAT
+redo again this process,REPEAT
+redo again the operation,REPEAT
+redo same operation properly now,REPEAT
+redo again properly now,REPEAT
+redo same properly again,REPEAT
+redo again all steps,REPEAT
+redo same process properly now,REPEAT
+redo same process again now,REPEAT
+redo it properly please,REPEAT
+redo it one more time properly,REPEAT
+redo one more time properly,REPEAT
+redo it properly now please,REPEAT
+redo one last process,REPEAT
+redo that step properly now,REPEAT
+redo that same process properly,REPEAT
+redo it all properly now,REPEAT
+redo this again properly,REPEAT
+redo the same process properly,REPEAT
+redo same operation fully,REPEAT
+redo same command fully now,REPEAT
+redo that again fully now,REPEAT
+redo same function properly now,REPEAT
+redo the entire process again,REPEAT
+redo entire process properly,REPEAT
+redo all properly now,REPEAT
+redo all once again properly,REPEAT
+redo all again properly,REPEAT
+redo all same properly,REPEAT
+redo same one properly again,REPEAT
+redo again entire process properly,REPEAT
+redo again properly fully,REPEAT
+redo again the same process properly,REPEAT
+redo again all properly,REPEAT
+redo the last again properly,REPEAT
+redo same one properly now,REPEAT
+redo that process fully now,REPEAT
+redo same operation fully now,REPEAT
+redo this properly now,REPEAT
+redo this step properly now,REPEAT
+redo it again properly now,REPEAT
+redo again same step properly,REPEAT
+redo same step properly now,REPEAT
+redo the process properly now,REPEAT
+redo again same process properly now,REPEAT
+redo again properly fully now,REPEAT
+redo this entire process properly,REPEAT
+redo that process properly now,REPEAT
+Repeat,REPEAT
+Do that again,REPEAT
+Repeat the last action,REPEAT
+Perform again,REPEAT
+Repeat the last command,REPEAT
+Can you repeat that,REPEAT
+Do it once more,REPEAT
+Repeat my last input,REPEAT
+Run it again,REPEAT
+Repeat previous,REPEAT
+I want to repeat,REPEAT
+Repeat the command,REPEAT
+Execute again,REPEAT
+Repeat the last operation,REPEAT
+Do the same thing again,REPEAT
+Can you do that again please,REPEAT
+Repeat the previous action,REPEAT
+Repeat the last task,REPEAT
+Once more,REPEAT
+Perform it again,REPEAT
+Repeat the instruction,REPEAT
+Re-run,REPEAT
+Repeat what you just did,REPEAT
+Go again,REPEAT
+Do this one more time,REPEAT
+Repeat current,REPEAT
+Echo last command,REPEAT
+Can you repeat the sequence,REPEAT
+Duplicate last action,REPEAT
+Repeat the process,REPEAT
+Perform the action again,REPEAT
+Do the last operation over,REPEAT
+Repeat the last step,REPEAT
+Repeat the request,REPEAT
+Again,REPEAT
+Reiterate,REPEAT
+Repeat last,REPEAT
+Do it again now,REPEAT
+Repeat the sequence,REPEAT
+Copy last action,REPEAT

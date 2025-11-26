@@ -1,0 +1,845 @@
+text,label
+Affirmative,CONFIRM
+That's correct,CONFIRM
+Indeed,CONFIRM
+I agree,CONFIRM
+Okay,CONFIRM
+Do it,CONFIRM
+Yes please,CONFIRM
+Correct,CONFIRM
+I confirm,CONFIRM
+Proceed with that,CONFIRM
+Alright,CONFIRM
+Confirm that,CONFIRM
+Go for it,CONFIRM
+Aye,CONFIRM
+That's right,CONFIRM
+Agreed,CONFIRM
+Yes I confirm,CONFIRM
+Move forward,CONFIRM
+Sounds good,CONFIRM
+Confirm this,CONFIRM
+By all means,CONFIRM
+Yup,CONFIRM
+You got it,CONFIRM
+Let's do it,CONFIRM
+Carry on,CONFIRM
+Execute,CONFIRM
+Affirm,CONFIRM
+That's correct go ahead,CONFIRM
+Confirmed,CONFIRM
+Right,CONFIRM
+Yes go ahead,CONFIRM
+Proceed now,CONFIRM
+Positive,CONFIRM
+Roger that,CONFIRM
+Sure,CONFIRM
+Definitely,CONFIRM
+I'm good with that,CONFIRM
+Make it so,CONFIRM
+Validate,CONFIRM
+True,CONFIRM
+Yes do it,CONFIRM
+Let's proceed,CONFIRM
+Absolutely,CONFIRM
+Confirmed thanks,CONFIRM
+Ok,CONFIRM
+Proceed as planned,CONFIRM
+Understood proceed,CONFIRM
+It is so,CONFIRM
+Yes that's fine,CONFIRM
+Continue,CONFIRM
+You may proceed,CONFIRM
+Yes I'm ready,CONFIRM
+Confirm the action,CONFIRM
+Alright let's proceed,CONFIRM
+This is correct,CONFIRM
+Go ahead with it,CONFIRM
+I approve,CONFIRM
+Yes it's a go,CONFIRM
+Proceed with the task,CONFIRM
+Make it happen,CONFIRM
+Yes proceed,CONFIRM
+That sounds right,CONFIRM
+Let's move forward,CONFIRM
+All good,CONFIRM
+Go ahead and do it,CONFIRM
+Yes sure,CONFIRM
+Confirm the operation,CONFIRM
+Ready to proceed,CONFIRM
+That's a yes,CONFIRM
+Move ahead,CONFIRM
+I assent,CONFIRM
+Yes that works,CONFIRM
+Continue on,CONFIRM
+Execute the command,CONFIRM
+It's a go,CONFIRM
+Yes I'm on board,CONFIRM
+Do as planned,CONFIRM
+Affirmative continue,CONFIRM
+Confirmed let's go,CONFIRM
+Yes do that,CONFIRM
+Forward,CONFIRM
+I concur,CONFIRM
+Yes please continue,CONFIRM
+Proceed with action,CONFIRM
+That's fine,CONFIRM
+Okay let's start,CONFIRM
+Yes let's begin,CONFIRM
+Go,CONFIRM
+I accept,CONFIRM
+Yes carry on,CONFIRM
+Confirm to proceed,CONFIRM
+Agreed let's go,CONFIRM
+Yes I'm ready to proceed,CONFIRM
+Commence,CONFIRM
+Yes,CONFIRM
+Confirm,CONFIRM
+Proceed,CONFIRM
+Go ahead,CONFIRM
+Yes go ahead,CONFIRM
+Go ahead please,CONFIRM
+yes please,CONFIRM
+confirm the action,CONFIRM
+proceed with this,CONFIRM
+go ahead now,CONFIRM
+i agree to that,CONFIRM
+confirm my choice,CONFIRM
+affirm this decision,CONFIRM
+okay do it,CONFIRM
+execute this now,CONFIRM
+confirm this process,CONFIRM
+yes do that,CONFIRM
+i confirm now,CONFIRM
+confirm the input,CONFIRM
+proceed as planned,CONFIRM
+accept this action,CONFIRM
+apply changes,CONFIRM
+save my work,CONFIRM
+commit this action,CONFIRM
+make it so,CONFIRM
+finalize this,CONFIRM
+agree to terms,CONFIRM
+validate my choice,CONFIRM
+authorize this,CONFIRM
+confirm selection,CONFIRM
+yes that is right,CONFIRM
+continue forward,CONFIRM
+accept this proposal,CONFIRM
+initiate now,CONFIRM
+start the process,CONFIRM
+approve this,CONFIRM
+i accept it,CONFIRM
+confirm operation,CONFIRM
+proceed with task,CONFIRM
+confirm entry,CONFIRM
+yes i want to,CONFIRM
+validate current,CONFIRM
+confirm data,CONFIRM
+confirm the entry,CONFIRM
+go for it,CONFIRM
+this is correct,CONFIRM
+confirm my request,CONFIRM
+apply the update,CONFIRM
+yes do proceed,CONFIRM
+confirm this choice,CONFIRM
+i am sure,CONFIRM
+accept current,CONFIRM
+proceed with plan,CONFIRM
+confirm action,CONFIRM
+yes continue,CONFIRM
+validate action,CONFIRM
+i confirm my choice,CONFIRM
+accept the data,CONFIRM
+confirm the task,CONFIRM
+yes run it,CONFIRM
+confirm the options,CONFIRM
+proceed with details,CONFIRM
+save the item,CONFIRM
+i confirm that,CONFIRM
+accept my decision,CONFIRM
+confirm this setting,CONFIRM
+go ahead with it,CONFIRM
+yes move forward,CONFIRM
+confirm the details,CONFIRM
+ok to proceed,CONFIRM
+i confirm current,CONFIRM
+confirm my input,CONFIRM
+yes proceed with,CONFIRM
+validate my action,CONFIRM
+confirm this step,CONFIRM
+do as i say,CONFIRM
+confirm my choice now,CONFIRM
+accept the changes,CONFIRM
+yes please run,CONFIRM
+confirm current choice,CONFIRM
+agree to continue,CONFIRM
+confirm my changes,CONFIRM
+proceed with plan,CONFIRM
+yes do it,CONFIRM
+confirm the process,CONFIRM
+accept this input,CONFIRM
+confirm this step,CONFIRM
+yes execute,CONFIRM
+confirm the option,CONFIRM
+proceed with current,CONFIRM
+accept current changes,CONFIRM
+confirm this data,CONFIRM
+yes lets go,CONFIRM
+confirm the plan,CONFIRM
+agree to this,CONFIRM
+confirm current action,CONFIRM
+yes that's fine,CONFIRM
+yes proceed with,CONFIRM
+confirm my choice,CONFIRM
+agree and continue,CONFIRM
+execute the action,CONFIRM
+approve this step,CONFIRM
+confirm the current,CONFIRM
+go ahead with action,CONFIRM
+yes do that now,CONFIRM
+accept the changes,CONFIRM
+yes please,CONFIRM
+go ahead,CONFIRM
+do it,CONFIRM
+confirm action,CONFIRM
+that's fine,CONFIRM
+sure thing,CONFIRM
+okay proceed,CONFIRM
+yes go on,CONFIRM
+alright confirm,CONFIRM
+sounds good,CONFIRM
+go for it,CONFIRM
+yeah okay,CONFIRM
+yes do that,CONFIRM
+all good,CONFIRM
+confirm that,CONFIRM
+please continue,CONFIRM
+approve this,CONFIRM
+looks good,CONFIRM
+confirm submission,CONFIRM
+that's okay,CONFIRM
+yes proceed,CONFIRM
+fine by me,CONFIRM
+yes sure,CONFIRM
+let's continue,CONFIRM
+yeah do it,CONFIRM
+I agree,CONFIRM
+confirm choice,CONFIRM
+please go ahead,CONFIRM
+that's right,CONFIRM
+yes confirm,CONFIRM
+sure proceed,CONFIRM
+ok fine,CONFIRM
+all clear,CONFIRM
+looks fine,CONFIRM
+please confirm,CONFIRM
+do confirm,CONFIRM
+agree with that,CONFIRM
+confirm now,CONFIRM
+ok proceed,CONFIRM
+go on please,CONFIRM
+confirm operation,CONFIRM
+continue please,CONFIRM
+yes okay,CONFIRM
+alright proceed,CONFIRM
+you can continue,CONFIRM
+it's okay,CONFIRM
+carry on,CONFIRM
+that's correct,CONFIRM
+I'm fine,CONFIRM
+continue that,CONFIRM
+go on,CONFIRM
+please approve,CONFIRM
+let's go,CONFIRM
+confirm yes,CONFIRM
+I'm sure,CONFIRM
+yes alright,CONFIRM
+please continue this,CONFIRM
+you may proceed,CONFIRM
+approve it,CONFIRM
+looks correct,CONFIRM
+confirm it,CONFIRM
+seems fine,CONFIRM
+approve action,CONFIRM
+do approve,CONFIRM
+proceed now,CONFIRM
+fine proceed,CONFIRM
+okay confirm,CONFIRM
+confirm request,CONFIRM
+confirm operation please,CONFIRM
+yes indeed,CONFIRM
+I'm okay,CONFIRM
+sounds fine,CONFIRM
+confirm transaction,CONFIRM
+go on confirm,CONFIRM
+yeah proceed,CONFIRM
+yes definitely,CONFIRM
+do go on,CONFIRM
+confirm approval,CONFIRM
+move ahead,CONFIRM
+approve request,CONFIRM
+proceed ahead,CONFIRM
+let it continue,CONFIRM
+okay do it,CONFIRM
+approve submission,CONFIRM
+confirm the step,CONFIRM
+please confirm action,CONFIRM
+yes confirm now,CONFIRM
+approve this please,CONFIRM
+confirm my choice,CONFIRM
+it's fine,CONFIRM
+move forward,CONFIRM
+okay with it,CONFIRM
+looks good to me,CONFIRM
+that's acceptable,CONFIRM
+seems okay,CONFIRM
+go ahead confirm,CONFIRM
+I accept,CONFIRM
+yes I approve,CONFIRM
+confirm yes please,CONFIRM
+okay sure,CONFIRM
+carry forward,CONFIRM
+confirm selection,CONFIRM
+looks okay,CONFIRM
+do proceed,CONFIRM
+sure continue,CONFIRM
+approve now,CONFIRM
+that's fine go,CONFIRM
+looks alright,CONFIRM
+confirm and proceed,CONFIRM
+yes confirm please,CONFIRM
+confirm entry,CONFIRM
+that's approved,CONFIRM
+confirm the form,CONFIRM
+fine by me confirm,CONFIRM
+yes keep going,CONFIRM
+confirm completion,CONFIRM
+I consent,CONFIRM
+please validate,CONFIRM
+yes I consent,CONFIRM
+confirm this task,CONFIRM
+approve change,CONFIRM
+okay move on,CONFIRM
+looks valid,CONFIRM
+yeah confirm it,CONFIRM
+alright go ahead,CONFIRM
+fine confirm,CONFIRM
+I'm okay with it,CONFIRM
+yes that's fine,CONFIRM
+okay that's fine,CONFIRM
+confirm submission please,CONFIRM
+let it go,CONFIRM
+confirm my selection,CONFIRM
+sure I'm fine,CONFIRM
+alright go on,CONFIRM
+confirm data,CONFIRM
+all seems fine,CONFIRM
+approve process,CONFIRM
+confirm details,CONFIRM
+okay go on,CONFIRM
+go ahead now,CONFIRM
+please confirm yes,CONFIRM
+yes confirm submission,CONFIRM
+alright fine,CONFIRM
+please validate that,CONFIRM
+confirm order,CONFIRM
+go ahead and do it,CONFIRM
+I'm in agreement,CONFIRM
+okay with that,CONFIRM
+confirm yes go,CONFIRM
+confirm request now,CONFIRM
+do continue,CONFIRM
+confirm my action,CONFIRM
+everything fine,CONFIRM
+looks acceptable,CONFIRM
+confirm deletion,CONFIRM
+okay that's okay,CONFIRM
+please confirm step,CONFIRM
+sure it's fine,CONFIRM
+you may continue,CONFIRM
+okay agree,CONFIRM
+confirm the update,CONFIRM
+approve deletion,CONFIRM
+proceed with it,CONFIRM
+confirm to continue,CONFIRM
+confirm sending,CONFIRM
+I'm fine with it,CONFIRM
+confirm my approval,CONFIRM
+please go for it,CONFIRM
+proceed confirmation,CONFIRM
+confirm upload,CONFIRM
+approve yes,CONFIRM
+confirm go ahead,CONFIRM
+please proceed yes,CONFIRM
+okay agree with that,CONFIRM
+yes I accept,CONFIRM
+fine go ahead,CONFIRM
+that's approved yes,CONFIRM
+confirm response,CONFIRM
+let's go ahead,CONFIRM
+confirm that's fine,CONFIRM
+approve yes please,CONFIRM
+confirm decision,CONFIRM
+I'm good with it,CONFIRM
+confirm move,CONFIRM
+confirm my approval please,CONFIRM
+okay continue,CONFIRM
+alright yes,CONFIRM
+yes approve it,CONFIRM
+sure approve,CONFIRM
+please confirm choice,CONFIRM
+looks fine yes,CONFIRM
+I'm alright,CONFIRM
+confirm now please,CONFIRM
+I'm good,CONFIRM
+sure confirm,CONFIRM
+confirm upload please,CONFIRM
+confirm that yes,CONFIRM
+please confirm submission,CONFIRM
+approve action now,CONFIRM
+looks good confirm,CONFIRM
+confirm yes now,CONFIRM
+yeah go for it,CONFIRM
+okay I'm fine,CONFIRM
+alright do that,CONFIRM
+confirm update,CONFIRM
+that's confirmed,CONFIRM
+fine yes,CONFIRM
+approve the request,CONFIRM
+please approve yes,CONFIRM
+yes please go ahead,CONFIRM
+confirm final,CONFIRM
+yes agree,CONFIRM
+please go on,CONFIRM
+confirm my input,CONFIRM
+approve my choice,CONFIRM
+go on yes,CONFIRM
+that's fine proceed,CONFIRM
+sure let's proceed,CONFIRM
+go for it confirm,CONFIRM
+yes continue,CONFIRM
+alright keep going,CONFIRM
+confirm yes continue,CONFIRM
+approve confirm,CONFIRM
+I accept that,CONFIRM
+yes do proceed,CONFIRM
+approve my request,CONFIRM
+confirm that's correct,CONFIRM
+that's right confirm,CONFIRM
+confirm continue,CONFIRM
+confirm fine,CONFIRM
+approve to continue,CONFIRM
+confirm complete,CONFIRM
+I'm okay confirm,CONFIRM
+confirm your step,CONFIRM
+go ahead okay,CONFIRM
+confirm okay,CONFIRM
+approve that please,CONFIRM
+yes confirm go ahead,CONFIRM
+confirm okay yes,CONFIRM
+approve my action,CONFIRM
+please proceed confirm,CONFIRM
+confirm the process,CONFIRM
+yes okay continue,CONFIRM
+alright confirm yes,CONFIRM
+confirm approved,CONFIRM
+confirm go on,CONFIRM
+I approve that,CONFIRM
+confirm my data,CONFIRM
+sure fine,CONFIRM
+please validate now,CONFIRM
+confirm it's fine,CONFIRM
+confirm to proceed,CONFIRM
+looks fine proceed,CONFIRM
+confirm it please,CONFIRM
+confirm yes alright,CONFIRM
+proceed confirm,CONFIRM
+approve confirm now,CONFIRM
+okay confirm now,CONFIRM
+confirm process,CONFIRM
+yes carry on,CONFIRM
+please confirm continue,CONFIRM
+approve fine,CONFIRM
+confirm yes do it,CONFIRM
+that's correct confirm,CONFIRM
+approve okay,CONFIRM
+yes go ahead confirm,CONFIRM
+sure fine confirm,CONFIRM
+looks fine okay,CONFIRM
+confirm now go,CONFIRM
+yes proceed confirm,CONFIRM
+okay all good,CONFIRM
+confirm yes do,CONFIRM
+confirm accepted,CONFIRM
+please confirm it,CONFIRM
+confirm right away,CONFIRM
+confirm task,CONFIRM
+that's fine okay,CONFIRM
+I'm fine go ahead,CONFIRM
+confirm approve,CONFIRM
+confirm with yes,CONFIRM
+please go confirm,CONFIRM
+confirm execution,CONFIRM
+confirm proceed,CONFIRM
+confirm final yes,CONFIRM
+yes indeed confirm,CONFIRM
+confirm accepted now,CONFIRM
+looks good yes,CONFIRM
+confirm and go,CONFIRM
+confirm step,CONFIRM
+confirm confirmation,CONFIRM
+sure yes proceed,CONFIRM
+please confirm go ahead,CONFIRM
+confirm the request,CONFIRM
+confirm alright,CONFIRM
+alright proceed yes,CONFIRM
+approve confirm yes,CONFIRM
+confirm yeah,CONFIRM
+go ahead yes,CONFIRM
+confirm that please,CONFIRM
+yes alright confirm,CONFIRM
+okay fine confirm,CONFIRM
+confirm that go ahead,CONFIRM
+approve please,CONFIRM
+looks fine confirm yes,CONFIRM
+confirm it's okay,CONFIRM
+approve continue,CONFIRM
+confirm I agree,CONFIRM
+confirm my agreement,CONFIRM
+confirm go forward,CONFIRM
+approve the step,CONFIRM
+confirm consent,CONFIRM
+confirm approval,CONFIRM
+approve final,CONFIRM
+confirm yes alright now,CONFIRM
+I approve yes,CONFIRM
+confirm this yes,CONFIRM
+confirm fine proceed,CONFIRM
+go confirm now,CONFIRM
+approve go,CONFIRM
+confirm I'm okay,CONFIRM
+confirm submit,CONFIRM
+confirm action now,CONFIRM
+confirm alright please,CONFIRM
+okay yes confirm,CONFIRM
+please continue confirm,CONFIRM
+confirm the choice,CONFIRM
+confirm this action,CONFIRM
+confirm and continue,CONFIRM
+confirm okay proceed,CONFIRM
+confirm done,CONFIRM
+okay confirm go,CONFIRM
+confirm alright yes,CONFIRM
+yes confirm continue,CONFIRM
+confirm yes please proceed,CONFIRM
+approve and continue,CONFIRM
+confirm go forward,CONFIRM
+confirm correct,CONFIRM
+please confirm correct,CONFIRM
+confirm yes that's fine,CONFIRM
+confirm okay fine,CONFIRM
+confirm yes fine,CONFIRM
+approve this confirm,CONFIRM
+confirm step please,CONFIRM
+confirm proceed yes,CONFIRM
+yes please confirm,CONFIRM
+confirm that's okay,CONFIRM
+confirm yes fine proceed,CONFIRM
+confirm all good,CONFIRM
+confirm okay now,CONFIRM
+approve yes now,CONFIRM
+confirm sure,CONFIRM
+please approve now,CONFIRM
+confirm alright proceed,CONFIRM
+approve yes okay,CONFIRM
+confirm continue yes,CONFIRM
+yes approve confirm,CONFIRM
+confirm looks good,CONFIRM
+confirm looks fine,CONFIRM
+confirm fine yes,CONFIRM
+approve that confirm,CONFIRM
+confirm okay alright,CONFIRM
+confirm do it yes,CONFIRM
+confirm please go,CONFIRM
+yes that's okay confirm,CONFIRM
+confirm fine continue,CONFIRM
+approve proceed confirm,CONFIRM
+confirm keep going,CONFIRM
+confirm go,CONFIRM
+confirm yes proceed please,CONFIRM
+approve go ahead,CONFIRM
+confirm everything okay,CONFIRM
+confirm and approve,CONFIRM
+confirm the decision,CONFIRM
+confirm please yes,CONFIRM
+confirm final step,CONFIRM
+confirm alright now,CONFIRM
+confirm the details,CONFIRM
+confirm yes continue please,CONFIRM
+approve fine yes,CONFIRM
+confirm I'm good,CONFIRM
+confirm go now,CONFIRM
+confirm yes that's correct,CONFIRM
+confirm I agree yes,CONFIRM
+confirm yes indeed,CONFIRM
+confirm okay sure,CONFIRM
+approve confirm proceed,CONFIRM
+confirm proceed now,CONFIRM
+confirm confirm,CONFIRM
+confirm okay continue,CONFIRM
+confirm that continue,CONFIRM
+confirm please yes go,CONFIRM
+confirm yes okay,CONFIRM
+confirm now proceed,CONFIRM
+approve this step,CONFIRM
+confirm go yes,CONFIRM
+confirm yes confirm,CONFIRM
+confirm sure go ahead,CONFIRM
+confirm sure proceed,CONFIRM
+confirm confirm now,CONFIRM
+confirm confirm yes,CONFIRM
+confirm yes approved,CONFIRM
+confirm yes fine okay,CONFIRM
+confirm everything fine,CONFIRM
+confirm confirm okay,CONFIRM
+confirm confirm proceed,CONFIRM
+confirm this step yes,CONFIRM
+confirm that's approved,CONFIRM
+confirm good,CONFIRM
+confirm that looks fine,CONFIRM
+confirm yes move ahead,CONFIRM
+confirm proceed forward,CONFIRM
+confirm that's right,CONFIRM
+confirm all fine,CONFIRM
+confirm fine with me,CONFIRM
+confirm go forward now,CONFIRM
+confirm yes perfect,CONFIRM
+confirm fine approved,CONFIRM
+confirm looks fine proceed,CONFIRM
+confirm yes confirmed,CONFIRM
+confirm yes continue now,CONFIRM
+confirm I'm fine yes,CONFIRM
+confirm yes alright now,CONFIRM
+confirm yes everything okay,CONFIRM
+confirm fine go ahead,CONFIRM
+confirm please move ahead,CONFIRM
+confirm proceed fine,CONFIRM
+confirm yes continue forward,CONFIRM
+confirm fine please,CONFIRM
+confirm looks good go ahead,CONFIRM
+confirm everything good,CONFIRM
+confirm proceed fine yes,CONFIRM
+confirm yes keep going,CONFIRM
+confirm yes go now,CONFIRM
+confirm yes continue okay,CONFIRM
+confirm yes everything fine,CONFIRM
+confirm please continue yes,CONFIRM
+confirm it's correct,CONFIRM
+confirm fine now,CONFIRM
+confirm yes continue fine,CONFIRM
+confirm please proceed now,CONFIRM
+confirm yes yes,CONFIRM
+confirm it's all good,CONFIRM
+confirm yes fine go ahead,CONFIRM
+confirm all correct,CONFIRM
+confirm yes yes go ahead,CONFIRM
+confirm everything correct,CONFIRM
+confirm yes go forward,CONFIRM
+confirm yes go proceed,CONFIRM
+confirm looks okay yes,CONFIRM
+confirm yes fine proceed now,CONFIRM
+confirm everything okay now,CONFIRM
+confirm yes go forward please,CONFIRM
+confirm fine all good,CONFIRM
+confirm yes correct okay,CONFIRM
+confirm yes yes fine,CONFIRM
+confirm yes that's fine now,CONFIRM
+confirm all set,CONFIRM
+confirm okay fine proceed,CONFIRM
+confirm yes alright proceed,CONFIRM
+confirm everything correct fine,CONFIRM
+confirm all clear,CONFIRM
+confirm yes everything correct,CONFIRM
+confirm yes okay good,CONFIRM
+confirm yes all fine,CONFIRM
+confirm yes I agree now,CONFIRM
+confirm proceed okay,CONFIRM
+confirm yes yes continue,CONFIRM
+confirm okay yes proceed,CONFIRM
+confirm yes okay now,CONFIRM
+confirm yes I approve,CONFIRM
+confirm looks fine yes,CONFIRM
+confirm okay proceed yes,CONFIRM
+confirm yes everything approved,CONFIRM
+confirm yes fine okay proceed,CONFIRM
+confirm all approved,CONFIRM
+confirm proceed correct,CONFIRM
+confirm yes okay confirm,CONFIRM
+confirm yes final proceed,CONFIRM
+confirm fine okay yes,CONFIRM
+confirm yes go continue,CONFIRM
+confirm yes approved proceed,CONFIRM
+confirm yes okay good proceed,CONFIRM
+confirm final approved,CONFIRM
+confirm yes all approved,CONFIRM
+confirm final okay proceed,CONFIRM
+confirm yes good proceed,CONFIRM
+confirm fine okay go,CONFIRM
+confirm yes good okay,CONFIRM
+confirm yes go forward now,CONFIRM
+confirm yes continue fine proceed,CONFIRM
+confirm yes confirm proceed,CONFIRM
+confirm yes confirm okay,CONFIRM
+confirm yes confirm go ahead,CONFIRM
+confirm yes proceed approved,CONFIRM
+confirm yes continue approved,CONFIRM
+confirm yes go ahead okay,CONFIRM
+confirm okay good proceed,CONFIRM
+confirm yes proceed now okay,CONFIRM
+confirm yes fine continue,CONFIRM
+confirm yes confirm yes,CONFIRM
+confirm yes yes approve,CONFIRM
+confirm yes confirm approved,CONFIRM
+confirm yes proceed confirm,CONFIRM
+confirm yes proceed yes,CONFIRM
+confirm yes yes yes proceed,CONFIRM
+confirm yes fine confirm,CONFIRM
+confirm yes fine yes proceed,CONFIRM
+confirm yes proceed final,CONFIRM
+confirm yes final yes proceed,CONFIRM
+confirm yes proceed done,CONFIRM
+confirm yes okay approved,CONFIRM
+confirm yes approved final,CONFIRM
+confirm yes approved done,CONFIRM
+confirm yes confirmed proceed,CONFIRM
+confirm yes all okay proceed,CONFIRM
+confirm yes fine approved proceed,CONFIRM
+confirm yes done proceed,CONFIRM
+confirm yes okay done,CONFIRM
+confirm yes approved yes,CONFIRM
+confirm yes yes okay,CONFIRM
+confirm yes approved now,CONFIRM
+confirm yes confirm done,CONFIRM
+confirm yes final confirmed,CONFIRM
+confirm yes confirmed okay,CONFIRM
+confirm yes confirmed yes,CONFIRM
+confirm yes yes fine done,CONFIRM
+confirm yes done okay,CONFIRM
+confirm yes done yes,CONFIRM
+confirm yes proceed finished,CONFIRM
+confirm yes complete proceed,CONFIRM
+confirm yes final complete,CONFIRM
+confirm yes complete done,CONFIRM
+confirm yes done confirmed,CONFIRM
+confirm yes completed proceed,CONFIRM
+confirm yes done approved,CONFIRM
+confirm yes done completed,CONFIRM
+confirm yes done fine,CONFIRM
+confirm yes complete approved,CONFIRM
+confirm yes proceed completed,CONFIRM
+confirm yes okay finished,CONFIRM
+confirm yes all done,CONFIRM
+confirm yes done proceed,CONFIRM
+confirm yes completed now,CONFIRM
+confirm yes yes complete,CONFIRM
+confirm yes everything complete,CONFIRM
+confirm yes everything done,CONFIRM
+confirm yes it's done,CONFIRM
+confirm yes fine complete,CONFIRM
+confirm yes done go ahead,CONFIRM
+confirm yes proceed finish,CONFIRM
+confirm yes finish done,CONFIRM
+confirm yes confirm finished,CONFIRM
+confirm yes it's finished,CONFIRM
+confirm yes all finished,CONFIRM
+confirm yes finish proceed,CONFIRM
+confirm yes done finished,CONFIRM
+confirm yes complete finished,CONFIRM
+confirm yes all complete,CONFIRM
+confirm yes confirm complete,CONFIRM
+confirm yes final done,CONFIRM
+confirm yes completed finished,CONFIRM
+confirm yes yes done finished,CONFIRM
+confirm yes completed final,CONFIRM
+confirm yes proceed final done,CONFIRM
+confirm yes done final,CONFIRM
+confirm yes it's complete,CONFIRM
+confirm yes all complete done,CONFIRM
+confirm yes finished all,CONFIRM
+confirm yes all done proceed,CONFIRM
+confirm yes complete now,CONFIRM
+confirm yes finished proceed,CONFIRM
+confirm yes done all,CONFIRM
+confirm yes all done complete,CONFIRM
+confirm yes done and complete,CONFIRM
+confirm yes yes done complete,CONFIRM
+confirm yes finished now,CONFIRM
+confirm yes all done now,CONFIRM
+confirm yes it's all done,CONFIRM
+confirm yes all finished now,CONFIRM
+confirm yes done now,CONFIRM
+confirm yes now complete,CONFIRM
+confirm yes proceed now done,CONFIRM
+confirm yes yes it's complete,CONFIRM
+confirm yes everything complete now,CONFIRM
+confirm yes complete and done,CONFIRM
+confirm yes done done,CONFIRM
+confirm yes okay all done,CONFIRM
+confirm yes it's done now,CONFIRM
+confirm yes everything done now,CONFIRM
+confirm yes completed done,CONFIRM
+confirm yes done okay now,CONFIRM
+confirm yes yes done now,CONFIRM
+confirm yes everything okay done,CONFIRM
+confirm yes it's all complete,CONFIRM
+confirm yes now everything done,CONFIRM
+confirm yes all completed now,CONFIRM
+confirm yes complete okay done,CONFIRM
+confirm yes completed all done,CONFIRM
+confirm yes okay complete done,CONFIRM
+confirm yes proceed all done,CONFIRM
+confirm yes done everything,CONFIRM
+confirm yes everything done complete,CONFIRM
+confirm yes yes done all,CONFIRM
+confirm yes all done finished,CONFIRM
+Yes,CONFIRM
+Confirm that,CONFIRM
+Go ahead,CONFIRM
+Do it,CONFIRM
+That's correct,CONFIRM
+Affirmative,CONFIRM
+Proceed,CONFIRM
+Confirm,CONFIRM
+I confirm,CONFIRM
+Yes please,CONFIRM
+Alright,CONFIRM
+Okay,CONFIRM
+I'm sure,CONFIRM
+Looks good,CONFIRM
+Execute,CONFIRM
+Validate,CONFIRM
+Double-check and confirm,CONFIRM
+Confirm the action,CONFIRM
+Yes I want to do this,CONFIRM
+Make it so,CONFIRM
+Confirm this decision,CONFIRM
+Finalize,CONFIRM
+I agree,CONFIRM
+Approve,CONFIRM
+Accept,CONFIRM
+Commit,CONFIRM
+It's settled,CONFIRM
+Certainly,CONFIRM
+By all means,CONFIRM
+Absolutely,CONFIRM
+I am certain,CONFIRM
+Confirm my choice,CONFIRM
+Yes proceed with that,CONFIRM
+This is correct,CONFIRM
+Confirm the details,CONFIRM
+That's what I want,CONFIRM
+Confirm action,CONFIRM
+Proceed with the current settings,CONFIRM
+Go for it,CONFIRM
+I'm ready,CONFIRM

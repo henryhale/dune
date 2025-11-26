@@ -1,0 +1,911 @@
+text,label
+Go back,UNDO
+Reverse,UNDO
+Un-do that,UNDO
+Cancel last action,UNDO
+Roll back,UNDO
+Take it back,UNDO
+I want to undo,UNDO
+Revert last change,UNDO
+Unmake that,UNDO
+Previous state,UNDO
+Restore,UNDO
+Undo the last thing,UNDO
+Go to previous,UNDO
+Undo my last command,UNDO
+Bring it back,UNDO
+Remove last action,UNDO
+Un-do the last operation,UNDO
+Retract last,UNDO
+Set back,UNDO
+Undo that last step,UNDO
+Cancel previous,UNDO
+Undo everything,UNDO
+Rewind,UNDO
+Backtrack,UNDO
+Take back the last,UNDO
+Undo the recent action,UNDO
+Reverse last command,UNDO
+Restore previous state,UNDO
+Undo last operation,UNDO
+Go back a step,UNDO
+Uncommit,UNDO
+Cancel previous action,UNDO
+Undo the action,UNDO
+Roll back the last change,UNDO
+Revert to prior,UNDO
+Undo previous command,UNDO
+Take that back,UNDO
+Make it as it was,UNDO
+Undo the very last thing,UNDO
+Restore to before,UNDO
+Undo last entry,UNDO
+Go to the earlier version,UNDO
+Cancel my last input,UNDO
+Undo the change,UNDO
+Revert the last action,UNDO
+Un-do the prior command,UNDO
+Bring it to a previous form,UNDO
+Undo current action,UNDO
+Back up,UNDO
+Return to previous,UNDO
+Undo recent,UNDO
+Restore the last state,UNDO
+Revert the current,UNDO
+Take back the previous,UNDO
+Undo last edit,UNDO
+Go back one step,UNDO
+Unperform,UNDO
+Undo my last request,UNDO
+Bring to prior,UNDO
+Reverse the last action,UNDO
+Undo the last modification,UNDO
+Cancel the most recent action,UNDO
+Undo that step,UNDO
+Reset,UNDO
+Undo current command,UNDO
+Go back to what it was,UNDO
+Undo the last process,UNDO
+Reverse the current,UNDO
+Undo the last entry,UNDO
+Take back the most recent,UNDO
+Unsubmit,UNDO
+Undo the previous action,UNDO
+Go to the last stable state,UNDO
+Undo last entry please,UNDO
+Cancel last step,UNDO
+Undo the operation just done,UNDO
+Revert to previous version,UNDO
+Undo this,UNDO
+Make it like before,UNDO
+Undo the command I just gave,UNDO
+Go back in time,UNDO
+Undo last change please,UNDO
+Revert to the old state,UNDO
+Undo the most recent command,UNDO
+Cancel the last operation,UNDO
+Undo prior action,UNDO
+Back one step,UNDO
+Undo the effect,UNDO
+Revert previous,UNDO
+Un-execute,UNDO
+Undo that last one,UNDO
+Go to the earlier state,UNDO
+Cancel the last change,UNDO
+Undo last command please,UNDO
+Undo,UNDO
+Undo please,UNDO
+Undo last,UNDO
+Undo last change,UNDO
+Revert,UNDO
+Take back,UNDO
+undo my last change,UNDO
+revert the last action,UNDO
+go back one step,UNDO
+undo that operation,UNDO
+take back my last move,UNDO
+reverse the previous,UNDO
+roll back current,UNDO
+un do this,UNDO
+previous step now,UNDO
+cancel last edit,UNDO
+undo current,UNDO
+revert the change,UNDO
+go back one stage,UNDO
+undo the action,UNDO
+take back my changes,UNDO
+reverse my last,UNDO
+roll back this,UNDO
+un do the last,UNDO
+previous action please,UNDO
+cancel previous,UNDO
+undo this action,UNDO
+revert to previous,UNDO
+go back the step,UNDO
+undo current action,UNDO
+take back my last input,UNDO
+reverse the last command,UNDO
+roll back to before,UNDO
+un do everything,UNDO
+previous state please,UNDO
+cancel the last,UNDO
+undo my last action,UNDO
+revert this action,UNDO
+go back one position,UNDO
+undo the last move,UNDO
+take back my entry,UNDO
+reverse previous,UNDO
+roll back the update,UNDO
+un do the current,UNDO
+previous change please,UNDO
+cancel my last edit,UNDO
+undo this change,UNDO
+revert the last one,UNDO
+go back one level,UNDO
+undo my last step,UNDO
+take back this,UNDO
+reverse my action,UNDO
+roll back the command,UNDO
+un do the action,UNDO
+previous input please,UNDO
+cancel the prior,UNDO
+undo this process,UNDO
+revert to old,UNDO
+go back a step,UNDO
+undo my last command,UNDO
+take back my last action,UNDO
+reverse the current,UNDO
+roll back my changes,UNDO
+un do that operation,UNDO
+previous option please,UNDO
+cancel my previous action,UNDO
+undo this entry,UNDO
+revert the last input,UNDO
+go back a move,UNDO
+undo my last choice,UNDO
+take back my last selection,UNDO
+reverse the last input,UNDO
+roll back the current,UNDO
+un do my last action,UNDO
+previous process please,UNDO
+cancel the most recent,UNDO
+undo this task,UNDO
+revert to earlier,UNDO
+go back one stage,UNDO
+undo my last entry,UNDO
+take back my current,UNDO
+reverse the last step,UNDO
+roll back my entry,UNDO
+un do this input,UNDO
+previous selection please,UNDO
+cancel last operation,UNDO
+undo this command,UNDO
+revert to previous state,UNDO
+go back a choice,UNDO
+undo my last input,UNDO
+take back my words,UNDO
+reverse the current step,UNDO
+roll back the choice,UNDO
+un do my last input now,UNDO
+previous command please,UNDO
+cancel recent action,UNDO
+undo this work,UNDO
+revert to past,UNDO
+go back one decision,UNDO
+undo my last plan,UNDO
+take back my action,UNDO
+reverse the previous step,UNDO
+roll back the action,UNDO
+undo previous action,UNDO
+revert the last step,UNDO
+go back one move,UNDO
+undo last action,UNDO
+go back one step,UNDO
+revert that change,UNDO
+take back what I did,UNDO
+cancel the last edit,UNDO
+reverse my last move,UNDO
+step back once,UNDO
+undo previous step,UNDO
+revert last update,UNDO
+undo that mistake,UNDO
+go one step back,UNDO
+undo what I just did,UNDO
+reverse that operation,UNDO
+roll back my change,UNDO
+remove last modification,UNDO
+undo last command,UNDO
+go back to before,UNDO
+restore to previous state,UNDO
+revert that input,UNDO
+cancel my last move,UNDO
+undo that typing,UNDO
+delete my last entry,UNDO
+take back that operation,UNDO
+undo last adjustment,UNDO
+undo the change I made,UNDO
+revert last action I performed,UNDO
+undo what happened,UNDO
+backtrack one step,UNDO
+undo recent action,UNDO
+reverse my last click,UNDO
+remove the last thing I did,UNDO
+undo my last change,UNDO
+go back to last version,UNDO
+revert to before the edit,UNDO
+undo my mistake,UNDO
+undo this operation,UNDO
+undo my last entry,UNDO
+undo last modification I made,UNDO
+revert that operation I did,UNDO
+take one step back,UNDO
+reverse the last modification,UNDO
+go back a step,UNDO
+revert my last decision,UNDO
+undo the most recent thing,UNDO
+cancel my last adjustment,UNDO
+undo my previous command,UNDO
+back out last change,UNDO
+revert that last move,UNDO
+roll back what I did,UNDO
+remove my last edit,UNDO
+undo my recent modification,UNDO
+undo latest operation,UNDO
+reverse the last update,UNDO
+step back from last edit,UNDO
+undo my previous input,UNDO
+go back to the prior state,UNDO
+undo what was changed,UNDO
+revert my latest action,UNDO
+undo what I typed last,UNDO
+cancel that last update,UNDO
+undo latest edit,UNDO
+reverse that step,UNDO
+take back my action,UNDO
+undo my last modification,UNDO
+back out of last operation,UNDO
+go back one change,UNDO
+revert to earlier version,UNDO
+undo that step I did,UNDO
+undo what I just changed,UNDO
+reverse what I did last,UNDO
+remove previous entry,UNDO
+undo my previous move,UNDO
+undo my last adjustment,UNDO
+revert that mistake,UNDO
+undo one operation,UNDO
+go back one command,UNDO
+undo my last typing,UNDO
+revert to old state,UNDO
+undo my last update,UNDO
+reverse recent action,UNDO
+remove the last change,UNDO
+revert the previous step,UNDO
+undo my latest edit,UNDO
+undo that last command,UNDO
+reverse my edit,UNDO
+take back that last thing,UNDO
+undo the edit I made,UNDO
+undo my previous update,UNDO
+cancel what I just did,UNDO
+go back to before change,UNDO
+undo one step back,UNDO
+revert my last correction,UNDO
+reverse that last click,UNDO
+undo what I just entered,UNDO
+undo my latest modification,UNDO
+undo the last input,UNDO
+undo what I changed,UNDO
+revert to before this,UNDO
+undo one modification,UNDO
+remove that recent update,UNDO
+undo that edit,UNDO
+reverse that input,UNDO
+undo what I modified,UNDO
+cancel that operation,UNDO
+undo the step I took,UNDO
+undo that previous change,UNDO
+revert my edit,UNDO
+undo the most recent change,UNDO
+take back my last action,UNDO
+undo my last save,UNDO
+reverse that recent change,UNDO
+go back to previous step,UNDO
+undo the thing I did,UNDO
+undo one last time,UNDO
+revert last correction,UNDO
+undo previous modification,UNDO
+undo latest change,UNDO
+undo the last operation,UNDO
+revert one step back,UNDO
+undo my last command,UNDO
+take back what happened,UNDO
+undo that last operation,UNDO
+undo this last change,UNDO
+revert to old version,UNDO
+undo what I saved,UNDO
+undo the latest update,UNDO
+reverse the last edit,UNDO
+go back to the last version,UNDO
+undo what I modified last,UNDO
+undo that click,UNDO
+revert to last known state,UNDO
+undo previous entry,UNDO
+reverse the last thing I did,UNDO
+undo one change,UNDO
+undo my latest command,UNDO
+revert to prior version,UNDO
+undo that modification,UNDO
+undo previous update,UNDO
+revert my last modification,UNDO
+reverse what was changed,UNDO
+undo my last operation,UNDO
+undo this change I made,UNDO
+undo the recent step,UNDO
+undo that change I did,UNDO
+go back a version,UNDO
+undo my prior edit,UNDO
+reverse what I just did,UNDO
+undo what I just changed,UNDO
+undo my edit,UNDO
+cancel my last change,UNDO
+undo my last step,UNDO
+undo the action I performed,UNDO
+undo the most recent edit,UNDO
+revert the last adjustment,UNDO
+reverse that change I made,UNDO
+undo my correction,UNDO
+undo recent modification,UNDO
+undo last edit I did,UNDO
+go back before this,UNDO
+undo the update I made,UNDO
+reverse the update,UNDO
+undo my latest action,UNDO
+revert my recent change,UNDO
+undo that last update I did,UNDO
+take back my correction,UNDO
+undo the recent change,UNDO
+undo what I just entered,UNDO
+revert my latest modification,UNDO
+undo that action I made,UNDO
+undo recent edit,UNDO
+undo what I just typed,UNDO
+reverse last operation,UNDO
+undo one last edit,UNDO
+revert to before update,UNDO
+undo my previous edit,UNDO
+undo that last entry,UNDO
+undo my prior update,UNDO
+undo one step back,UNDO
+undo that recent edit,UNDO
+undo what I just saved,UNDO
+reverse that last change I made,UNDO
+undo the last modification I did,UNDO
+revert one operation,UNDO
+undo the edit I just did,UNDO
+go back one version,UNDO
+undo recent change I made,UNDO
+undo my last input,UNDO
+undo the last thing entered,UNDO
+undo my change,UNDO
+undo last command I made,UNDO
+revert my last update,UNDO
+reverse what I just changed,UNDO
+undo that recent change,UNDO
+undo my last operation performed,UNDO
+undo the last thing I did,UNDO
+undo one last operation,UNDO
+undo my most recent change,UNDO
+revert to previous edit,UNDO
+undo what I did earlier,UNDO
+undo my recent action,UNDO
+undo the edit I made before,UNDO
+reverse last step I did,UNDO
+undo the latest modification,UNDO
+undo that update,UNDO
+undo my previous change,UNDO
+go back before last edit,UNDO
+undo one move,UNDO
+undo the step I took last,UNDO
+undo previous operation,UNDO
+revert the edit I made,UNDO
+undo the change I did,UNDO
+reverse my last modification,UNDO
+undo my last edit action,UNDO
+undo the last input I entered,UNDO
+undo my last keypress,UNDO
+undo my previous entry,UNDO
+undo my recent update,UNDO
+undo the last step I made,UNDO
+revert my previous action,UNDO
+undo the recent operation,UNDO
+undo last update I made,UNDO
+reverse one step,UNDO
+undo my earlier change,UNDO
+undo the thing I modified,UNDO
+undo what I changed last,UNDO
+revert my last command,UNDO
+undo my recent input,UNDO
+undo what I just did there,UNDO
+undo one action back,UNDO
+undo that modification I made,UNDO
+undo the edit before,UNDO
+revert what I did last,UNDO
+undo this last operation,UNDO
+undo that edit I just made,UNDO
+undo that command I ran,UNDO
+undo my latest entry,UNDO
+undo one click,UNDO
+reverse what I just typed,UNDO
+undo that keystroke,UNDO
+undo the last modification,UNDO
+revert what I did recently,UNDO
+undo my recent command,UNDO
+undo what I just updated,UNDO
+undo that last key entry,UNDO
+reverse the last action I did,UNDO
+undo my past change,UNDO
+undo my recent modification,UNDO
+undo the change before,UNDO
+undo that correction,UNDO
+revert the last modification,UNDO
+undo last input I typed,UNDO
+undo last move,UNDO
+undo last keypress,UNDO
+undo what I just input,UNDO
+undo the thing I just changed,UNDO
+undo one last command,UNDO
+undo the edit I did,UNDO
+undo recent entry,UNDO
+undo that last action I made,UNDO
+undo what was done last,UNDO
+undo the last update,UNDO
+revert that recent operation,UNDO
+undo the last move I made,UNDO
+undo what I just clicked,UNDO
+undo one last change,UNDO
+undo last modification performed,UNDO
+undo the latest edit I did,UNDO
+undo my previous modification,UNDO
+undo that small change,UNDO
+undo what I just pressed,UNDO
+undo one update,UNDO
+undo my recent entry,UNDO
+undo that line,UNDO
+undo the most recent operation,UNDO
+undo this one step,UNDO
+undo my last change made,UNDO
+revert what I typed,UNDO
+undo that entry,UNDO
+undo what I did just now,UNDO
+undo that latest action,UNDO
+undo one thing I did,UNDO
+undo what was changed recently,UNDO
+undo that edit recently made,UNDO
+undo what I just wrote,UNDO
+revert one command,UNDO
+undo that step recently done,UNDO
+undo the previous modification,UNDO
+undo the action I did,UNDO
+undo what I just updated,UNDO
+undo one action ago,UNDO
+undo the last saved edit,UNDO
+undo that typing mistake,UNDO
+undo the previous edit I did,UNDO
+revert one change back,UNDO
+undo the last move I performed,UNDO
+undo the action I just did,UNDO
+undo the change from before,UNDO
+undo one last update,UNDO
+undo what I just fixed,UNDO
+undo what I just performed,UNDO
+undo my most recent operation,UNDO
+undo one edit,UNDO
+undo that operation recently,UNDO
+revert to prior edit,UNDO
+undo the change I just made,UNDO
+undo that last action performed,UNDO
+undo the correction I just did,UNDO
+undo my last typed input,UNDO
+undo what I typed earlier,UNDO
+undo last thing entered,UNDO
+undo my past edit,UNDO
+undo that last command executed,UNDO
+undo what I did previously,UNDO
+undo what I modified before,UNDO
+undo one last move,UNDO
+undo this last change I made,UNDO
+undo that last save,UNDO
+undo that line change,UNDO
+undo my last modification done,UNDO
+undo this recent edit,UNDO
+undo what I changed recently,UNDO
+undo one step earlier,UNDO
+undo that update recently,UNDO
+undo my change before,UNDO
+undo my edit before this,UNDO
+undo last adjustment I made,UNDO
+undo the edit I did earlier,UNDO
+undo that recent operation I performed,UNDO
+undo this modification,UNDO
+undo what I edited,UNDO
+undo what I entered recently,UNDO
+undo the change before last,UNDO
+undo that past update,UNDO
+undo the last recent change,UNDO
+undo that small edit,UNDO
+undo what I just added,UNDO
+undo my past modification,UNDO
+undo one version back,UNDO
+undo the change I did before,UNDO
+undo that update I made,UNDO
+undo that fix,UNDO
+undo last correction I made,UNDO
+undo that prior operation,UNDO
+undo one old change,UNDO
+undo last edit before this,UNDO
+undo the last operation performed,UNDO
+undo my latest update,UNDO
+undo my correction before,UNDO
+undo that previous change I made,UNDO
+undo my recent action performed,UNDO
+undo one operation before,UNDO
+undo my last version,UNDO
+undo my latest correction,UNDO
+undo last change performed,UNDO
+undo that last modification done,UNDO
+undo what I did before this,UNDO
+undo one edit back,UNDO
+undo that entry I made recently,UNDO
+undo my recent typing,UNDO
+undo one last operation I performed,UNDO
+undo my last typing action,UNDO
+undo the last modification recently done,UNDO
+undo the most recent update I made,UNDO
+undo one latest change,UNDO
+undo what was just done,UNDO
+undo my latest modification performed,UNDO
+undo my last step done,UNDO
+undo the last small change,UNDO
+undo what I typed previously,UNDO
+undo that edit recently done,UNDO
+undo the previous correction,UNDO
+undo the most recent step,UNDO
+undo what I recently changed,UNDO
+undo that previous action performed,UNDO
+undo my previous operation done,UNDO
+undo one previous modification,UNDO
+undo the last change I made before,UNDO
+undo that action just now,UNDO
+undo the change I just did,UNDO
+undo that previous modification made,UNDO
+undo this recent operation,UNDO
+undo my edit that I made,UNDO
+undo that recent step I did,UNDO
+undo last change done,UNDO
+undo the last operation I just did,UNDO
+undo the edit I performed,UNDO
+undo that change I made recently,UNDO
+undo one change performed,UNDO
+undo that command just executed,UNDO
+undo the update that I just did,UNDO
+undo what I just performed,UNDO
+undo the previous edit performed,UNDO
+undo my last performed action,UNDO
+undo that last typing action,UNDO
+undo one modification made,UNDO
+undo the recent action performed,UNDO
+undo that operation done,UNDO
+undo that correction I made recently,UNDO
+undo what I just fixed now,UNDO
+undo my recent change performed,UNDO
+undo that command run,UNDO
+undo that last operation recently,UNDO
+undo this last command performed,UNDO
+undo one last correction,UNDO
+undo what I just modified,UNDO
+undo my edit recently done,UNDO
+undo that previous correction,UNDO
+undo the operation I did before,UNDO
+undo that last fix,UNDO
+undo one recent edit,UNDO
+undo the previous modification performed,UNDO
+undo my latest command executed,UNDO
+undo the change just made,UNDO
+undo the last update recently performed,UNDO
+undo what was recently done,UNDO
+undo the latest command I ran,UNDO
+undo that change performed,UNDO
+undo that operation just done,UNDO
+undo the update I made recently,UNDO
+undo the action just done,UNDO
+undo my last operation performed,UNDO
+undo one previous action,UNDO
+undo that previous command done,UNDO
+undo the edit just made,UNDO
+undo my last command run,UNDO
+undo that previous update,UNDO
+undo the last change recently,UNDO
+undo one last operation I did,UNDO
+undo my last typing change,UNDO
+undo that recent update made,UNDO
+undo the change performed recently,UNDO
+undo one recent operation,UNDO
+undo what I did moments ago,UNDO
+undo that edit done recently,UNDO
+undo my last change performed,UNDO
+undo that modification recently made,UNDO
+undo my latest action done,UNDO
+undo the last modification performed recently,UNDO
+undo what I did just a moment ago,UNDO
+undo my last edit performed,UNDO
+undo one change I made recently,UNDO
+undo the last entry recently made,UNDO
+undo what I just executed,UNDO
+undo my last modification action,UNDO
+undo that previous operation made,UNDO
+undo what was recently performed,UNDO
+undo the last edit performed recently,UNDO
+undo my last operation action,UNDO
+undo the modification I did just now,UNDO
+undo one recent update,UNDO
+undo my edit done previously,UNDO
+undo that recent change performed,UNDO
+undo that recent modification done,UNDO
+undo the last update I did just now,UNDO
+undo what was last done,UNDO
+undo my latest modification recently,UNDO
+undo the previous change done,UNDO
+undo that action I performed just now,UNDO
+undo my last update done,UNDO
+undo what I just changed recently,UNDO
+undo that last change recently made,UNDO
+undo one latest operation performed,UNDO
+undo my last action recently done,UNDO
+undo the change I performed just now,UNDO
+undo that last command recently executed,UNDO
+undo that modification I performed,UNDO
+undo one step I did just now,UNDO
+undo what I recently performed,UNDO
+undo that recent operation I did,UNDO
+undo my last change I performed,UNDO
+undo the modification done recently,UNDO
+undo one recent action done,UNDO
+undo that operation just performed,UNDO
+undo my last action just done,UNDO
+undo the last update that I performed,UNDO
+undo that correction recently done,UNDO
+undo my last edit just now,UNDO
+undo one recent modification done,UNDO
+undo the operation performed recently,UNDO
+undo my last change just now,UNDO
+undo that last update I made recently,UNDO
+undo the edit I just performed,UNDO
+undo one last edit performed,UNDO
+undo my modification done just now,UNDO
+undo the operation I performed just now,UNDO
+undo my last update recently done,UNDO
+undo the change I did just now,UNDO
+undo the last modification done recently,UNDO
+undo my previous operation just done,UNDO
+undo what I just did recently,UNDO
+undo that edit just performed,UNDO
+undo the recent update I performed,UNDO
+undo my most recent modification performed,UNDO
+undo the last edit done recently,UNDO
+undo that command I just executed,UNDO
+undo one last change done,UNDO
+undo my last operation just performed,UNDO
+undo that update just done,UNDO
+undo what I did most recently,UNDO
+undo that change recently performed,UNDO
+undo my edit done just now,UNDO
+undo one action recently done,UNDO
+undo that recent command I ran,UNDO
+undo my last modification done recently,UNDO
+undo that last edit just made,UNDO
+undo my recent action just performed,UNDO
+undo that update I performed recently,UNDO
+undo the change I made just now,UNDO
+undo one operation recently performed,UNDO
+undo that previous edit just done,UNDO
+undo the modification recently performed,UNDO
+undo what was just performed,UNDO
+undo the latest update I made just now,UNDO
+undo my recent edit performed,UNDO
+undo that last modification recently performed,UNDO
+undo the action I just performed,UNDO
+undo the recent change done,UNDO
+undo that last update done recently,UNDO
+undo my recent modification done just now,UNDO
+undo one last action performed recently,UNDO
+undo that recent operation performed,UNDO
+undo my last performed modification,UNDO
+undo that edit done just now,UNDO
+undo my last action performed recently,UNDO
+undo the last change I did just now,UNDO
+undo the last operation done recently,UNDO
+undo my edit just done,UNDO
+undo what I recently did,UNDO
+undo my last change recently done,UNDO
+undo that recent edit performed,UNDO
+undo my recent operation just done,UNDO
+undo one change I did just now,UNDO
+undo that last modification I performed,UNDO
+undo that operation recently performed,UNDO
+undo that command performed recently,UNDO
+undo what I did just earlier,UNDO
+undo that recent change just done,UNDO
+undo my modification performed recently,UNDO
+undo one recent operation I did,UNDO
+undo that edit I performed recently,UNDO
+undo my change done recently,UNDO
+undo the last operation just performed,UNDO
+undo what I recently changed just now,UNDO
+undo the last action just performed,UNDO
+undo my last modification recently done,UNDO
+undo one last operation recently done,UNDO
+undo the operation I just performed,UNDO
+undo that last change just performed,UNDO
+undo my last operation done recently,UNDO
+undo what was done just now,UNDO
+undo that edit recently performed,UNDO
+undo the recent modification just made,UNDO
+undo my last update just performed,UNDO
+undo that command just run,UNDO
+undo the recent change recently performed,UNDO
+undo one last action I just did,UNDO
+undo my latest change done just now,UNDO
+undo that last operation I performed just now,UNDO
+undo my last performed edit,UNDO
+undo that recent update recently done,UNDO
+undo the operation recently performed,UNDO
+undo my latest edit done just now,UNDO
+undo what I did just recently,UNDO
+undo the recent action just performed,UNDO
+undo that modification done just now,UNDO
+undo my last recent operation,UNDO
+undo that change done just now,UNDO
+undo one last change recently performed,UNDO
+undo my recent update just done,UNDO
+undo that recent action I performed just now,UNDO
+undo my change performed recently,UNDO
+undo the last operation I performed just now,UNDO
+undo that recent modification recently done,UNDO
+undo one latest change just done,UNDO
+undo that operation performed just now,UNDO
+undo my last update performed recently,UNDO
+undo my most recent edit performed,UNDO
+undo that change recently done just now,UNDO
+undo my last operation done just now,UNDO
+undo that last change I made just now,UNDO
+undo that edit I just did recently,UNDO
+undo what I just performed recently,UNDO
+undo the last modification recently done,UNDO
+undo that recent command I just ran,UNDO
+undo one operation I did recently,UNDO
+undo my last command recently performed,UNDO
+undo that last edit done just now,UNDO
+undo that recent modification performed,UNDO
+undo my last edit recently done,UNDO
+undo that operation just executed,UNDO
+undo my latest change recently performed,UNDO
+undo what I recently executed,UNDO
+undo that modification I just did,UNDO
+undo the recent command performed,UNDO
+undo the last change performed just now,UNDO
+undo that command executed recently,UNDO
+undo the operation that I just did,UNDO
+undo my recent modification recently performed,UNDO
+undo that edit I did just now,UNDO
+undo my last change I just did,UNDO
+undo that operation I just executed,UNDO
+undo my last command I performed recently,UNDO
+undo what was performed recently,UNDO
+undo my latest modification I did just now,UNDO
+undo that recent change done recently,UNDO
+undo the operation done just now,UNDO
+undo one recent change I did,UNDO
+undo my last performed change,UNDO
+undo that last operation recently done,UNDO
+undo the update recently performed,UNDO
+undo my edit recently executed,UNDO
+undo what I just did just now,UNDO
+undo the last change done just now,UNDO
+undo my recent operation done recently,UNDO
+undo one change I performed recently,UNDO
+undo the recent update just performed,UNDO
+undo my last modification I did recently,UNDO
+undo that change that I just made,UNDO
+undo the operation that I performed just now,UNDO
+undo my last action I performed just now,UNDO
+undo that last modification just done,UNDO
+undo what I did a moment ago,UNDO
+undo my most recent operation just done,UNDO
+undo the change just performed,UNDO
+undo that command just executed recently,UNDO
+undo my recent change I did just now,UNDO
+undo the edit I just performed recently,UNDO
+undo my last edit done recently,UNDO
+undo that operation I just did recently,UNDO
+undo what I performed recently,UNDO
+undo my last modification I performed just now,UNDO
+undo the update just performed recently,UNDO
+undo my change I did recently,UNDO
+undo that action I did just now,UNDO
+undo my edit that was done recently,UNDO
+undo the operation performed just now,UNDO
+undo what I did just earlier today,UNDO
+undo that command done just now,UNDO
+undo my last recent change performed,UNDO
+undo that last operation just now,UNDO
+undo my recent operation performed just now,UNDO
+undo what I just modified recently,UNDO
+undo my last action executed just now,UNDO
+undo that update done just now,UNDO
+undo my last modification executed just now,UNDO
+undo that operation done recently just now,UNDO
+undo my last performed command,UNDO
+undo the change I made recently just now,UNDO
+undo my last performed operation just now,UNDO
+undo that recent operation executed,UNDO
+undo my latest modification executed just now,UNDO
+undo that last change executed,UNDO
+undo what I did a few seconds ago,UNDO
+undo my last update executed just now,UNDO
+undo my last command done just now,UNDO
+undo that last modification executed just now,UNDO
+undo my last operation executed just now,UNDO
+undo the modification just executed,UNDO
+undo my recent command executed,UNDO
+undo what I just performed a moment ago,UNDO
+undo my recent operation executed just now,UNDO
+undo that change executed just now,UNDO
+undo the edit executed just now,UNDO
+undo what I just did a moment earlier,UNDO
+undo my last edit executed just now,UNDO
+undo the last operation executed just now,UNDO
+undo what was executed recently,UNDO
+undo that change I just executed,UNDO
+undo the operation I executed just now,UNDO
+undo my last change executed just now,UNDO
+Undo,UNDO
+Go back,UNDO
+Revert that,UNDO
+Take back the last action,UNDO
+Undo the previous step,UNDO
+I want to undo,UNDO
+Can you undo that,UNDO
+Reverse last action,UNDO
+Undo the change,UNDO
+Go back one step,UNDO
+Cancel the last command,UNDO
+Put it back,UNDO
+Undo this,UNDO
+I want to revert,UNDO
+Bring it back to how it was,UNDO
+Undo my mistake,UNDO
+Un-do,UNDO
+Can you revert the last action,UNDO
+Go to the previous state,UNDO
+Undo the last edit,UNDO
+Take it back a step,UNDO
+Please undo,UNDO
+I need to undo that,UNDO
+Retract,UNDO
+Unwind,UNDO
+Roll back,UNDO
+Previous state,UNDO
+Restore,UNDO
+Can we undo,UNDO
+Unmake it,UNDO
+Go back to the prior state,UNDO
+I made a mistake undo,UNDO
+Undo the last modification,UNDO
+Revert to previous,UNDO
+Back up,UNDO
+Undo the operation,UNDO
+Take that back,UNDO
+I need to revert,UNDO
+Undo what I just did,UNDO
+Can you go back,UNDO

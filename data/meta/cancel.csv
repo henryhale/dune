@@ -1,0 +1,843 @@
+text,label
+Negative,CANCEL
+Don't do that,CANCEL
+Cancel that,CANCEL
+Hold on,CANCEL
+Not really,CANCEL
+Undo,CANCEL
+No thank you,CANCEL
+Forget it,CANCEL
+Cease,CANCEL
+Disregard,CANCEL
+I've changed my mind,CANCEL
+Back out,CANCEL
+No stop,CANCEL
+Abort,CANCEL
+Withdraw,CANCEL
+Decline,CANCEL
+I don't want that,CANCEL
+Hold off,CANCEL
+Don't proceed,CANCEL
+Nullify,CANCEL
+Reverse that,CANCEL
+No more,CANCEL
+Cut it out,CANCEL
+Retract,CANCEL
+Invalidate,CANCEL
+I'm not interested,CANCEL
+Hold everything,CANCEL
+Stop that action,CANCEL
+Scrap that,CANCEL
+Countermand,CANCEL
+Take it back,CANCEL
+Not doing it,CANCEL
+Halt,CANCEL
+Cancel the operation,CANCEL
+Forget about it,CANCEL
+Recant,CANCEL
+I disagree,CANCEL
+Stand by,CANCEL
+Terminate,CANCEL
+Call it off,CANCEL
+Set aside,CANCEL
+Don't bother,CANCEL
+No wait,CANCEL
+Cancel command,CANCEL
+Give up,CANCEL
+Reject,CANCEL
+I'll pass,CANCEL
+Wait,CANCEL
+End,CANCEL
+Put a stop to it,CANCEL
+Dismiss,CANCEL
+I'm not going forward,CANCEL
+Cancel the request,CANCEL
+Freeze,CANCEL
+No that's wrong,CANCEL
+Quit,CANCEL
+Revoke,CANCEL
+Don't continue,CANCEL
+Pause,CANCEL
+Stop everything,CANCEL
+Overturn,CANCEL
+I'm pulling back,CANCEL
+Cancel this,CANCEL
+Deactivate,CANCEL
+I don't approve,CANCEL
+Hold it,CANCEL
+Discontinue,CANCEL
+Annul,CANCEL
+I changed my mind,CANCEL
+Cancel the action,CANCEL
+Don't execute,CANCEL
+Block,CANCEL
+Refuse,CANCEL
+Not now,CANCEL
+Put a halt to it,CANCEL
+Veto,CANCEL
+I don't want to proceed,CANCEL
+Cancel current action,CANCEL
+Cut,CANCEL
+Pull the plug,CANCEL
+I don't think so,CANCEL
+Hold the line,CANCEL
+Desist,CANCEL
+Rescind,CANCEL
+No abort,CANCEL
+Ignore that,CANCEL
+Do not proceed,CANCEL
+Cancel transaction,CANCEL
+Cease and desist,CANCEL
+I'm backing out,CANCEL
+Don't run that,CANCEL
+Cancel this operation,CANCEL
+I don't want this,CANCEL
+Stop what you're doing,CANCEL
+Forget the last thing,CANCEL
+No,CANCEL
+Nope,CANCEL
+Never mind,CANCEL
+Stop,CANCEL
+Stop it,CANCEL
+no cancel that,CANCEL
+cancel this operation,CANCEL
+stop the process,CANCEL
+abort this action,CANCEL
+never mind forget,CANCEL
+discard all changes,CANCEL
+do not proceed,CANCEL
+cancel everything,CANCEL
+withdraw my request,CANCEL
+halt current task,CANCEL
+no stop it,CANCEL
+cancel the current,CANCEL
+abandon this plan,CANCEL
+revert my input,CANCEL
+cancel this step,CANCEL
+do not save,CANCEL
+close without saving,CANCEL
+exit without changes,CANCEL
+cancel the current action,CANCEL
+back out now,CANCEL
+no cancel now,CANCEL
+cancel this process,CANCEL
+discard this work,CANCEL
+abort current,CANCEL
+stop that task,CANCEL
+cancel all changes,CANCEL
+undo the operation,CANCEL
+reverse this,CANCEL
+do not go on,CANCEL
+cancel my action,CANCEL
+no thank you,CANCEL
+cancel this entry,CANCEL
+stop the current,CANCEL
+halt all operations,CANCEL
+discard the entry,CANCEL
+cancel my input,CANCEL
+cancel this request,CANCEL
+do not continue,CANCEL
+no stop right there,CANCEL
+cancel my selections,CANCEL
+cancel the current task,CANCEL
+discard the current,CANCEL
+abort the current process,CANCEL
+stop now please,CANCEL
+cancel my previous,CANCEL
+do not accept,CANCEL
+cancel my submission,CANCEL
+cancel the current work,CANCEL
+discard this operation,CANCEL
+stop everything,CANCEL
+cancel my choice,CANCEL
+do not apply,CANCEL
+cancel my current,CANCEL
+stop this operation,CANCEL
+abort this request,CANCEL
+discard everything,CANCEL
+cancel this entry now,CANCEL
+do not save changes,CANCEL
+cancel this step now,CANCEL
+stop current process,CANCEL
+cancel the input,CANCEL
+no do not,CANCEL
+cancel my last,CANCEL
+stop the input,CANCEL
+cancel the task,CANCEL
+discard my input,CANCEL
+cancel this data,CANCEL
+do not save this,CANCEL
+cancel the current action now,CANCEL
+stop this command,CANCEL
+cancel current choice,CANCEL
+do not run this,CANCEL
+cancel my command,CANCEL
+stop my action,CANCEL
+discard my action,CANCEL
+cancel this process now,CANCEL
+no do not proceed,CANCEL
+cancel my selections now,CANCEL
+stop the current input,CANCEL
+cancel my current action,CANCEL
+discard the form,CANCEL
+cancel this interaction,CANCEL
+do not continue with this,CANCEL
+cancel the entered data,CANCEL
+stop the current command,CANCEL
+cancel my plan,CANCEL
+do not apply changes,CANCEL
+cancel my choice please,CANCEL
+stop this immediately,CANCEL
+cancel the transaction,CANCEL
+no do not continue,CANCEL
+stop this operation,CANCEL
+abort the current process,CANCEL
+never proceed,CANCEL
+discard my input,CANCEL
+do not accept this,CANCEL
+cancel my action now,CANCEL
+stop current task,CANCEL
+abort this action now,CANCEL
+discard the entries,CANCEL
+cancel that,CANCEL
+forget it,CANCEL
+never mind,CANCEL
+stop this,CANCEL
+end action,CANCEL
+abort mission,CANCEL
+drop it,CANCEL
+quit now,CANCEL
+don't continue,CANCEL
+scrap that,CANCEL
+stop the process,CANCEL
+cancel operation,CANCEL
+forget about it,CANCEL
+call it off,CANCEL
+stop everything,CANCEL
+end that,CANCEL
+don't go on,CANCEL
+halt this,CANCEL
+abort process,CANCEL
+no thanks,CANCEL
+leave it,CANCEL
+that's enough,CANCEL
+I changed my mind,CANCEL
+disregard that,CANCEL
+cut it short,CANCEL
+cancel request,CANCEL
+stop running,CANCEL
+please cancel,CANCEL
+cancel it,CANCEL
+drop this task,CANCEL
+forget the last command,CANCEL
+ignore what I said,CANCEL
+don't do that,CANCEL
+cancel command,CANCEL
+terminate action,CANCEL
+don't proceed,CANCEL
+end the task,CANCEL
+cancel action,CANCEL
+stop all that,CANCEL
+hold off,CANCEL
+don't finish,CANCEL
+kill the process,CANCEL
+withdraw it,CANCEL
+forget my request,CANCEL
+undo that command,CANCEL
+let's not,CANCEL
+stop right there,CANCEL
+forget this,CANCEL
+stop now,CANCEL
+don't continue with that,CANCEL
+cancel current process,CANCEL
+no need,CANCEL
+forget my last input,CANCEL
+never mind that,CANCEL
+cancel everything,CANCEL
+don't perform that,CANCEL
+cancel my request,CANCEL
+ignore that input,CANCEL
+cancel this process,CANCEL
+just cancel,CANCEL
+I don't want that,CANCEL
+skip that,CANCEL
+cancel my action,CANCEL
+no longer needed,CANCEL
+forget that step,CANCEL
+cancel the task,CANCEL
+stop execution,CANCEL
+forget operation,CANCEL
+abort it,CANCEL
+don't submit,CANCEL
+cancel submission,CANCEL
+halt action,CANCEL
+ignore command,CANCEL
+stop and cancel,CANCEL
+cancel immediately,CANCEL
+forget the action,CANCEL
+don't move forward,CANCEL
+abort everything,CANCEL
+cancel procedure,CANCEL
+terminate this,CANCEL
+forget what I said earlier,CANCEL
+cancel that part,CANCEL
+stop the current one,CANCEL
+cancel previous one,CANCEL
+stop doing that,CANCEL
+cancel previous task,CANCEL
+forget last action,CANCEL
+don't go ahead,CANCEL
+cancel right away,CANCEL
+cancel previous command,CANCEL
+halt immediately,CANCEL
+no need to continue,CANCEL
+cancel this one,CANCEL
+forget entire thing,CANCEL
+skip current task,CANCEL
+stop that request,CANCEL
+don't carry on,CANCEL
+abort entire process,CANCEL
+please stop,CANCEL
+don't proceed further,CANCEL
+cancel my last command,CANCEL
+cancel current task,CANCEL
+call it quits,CANCEL
+let's cancel,CANCEL
+no continue,CANCEL
+that's not needed,CANCEL
+halt now,CANCEL
+forget all that,CANCEL
+ignore last request,CANCEL
+cancel the change,CANCEL
+don't make changes,CANCEL
+cancel everything done,CANCEL
+stop before saving,CANCEL
+cancel it please,CANCEL
+forget this command,CANCEL
+cancel before submission,CANCEL
+withdraw the request,CANCEL
+cancel input,CANCEL
+stop updating,CANCEL
+cancel and return,CANCEL
+stop process now,CANCEL
+cancel that please,CANCEL
+no longer proceed,CANCEL
+abort the update,CANCEL
+stop modification,CANCEL
+don't execute,CANCEL
+halt all operations,CANCEL
+please abort,CANCEL
+cancel pending work,CANCEL
+no further action,CANCEL
+cancel data entry,CANCEL
+stop data submission,CANCEL
+cancel upload,CANCEL
+abort upload,CANCEL
+cancel download,CANCEL
+stop download,CANCEL
+don't run that,CANCEL
+cancel installation,CANCEL
+abort installation,CANCEL
+stop installation,CANCEL
+cancel setup,CANCEL
+cancel now,CANCEL
+cancel editing,CANCEL
+stop editing,CANCEL
+forget edits,CANCEL
+cancel form,CANCEL
+don't apply changes,CANCEL
+cancel transaction,CANCEL
+stop payment,CANCEL
+cancel payment,CANCEL
+abort payment,CANCEL
+stop transfer,CANCEL
+cancel transfer,CANCEL
+cancel operation please,CANCEL
+stop task,CANCEL
+cancel that command,CANCEL
+forget current operation,CANCEL
+ignore task,CANCEL
+cancel now please,CANCEL
+please stop process,CANCEL
+end operation,CANCEL
+stop running process,CANCEL
+cancel loading,CANCEL
+stop loading,CANCEL
+don't continue loading,CANCEL
+cancel file operation,CANCEL
+cancel print,CANCEL
+abort print,CANCEL
+stop printing,CANCEL
+cancel printing job,CANCEL
+cancel order,CANCEL
+cancel request please,CANCEL
+abort task,CANCEL
+stop ongoing action,CANCEL
+cancel my last action,CANCEL
+forget ongoing process,CANCEL
+stop this operation,CANCEL
+cancel current action,CANCEL
+ignore my last command,CANCEL
+cancel previous process,CANCEL
+abort all,CANCEL
+cancel all actions,CANCEL
+stop all actions,CANCEL
+cancel that input,CANCEL
+stop this process,CANCEL
+cancel this command,CANCEL
+ignore what I just said,CANCEL
+cancel and exit,CANCEL
+cancel the process please,CANCEL
+don't continue this process,CANCEL
+stop here,CANCEL
+cancel everything right now,CANCEL
+stop current job,CANCEL
+cancel job,CANCEL
+stop job,CANCEL
+abort job,CANCEL
+don't execute further,CANCEL
+cancel that process,CANCEL
+stop and exit,CANCEL
+cancel this step,CANCEL
+cancel this task please,CANCEL
+forget step,CANCEL
+abort current step,CANCEL
+cancel ongoing operation,CANCEL
+don't move on,CANCEL
+cancel that request please,CANCEL
+forget everything I said,CANCEL
+cancel at once,CANCEL
+cancel now right away,CANCEL
+abort everything please,CANCEL
+cancel all pending tasks,CANCEL
+stop all tasks,CANCEL
+cancel task please,CANCEL
+stop current operation immediately,CANCEL
+cancel whatever is happening,CANCEL
+stop that immediately,CANCEL
+cancel all operations,CANCEL
+cancel right now,CANCEL
+end process,CANCEL
+stop everything right now,CANCEL
+forget it please,CANCEL
+cancel current workflow,CANCEL
+abort the workflow,CANCEL
+stop workflow,CANCEL
+cancel current sequence,CANCEL
+cancel that function,CANCEL
+stop this function,CANCEL
+cancel pending process,CANCEL
+abort current function,CANCEL
+cancel running process,CANCEL
+cancel this session,CANCEL
+cancel the session,CANCEL
+end session,CANCEL
+stop session,CANCEL
+cancel command immediately,CANCEL
+cancel right this second,CANCEL
+don't perform operation,CANCEL
+cancel queued operation,CANCEL
+cancel request now,CANCEL
+stop queued job,CANCEL
+cancel it all,CANCEL
+stop this thing,CANCEL
+abort what's happening,CANCEL
+cancel what's going on,CANCEL
+stop it now,CANCEL
+cancel active process,CANCEL
+cancel current job please,CANCEL
+stop that job,CANCEL
+cancel that immediately,CANCEL
+abort right away,CANCEL
+cancel before continuing,CANCEL
+cancel command right now,CANCEL
+stop task execution,CANCEL
+cancel that execution,CANCEL
+abort execution,CANCEL
+cancel the action now,CANCEL
+cancel that one,CANCEL
+stop before next step,CANCEL
+cancel before next,CANCEL
+abort next step,CANCEL
+stop before continuing,CANCEL
+cancel ongoing job,CANCEL
+cancel procedure now,CANCEL
+cancel immediately please,CANCEL
+stop procedure,CANCEL
+cancel all running tasks,CANCEL
+stop ongoing job,CANCEL
+cancel everything immediately,CANCEL
+abort all processes,CANCEL
+cancel now immediately,CANCEL
+cancel command please,CANCEL
+stop this task now,CANCEL
+cancel in progress,CANCEL
+cancel operation now,CANCEL
+abort the whole thing,CANCEL
+cancel this whole process,CANCEL
+cancel everything now,CANCEL
+stop this immediately,CANCEL
+cancel previous step,CANCEL
+cancel my input,CANCEL
+forget my input,CANCEL
+cancel last one,CANCEL
+stop the last action,CANCEL
+abort last process,CANCEL
+cancel the pending task,CANCEL
+cancel current event,CANCEL
+abort event,CANCEL
+cancel update,CANCEL
+cancel revision,CANCEL
+stop revision,CANCEL
+cancel current change,CANCEL
+cancel command input,CANCEL
+cancel step now,CANCEL
+stop step,CANCEL
+cancel at this point,CANCEL
+abort task now,CANCEL
+stop the current process please,CANCEL
+cancel job now,CANCEL
+cancel right now please,CANCEL
+cancel whole task,CANCEL
+stop doing this,CANCEL
+cancel what you're doing,CANCEL
+stop right now please,CANCEL
+don't continue with the operation,CANCEL
+cancel ongoing process please,CANCEL
+abort this now,CANCEL
+cancel current step,CANCEL
+stop current step,CANCEL
+cancel all jobs,CANCEL
+cancel all processes,CANCEL
+cancel now thank you,CANCEL
+forget current job,CANCEL
+cancel that step,CANCEL
+stop everything now,CANCEL
+cancel please,CANCEL
+cancel what I said,CANCEL
+cancel the request now,CANCEL
+stop at once,CANCEL
+cancel current transaction,CANCEL
+stop transaction,CANCEL
+abort transaction,CANCEL
+cancel this transaction,CANCEL
+cancel entire process,CANCEL
+cancel the thing,CANCEL
+stop this thing now,CANCEL
+abort that task,CANCEL
+stop and cancel that,CANCEL
+cancel request entirely,CANCEL
+abort the task completely,CANCEL
+cancel at once please,CANCEL
+cancel whole operation,CANCEL
+stop immediately please,CANCEL
+cancel before finalizing,CANCEL
+stop before finishing,CANCEL
+cancel right now please,CANCEL
+abort right now please,CANCEL
+cancel all current operations,CANCEL
+stop the running process,CANCEL
+cancel all pending jobs,CANCEL
+cancel in progress task,CANCEL
+abort everything right now,CANCEL
+cancel the job,CANCEL
+cancel it right now,CANCEL
+stop what you're doing now,CANCEL
+cancel entire job,CANCEL
+abort now please,CANCEL
+cancel immediately now,CANCEL
+stop the function,CANCEL
+cancel running job,CANCEL
+abort function,CANCEL
+cancel current operation please,CANCEL
+cancel this process immediately,CANCEL
+stop it please,CANCEL
+cancel and stop everything,CANCEL
+cancel in motion,CANCEL
+cancel that now please,CANCEL
+abort the current process,CANCEL
+cancel the ongoing action,CANCEL
+cancel this action now,CANCEL
+stop the running task,CANCEL
+cancel the current action please,CANCEL
+cancel the whole process please,CANCEL
+stop and cancel everything,CANCEL
+cancel the entire operation,CANCEL
+abort it all,CANCEL
+cancel all of this,CANCEL
+stop this process right away,CANCEL
+cancel active job,CANCEL
+cancel the activity,CANCEL
+abort activity,CANCEL
+cancel that activity,CANCEL
+cancel this right now,CANCEL
+cancel all ongoing tasks,CANCEL
+stop this execution now,CANCEL
+cancel process immediately,CANCEL
+cancel and stop the job,CANCEL
+abort ongoing job,CANCEL
+cancel the operation now,CANCEL
+cancel the running action,CANCEL
+cancel my operation,CANCEL
+cancel pending action,CANCEL
+abort all operations,CANCEL
+cancel active session,CANCEL
+cancel my action right away,CANCEL
+cancel immediately now please,CANCEL
+stop this right here,CANCEL
+cancel that operation,CANCEL
+abort all tasks,CANCEL
+stop everything altogether,CANCEL
+cancel the current job,CANCEL
+cancel current process please,CANCEL
+cancel whatever's happening,CANCEL
+cancel the action immediately,CANCEL
+cancel this operation right away,CANCEL
+stop current action immediately,CANCEL
+cancel this immediately please,CANCEL
+abort ongoing process now,CANCEL
+cancel job immediately,CANCEL
+stop all ongoing operations,CANCEL
+cancel any running task,CANCEL
+cancel the task immediately,CANCEL
+stop task execution now,CANCEL
+cancel process now please,CANCEL
+cancel entire sequence,CANCEL
+abort entire sequence,CANCEL
+stop the sequence,CANCEL
+cancel process right this second,CANCEL
+cancel ongoing task please,CANCEL
+cancel and stop the process,CANCEL
+cancel job execution,CANCEL
+stop it entirely,CANCEL
+cancel everything completely,CANCEL
+cancel that right away,CANCEL
+abort current task immediately,CANCEL
+stop operation immediately,CANCEL
+cancel and halt,CANCEL
+cancel before completion,CANCEL
+cancel now right away please,CANCEL
+cancel all active jobs,CANCEL
+abort it please,CANCEL
+cancel my operation now,CANCEL
+stop at this stage,CANCEL
+cancel before execution,CANCEL
+cancel current command now,CANCEL
+abort current operation please,CANCEL
+cancel immediately at once,CANCEL
+cancel the activity now,CANCEL
+stop everything you're doing,CANCEL
+cancel active task immediately,CANCEL
+cancel in progress job,CANCEL
+stop this process now,CANCEL
+cancel ongoing action now,CANCEL
+cancel everything happening,CANCEL
+cancel process fully,CANCEL
+stop entire operation now,CANCEL
+cancel what's currently running,CANCEL
+abort everything instantly,CANCEL
+cancel active process now,CANCEL
+cancel at once now,CANCEL
+cancel that one now,CANCEL
+cancel command execution,CANCEL
+stop execution now,CANCEL
+cancel now completely,CANCEL
+abort right now,CANCEL
+cancel current execution,CANCEL
+stop that process now,CANCEL
+cancel right here,CANCEL
+cancel right away now,CANCEL
+cancel current process immediately,CANCEL
+cancel current step now,CANCEL
+stop this ongoing action,CANCEL
+cancel the whole thing please,CANCEL
+cancel all now,CANCEL
+abort entire job now,CANCEL
+cancel running task immediately,CANCEL
+cancel entire action,CANCEL
+stop current task now please,CANCEL
+cancel that right now please,CANCEL
+cancel everything at once,CANCEL
+cancel job execution now,CANCEL
+abort command execution,CANCEL
+cancel process execution,CANCEL
+stop that immediately please,CANCEL
+cancel all immediately,CANCEL
+cancel whole sequence,CANCEL
+cancel before next step,CANCEL
+cancel immediately everything,CANCEL
+abort all jobs now,CANCEL
+cancel all workflows,CANCEL
+cancel the workflow immediately,CANCEL
+cancel this right away,CANCEL
+cancel all of that now,CANCEL
+stop running immediately,CANCEL
+cancel it all now,CANCEL
+cancel all commands,CANCEL
+abort everything at once,CANCEL
+cancel that right here,CANCEL
+cancel it instantly,CANCEL
+cancel right away please,CANCEL
+cancel what's active now,CANCEL
+cancel current procedure,CANCEL
+stop procedure now,CANCEL
+abort the procedure,CANCEL
+cancel active workflow,CANCEL
+cancel the running task now,CANCEL
+stop and cancel immediately,CANCEL
+cancel the pending operation,CANCEL
+cancel everything currently running,CANCEL
+cancel now instantly,CANCEL
+stop current process please,CANCEL
+cancel the job right away,CANCEL
+abort the job right away,CANCEL
+cancel current job instantly,CANCEL
+stop task now,CANCEL
+cancel it quickly,CANCEL
+cancel command completely,CANCEL
+abort command now,CANCEL
+cancel that operation immediately,CANCEL
+cancel process instantly,CANCEL
+stop it instantly,CANCEL
+cancel this task immediately,CANCEL
+cancel this operation fully,CANCEL
+cancel everything ongoing,CANCEL
+abort this operation now,CANCEL
+cancel at once immediately,CANCEL
+cancel entire workflow,CANCEL
+cancel current action immediately,CANCEL
+stop current process immediately,CANCEL
+cancel right now instantly,CANCEL
+cancel the operation fully,CANCEL
+cancel process right away,CANCEL
+cancel and terminate,CANCEL
+abort ongoing action,CANCEL
+cancel right away completely,CANCEL
+cancel right now instantly please,CANCEL
+cancel current operation right away,CANCEL
+cancel this command immediately,CANCEL
+cancel process entirely,CANCEL
+cancel everything instantly,CANCEL
+stop this job immediately,CANCEL
+cancel that task now,CANCEL
+cancel everything currently active,CANCEL
+cancel that right this second,CANCEL
+cancel now totally,CANCEL
+abort all operations immediately,CANCEL
+cancel the operation instantly,CANCEL
+cancel the current task immediately,CANCEL
+cancel active task now,CANCEL
+cancel entire process now,CANCEL
+cancel all active processes,CANCEL
+cancel everything right now please,CANCEL
+cancel the whole process right away,CANCEL
+cancel in motion process,CANCEL
+cancel immediately everything now,CANCEL
+abort current operation instantly,CANCEL
+cancel this action instantly,CANCEL
+cancel the active operation now,CANCEL
+cancel right now thank you,CANCEL
+stop current activity immediately,CANCEL
+cancel all current tasks,CANCEL
+cancel ongoing task instantly,CANCEL
+cancel the task instantly,CANCEL
+cancel active command,CANCEL
+cancel the running job instantly,CANCEL
+cancel everything currently processing,CANCEL
+cancel all current processes,CANCEL
+cancel right now completely,CANCEL
+abort all currently active operations,CANCEL
+cancel ongoing command now,CANCEL
+cancel the command instantly,CANCEL
+cancel everything running right now,CANCEL
+cancel the process instantly,CANCEL
+cancel at once now please,CANCEL
+cancel that process right away,CANCEL
+stop everything currently happening,CANCEL
+cancel every active process,CANCEL
+abort every ongoing process,CANCEL
+cancel immediately right now,CANCEL
+cancel process now instantly,CANCEL
+cancel this process right away please,CANCEL
+cancel active operation now,CANCEL
+cancel this ongoing operation immediately,CANCEL
+cancel everything now instantly,CANCEL
+cancel now completely please,CANCEL
+cancel that action right away,CANCEL
+cancel my operation immediately,CANCEL
+cancel all right now,CANCEL
+cancel everything that's running,CANCEL
+cancel the job instantly,CANCEL
+cancel that immediately please,CANCEL
+cancel the running process instantly,CANCEL
+cancel the current command instantly,CANCEL
+cancel all pending processes now,CANCEL
+cancel everything entirely,CANCEL
+cancel right away instantly please,CANCEL
+cancel it now completely,CANCEL
+cancel immediately now instantly,CANCEL
+cancel running command immediately,CANCEL
+cancel all processes now please,CANCEL
+cancel this ongoing process instantly,CANCEL
+cancel now at once,CANCEL
+cancel all current operations immediately,CANCEL
+cancel everything that's happening now,CANCEL
+cancel current process instantly,CANCEL
+cancel this one right away,CANCEL
+cancel this job instantly,CANCEL
+cancel entire workflow immediately,CANCEL
+cancel all running commands,CANCEL
+cancel right now completely please,CANCEL
+cancel that command instantly,CANCEL
+cancel the current one immediately,CANCEL
+cancel operation instantly please,CANCEL
+cancel everything active now,CANCEL
+cancel it immediately please,CANCEL
+cancel immediately all processes,CANCEL
+cancel all commands right away,CANCEL
+cancel the current activity immediately,CANCEL
+cancel this function now,CANCEL
+cancel now instantly please,CANCEL
+cancel everything at once now,CANCEL
+cancel this execution now,CANCEL
+cancel everything now instantly please,CANCEL
+Cancel,CANCEL
+Stop that,CANCEL
+Don't do it,CANCEL
+Undo that action,CANCEL
+Abort,CANCEL
+Cease operation,CANCEL
+Cancel the current task,CANCEL
+Discard,CANCEL
+Nevermind,CANCEL
+Forget it,CANCEL
+Take it back,CANCEL
+No,CANCEL
+Halt,CANCEL
+Discontinue,CANCEL
+Cancel this,CANCEL
+Reverse course,CANCEL
+Withdraw,CANCEL
+Call it off,CANCEL
+I want to cancel,CANCEL
+Cancel the pending operation,CANCEL
+Hold on cancel,CANCEL
+Stop what you're doing,CANCEL
+Please cancel,CANCEL
+I changed my mind cancel,CANCEL
+Cancel this process,CANCEL
+Terminate,CANCEL
+End this,CANCEL
+Undo the current step,CANCEL
+Go back on that,CANCEL
+Cancel everything,CANCEL
+I want to revoke it,CANCEL
+Cancel the request,CANCEL
+Decline,CANCEL
+Reject,CANCEL
+Don't proceed,CANCEL
+Stop immediately,CANCEL
+Cancel the last command,CANCEL
+I'd like to cancel,CANCEL
+Back out,CANCEL
+Cut it off,CANCEL
