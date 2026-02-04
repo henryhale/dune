@@ -6,6 +6,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/henryhale/dune/blob/master/notebooks/collab.ipynb)
 
+![](./media/screenshot.png)
+
 </div>
 
 ## Overview
@@ -33,7 +35,7 @@ For the MVP demo, consider a multi tab TODO app; `home`, `settings`, `new item f
 Meta conversation commands like `help`, `confirm`, `repeat`, and `explain` are included.
 
 > [!INFO]
-> 
+>
 > This project is experimental. Thorough research on better standards and approaches is underway.
 
 ## Commands
@@ -42,42 +44,41 @@ List of commands included:
 
 - Meta commands:
 
-  - [ ] `HELP` - Provides information on available commands and how to use them
-  - [ ] `EXPLAIN` - Explains the function or purpose of a specific item or command.
-  - [ ] `CONFIRM` - Confirms an action or decision.
-  - [ ] `CANCEL` - Cancels an ongoing action or discards a pending operation.
-  - [ ] `UNDO` - Reverts the last action performed.
-  - [ ] `REDO` - Re-applies an action that was just undone.
-  - [ ] `REPEAT` - Repeats the last executed command or action.
-  - [ ] `NOOP` - No operation; the input is not a recognized command.
+  - [x] `HELP` - Provides information on available commands and how to use them
+  - [x] `EXPLAIN` - Explains the function or purpose of a specific item or command.
+  - [x] `CONFIRM` - Confirms an action or decision.
+  - [x] `CANCEL` - Cancels an ongoing action or discards a pending operation.
+  - [x] `UNDO` - Reverts the last action performed.
+  - [x] `REDO` - Re-applies an action that was just undone.
+  - [x] `REPEAT` - Repeats the last executed command or action.
+  - [x] `NOOP` - No operation; the input is not a recognized command.
 
 - Navigation:
 
-  - [ ] `GO_BACK` - Navigates back to the previous screen, page, or view.
-  - [ ] `GO_TO` - Navigates to a specific page, tab, or section.
-  - [ ] `SCROLL_UP` - Scroll the current view/page upwards.
-  - [ ] `SCROLL_DOWN` - Scrolls the current view/page downwards.
+  - [x] `GO_BACK` - Navigates back to the previous screen, page, or view.
+  - [x] `GO_TO` - Navigates to a specific page, tab, or section.
+  - [x] `SCROLL_UP` - Scroll the current view/page upwards.
+  - [x] `SCROLL_DOWN` - Scrolls the current view/page downwards.
 
 - Item selection:
 
-  - [ ] `NEXT_ITEM` - Navigates to the previous item or entry in a list.
-  - [ ] `PREVIOUS_ITEM` - Navigates to the next item or entry in a list.
-  - [ ] `SELECT_ITEM` - Toggles the selection state of an item or chooses it.
+  - [x] `NEXT_ITEM` - Navigates to the previous item or entry in a list.
+  - [x] `PREVIOUS_ITEM` - Navigates to the next item or entry in a list.
+  - [x] `SELECT_ITEM` - Toggles the selection state of an item or chooses it.
 
 - Form input:
-  - [ ] `SEARCH` - Searches for information or items based on a query.
-  - [ ] `FILL_FIELD` - Fills in a text field or input area with provided text.
-  - [ ] `CLEAR_FIELD` - Clears the content of a specific text field or input.
-  - [ ] `SUBMIT_FORM` - Submits the data entered in a form.
+  - [x] `SEARCH` - Searches for information or items based on a query.
+  - [x] `FILL_FIELD` - Fills in a text field or input area with provided text.
+  - [x] `CLEAR_FIELD` - Clears the content of a specific text field or input.
+  - [x] `SUBMIT_FORM` - Submits the data entered in a form.
 
 ## Features
 
-- 20+ command classifications (navigation, CRUD operations, meta commands)
-- NLTK-based data augmentation
-- scikit-learn TF-IDF + LinearSVC pipeline
-- NOOP handling for out-of-domain queries
-- Confidence thresholding
-- Argument extraction from commands (using Named Entity Recognition)
+- [x] 20+ command classifications (navigation, CRUD operations, meta commands)
+- [x] scikit-learn TF-IDF + LinearSVC pipeline
+- [x] NOOP handling for out-of-domain queries
+- [x] Confidence thresholding
+- [ ] Argument extraction from commands (using Named Entity Recognition)
 
 ## Installation
 
@@ -121,13 +122,6 @@ After installation, you have to train the model and then use it to predict comma
 
    # run the model interactively
    python -m src.predict --interactive
-
-   # run full demo (frontend included)
-   cd app && pnpm dev 
-
-   # start model api server
-   cd app && pnpm build
-   python app.py
    ```
 
 2. Using notebooks
@@ -138,12 +132,36 @@ After installation, you have to train the model and then use it to predict comma
 
    Start with [notebooks/training.ipynb](./notebooks/training.ipynb), the proceed to [notebooks/testing.ipynb](./notebooks/testing.ipynb)
 
-<!--
-
 ## Usage
 
-### Training
+Once the model has been trained, its time to see the mode in action. In the section, you will be able to run the full application server - frontend and model API included.
 
+1. Build frontend application
+
+```sh
+cd app
+
+# development - watch mode
+pnpm build -w
+
+# production - build once
+pnpm build
+```
+
+2. Start application server
+
+```sh
+# with defaults - host: 127.0.0.1 - port: 5000 - debug: False
+python app.py
+
+# enable debugger
+python app.py --debug=True
+
+# expose server on port 3000
+python app.py --host=0.0.0.0 --port=3000
+```
+
+<!--
 ### Inference
 
 ### API Server
