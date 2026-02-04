@@ -1,25 +1,37 @@
-<script setup>
-import { onBeforeMount, computed, ref } from 'vue';
+<script setup lang="ts">
+import { onBeforeMount, ref } from 'vue';
 import { useRouter } from 'vue-router';
 import { ArrowLeftIcon, PencilIcon, TrashIcon } from 'lucide-vue-next';
 import { Button } from '@/components/ui/button';
 import DeleteDialog from '@/components/DeleteDialog.vue';
 import { useTodoStore } from '@/stores/todo';
+import type { Task } from '@/types';
 
 const props = defineProps(['id'])
 const router = useRouter()
 const store = useTodoStore()
 
+const todo = ref<Task>()
+
 onBeforeMount(() => {
-    const item = store.getTodo(props.id)
+    const item = store.getTodo(props.id?.toString() ?? "")
     if (!item) {
         router.replace('/not-found')
+    } else {
+        todo.value = item
     }
 })
 
-const remove = () => {
+const initDelete = () => {
     store.startDelete(props.id)
-    router.back();
+}
+
+const updateDeleteDialog = (v: boolean) => {
+    store.alertDialog = v
+}
+
+const completeDelete = () => {
+    store.deleteTodo(props.id)
 }
 </script>
 
@@ -35,17 +47,15 @@ const remove = () => {
                 <PencilIcon />
                 Edit
             </Button>
-            <Button size="sm" variant="ghost" @click="store.startDelete(props.id)">
+            <Button size="sm" variant="ghost" @click="initDelete">
                 <TrashIcon />
                 Delete
             </Button>
         </div>
         <p class="text-lg md:text-xl">
-            {{ item.content }}
+            {{ todo?.content ?? "" }}
         </p>
     </div>
 
-    <DeleteDialog :open="store.alertDialog" @update:open="v => {
-        store.alertDialog = v
-    }" @confirm="store.deleteTodo(props.id)"></DeleteDialog>
+    <DeleteDialog :open="store.alertDialog" @update:open="updateDeleteDialog" @confirm="completeDelete"></DeleteDialog>
 </template>

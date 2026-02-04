@@ -1,3 +1,4 @@
+import { BACKEND_API_ENDPOINT } from "@/constants";
 import type { APIResult, Task } from "@/types";
 import { defineStore } from "pinia"
 import { ref, computed, watch } from "vue"
@@ -55,7 +56,7 @@ export const useTodoStore = defineStore('todo', () => {
     });
 
     // Actions
-    function showFeedback(message: string, type: 'info'|'success'|'error'|'warning' = 'info') {
+    function showFeedback(message: string, type: 'info' | 'success' | 'error' | 'warning' = 'info') {
         feedback.value = { message, type };
         switch (type) {
             case 'info':
@@ -116,8 +117,7 @@ export const useTodoStore = defineStore('todo', () => {
         isProcessing.value = true;
 
         try {
-            // const response = await fetch('http://localhost:5000/api/predict', {
-            const response = await fetch('/api/predict', {
+            const response = await fetch(BACKEND_API_ENDPOINT, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ text: commandInput.value })
@@ -311,7 +311,7 @@ export const useTodoStore = defineStore('todo', () => {
 
             case 'NOOP':
                 break;
-                
+
             default:
                 showFeedback('Command not recognized', 'warning');
         }
@@ -357,13 +357,13 @@ export const useTodoStore = defineStore('todo', () => {
     }
 
     function getTodo(id: string) {
-        return todos.value.find((t) => t.id === id)
+        return todos.value.find((t) => t.id == id)
     }
 
-    function saveTodo(){
+    function saveTodo() {
         if (newTodo.value) {
             saveToHistory();
-            todos.value.push({ id: Date.now(), content: newTodo.value, done: false})
+            todos.value.push({ id: Date.now(), content: newTodo.value, done: false })
             showFeedback("Task saved.", 'success')
         } else {
             showFeedback('Fill in the details to save.', 'info')

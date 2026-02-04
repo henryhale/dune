@@ -1,6 +1,8 @@
 
 import type { Task, Command } from '@/types';
 
+export const BACKEND_API_ENDPOINT = "/api/predict";
+
 export const INITIAL_TASKS: Task[] = [
   { id: '1', content: 'Buy groceries', done: false },
   { id: '2', content: 'Schedule dentist appointment', done: false },
