@@ -19,6 +19,7 @@ dist/
 *.testing.*
 *.training.*
 data/*.json
+classes.json
 
 # ide
 .vscode/

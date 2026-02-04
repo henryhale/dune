@@ -4,6 +4,7 @@ Utility functions for data handling and text preprocessing
 
 import pandas
 import joblib
+import json
 import os
 import pathlib
 import nltk
@@ -120,8 +121,15 @@ def save_model(model, filepath, compress=True):
     """
     pathlib.Path(filepath).parent.mkdir(parents=True, exist_ok=True)
 
+    # write model to file
     with open(filepath, "wb") as file:
         joblib.dump(model, file, compress)
+
+    # save classes to classes.json file
+    classes_dict = {i: string for i, string in enumerate(model.classes_)}
+    classes_path = pathlib.Path(filepath).parent / "classes.json"
+    with open(classes_path, "w", encoding="utf-8") as file:
+        json.dump(classes_dict, file, indent=4)
 
 
 def load_model(filepath):
