@@ -1,5 +1,5 @@
-<script setup>
-import { ref, watch } from 'vue'
+<script setup lang="ts">
+import { watch } from 'vue'
 import { useSpeechRecognition } from '@vueuse/core';
 import { Button } from './ui/button';
 import { useTodoStore } from '@/stores/todo';
@@ -10,16 +10,16 @@ const store = useTodoStore()
 
 const emit = defineEmits(['result'])
 
-const { isListening, isSupported, start, stop, transcript } = useSpeechRecognition({
+const { isListening, isSupported, start, stop, result, isFinal } = useSpeechRecognition({
     continuous: true,
     interimResults: true,
     lang: 'en-US',
 })
 
-let tid = undefined
-watch(transcript, (val) => {
-    if (val) {
-        store.commandInput += val
+let tid: number | undefined = undefined
+watch([isFinal, result], ([final, transcript]) => {
+    if (final && transcript) {
+        store.commandInput = transcript
         clearTimeout(tid)
         tid = setTimeout(() => {
             store.handleCommand()
@@ -33,7 +33,8 @@ const toggle = () => {
 </script>
 
 <template>
-    <Button @click="toggle" :disabled="isSupported || store.isProcessing" size="icon" variant="ghost" class="rounded-full">
+    <Button v-if="isSupported" @click="toggle" :disabled="store.isProcessing" size="icon" variant="ghost"
+        class="rounded-full">
         <MicIcon v-if="!isListening" />
         <SquareStopIcon v-else />
     </Button>
