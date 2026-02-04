@@ -28,7 +28,7 @@ const store = useTodoStore()
 <template>
   <Dialog :open="store.helpDialog" @update:open="store.helpDialog  = !store.helpDialog">
     <DialogTrigger as-child>
-      <Button variant="ghost" class="rounded-full">
+      <Button variant="ghost" size="icon">
         <InfoIcon />
       </Button>
     </DialogTrigger>

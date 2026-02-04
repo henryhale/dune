@@ -19,7 +19,7 @@ import { Button } from "@/components/ui/button"
 import AppSettings from './AppSettings.vue';
 import AppSearch from './AppSearch.vue';
 import PromptArea from './PromptArea.vue';
-import { HomeIcon, PenLineIcon, PlusIcon, SearchIcon, SparkleIcon } from 'lucide-vue-next';
+import { HomeIcon, PenLineIcon, PlusIcon, SearchIcon, SparkleIcon, TrashIcon } from 'lucide-vue-next';
 import { RouterLink } from 'vue-router';
 import { ref } from 'vue';
 import PromptSession from './PromptSession.vue';
@@ -91,11 +91,11 @@ const panel = ref(false)
                     <SidebarTrigger class="-ml-1" />
                     <div class="flex-grow"></div>
                     <AppSearch />
-                    <Button @click="panel = !panel" size="icon" variant="ghost">
+                    <Button @click="panel = !panel" variant="default">
                         <SparkleIcon />
+                        {{ panel ? "" : "Dune AI" }}
                     </Button>
                 </div>
-
             </header>
             <div class="flex flex-1 flex-col gap-4 p-4 pt-0 overflow-y-auto">
                 <slot></slot>
@@ -103,9 +103,9 @@ const panel = ref(false)
         </SidebarInset>
 
         <Sidebar v-show="panel" side="right" collapsible="none"
-            class="min-h-screen transition-all duration-200 font-mono">
+            class="min-h-screen transition-all duration-200 font-mono border-l">
             <SidebarHeader>
-                <div class="flex items-center gap-4 p-2.5">
+                <div class="flex items-center gap-4 pl-2.5 py-2 pr-1">
                     <span class="flex-grow">Dune AI</span>
                     <!-- <Button @click="panel = false" size="icon" variant="ghost">
                         <XIcon />
@@ -115,7 +115,12 @@ const panel = ref(false)
             </SidebarHeader>
             <SidebarContent>
                 <SidebarGroup>
-                    <SidebarGroupLabel>Session</SidebarGroupLabel>
+                    <SidebarGroupLabel class="flex items-center gap-4">
+                        <span class="flex-grow">Session</span>
+                        <Button size="icon" variant="ghost" class="hover:text-red-500 dark:hover:text-red-300">
+                            <TrashIcon />
+                        </Button>
+                    </SidebarGroupLabel>
                     <SidebarGroupContent class="overflow-y-auto max-h-[65dvh] shadow-inner">
                         <PromptSession />
                     </SidebarGroupContent>

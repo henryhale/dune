@@ -1,9 +1,8 @@
-<script setup>
+<script setup lang="ts">
 import { Button } from "@/components/ui/button"
 import { Textarea } from "@/components/ui/textarea"
 import { useTodoStore } from "@/stores/todo";
-import { ArrowUpIcon, Loader2Icon, MicIcon } from 'lucide-vue-next';
-import { ref } from "vue";
+import { ArrowUpIcon, Loader2Icon } from 'lucide-vue-next';
 import VoiceArea from "./VoiceArea.vue";
 
 
@@ -17,9 +16,9 @@ const handleSubmit = () => {
 </script>
 
 <template>
-    <Textarea @keyup.prevent.enter="handleSubmit" v-model.trim="store.commandInput"
-        rows="3" placeholder="How can I help you?" class="pr-10"></Textarea>
-    <div class="flex items-center">
+    <Textarea @keyup.prevent.enter="handleSubmit" v-model.trim="store.commandInput" :disabled="store.isProcessing"
+        rows="3" placeholder="How can I help you?" class="pr-10 bg-background"></Textarea>
+    <div class="flex items-center gap-2">
         <span class="flex-grow italic px-1 opacity-60 text-xs">
             {{ store.isProcessing ? "processing..." : "" }}
         </span>
