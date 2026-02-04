@@ -8,7 +8,6 @@ import {
     DropdownMenuLabel,
     DropdownMenuPortal,
     DropdownMenuSeparator,
-    DropdownMenuShortcut,
     DropdownMenuSub,
     DropdownMenuSubContent,
     DropdownMenuSubTrigger,
@@ -18,6 +17,10 @@ import { ArrowUpRightIcon, SettingsIcon } from 'lucide-vue-next'
 import { useColorMode } from '@vueuse/core'
 
 const mode = useColorMode()
+
+const openExternalLink = (link: string) => {
+    window.open(link, "_blank")
+}
 </script>
 
 <template>
@@ -31,13 +34,6 @@ const mode = useColorMode()
         <DropdownMenuContent class="w-56" align="start">
             <DropdownMenuLabel>My Account</DropdownMenuLabel>
             <DropdownMenuGroup>
-                <DropdownMenuItem>
-                    Keyboard shortcuts
-                    <DropdownMenuShortcut>⌘K</DropdownMenuShortcut>
-                </DropdownMenuItem>
-            </DropdownMenuGroup>
-            <DropdownMenuSeparator />
-            <DropdownMenuGroup>
                 <DropdownMenuSub>
                     <DropdownMenuSubTrigger>Theme</DropdownMenuSubTrigger>
                     <DropdownMenuPortal>
@@ -50,12 +46,12 @@ const mode = useColorMode()
                 </DropdownMenuSub>
             </DropdownMenuGroup>
             <DropdownMenuSeparator />
-            <DropdownMenuItem>
+            <DropdownMenuItem @click="openExternalLink('https://github.com/henryhale/dune')">
                 GitHub
                 <ArrowUpRightIcon class="opacity-60 ml-auto" />
             </DropdownMenuItem>
-            <DropdownMenuItem>
-                Support
+            <DropdownMenuItem @click="openExternalLink('https://henryhale.github.io/contact')">
+                Feedback
                 <ArrowUpRightIcon class="opacity-60 ml-auto" />
             </DropdownMenuItem>
         </DropdownMenuContent>
