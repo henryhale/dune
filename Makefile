@@ -16,10 +16,12 @@ serve:
 browser-setup: train
 	cp models/pipeline.onnx app/public/model/
 	cp models/classes.json app/public/model/
+	cd app
+	pnpm install
 
 browser-build: browser-setup
 	cd app
-	pnpm browser:build
+	pnpm run browser:build
 
 clean:
 	rm -rf app/dist/
