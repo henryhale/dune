@@ -1,4 +1,10 @@
-import * as browserPrediction from "./browser"
-import * as serverPrediction from "./server"
+const isBrowser = import.meta.env.VITE_APP === 'browser'
 
-export const PREDICTION_API = import.meta.env.APP === "browser" ? browserPrediction : serverPrediction
+console.log(isBrowser ? "browser" : "server")
+
+async function predict(input: string) {
+    const api = await (isBrowser ? import("./browser") : import("./server"))
+    return await api.makePrediction(input)
+}
+
+export const PREDICTION_API = { predict }

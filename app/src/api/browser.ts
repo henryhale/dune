@@ -1,6 +1,7 @@
 import type { APIResponse, APIResult } from "@/types";
 import * as ort from "onnxruntime-web";
-import pipelinePath from "../../public/model/pipeline.onnx?url";
+import pipelinePath from "/model/pipeline.onnx?url";
+// @ts-ignore
 import pipelineClasses from "../../public/model/classes.json";
 
 /**
