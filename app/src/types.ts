@@ -14,6 +14,12 @@ export type Command =
   | 'NOOP';
 
 
+export type APIResponse = {
+  status: "success" | "error";
+  message: string;
+  action?: APIResult 
+}
+
 export type APIResult = { 
   command: string; 
   confidence: number;

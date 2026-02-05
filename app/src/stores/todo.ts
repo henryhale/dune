@@ -119,16 +119,10 @@ export const useTodoStore = defineStore('todo', () => {
         isProcessing.value = true;
 
         try {
-            const response = await fetch(BACKEND_API_ENDPOINT, {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ text: commandInput.value })
-            });
-
-            const result = (await response.json());
+            const result = await PREDICTION_API.makePrediction(input);
 
             if (result.status === 'success') {
-                executeCommand(result.action.command, commandInput.value);
+                executeCommand(result.action.command, input);
                 showFeedback(`Command executed: ${result.action.command}`, 'success');
             } else {
                 showFeedback(result.message || 'Command not recognized', 'error');
