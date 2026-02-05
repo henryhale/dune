@@ -1,4 +1,4 @@
-import { BACKEND_API_ENDPOINT } from "@/constants";
+import { PREDICTION_API } from "@/api";
 import type { APIResult, Task } from "@/types";
 import { defineStore } from "pinia"
 import { ref, computed, watch } from "vue"
@@ -112,7 +112,9 @@ export const useTodoStore = defineStore('todo', () => {
     }
 
     async function handleCommand() {
-        if (!commandInput.value.trim()) return;
+        const input = commandInput.value.trim();
+
+        if (!input) return;
 
         isProcessing.value = true;
 
@@ -405,5 +407,6 @@ export const useTodoStore = defineStore('todo', () => {
         submitEdit,
         setTodoListRef,
         getTodo,
+        saveTodo
     };
 });

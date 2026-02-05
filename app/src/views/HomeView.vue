@@ -1,7 +1,6 @@
-<script setup>
+<script setup lang="ts">
 import TaskList from '@/components/TaskList.vue';
 import { useTodoStore } from '@/stores/todo';
-import { computed } from 'vue';
 
 const store = useTodoStore()
 </script>
