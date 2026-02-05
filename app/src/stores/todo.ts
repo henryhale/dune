@@ -121,7 +121,7 @@ export const useTodoStore = defineStore('todo', () => {
         try {
             const result = await PREDICTION_API.makePrediction(input);
 
-            if (result.status === 'success') {
+            if (result.status === 'success' && result.action) {
                 executeCommand(result.action.command, input);
                 showFeedback(`Command executed: ${result.action.command}`, 'success');
             } else {

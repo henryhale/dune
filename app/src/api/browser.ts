@@ -1,4 +1,4 @@
-import type { APIResult } from "@/types";
+import type { APIResponse, APIResult } from "@/types";
 import * as ort from "onnxruntime-web";
 import pipelinePath from "../../public/model/pipeline.onnx?url";
 import pipelineClasses from "../../public/model/classes.json";
@@ -86,7 +86,7 @@ async function predict(
     return {
       command: predictedClass,
       confidence: probability,
-      raw_text: text
+      raw_text: text,
     };
   } catch (error) {
     throw error;
@@ -94,10 +94,18 @@ async function predict(
 }
 
 export async function makePrediction(input: string): Promise<APIResponse> {
-    try {
-        const result = await predict(pipelinePath, input, pipelineClasses)
-        return {status: "success", message: "model responded", action: result}
-    } catch (error) {
-        return {status: "error", message: "something went wrong", action: null}
-    }
+  try {
+    const result = await predict(
+      pipelinePath,
+      input,
+      Object.values(pipelineClasses),
+    );
+    return { status: "success", message: "model responded", action: result };
+  } catch (error) {
+    return {
+      status: "error",
+      message: "something went wrong",
+      action: undefined,
+    };
+  }
 }
