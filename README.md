@@ -16,6 +16,12 @@ Most AI voice agents or assitants have an underlying text-to-command model that 
 
 The motivating idea for this project is rooted from the ability to infer intent and expand on it in a way that enables end users to operate any form of application - primarily the web space for now.
 
+> [!INFO] Note
+>
+> This is my first fullstack ML project - from data collection, model training to deployment.
+> Most decisions made here are clearly amateurish but important to compose the entire ML model development cycle in one place.
+> For example, training data is best stored in a data version control system like Kaggle Datasets or Huggingface Datasets due to its frequent changes and total size.  
+
 ## Context
 
 I am building an AI driven application that consists of;
