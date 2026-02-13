@@ -16,15 +16,9 @@ Most AI voice agents or assitants have an underlying text-to-command model that 
 
 The motivating idea for this project is rooted from the ability to infer intent and expand on it in a way that enables end users to operate any form of application - primarily the web space for now.
 
-> [!INFO] Note
->
-> This is my first fullstack ML project - from data collection, model training to deployment.
-> Most decisions made here are clearly amateurish but important to compose the entire ML model development cycle in one place.
-> For example, training data is best stored in a data version control system like Kaggle Datasets or Huggingface Datasets due to its frequent changes and total size.  
-
 ## Context
 
-I am building an AI driven application that consists of;
+I am building an AI-driven application that consists of;
 
 - Text to command model (receives user input and outputs a predefined command to execute)
 - Basic TODO App (a simple web app in which input is obtained and the commands will be executed)
@@ -34,16 +28,20 @@ I am building an AI driven application that consists of;
 To spice things up, the TODO app will capture input using WebSpeech API, convert to text, and send it over to
 the server. The app receives a response, sends it to the command execution engine within which execution is done and feedback is collected.
 
-> This is not another Jarvis app. Nope.
-> This is an experiment to develop a model that powers a command driven application.
-
 For the MVP demo, consider a multi tab TODO app; `home`, `settings`, `new item form`, `items list`.
 Meta conversation commands like `help`, `confirm`, `repeat`, and `explain` are included.
 
-> [!INFO]
+> [!NOTE]
 >
-> This project is experimental. Thorough research on better standards and approaches is underway.
+> This project is experimental.
+> This is an experiment to develop a model that powers a command-driven application.
 
+> [!NOTE]
+>
+> This is my first fullstack ML project - from data collection, model training to deployment.
+> Most decisions made here are clearly amateur-ish but important to compose the entire ML model development cycle in one place.
+> For example, training data is best stored in a data version control system or database like Kaggle Datasets or Huggingface Datasets due to its frequent changes and growing total size over time.  
+> 
 ## Commands
 
 List of commands included:
@@ -85,6 +83,8 @@ List of commands included:
 - [x] NOOP handling for out-of-domain queries
 - [x] Confidence thresholding
 - [ ] Argument extraction from commands (using Named Entity Recognition)
+- [ ] Live demo
+- [x] Local in-browser inference via [onnxruntime-web](https://npmjs.com/package/onnxruntime-web) 
 
 ## Installation
 
