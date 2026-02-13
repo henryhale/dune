@@ -2,6 +2,9 @@ name: Build, Release, and Deploy Frontend
 
 on:
   workflow_dispatch:
+  push:
+    tags:
+      - "v*.*.*"
 
 permissions:
   contents: write
@@ -24,19 +27,15 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install Python dependencies
-        run: pip install -r requirements.txt
+      # Setup project
+      # - Install Python dependencies
+      # - Prepare the dataset
+      - name: Setup project
+        run: make setup
 
-      - name: Prepare the dataset and Train the model
-        run: |
-          # download nltk stopwords
-          python -c "import nltk; nltk.download('stopwords')"
-
-          # preprocess data
-          python -m src.preprocess
-
-          # train and output onnx model
-          python -m src.train --output-onnx=true
+      # Train the model
+      - name: Training
+        run: make train
 
       - name: Set up Node
         uses: actions/setup-node@v4
@@ -78,22 +77,31 @@ jobs:
       - name: View model
         run: ls -lh ./models/
 
+      - name: Copy ONNX model to public folder
+        run: |
+          cp ./models/pipeline.onnx ./app/public/model/
+          cp ./models/classes.json ./app/public/model/
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: latest
-          cache: "npm"
+          cache: "pnpm"
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        id: pnpm-install
+        with:
+            version: 10
+            cache: true
 
       - name: Install frontend dependencies
-        run: npm install
+        run: pnpm install
         working-directory: app/
 
       - name: Build frontend
-        run: npm run build
+        run: pnpm run browser:build
         working-directory: app/
-
-      - name: Copy ONNX model to public folder
-        run: cp ./models/pipeline.onnx ./app/public/
 
       - name: Upload frontend dist
         uses: actions/upload-artifact@v4

@@ -1,9 +1,9 @@
-<script setup>
+<script setup lang="ts">
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
 import { XIcon } from 'lucide-vue-next';
 import { useRouter } from 'vue-router';
-import { ref, computed, onMounted, onBeforeMount } from 'vue';
+import { onBeforeMount } from 'vue';
 import { useTodoStore } from '@/stores/todo';
 
 const props = defineProps(['id'])

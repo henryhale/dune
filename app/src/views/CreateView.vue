@@ -1,10 +1,9 @@
-<script setup>
+<script setup lang="ts">
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
 import { useTodoStore } from '@/stores/todo';
 import { XIcon } from 'lucide-vue-next';
 import { useRouter } from 'vue-router';
-import { ref } from 'vue';
 
 const router = useRouter()
 const store = useTodoStore()

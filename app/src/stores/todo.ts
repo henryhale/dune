@@ -1,4 +1,4 @@
-import { BACKEND_API_ENDPOINT } from "@/constants";
+import { PREDICTION_API } from "@/api";
 import type { APIResult, Task } from "@/types";
 import { defineStore } from "pinia"
 import { ref, computed, watch } from "vue"
@@ -112,26 +112,23 @@ export const useTodoStore = defineStore('todo', () => {
     }
 
     async function handleCommand() {
-        if (!commandInput.value.trim()) return;
+        const input = commandInput.value.trim();
+
+        if (!input) return;
 
         isProcessing.value = true;
 
         try {
-            const response = await fetch(BACKEND_API_ENDPOINT, {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ text: commandInput.value })
-            });
+            const result = await PREDICTION_API.predict(input);
 
-            const result = (await response.json());
-
-            if (result.status === 'success') {
-                executeCommand(result.action.command, commandInput.value);
+            if (result.status === 'success' && result.action) {
+                sessionLogs.value.push(result.action as APIResult)
+                executeCommand(result.action.command, input);
                 showFeedback(`Command executed: ${result.action.command}`, 'success');
             } else {
                 showFeedback(result.message || 'Command not recognized', 'error');
             }
-            sessionLogs.value.push(result.action as APIResult)
+            
             commandInput.value = '';
         } catch (error) {
             showFeedback('Error processing request', 'error');
@@ -405,5 +402,6 @@ export const useTodoStore = defineStore('todo', () => {
         submitEdit,
         setTodoListRef,
         getTodo,
+        saveTodo
     };
 });
