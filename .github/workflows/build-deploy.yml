@@ -34,11 +34,13 @@ jobs:
         run: |
           python -m venv venv
           source venv/bin/activate
-          make setup
+          pip install -r requirements.txt
+          python -c "import nltk; nltk.download('stopwords')"
+          python -m src.preprocess
 
       # Train the model
       - name: Training
-        run: make train
+        run: python -m src.train --output-onnx=True
 
       - name: Set up Node
         uses: actions/setup-node@v4
