@@ -42,6 +42,23 @@ Meta conversation commands like `help`, `confirm`, `repeat`, and `explain` are i
 > Most decisions made here are clearly amateur-ish but important to compose the entire ML model development cycle in one place.
 > For example, training data is best stored in a data version control system or database like Kaggle Datasets or Huggingface Datasets due to its frequent changes and growing total size over time.  
 > 
+
+## Features
+
+- [x] 20+ command classifications (navigation, CRUD operations, meta commands)
+- [x] scikit-learn TF-IDF + LinearSVC pipeline
+- [x] NOOP handling for out-of-domain queries
+- [x] Confidence thresholding
+- [ ] Argument extraction from commands (using Named Entity Recognition)
+- [x] Live demo
+- [x] Usage mode
+  - [x] Local in-browser inference via [onnxruntime-web](https://npmjs.com/package/onnxruntime-web) 
+  - [x] RESTful API using Flask
+
+## Live Demo
+
+Try it yourself: [:rocket: Launch Demo](https://henryhale.github.io/dune)
+
 ## Commands
 
 List of commands included:
@@ -75,16 +92,6 @@ List of commands included:
   - [x] `FILL_FIELD` - Fills in a text field or input area with provided text.
   - [x] `CLEAR_FIELD` - Clears the content of a specific text field or input.
   - [x] `SUBMIT_FORM` - Submits the data entered in a form.
-
-## Features
-
-- [x] 20+ command classifications (navigation, CRUD operations, meta commands)
-- [x] scikit-learn TF-IDF + LinearSVC pipeline
-- [x] NOOP handling for out-of-domain queries
-- [x] Confidence thresholding
-- [ ] Argument extraction from commands (using Named Entity Recognition)
-- [ ] Live demo
-- [x] Local in-browser inference via [onnxruntime-web](https://npmjs.com/package/onnxruntime-web) 
 
 ## Installation
 
