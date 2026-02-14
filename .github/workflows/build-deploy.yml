@@ -29,14 +29,14 @@ jobs:
 
       # Setup project
       # - Install Python dependencies
-      # - Prepare the dataset
       - name: Setup project
         run: |
-          python -m venv venv
-          source venv/bin/activate
           pip install -r requirements.txt
           python -c "import nltk; nltk.download('stopwords')"
-          python -m src.preprocess
+      
+      # Prepare the dataset
+      - name: Preprocessing
+        run: python -m src.preprocess
 
       # Train the model
       - name: Training
