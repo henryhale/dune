@@ -1,3 +1,15 @@
+## v1.0.0...master
+
+[compare changes](https://github.com/henryhale/dune/compare/v1.0.0...master)
+
+### 🏡 Chore
+
+- **release:** V1.0.0 ([ba438f7](https://github.com/henryhale/dune/commit/ba438f7))
+
+### ❤️ Contributors
+
+- Henryhale ([@henryhale](https://github.com/henryhale))
+
 ## v1.0.0...v1.0.0
 
 [compare changes](https://github.com/henryhale/dune/compare/v1.0.0...v1.0.0)
