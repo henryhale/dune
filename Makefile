@@ -1,17 +1,15 @@
 .ONESHELL:
 
 setup:
-	python -m venv venv
-	source venv/bin/activate
 	pip install -r requirements.txt
 	python -c "import nltk; nltk.download('stopwords')"
-	./venv/bin/python -m src.preprocess
+	python -m src.preprocess
 
 train:
-	./venv/bin/python -m src.train --output-onnx=True
+	python -m src.train --output-onnx=True
 
 serve:
-	./venv/bin/python app.py --debug=True
+	python app.py --debug=True
 
 browser-setup: train
 	cp models/pipeline.onnx app/public/model/

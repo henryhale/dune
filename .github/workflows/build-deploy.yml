@@ -31,7 +31,10 @@ jobs:
       # - Install Python dependencies
       # - Prepare the dataset
       - name: Setup project
-        run: make setup
+        run: |
+          python -m venv venv
+          source venv/bin/activate
+          make setup
 
       # Train the model
       - name: Training
